@@ -759,8 +759,6 @@ https://cbsn-mia.cbsnstream.cbsnews.com/out/v1/ac174b7938264d24ae27e56f6584bca0/
 https://lineup.cbsivideo.com/playout/8796731e-7ce7-4bcf-bb04-41ef5a969c62/master.m3u8
 #EXTINF:-1 tvg-id="CBSNewsMiami.us" group-title="News",CBS News Miami
 https://jmp2.uk/plu-60fb299b79498900070b29e0.m3u8
-#EXTINF:-1 tvg-id="CBSNewsMiami.us" group-title="News",CBS News Miami
-https://jmp2.uk/plu-62cdc8fdb05d2b0007ef5035.m3u8
 #EXTINF:-1 tvg-id="CBSNewsMinnesota.us" group-title="News",CBS News Minnesota
 https://cbsn-min.cbsnstream.cbsnews.com/out/v1/76518f06941246ba810c8d175600bf74/master.m3u8
 #EXTINF:-1 tvg-id="CBSNewsMinnesota.us" group-title="News",CBS News Minnesota
@@ -901,6 +899,12 @@ https://jmp2.uk/plu-61325d18f5166c00081b84e0.m3u8
 https://cloudflare.tv/hls/live.m3u8
 #EXTINF:-1 tvg-id="ClubbingTV.us" group-title="Music",Clubbing TV
 https://d1j2csarxnwazk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-uze1m6xh4fiyr-ssai-prd/master.m3u8
+#EXTINF:-1 tvg-id="CMAC1.us" group-title="General",CMAC 1
+https://reflect-vod-cmac.cablecast.tv/live-11/live/stream-1/live.m3u8
+#EXTINF:-1 tvg-id="CMAC2.us" group-title="Education",CMAC 2
+https://reflect-vod-cmac.cablecast.tv/live-11/live/stream-2/live.m3u8
+#EXTINF:-1 tvg-id="CMAC3.us" group-title="Legislative",CMAC 3
+https://reflect-vod-cmac.cablecast.tv/live-11/live/stream-3/live.m3u8
 #EXTINF:-1 tvg-id="CMAPChannel17.us" group-title="Legislative",CMAP Channel 17
 https://livestream.telvue.com/cmap1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="CMAPChannel18.us" group-title="General",CMAP Channel 18
@@ -1482,8 +1486,6 @@ https://jmp2.uk/plu-691ddf2a3ae32cf55263476d.m3u8
 #EXTINF:-1 tvg-id="ForeverKids.us" group-title="Kids",Forever Kids
 https://jmp2.uk/plu-56171fafada51f8004c4b40f.m3u8
 #EXTINF:-1 tvg-id="FoxDeportes.us" group-title="Sports",Fox Deportes
-https://cors-proxy.cooks.fyi/http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8
-#EXTINF:-1 tvg-id="FoxDeportes.us" group-title="Sports",Fox Deportes
 https://live-manifest.production-public.tubi.io/live/d906efca-1302-4e29-b0d9-9a1d7a305d69/playlist.m3u8
 #EXTINF:-1 tvg-id="FoxNewsChannel.us" group-title="News",Fox News Channel
 http://41.205.93.154/FOX-NEWS/index.m3u8
@@ -1495,8 +1497,6 @@ https://radiovid.foxnews.com/hls/live/661547/RADIOVID/index.m3u8
 https://aegis-cloudfront-1.tubi.video/0c4bd880-76cc-4000-b9cb-8edabeb88daa/index.m3u8
 #EXTINF:-1 tvg-id="FoxSoul.us" group-title="Culture",Fox Soul
 https://foxsoul-vizio.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="FoxSports1.us" group-title="Sports",Fox Sports 1
-https://cors-proxy.cooks.fyi/http://190.11.225.124:5000/live/fs1_hd/playlist.m3u8
 #EXTINF:-1 tvg-id="FoxWeather.us" group-title="Weather",Fox Weather
 https://247wlive.foxweather.com/stream/index.m3u8
 #EXTINF:-1 tvg-id="FoxWeather.us" group-title="Weather",Fox Weather
@@ -3398,7 +3398,11 @@ https://jmp2.uk/plu-5dbc2f98777f2e0009934ae7.m3u8
 #EXTINF:-1 tvg-id="PlutoTVSpace.us" group-title="Science",Pluto TV Space
 https://jmp2.uk/plu-61b86c6ef30f5d0007e4c6d1.m3u8
 #EXTINF:-1 tvg-id="PlutoTVSport.us" group-title="Sports",Pluto TV Sport
+https://jmp2.uk/plu-6357f3de3643ba0007bc0b50.m3u8
+#EXTINF:-1 tvg-id="PlutoTVSport.us" group-title="Sports",Pluto TV Sport
 https://jmp2.uk/plu-608030eff4b6f70007e1684c.m3u8
+#EXTINF:-1 tvg-id="PlutoTVSport.us" group-title="Sports",Pluto TV Sport
+https://jmp2.uk/plu-6357f33cb51d2d00077927c6.m3u8
 #EXTINF:-1 tvg-id="PlutoTVSport.us" group-title="Sports",Pluto TV Sport
 https://jmp2.uk/plu-62cd74e38f6f0d000798cd93.m3u8
 #EXTINF:-1 tvg-id="PlutoTVSpotlight.us" group-title="Movies",Pluto TV Spotlight
@@ -3895,14 +3899,14 @@ https://jmp2.uk/plu-62e7fc8c0d061100083946a9.m3u8
 https://jmp2.uk/plu-62d550d81054990007db7798.m3u8
 #EXTINF:-1 tvg-id="TeenMom.us" group-title="Documentary",Teen Mom
 https://jmp2.uk/plu-6127e12ed140e900077e7b6f.m3u8
+#EXTINF:-1 tvg-id="TeleBoston.us" group-title="Entertainment",Tele Boston
+https://tv2.fastcast4u.com:3238/live/radiotelebostonlive.m3u8
 #EXTINF:-1 tvg-id="TelemundoAlDia.us" group-title="General",Telemundo Al Dia
 https://d1rqgw5gocwo9i.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-stitched/10a44c37-f976-4d2b-ab23-8637a7a094ca/3.m3u8
 #EXTINF:-1 tvg-id="TelemundoCorpusChristi.us" group-title="Entertainment",Telemundo Corpus Christi
 https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8
 #EXTINF:-1 tvg-id="TelemundoTelenovelasClasicas.us" group-title="Series",Telemundo Telenovelas Clasicas
 https://jmp2.uk/plu-5cf96cc422df39f1a338d165.m3u8
-#EXTINF:-1 tvg-id="TelePam.us" group-title="General",Tele Pam
-https://watch.haitilive.net/app/2020/telepam/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="TemeculaTV.us" group-title="Uncategorized",Temecula TV
 https://reflect-temecula.cablecast.tv/live-2/live/stream-1/live.m3u8
 #EXTINF:-1 tvg-id="Tempe11.us" group-title="Uncategorized",Tempe 11
@@ -4172,6 +4176,8 @@ https://jmp2.uk/plu-65e97856ec9fda0008cb453c.m3u8
 #EXTINF:-1 tvg-id="Tosh0.us" group-title="Series",Tosh.0
 https://jmp2.uk/plu-5dae084727c8af0009fe40a4.m3u8
 #EXTINF:-1 tvg-id="TotallyTurtles.us" group-title="Kids",Totally Turtles
+https://jmp2.uk/plu-5d6792bd6be2998ad0ccce30.m3u8
+#EXTINF:-1 tvg-id="TotallyTurtles.us" group-title="Kids",Totally Turtles
 https://jmp2.uk/plu-62e95265c9fd030007268fb9.m3u8
 #EXTINF:-1 tvg-id="TotallyTurtles.us" group-title="Kids",Totally Turtles
 https://jmp2.uk/plu-61c0bbd95df1da0007bed5a0.m3u8
@@ -4267,8 +4273,6 @@ https://rpn.bozztv.com/gusa/gusa-TVStalk/index.m3u8
 https://rpn.bozztv.com/gusa/gusa-tvstallyho/index.m3u8
 #EXTINF:-1 tvg-id="TVSTavern.us" group-title="Classic",TVS Tavern
 https://rpn.bozztv.com/gusa/gusa-tavern/index.m3u8
-#EXTINF:-1 tvg-id="TVSTelevisionNetwork.us" group-title="General",TVS Television Network
-https://rpn.bozztv.com/gusa/gusa-tvstn/index.m3u8
 #EXTINF:-1 tvg-id="TVSTravelNetwork.us" group-title="Travel",TVS Travel Network
 https://rpn.bozztv.com/gusa/gusa-tvstravel/index.m3u8
 #EXTINF:-1 tvg-id="TVSTurbo.us" group-title="Sports",TVS Turbo
@@ -4603,6 +4607,8 @@ https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1315484/playlist.m3u8
 https://2-fss-2.streamhoster.com/pl_132/amlst:200914-1315486/playlist.m3u8
 #EXTINF:-1 tvg-id="WKRCTV121.us" group-title="Uncategorized",WKRC-TV 12.1
 https://linear-691.frequency.stream/dist/stirr/691/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="WLIO81.us" group-title="Uncategorized",WLIO 8.1
+https://live.field59.com/wlio/wlio1/playlist.m3u8
 #EXTINF:-1 tvg-id="WLMB.us" group-title="Religious",WLMB
 https://rpn.bozztv.com/wlmb/wlmb/wlmb/index.m3u8
 #EXTINF:-1 tvg-id="WLNGRadio.us" group-title="Uncategorized",WLNG Radio
