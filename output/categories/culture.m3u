@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="2STV.sn" group-title="Culture",2STV
+http://69.64.57.208/2stv/playlist.m3u8
 #EXTINF:-1 tvg-id="13C.cl" group-title="Culture",13C
 https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
 #EXTINF:-1 tvg-id="AbaiTV.kz" group-title="Culture",Abai TV
@@ -31,8 +33,6 @@ https://reflect-stream-bronxnet.cablecast.tv/live-19/live/stream-2/live.m3u8
 https://reflect-stream-bronxnet.cablecast.tv/live-7/live/stream-3/live.m3u8
 #EXTINF:-1 tvg-id="Canal17RTVD.do" group-title="Culture",Canal 17 RTVD
 https://protvradiostream.com:1936/rtvd17/ngrp:rtvd17_all/playlist.m3u8
-#EXTINF:-1 tvg-id="Capital21.mx" group-title="Culture, Entertainment",Capital 21
-https://video.cdmx.gob.mx/redes/stream.m3u8
 #EXTINF:-1 tvg-id="CatamarcaTV.ar" group-title="Culture, News",Catamarca TV
 https://stream.arcast.com.ar/canal7catamarca/ngrp:canal7catamarca_all/playlist.m3u8?DVR=
 #EXTINF:-1 tvg-id="CCTV8.cn" group-title="Culture",CCTV-8
@@ -51,6 +51,8 @@ https://cloud37.ecuatel.com/ciracutv/live/manifest.m3u8
 https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
 #EXTINF:-1 tvg-id="CMalayalamTV.ca" group-title="Culture",C Malayalam TV
 https://2-fss-2.streamhoster.com/pl_120/206508-3261972-1/playlist.m3u8
+#EXTINF:-1 tvg-id="CostaRicaChannel.cr" group-title="Culture, Travel",Costa Rica Channel
+https://video0.rogohosting.com:19360/8006/8006.m3u8
 #EXTINF:-1 tvg-id="DDBharati.in" group-title="Culture",DD Bharati
 https://d2lk5u59tns74c.cloudfront.net/out/v1/67cec794d8b14f9ba21f73924ac65797/index.m3u8
 #EXTINF:-1 tvg-id="DDBharati.in" group-title="Culture",DD Bharati
@@ -95,8 +97,6 @@ https://pistream.ddns.net/hls/stream.m3u8
 https://live20.bozztv.com/akamaissh101/ssh101/guaymatetv/playlist.m3u8
 #EXTINF:-1 tvg-id="HamaikaTelebista.es" group-title="Culture",Hamaika Telebista
 https://cdn3.wowza.com/1/RERMR282dnU5eE5Z/OHY0dVFs/hls/live/playlist.m3u8
-#EXTINF:-1 tvg-id="HarPalGeo.pk" group-title="Culture",HarPal Geo
-https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="HmongStarTV.us" group-title="Culture",Hmong Star TV
 https://livefta.malimarcdn.com/ftaedge00/hmongstartv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="HolvoetTV.cl" group-title="Culture",Holvoet TV
@@ -201,8 +201,6 @@ https://w1.mediastreaming.it/orlertv/livestream/playlist.m3u8
 https://iptv.prosto.tv/ch237/index.m3u8
 #EXTINF:-1 tvg-id="OstWest.de" group-title="News, Culture",Ost West
 http://c3921155.edmonst.net/iptv/42L7TCH8YYKLBRHNPV52HBRN/14021/index.m3u8
-#EXTINF:-1 tvg-id="PaciContemporaryChannel.it" group-title="Culture",Paci Contemporary Channel
-https://5f22d76e220e1.streamlock.net/pacicontemporarychannel/pacicontemporarychannel/playlist.m3u8
 #EXTINF:-1 tvg-id="PamirTV.ca" group-title="Culture, Music",Pamir TV
 http://live.stream.cdn.pamirtv.com/ptv/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
 #EXTINF:-1 tvg-id="PardesiTV.ca" group-title="Culture",Pardesi TV
@@ -255,6 +253,10 @@ http://31.148.48.15/Sochi_HD/index.m3u8
 http://31.148.48.15/Sochi_HD/video.m3u8
 #EXTINF:-1 tvg-id="Telepace2.it" group-title="Religious, Culture",Telepace 2
 https://zkpywrbgdbeg-hls-live.mariatvcdn.it/teleradiopace2/254c9b5c52a73a94ef0f6169cbd05dc2.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="TheIndonesiaChannel.id" group-title="Culture, Education",The Indonesia Channel
+https://restreamer.indonusa.id:8443/d5f4ad43-1b5a-4b0f-8bef-5b37224ed221.m3u8
+#EXTINF:-1 tvg-id="TraVinhTV.vn" group-title="Culture, Entertainment, Music, News",Tra Vinh TV
+https://live.fptplay53.net/epzsd1/vinhlong5_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="TrishulBroadcastingNetwork.sr" group-title="Culture",Trishul Broadcasting Network
 https://live.suricloud.com/hls/tbntv/index.m3u8
 #EXTINF:-1 tvg-id="TVCuatro42.mx" group-title="Culture",TV Cuatro 4.2
@@ -263,6 +265,8 @@ https://5f2c1b0d880e5.streamlock.net/tv42/tv42.smil/.m3u8
 https://streaming.cloudecast.com/hls/tvlifeamerica/index.m3u8
 #EXTINF:-1 tvg-id="TVRCultural.ro" group-title="Culture",TVR Cultural
 https://tvr-cultural.lg.mncdn.com/tvrcultural/smil:tvrcultural.smil/chunklist_b5160000.m3u8
+#EXTINF:-1 tvg-id="TVUFOP.br" group-title="Public, Education, Culture",TV UFOP
+https://app.tvufop.com.br/hls/tvufop.m3u8
 #EXTINF:-1 tvg-id="TVVita.sk" group-title="Culture",TV Vita
 https://dash3.antik.sk/live/test_vita/playlist.m3u8
 #EXTINF:-1 tvg-id="UCL.uy" group-title="Culture",UCL
