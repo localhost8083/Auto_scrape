@@ -1,0 +1,77 @@
+name: Auto Scrape & Update Playlists
+
+on:
+  schedule:
+    # every 15 minutes (UTC). GitHub Actions cron is best-effort.
+    # change to '*/10 * * * *' for ~every 10 minutes.
+    - cron: '*/15 * * * *'
+  workflow_dispatch:
+    inputs:
+      validate_limit:
+        description: 'Max streams to validate (0 = all)'
+        required: false
+        default: '0'
+  push:
+    branches: [ main ]
+    paths:
+      - 'scripts/**'
+      - 'config/**'
+      - '.github/workflows/scrape.yml'
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: scrape-run
+  cancel-in-progress: false
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 14
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run scraper
+        env:
+          WORKERS: '80'
+          TIMEOUT: '6'
+          VALIDATE_LIMIT: ${{ github.event.inputs.validate_limit || '0' }}
+          EXTRA_SOURCES_URLS: ${{ secrets.EXTRA_SOURCES_URLS }}
+        run: python scripts/scraper.py --outdir output
+
+      - name: Commit updated playlists
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add output
+          if git diff --cached --quiet; then
+            echo "No changes since last run."
+          else
+            git commit -m "chore(playlists): auto-update $(date -u +'%Y-%m-%d %H:%M') UTC [skip ci]"
+            git push
+          fi
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: output
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

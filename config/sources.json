@@ -1,0 +1,10 @@
+{
+  "_comment": "Extra M3U/M3U8 mirror URLs merged into every scrape run. Add as many as you like. These are also overridable at runtime via the EXTRA_SOURCES_URLS secret (comma-separated).",
+  "sources": [
+    {
+      "name": "example-mirror",
+      "url": "https://iptv-org.github.io/iptv/index.m3u",
+      "enabled": false
+    }
+  ]
+}
