@@ -3,7 +3,9 @@
 An autonomous pipeline that scrapes the full public **iptv-org** catalogue
 (plus any extra mirrors you configure), **validates every stream**, and
 publishes ready-to-use **M3U playlists + a JSON API** — rebuilt automatically
-every **15 minutes** via GitHub Actions and served from **GitHub Pages**.
+every **15 minutes** via GitHub Actions and served **directly from the repo**
+via `raw.githubusercontent.com` / **jsDelivr CDN** (no GitHub Pages / Pro plan
+needed).
 
 > This only aggregates **publicly listed free-to-air** channels from
 > [iptv-org/iptv](https://github.com/iptv-org/iptv) and mirrors you provide.
@@ -17,7 +19,7 @@ every **15 minutes** via GitHub Actions and served from **GitHub Pages**.
 output/
 ├── index.m3u                 # ALL streams (full, unfiltered)
 ├── working.m3u               # validated-ONLINE streams only  ← use this one
-├── index.html                # browsable landing page (GitHub Pages)
+├── index.html                # browsable landing page (open locally or via raw)
 ├── last_updated.json         # build timestamp + counts
 ├── categories/<name>.m3u     # online-only playlist per category
 ├── categories/<name>.all.m3u # all streams per category
@@ -33,21 +35,32 @@ output/
 
 ## How to use the playlists
 
-In VLC / mpv / IPTV apps, add a URL (replace `<user>` and `<repo>`):
+Playlists are committed to the repo, so you can stream them directly via
+**raw** (works for public *and* private repos) or **jsDelivr** (cached CDN,
+public repos only). Replace `<user>` and `<repo>`:
 
 ```
-https://<user>.github.io/<repo>/working.m3u          # all online channels
-https://<user>.github.io/<repo>/categories/sports.m3u # sports only
-https://<user>.github.io/<repo>/countries/us.m3u      # USA only
-https://<user>.github.io/<repo>/index.m3u             # everything
+# raw.githubusercontent.com  (always up to date)
+https://raw.githubusercontent.com/<user>/<repo>/main/output/working.m3u          # online only
+https://raw.githubusercontent.com/<user>/<repo>/main/output/categories/sports.m3u # sports
+https://raw.githubusercontent.com/<user>/<repo>/main/output/countries/us.m3u      # USA
+https://raw.githubusercontent.com/<user>/<repo>/main/output/index.m3u             # everything
+
+# jsDelivr CDN  (faster, cached ~10 min — public repos only)
+https://cdn.jsdelivr.net/gh/<user>/<repo>@main/output/working.m3u
+https://cdn.jsdelivr.net/gh/<user>/<repo>@main/output/categories/sports.m3u
 ```
 
 JSON API (for apps / dashboards):
 
 ```
-https://<user>.github.io/<repo>/api/streams.json
-https://<user>.github.io/<repo>/api/report.json
+https://raw.githubusercontent.com/<user>/<repo>/main/output/api/streams.json
+https://raw.githubusercontent.com/<user>/<repo>/main/output/api/report.json
 ```
+
+> **Make the repo public** for free, no-auth URL access (raw + jsDelivr).
+> If it must stay **private**, raw URLs require a token — or just `git clone`
+> the repo and use the files in `output/` directly.
 
 ## EPG (TV guide)
 
@@ -60,8 +73,9 @@ that URL for EPG data).
 
 ## Setup (one-time, after pushing to GitHub)
 
-1. **Enable GitHub Pages** (the workflow deploys automatically once enabled):
-   - *Settings → Pages → Build and deployment → Source = **GitHub Actions***
+1. **Make the repo public** (Settings → General → Danger Zone → Change visibility).
+   This enables free, no-auth playlist URLs via `raw.githubusercontent.com` and
+   the jsDelivr CDN. *(No GitHub Pages / Pro plan required.)*
 2. **Run it now** (don't wait for the cron):
    - *Actions → "Auto Scrape & Update Playlists" → Run workflow*
 
@@ -121,7 +135,8 @@ python scripts/scraper.py --no-validate
    `<MPD>`, with HTTP status + latency recorded).
 4. Builds per-category / per-country / per-language playlists (online-only
    + `.all` variants) and a JSON API.
-5. Commits results to `output/` and deploys to GitHub Pages.
+5. Commits results to `output/` — accessible via `raw.githubusercontent.com`
+   and jsDelivr (no Pages needed).
 
 ## License / attribution
 

@@ -20,8 +20,6 @@ on:
 
 permissions:
   contents: write
-  pages: write
-  id-token: write
 
 concurrency:
   group: scrape-run
@@ -64,14 +62,13 @@ jobs:
             git push
           fi
 
-      - name: Setup Pages
-        uses: actions/configure-pages@v5
-
-      - name: Upload Pages artifact
-        uses: actions/upload-pages-artifact@v3
-        with:
-          path: output
-
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v4
+      - name: Summary
+        run: |
+          echo "### Auto-scrape complete" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "Playlists updated in \`output/\`." >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "Use them via raw URL (free, no Pages):" >> $GITHUB_STEP_SUMMARY
+          echo "- \`https://raw.githubusercontent.com/${GITHUB_REPOSITORY}/${GITHUB_REF_NAME}/output/working.m3u\`" >> $GITHUB_STEP_SUMMARY
+          echo "- \`https://cdn.jsdelivr.net/gh/${GITHUB_REPOSITORY}@${GITHUB_REF_NAME}/output/working.m3u\` (cached CDN, public repos)" >> $GITHUB_STEP_SUMMARY
+          cat output/api/report.json >> $GITHUB_STEP_SUMMARY
