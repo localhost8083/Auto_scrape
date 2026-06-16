@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="2STV.sn" group-title="Culture",2STV
-http://69.64.57.208/2stv/playlist.m3u8
 #EXTINF:-1 tvg-id="3ABNCanada.ca" group-title="Religious",3ABN Canada
 https://3abn.bozztv.com/3abncanada/3ABN/master.m3u8
 #EXTINF:-1 tvg-id="4Kurd.fr" group-title="Music",4Kurd
@@ -53,8 +51,6 @@ https://svs.itworkscdn.net/alimanlive/imantv.smil/playlist.m3u8
 http://185.105.4.151:8080/_defapp_/ittihad/index.m3u8
 #EXTINF:-1 tvg-id="AlJadeed.lb" group-title="General",Al Jadeed
 http://185.9.2.18/chid_391/mono.m3u8
-#EXTINF:-1 tvg-id="AlManar.lb" group-title="News",Al-Manar
-https://edge.fastpublish.me/live/index.m3u8
 #EXTINF:-1 tvg-id="AlMayadeenTV.lb" group-title="News",Al Mayadeen TV
 https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AlpedHuezTV.fr" group-title="General",Alpe d'Huez TV
@@ -453,6 +449,8 @@ https://lecteur.iconetv.bj/hls/stream.m3u8
 https://vdo2.pro-fhi.net:3769/stream/play.m3u8
 #EXTINF:-1 tvg-id="IIPCTV.ca" group-title="Religious",IIPC TV
 https://rpn.bozztv.com/dvrfl03/iipctv/index.m3u8
+#EXTINF:-1 tvg-id="IIPCTV.ca" group-title="Religious",IIPC TV
+https://uni10rtmp.tulix.tv/iipctv/iipctv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ImmaculataTV.ch" group-title="Religious",Immaculata TV
 https://g5nl63z8lpq6-hls-live.5centscdn.com/tvistream/a5586d8ea3b7b021120a05c60dc59876.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="IntoCrime.fr" group-title="Documentary",Into Crime
@@ -501,6 +499,8 @@ https://temp3.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8
 https://temp2.isilive.ca/live/_definst_/ontla/house-en-cc/playlist.m3u8
 #EXTINF:-1 tvg-id="LegislativeAssemblyTVNunavut.ca" group-title="Legislative",Legislative Assembly TV Nunavut
 http://temp2.isilive.ca/live/nunavut/live-eng/index.m3u8
+#EXTINF:-1 tvg-id="LemanBleu.ch" group-title="News",Leman Bleu
+http://livevideo.infomaniak.com/streaming/livecast/naxoo/playlist.m3u8
 #EXTINF:-1 tvg-id="LeNouveauManagerTV.bj" group-title="Business",Le Nouveau Manager TV
 https://lnmlive.com/live/lnmtv.m3u8
 #EXTINF:-1 tvg-id="LittoralFMTV.fr" group-title="Music",Littoral FM TV
@@ -737,6 +737,8 @@ https://edge-a3.evrideo.tv/8f37c9f0-fe22-44f4-b64a-76ad11730daf_1000026630_HLS/m
 http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/1038/index.m3u8
 #EXTINF:-1 tvg-id="RHTGuadeloupe.gp" group-title="Music",RHT Guadeloupe
 https://edge12.vedge.infomaniak.com/livecast/ik:livehautetension/manifest.m3u8
+#EXTINF:-1 tvg-id="RLPROTV.cd" group-title="Documentary",RL PRO TV
+https://stream.berosat.live:19360/rlpro-tv/rlpro-tv.m3u8
 #EXTINF:-1 tvg-id="RMCStory.fr" group-title="Uncategorized",RMC Story
 https://d15aro46bnpfm8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fqkqiax1078up/RMC_Story_FR.m3u8
 #EXTINF:-1 tvg-id="RTB3.bf" group-title="Culture",RTB 3
@@ -791,14 +793,14 @@ http://158.69.124.9:1935/sardaritv/sardaritv/playlist.m3u8
 https://rakutenaa-zylo-screamin-rakuten-p11ej.amagi.tv/playlist/rakutenAA-zylo-screamin-rakuten/playlist.m3u8
 #EXTINF:-1 tvg-id="SenewebTV.sn" group-title="General",Seneweb TV
 https://vdo2.pro-fhi.net:3297/stream/play.m3u8
-#EXTINF:-1 tvg-id="SenJeunesTV.sn" group-title="General",SenJeunes TV
-https://stream.sen-gt.com/senjeunestv/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="SensesTV.lb" group-title="Uncategorized",Senses TV
 http://31.14.41.69:8080/hls/sensesonline/index.m3u8
 #EXTINF:-1 tvg-id="SenTV.sn" group-title="General",Sen TV
 http://69.64.57.208/sentv/playlist.m3u8
 #EXTINF:-1 tvg-id="SikhSpiritualCentreRexdale.ca" group-title="Uncategorized",Sikh Spiritual Centre Rexdale
 https://cdn12.henico.net:8443/live/ssct/index.m3u8
+#EXTINF:-1 tvg-id="SivanTV.ch" group-title="Religious",Sivan TV
+http://sivantv.livebox.co.in/sivantvhls/sivan.m3u8
 #EXTINF:-1 tvg-id="SohailTV.ca" group-title="General",Sohail TV
 https://iptv.sohailtv.com/sohail/playlist/index.m3u8
 #EXTINF:-1 tvg-id="SolTV.gq" group-title="Entertainment",SolTV
@@ -943,8 +945,6 @@ https://edge20.vedge.infomaniak.com/livecast/ik:33dm06/manifest.m3u8
 https://mediaserver1.castpin.com/hls/telesahel/index.m3u8
 #EXTINF:-1 tvg-id="TeleSahel.ne" group-title="General",Tele Sahel
 http://69.64.57.208/telesahel/playlist.m3u8
-#EXTINF:-1 tvg-id="TeleTchad.td" group-title="General",Tele Tchad
-https://strhlslb01.streamakaci.tv/str_tchad_tchad/str_tchad_multi/playlist.m3u8
 #EXTINF:-1 tvg-id="TeleTicino.ch" group-title="Uncategorized",TeleTicino
 https://vstream-cdn.ch/hls/teleticino.m3u8
 #EXTINF:-1 tvg-id="TelevisionEspoir47.tg" group-title="General",Television Espoir 47
@@ -1029,8 +1029,6 @@ https://tv3v.live-kd.com/live/tv3v/livestream/index.m3u8
 https://tvf-tv5ch.otteravision.com/tvf/tv5ch/tv5ch.m3u8
 #EXTINF:-1 tvg-id="TV5MondeStyle.fr" group-title="Lifestyle",TV5Monde Style
 https://ott.tv5monde.com/Content/HLS/Live/channel(style1)/variant.m3u8
-#EXTINF:-1 tvg-id="TV5QuebecCanada.ca" group-title="Uncategorized",TV5 Quebec Canada
-http://23.133.220.149/TV5/index.m3u8
 #EXTINF:-1 tvg-id="TV7Colmar.fr" group-title="General",TV7 Colmar
 https://tv7.live-kd.com/live/tv7/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="TV10.rw" group-title="General",TV10
