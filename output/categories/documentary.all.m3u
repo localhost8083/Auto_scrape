@@ -40,6 +40,8 @@ https://d2ah48mnofquik.cloudfront.net/Backstage.m3u8
 #EXTINF:-1 tvg-id="Backstage.us" group-title="Documentary",Backstage
 https://fuse-backstage-xumo.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="BBCEarth.uk" group-title="Documentary",BBC Earth
+http://81.15.109.89:8001/play/BBCEarth
+#EXTINF:-1 tvg-id="BBCEarth.uk" group-title="Documentary",BBC Earth
 https://amg00793-amg00793c6-firetv-us-4067.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="BBCEarth.uk" group-title="Documentary",BBC Earth
 https://jmp2.uk/plu-656535fc2c46f30008870fae.m3u8
@@ -49,8 +51,6 @@ https://pb-zjy36qhp8e8cz.akamaized.net/BBC_Earth_US.m3u8
 https://aegis-cloudfront-1.tubi.video/bb1fc6ad-9948-42ea-aaf3-20acfcdeecac/playlist.m3u8
 #EXTINF:-1 tvg-id="BBCEarth.uk" group-title="Documentary",BBC Earth
 https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
-#EXTINF:-1 tvg-id="BBCFour.uk" group-title="Documentary, Culture",BBC Four
-https://matchmaker.live.bidi.net.uk/vs-cmaf-pushb-uk/x=4/i=urn:bbc:pips:service:bbc_four_hd/pc_hd_abr_v2.fmp4.m3u8
 #EXTINF:-1 tvg-id="BBCFour.uk" group-title="Documentary, Culture",BBC Four
 https://vs-cmaf-pushb-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_four_hd/iptv_hd_abr_v1.mpd
 #EXTINF:-1 tvg-id="BBCFour.uk" group-title="Documentary, Culture",BBC Four
@@ -226,7 +226,7 @@ https://ca-rt.onetv.app/gemnature/index-0.m3u8?token=onetv202
 #EXTINF:-1 tvg-id="Getfactual.us" group-title="Documentary",Get.factual
 https://d1nhni5l2n8hjt.cloudfront.net/gf.m3u8
 #EXTINF:-1 tvg-id="GZT.tr" group-title="Documentary, Series",GZT
-https://mn-nl.mncdn.com/gzttv/gzttv/playlist.m3u8
+https://gzttv-live.lg.mncdn.com/gzttv/gzttv/playlist.m3u8
 #EXTINF:-1 tvg-id="HDL.ru" group-title="Documentary",HDL
 http://31.148.48.15/HD_Life/index.m3u8
 #EXTINF:-1 tvg-id="HistoriaYVida.es" group-title="Documentary",Historia Y Vida
@@ -435,6 +435,10 @@ https://jmp2.uk/plu-61c1e51354d923000731bf78.m3u8
 https://jmp2.uk/plu-61c0b438244e50000758083b.m3u8
 #EXTINF:-1 tvg-id="PlutoTVTrueCrime.us" group-title="Series, Documentary",Pluto TV True Crime
 https://jmp2.uk/plu-5812be1c249444e05d09cc50.m3u8
+#EXTINF:-1 tvg-id="PolsatViasatExplore.pl" group-title="Documentary",Polsat Viasat Explore
+http://81.15.109.89:8001/play/PolsatViasatExplore
+#EXTINF:-1 tvg-id="PolsatViasatNature.pl" group-title="Documentary",Polsat Viasat Nature
+http://81.15.109.89:8001/play/PolsatViasatNature
 #EXTINF:-1 tvg-id="Reelz.us" group-title="Documentary",Reelz
 https://d3serb1fmh623s.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="RLPROTV.cd" group-title="Documentary",RL PRO TV
