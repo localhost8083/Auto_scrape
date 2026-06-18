@@ -265,8 +265,6 @@ http://31.148.48.15/Dom_Kino_Premium_HD/index.m3u8
 https://stream8.cinerama.uz/1421/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="DumaTV.ru" group-title="Legislative",Duma TV
 https://dumatv.iptv2022.com/playlist.m3u8
-#EXTINF:-1 tvg-id="DunyaTV.az" group-title="General",Dunya TV
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/dunya-tv.m3u8
 #EXTINF:-1 tvg-id="Dunyoboylab.uz" group-title="General",Dunyo bo'ylab
 https://stream8.cinerama.uz/1006/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-id="DushanbeHD.tj" group-title="General",Dushanbe HD
@@ -325,6 +323,8 @@ https://video.govoritmoskva.ru/rufm/index.m3u8
 http://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="GulliGirl.ru" group-title="Kids",Gulli Girl
 https://stream8.cinerama.uz/1445/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Hit.ru" group-title="Movies",Hit
+http://hls127.freeott.top:8080/XitHD/video.m3u8
 #EXTINF:-1 tvg-id="Hollywood.ru" group-title="Movies",Hollywood
 http://31.148.48.15/AMC/index.m3u8
 #EXTINF:-1 tvg-id="Hollywood.ru" group-title="Movies",Hollywood
@@ -378,6 +378,8 @@ http://sirius.greenhosting.ru/Kino24Ru/video.m3u8
 #EXTINF:-1 tvg-id="KinoHit.ru" group-title="Movies",KinoHit
 https://stream8.cinerama.uz/1055/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Kinopokaz.ru" group-title="Movies",Kinopokaz
+http://hls127.freeott.top:8080/Kinopokaz_HD/video.m3u8
+#EXTINF:-1 tvg-id="Kinopokaz.ru" group-title="Movies",Kinopokaz
 https://stream8.cinerama.uz/1057/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Kinopokaz.ru" group-title="Movies",Kinopokaz
 http://31.148.48.15/Kinopokaz/index.m3u8
@@ -385,6 +387,8 @@ http://31.148.48.15/Kinopokaz/index.m3u8
 https://stream8.cinerama.uz/1207/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="KinoSat.ru" group-title="Movies",KinoSat
 http://31.148.48.15/Kineko/index.m3u8
+#EXTINF:-1 tvg-id="Kinoseriya.ru" group-title="Movies",Kinoseriya
+http://hls127.freeott.top:8080/Kinoseriya_HD/video.m3u8
 #EXTINF:-1 tvg-id="Kinosvidanie.ru" group-title="Movies",Kinosvidanie
 https://stream8.cinerama.uz/1203/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Kinoteatr.uz" group-title="Movies",Kinoteatr
@@ -395,6 +399,8 @@ https://vod.tuva.ru/kinotv/index.m3u8
 http://31.148.48.15/Kino_TV_HD/index.m3u8
 #EXTINF:-1 tvg-id="KinoTV.ru" group-title="Movies",Kino TV
 http://31.148.48.15/Kino_TV/index.m3u8
+#EXTINF:-1 tvg-id="Kluch.ru" group-title="Entertainment",Kluch
+http://hls127.freeott.top:8080/Kluch/video.m3u8
 #EXTINF:-1 tvg-id="KrikTV.ru" group-title="News",Krik-TV
 http://cdn-01.bonus-tv.ru/kriktv_edge/playlist.m3u8
 #EXTINF:-1 tvg-id="KTK.kz" group-title="General",KTK
@@ -594,11 +600,15 @@ http://31.148.48.15/NTV/index.m3u8
 #EXTINF:-1 tvg-id="NTV.ru" group-title="General",NTV
 https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8
 #EXTINF:-1 tvg-id="NTVHit.ru" group-title="Series",NTV-Hit
+https://cdn-dvr.ntv.ru/th_hit/index.m3u8
+#EXTINF:-1 tvg-id="NTVHit.ru" group-title="Series",NTV-Hit
 https://cdn.ntv.ru/th_hit/playlist.m3u8
 #EXTINF:-1 tvg-id="NTVLaw.ru" group-title="Uncategorized",NTV Law
 https://cdn.ntv.ru/th_pravo/playlist.m3u8
 #EXTINF:-1 tvg-id="NTVMir.ru" group-title="Culture",NTV Mir
 https://streaming.thestream.cyou/live/213.m3u8
+#EXTINF:-1 tvg-id="NTVSeries.ru" group-title="Series",NTV Series
+https://cdn-dvr.ntv.ru/th_serial/index.m3u8
 #EXTINF:-1 tvg-id="NTVSeries.ru" group-title="Series",NTV Series
 https://cdn.ntv.ru/th_serial/playlist.m3u8
 #EXTINF:-1 tvg-id="NTVStyle.ru" group-title="Lifestyle",NTV Style
@@ -649,6 +659,8 @@ https://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Prima/hls/index.m3u8
 https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R11_OTT_SIB_KRSK_STS/variant.m3u8
 #EXTINF:-1 tvg-id="Pro100TV.ru" group-title="Movies, Entertainment, Family, Classic, Animation",Pro100TV
 https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
+#EXTINF:-1 tvg-id="ProLyubov.ru" group-title="Uncategorized",Pro Lyubov
+http://hls127.freeott.top:8080/ProLubovHD/video.m3u8
 #EXTINF:-1 tvg-id="Prosveshchenie.ru" group-title="Uncategorized",Prosveshchenie
 https://cdn-01.bonus-tv.ru/prosveschenie_edge/playlist.m3u8
 #EXTINF:-1 tvg-id="Qaraqalpaqstan.uz" group-title="General",Qaraqalpaqstan
@@ -1297,6 +1309,8 @@ http://31.148.48.15/STS/index.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
 #EXTINF:-1 tvg-id="STSInternational.ru" group-title="Uncategorized",STS International
 https://cdn4.skygo.mn/live/disk1/STS/HLSv3-FTA/STS.m3u8
+#EXTINF:-1 tvg-id="STSInternational.ru" group-title="Uncategorized",STS International
+http://178.134.1.158:8081/CTC/index.m3u8
 #EXTINF:-1 tvg-id="STSkids.ru" group-title="Kids",STS kids
 http://31.148.48.15/STS_Kids_HD/index.m3u8
 #EXTINF:-1 tvg-id="STSLove.ru" group-title="Family",STS Love

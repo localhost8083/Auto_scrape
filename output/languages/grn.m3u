@@ -1,12 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="4DmasNoticiasTV.py" group-title="News",4Dmas Noticias TV
-https://rds3.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/playlist.m3u8
 #EXTINF:-1 tvg-id="5tv.ar" group-title="General",5tv
 http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
 #EXTINF:-1 tvg-id="5tv.ar" group-title="General",5tv
 https://617c5175c970b.streamlock.net:4444/tvcinco/live1/playlist.m3u8
-#EXTINF:-1 tvg-id="247CanaldeNoticias.ar" group-title="News",24/7 Canal de Noticias
-https://panel.host-live.com:19360/cn247tv/cn247tv.m3u8
 #EXTINF:-1 tvg-id="ABTVBariloche.ar" group-title="General",ABTV Bariloche
 https://videostream.shockmedia.com.ar/hls/abtvbariloche/abtvbariloche.m3u8
 #EXTINF:-1 tvg-id="AgendaMineraTV.bo" group-title="Business",Agenda Minera TV
@@ -17,6 +13,8 @@ https://unlimited1-us.dps.live/airedesantafetv/airedesantafetv.smil/playlist.m3u
 https://mdstrm.com/live-stream-playlist/6931a0eb06778645348008e0.m3u8
 #EXTINF:-1 tvg-id="AlcanceFMPLAYTV.py" group-title="Music",Alcance FM PLAY TV
 https://video.wilohosting.com:19360/alcancefmtv/alcancefmtv.m3u8
+#EXTINF:-1 tvg-id="AlmayaTV.py" group-title="General",Almaya TV
+https://video.hostingcaaguazu.com:19360/almayatv/almayatv.m3u8
 #EXTINF:-1 tvg-id="AmericaTV.ar" group-title="General",America TV
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 #EXTINF:-1 tvg-id="ArgentinisimaSatelital.ar" group-title="General",Argentinisima Satelital
@@ -133,6 +131,8 @@ https://vs20.live.opencaster.com/canalpulpotv_bdeee6e2/index.m3u8
 https://tdcserver.com:19360/tdconlione-2/tdconlione-2.m3u8
 #EXTINF:-1 tvg-id="CanalUniversidad.ar" group-title="Education",Canal Universidad
 https://videostream.shockmedia.com.ar/hls/canaluniversidadmdp/canaluniversidadmdp.m3u8
+#EXTINF:-1 tvg-id="CarasTV.ar" group-title="Entertainment",Caras TV
+https://unlimited1-us.dps.live/carastv/carastv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="CaritasTV.py" group-title="Religious, General",Caritas TV
 https://rds3.desdeparaguay.net/caritastv/caritastv/playlist.m3u8
 #EXTINF:-1 tvg-id="CatamarcaTV.ar" group-title="Culture, News",Catamarca TV
@@ -249,8 +249,6 @@ https://video.hostingcaaguazu.com:19360/oasistv/oasistv.m3u8
 https://video.hostingcaaguazu.com:19360/obediratv/obediratv.m3u8
 #EXTINF:-1 tvg-id="OviedoTV.py" group-title="General",Oviedo TV
 https://video.wilohosting.com:19360/oviedotv/oviedotv.m3u8
-#EXTINF:-1 tvg-id="PalenqueTV.bo" group-title="General",Palenque TV
-https://tv.bitstreaming.net:3234/live/palenquetvlive.m3u8
 #EXTINF:-1 tvg-id="ParaguayTV.py" group-title="General",Paraguay TV
 https://stream.paraguaytv.gov.py/memfs/bbe36fed-9b49-4d1d-adaa-4bd6d1b2e386.m3u8
 #EXTINF:-1 tvg-id="PopuTV.py" group-title="Entertainment",Popu TV
@@ -285,6 +283,8 @@ https://copacoradios.desdeparaguay.net/rcctv/rcctv/playlist.m3u8?admin=nacion
 http://streamer1.streamhost.org:1935/salive/GMIredadvenirm/playlist.m3u8
 #EXTINF:-1 tvg-id="RedAmericaTV.bo" group-title="General",Red America TV
 https://edge.enhdtv.com/redamerica/index.m3u8
+#EXTINF:-1 tvg-id="RedCCTV.bo" group-title="Uncategorized",Red CCTV
+https://ares.disfrutaenlared.com:1936/redcctv/redcctv/playlist.m3u8
 #EXTINF:-1 tvg-id="RedDigital.py" group-title="General",Red Digital
 https://video.hostingcaaguazu.com:19360/reddigitalsanpedro/reddigitalsanpedro.m3u8
 #EXTINF:-1 tvg-id="RedInteriorTV.py" group-title="General",Red Interior TV
@@ -327,8 +327,6 @@ https://live.enhdtv.com:8081/8060/index.m3u8
 https://stream.t5satelital.blog/hls/t5satelitalweb.m3u8
 #EXTINF:-1 tvg-id="Telecinco.ar" group-title="Uncategorized",Telecinco
 https://videohd.live:19360/8016/8016.m3u8
-#EXTINF:-1 tvg-id="Telecreativa.ar" group-title="Uncategorized",Telecreativa
-https://panel.host-live.com:19360/8012/8012.m3u8
 #EXTINF:-1 tvg-id="Telemax.ar" group-title="Uncategorized",Telemax
 https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8
 #EXTINF:-1 tvg-id="Telenord.ar" group-title="Uncategorized",Telenord
@@ -363,6 +361,8 @@ http://45.170.130.224:8000/play/a020/index.m3u8
 https://live.enhdtv.com:8081/8026/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="UMSATVULP.bo" group-title="News, Culture, Education",UMSA TVU LP
 https://live.enhdtv.com:8081/8190/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="UMSATVULP.bo" group-title="News, Culture, Education",UMSA TVU LP
+https://edge.enhdtv.com/8190/index.m3u8
 #EXTINF:-1 tvg-id="UnifeTV.ar" group-title="Religious",Unife TV
 https://5dcabf026b188.streamlock.net/StreamUnife/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="UnifeTV.ar" group-title="Religious",Unife TV
@@ -371,6 +371,8 @@ https://cdn.mycloudstream.io/hls/live/broadcast/xundwjvp/index.m3u8
 https://tigocloud.desdeparaguay.net/800tv/800tv/playlist.m3u8
 #EXTINF:-1 tvg-id="UniRadioTV.py" group-title="Uncategorized",UniRadio TV
 https://video.hostingcaaguazu.com:19360/uniradiotv/uniradiotv.m3u8
+#EXTINF:-1 tvg-id="UnitelSantaCruz.bo" group-title="General",Unitel Santa Cruz
+https://master.tucableip.com/muxunitelsc/index.m3u8
 #EXTINF:-1 tvg-id="Uniteve.ar" group-title="Uncategorized",Uniteve
 https://vivo.solumedia.com:19360/uniteve/uniteve.m3u8
 #EXTINF:-1 tvg-id="UnivalleTelevision.bo" group-title="Uncategorized",Univalle Television
