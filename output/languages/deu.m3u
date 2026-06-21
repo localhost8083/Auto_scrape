@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="3sat.de" group-title="General",3sat
+http://41.223.30.230/3SAT/index.m3u8
 #EXTINF:-1 tvg-id="123tv.de" group-title="Shop",1-2-3.tv
 https://123tv-mx1.flex-cdn.net/index.m3u8
 #EXTINF:-1 tvg-id="ACTV.be" group-title="General",ACTV
@@ -129,6 +131,12 @@ https://swrdasdingvr-hls.akamaized.net/hls/live/2018681/dasdingvr/master.m3u8
 https://daserste-live.ard-mcdn.de/daserste/live/hls/int/master.m3u8
 #EXTINF:-1 tvg-id="DasErste.de" group-title="General",Das Erste
 https://s6.hopslan.com/ardX/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="DAZNDartsxPlutoTV.de" group-title="Sports",DAZN Darts x Pluto TV
+https://jmp2.uk/plu-64b67f0424ade50008a3be17.m3u8
+#EXTINF:-1 tvg-id="DAZNHandballxPlutoTV.de" group-title="Sports",DAZN Handball x Pluto TV
+https://jmp2.uk/plu-6683f7fe36a2f9000804940c.m3u8
+#EXTINF:-1 tvg-id="DAZNHeldinnenxPlutoTV.de" group-title="Sports",DAZN Heldinnen x Pluto TV
+https://jmp2.uk/plu-64afe50c5dc16600087f3227.m3u8
 #EXTINF:-1 tvg-id="DeluxeDance.de" group-title="Music",Deluxe Dance
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
 #EXTINF:-1 tvg-id="DeluxeLounge.de" group-title="Music",Deluxe Lounge
@@ -249,8 +257,6 @@ https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
 https://d1pz8zear993v8.cloudfront.net/hlsme/kathtv.m3u8
 #EXTINF:-1 tvg-id="KulturMD.de" group-title="Culture",KulturMD
 http://58bd5b7a98e04.streamlock.net/medienasa-live/kulturmd_high/playlist.m3u8
-#EXTINF:-1 tvg-id="labor14.de" group-title="Uncategorized",labor14
-https://5acade5fc0c29.streamlock.net/OKGera/tmbz_live_high.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="LandleTV.at" group-title="General",Landle TV
 https://streaming13.huberwebmedia.at/LiveApp/streams/985585225397790082777809.m3u8
 #EXTINF:-1 tvg-id="Lausitzwelle.de" group-title="Music",Lausitzwelle
@@ -427,8 +433,6 @@ https://jmp2.uk/plu-612e05b885183d0007958101.m3u8
 https://jmp2.uk/plu-5f1ac2591dd8880007bb7d6d.m3u8
 #EXTINF:-1 tvg-id="PlutoTVCineClasico.de" group-title="Movies",Pluto TV Cine Clasico
 https://jmp2.uk/plu-61373bb45168fe000773eecd.m3u8
-#EXTINF:-1 tvg-id="PlutoTVCineComedia.de" group-title="Movies",Pluto TV Cine Comedia
-https://jmp2.uk/plu-5f1ac8099c49f600076579b2.m3u8
 #EXTINF:-1 tvg-id="PlutoTVCinedeautor.de" group-title="Movies",Pluto TV Cine de autor
 https://jmp2.uk/plu-60cc807324d60a0007708dc8.m3u8
 #EXTINF:-1 tvg-id="PlutoTVCineDrama.de" group-title="Movies",Pluto TV Cine Drama
@@ -443,6 +447,8 @@ https://jmp2.uk/plu-6786235bd648bf0008c2780a.m3u8
 https://jmp2.uk/plu-5f1ac9a2d3611d0007a844bb.m3u8
 #EXTINF:-1 tvg-id="PlutoTVClassicTV.de" group-title="Classic",Pluto TV Classic TV
 https://jmp2.uk/plu-5d134a74ca91eedee1630faa.m3u8
+#EXTINF:-1 tvg-id="PlutoTVCocina.de" group-title="Cooking, Lifestyle",Pluto TV Cocina
+https://jmp2.uk/plu-5f1acdaa8ba90f0007d5e760.m3u8
 #EXTINF:-1 tvg-id="PlutoTVComediamadeinSpain.de" group-title="Comedy",Pluto TV Comedia made in Spain
 https://jmp2.uk/plu-5f1abce155a03d0007718834.m3u8
 #EXTINF:-1 tvg-id="PlutoTVComediasRomanticas.de" group-title="Comedy, Movies",Pluto TV Comedias Romanticas
@@ -455,6 +461,8 @@ https://jmp2.uk/plu-67b4b2d976a934282e92d71c.m3u8
 https://jmp2.uk/plu-5c363c2411c5ca053f198f97.m3u8
 #EXTINF:-1 tvg-id="PlutoTVComedyTherapie.de" group-title="Comedy",Pluto TV Comedy Therapie
 https://jmp2.uk/plu-69b968ba255fecb01f602257.m3u8
+#EXTINF:-1 tvg-id="PlutoTVConspiracy.de" group-title="Documentary",Pluto TV Conspiracy
+https://jmp2.uk/plu-5d4ae94ef1a1bbb350ca41bb.m3u8
 #EXTINF:-1 tvg-id="PlutoTVCrime.de" group-title="Series",Pluto TV Crime
 https://jmp2.uk/plu-5e7b6c60fd20c50007910bf5.m3u8
 #EXTINF:-1 tvg-id="PlutoTVCrime.de" group-title="Series",Pluto TV Crime
@@ -568,8 +576,6 @@ https://jmp2.uk/plu-64808a8c536e0c0008a276d1.m3u8
 #EXTINF:-1 tvg-id="PlutoTVMotor.de" group-title="Auto",Pluto TV Motor
 https://jmp2.uk/plu-6080345ebb49b90007ce0baf.m3u8
 #EXTINF:-1 tvg-id="PlutoTVMovies.de" group-title="Movies",Pluto TV Movies
-https://jmp2.uk/plu-5c5c3b948002db3c3e0b262e.m3u8
-#EXTINF:-1 tvg-id="PlutoTVMovies.de" group-title="Movies",Pluto TV Movies
 https://jmp2.uk/plu-5ad8d3a31b95267e225e4e09.m3u8
 #EXTINF:-1 tvg-id="PlutoTVMystery.de" group-title="Documentary",Pluto TV Mystery
 https://jmp2.uk/plu-617aad99b68ef100072608cd.m3u8
@@ -625,8 +631,6 @@ https://jmp2.uk/plu-5d767b4889bca2ce7b73ef2e.m3u8
 https://jmp2.uk/plu-5d9492c77ea6f99188738ff1.m3u8
 #EXTINF:-1 tvg-id="PlutoTVSciFi.de" group-title="Series, Movies",Pluto TV Sci-Fi
 https://jmp2.uk/plu-60ed498c4248a400077c0b9d.m3u8
-#EXTINF:-1 tvg-id="PlutoTVSciFi.de" group-title="Series, Movies",Pluto TV Sci-Fi
-https://jmp2.uk/plu-5f6a38eaa5b68b0007a00e7a.m3u8
 #EXTINF:-1 tvg-id="PlutoTVSciFi.de" group-title="Series, Movies",Pluto TV Sci-Fi
 https://jmp2.uk/plu-61728bb9ee3773000840c1fa.m3u8
 #EXTINF:-1 tvg-id="PlutoTVSciFi.de" group-title="Series, Movies",Pluto TV Sci-Fi
@@ -714,8 +718,6 @@ https://jmp2.uk/plu-63c923944207be0007fd0887.m3u8
 #EXTINF:-1 tvg-id="PlutoTVWestern.de" group-title="Movies",Pluto TV Western
 https://jmp2.uk/plu-630dd3b2605f140007e002f5.m3u8
 #EXTINF:-1 tvg-id="PlutoTVWestern.de" group-title="Movies",Pluto TV Western
-https://jmp2.uk/plu-6385e82900ab2e000768a058.m3u8
-#EXTINF:-1 tvg-id="PlutoTVWestern.de" group-title="Movies",Pluto TV Western
 https://jmp2.uk/plu-62e7fb67478a5b0007e6c50c.m3u8
 #EXTINF:-1 tvg-id="PlutoTVWesterns.de" group-title="Movies",Pluto TV Westerns
 https://jmp2.uk/plu-5d4bdb635ce813b38639e6a3.m3u8
@@ -769,8 +771,6 @@ https://jmp2.uk/plu-5e7cb84a172a0f0007da69e4.m3u8
 https://769a97d9.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1JlZEJ1bGxUVl9ITFM/playlist.m3u8
 #EXTINF:-1 tvg-id="RedBullTV.at" group-title="Sports, Outdoor",Red Bull TV
 https://886bd3fbc782459f8de7555d32d7e9ce.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-957-WORBLATAMESFAST-WHALETVPLUS/957/whaletvplus/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="RedBullTV.at" group-title="Sports, Outdoor",Red Bull TV
-https://jmp2.uk/plu-67813f893886aa863497733d.m3u8
 #EXTINF:-1 tvg-id="RedBullTV.at" group-title="Sports, Outdoor",Red Bull TV
 https://3ea22335.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX1JlZEJ1bGxUVl9ITFM/playlist.m3u8
 #EXTINF:-1 tvg-id="RedBullTV.at" group-title="Sports, Outdoor",Red Bull TV
