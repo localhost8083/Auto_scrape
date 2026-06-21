@@ -91,6 +91,8 @@ https://imn-live.esite-lab.com/hls/iraqia-news.m3u8
 https://imn-live.esite-lab.com/hls/iraqia-sports-1.m3u8
 #EXTINF:-1 tvg-id="AlistiqamaTV.om" group-title="Religious",Alistiqama TV
 https://jmc-live.ercdn.net/alistiqama/alistiqama.m3u8
+#EXTINF:-1 tvg-id="AlIttihadTV.lb" group-title="General",Al Ittihad TV
+http://185.105.4.151:8080/_defapp_/ittihad/index.m3u8
 #EXTINF:-1 tvg-id="AlJadeed.lb" group-title="General",Al Jadeed
 http://185.9.2.18/chid_391/mono.m3u8
 #EXTINF:-1 tvg-id="AlJawadainTV.iq" group-title="Religious",Al-Jawadain TV
@@ -273,8 +275,12 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-asharq/10ae30c64e21402c8116a7
 https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/manifest.mpd
 #EXTINF:-1 tvg-id="AsharqNews.sa" group-title="Business, News",Asharq News
 https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/playlist_dvr.m3u8
+#EXTINF:-1 tvg-id="AsharqRadio.sa" group-title="Business, News",Asharq Radio
+https://svs.itworkscdn.net/asharqradiovlive/asharqradiov/playlist.m3u8
 #EXTINF:-1 tvg-id="Assadissa.ma" group-title="Religious",Assadissa
 https://snrtworker.kharazbelaid.workers.dev/?id=assadisa.m3u8
+#EXTINF:-1 tvg-id="AtfalMawahebTV.sa" group-title="Kids",Atfal & Mawaheb TV
+https://5aafcc5de91f1.streamlock.net/atfal1.com/atfal2/playlist.m3u8
 #EXTINF:-1 tvg-id="AtfalMawahebTV.sa" group-title="Kids",Atfal & Mawaheb TV
 https://5d658d7e9f562.streamlock.net/atfal1.com/atfal2/playlist.m3u8
 #EXTINF:-1 tvg-id="Athaqafia.ma" group-title="Culture",Athaqafia
@@ -305,8 +311,6 @@ https://flu.systemnet.tv/CBCDrama/index.m3u8
 https://flu.systemnet.tv/CBCSofra/index.m3u8
 #EXTINF:-1 tvg-id="Ch4TeenDocumentary.kw" group-title="Religious",Ch4Teen Documentary
 https://ch14.tv/live/ch4teendoc/playlist.m3u8
-#EXTINF:-1 tvg-id="ChadaTV.ma" group-title="General",Chada TV
-https://chadatv.vedge.infomaniak.com/livecast/chadatv/playlist.m3u8
 #EXTINF:-1 tvg-id="ChadaTV.ma" group-title="General",Chada TV
 https://edge13.vedge.infomaniak.com/livecast/ik:chadatv/manifest.m3u8
 #EXTINF:-1 tvg-id="ChadaTV.ma" group-title="General",Chada TV
@@ -339,6 +343,8 @@ https://sw1.tanitweb.net/TunisiaTV/_definst_/watania1/playlist.m3u8?DVR
 https://sw1.tanitweb.net/TunisiaTV/_definst_/watania2/chunklist.m3u8
 #EXTINF:-1 tvg-id="ElWatania2.tn" group-title="General",El Watania 2
 https://sw1.tanitweb.net/TunisiaTV/_definst_/watania2/playlist.m3u8?DVR
+#EXTINF:-1 tvg-id="ElwataniaTV.dz" group-title="General",Elwatania TV
+https://livesstream.work.gd:5443/WebRTCApp/streams/stream.m3u8
 #EXTINF:-1 tvg-id="EmanTv.iq" group-title="Family",EmanTv
 https://avr.host247.net/live/emantv/playlist.m3u8
 #EXTINF:-1 tvg-id="ERiTV1.er" group-title="General",ERi-TV 1
@@ -349,6 +355,8 @@ https://shd-amg-fast.edgenextcdn.net/tx029/playlist.m3u8
 https://rp.tactivemedia.com/palestiniantv_source/live/playlist.m3u8
 #EXTINF:-1 tvg-id="FarmodaTV.iq" group-title="Religious",FarmodaTV
 https://avr.host247.net/live/FarmodaTV/playlist.m3u8
+#EXTINF:-1 tvg-id="FujairahTV.ae" group-title="Entertainment",Fujairah TV
+https://live.kwikmotion.com/fujairahlive/fujairah.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="FutureTV.lb" group-title="General",Future TV
 https://live.kwikmotion.com/futurelive/ftv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="HalabTodayTV.sy" group-title="News",Halab Today TV
@@ -413,6 +421,8 @@ https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8
 https://edge3.uk.kab.tv/live/tv66-heb-high/playlist.m3u8
 #EXTINF:-1 tvg-id="KaifaTV.jo" group-title="General",Kaifa TV
 http://82.212.74.2:8000/live/7311.m3u8
+#EXTINF:-1 tvg-id="Kan11.il" group-title="General",Kan 11
+https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="KoogiTV.eg" group-title="Kids, Religious",Koogi TV
 https://5d658d7e9f562.streamlock.net/koogi.tv/koogi.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="KSASports1.sa" group-title="Sports",KSA Sports 1
@@ -731,6 +741,10 @@ https://htvint.mada.ps/orient/index.m3u8
 https://stream.badinan.xyz/welat/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="YemenTodayTV.ye" group-title="Uncategorized",Yemen Today TV
 https://video.yementdy.tv/hls/yementoday.m3u8
+#EXTINF:-1 tvg-id="YemenTV.ye" group-title="Uncategorized",Yemen TV
+https://live.yementv.tv/memfs/c8fe49a3-b1ca-4d14-9d78-498e8bad4f76_fast_output_0.m3u8
+#EXTINF:-1 tvg-id="YemenTV.ye" group-title="Uncategorized",Yemen TV
+https://live.yementv.tv/memfs/c8fe49a3-b1ca-4d14-9d78-498e8bad4f76_fast_output_0.m3u8?session=a3Ukc9eUVXdFTN58aiYFdR
 #EXTINF:-1 tvg-id="ZagrosTV.iq" group-title="General",Zagros TV
 https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ZeeAflam.ae" group-title="Movies",Zee Aflam
