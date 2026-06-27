@@ -187,6 +187,8 @@ https://zylo-cinenanar-rakuten.amagi.tv/playlist.m3u8
 https://a-cdn.klowdtv.com/live2/nost_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="CinePlusClassic.fr" group-title="Movies",Cine+ Classic
 http://99.27.51.147/CineClassic/index.m3u8
+#EXTINF:-1 tvg-id="CinePlusFrisson.fr" group-title="Movies",Cine+ Frisson
+http://99.27.51.147:8080/CineFrisson/index.m3u8
 #EXTINF:-1 tvg-id="CinePremiere.us" group-title="Movies",Cine Premiere
 https://jmp2.uk/plu-5cf968040ab7d8f181e6a68b.m3u8
 #EXTINF:-1 tvg-id="CineRetrobyPlutoTV.de" group-title="Movies",Cine Retro by Pluto TV
@@ -285,8 +287,6 @@ http://31.148.48.15/Fan/index.m3u8
 https://adpnetworkhd-cmd.github.io/iptv/FeniksPlusKino.m3u8
 #EXTINF:-1 tvg-id="FeniksplusKino.ru" group-title="Movies",Feniks plus Kino
 http://31.148.48.15/Feniks_plus_kino/index.m3u8
-#EXTINF:-1 tvg-id="Filmax.pk" group-title="Movies",Filmax
-https://s3.ideationtec.live/Filmax/Filmax.m3u8
 #EXTINF:-1 tvg-id="FilmBox.nl" group-title="Movies",FilmBox
 http://88.212.15.19/live/test_filmbox/playlist.m3u8
 #EXTINF:-1 tvg-id="FilmBox.nl" group-title="Movies",FilmBox
@@ -481,14 +481,14 @@ http://tv.cootel.com.kh:8077/streams/d/Komsan/playlist.m3u8
 https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="LifetimeMovies.us" group-title="Movies",Lifetime Movies
 http://23.237.104.106:8080/USA_LMN/index.m3u8
-#EXTINF:-1 tvg-id="LollywoodHDTV.cd" group-title="Movies",Lollywood HD TV
-https://stream.berosat.live/hls/lollywood-hd/lollywood-hd.m3u8
 #EXTINF:-1 tvg-id="Lyubimoe.ru" group-title="Movies",Lyubimoe
 https://adpnetworkhd-cmd.github.io/iptv/LubimoeHD.m3u8
 #EXTINF:-1 tvg-id="MaahTV.my" group-title="Movies",Maah TV
 https://hls.maahtv.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="MadeInHollywood.us" group-title="Movies",Made In Hollywood
 https://connection3-ent-nz.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="MagnificentMoviesNetwork.us" group-title="Movies, Shop",Magnificent Movies Network
+https://mmn1-301f.kxcdn.com/hls/MMN-HLS.m3u8
 #EXTINF:-1 tvg-id="MahaMovie.in" group-title="Movies",Maha Movie
 https://cdn-6.pishow.tv/live/10007/master.m3u8
 #EXTINF:-1 tvg-id="ManoranjanGrand.in" group-title="Movies",Manoranjan Grand
@@ -877,8 +877,6 @@ https://jmp2.uk/plu-5d4af2ffa9506ab29cf38c38.m3u8
 https://jmp2.uk/plu-62b30beb81f89900071fc7b9.m3u8
 #EXTINF:-1 tvg-id="PlutoTVParanormal.se" group-title="Movies",Pluto TV Paranormal
 https://jmp2.uk/plu-62b1e4189f5db20007ff03be.m3u8
-#EXTINF:-1 tvg-id="PlutoTVPsycho.de" group-title="Movies",Pluto TV Psycho
-https://jmp2.uk/plu-65ce480a78df2200131c597b.m3u8
 #EXTINF:-1 tvg-id="PlutoTVReaction.us" group-title="Movies",Pluto TV Reaction
 https://jmp2.uk/plu-617b37b361e0fd0008cfd8c5.m3u8
 #EXTINF:-1 tvg-id="PlutoTVRetroActionMovies.us" group-title="Classic, Movies",Pluto TV Retro Action Movies
@@ -1121,8 +1119,6 @@ https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/13
 http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/6944/index.m3u8
 #EXTINF:-1 tvg-id="TV1000.ro" group-title="Movies",TV1000
 http://82.78.243.219:45739/play/a01b/index.m3u8
-#EXTINF:-1 tvg-id="TV1000.si" group-title="Movies",TV1000
-https://lb.dstvmultimedia.com/NovaMax/index.m3u8
 #EXTINF:-1 tvg-id="TVCARiBCinema.sx" group-title="Movies",TVCARiB Cinema
 https://cdn.mycloudstream.io/hls/live/broadcast/l3vslw4i/index.m3u8
 #EXTINF:-1 tvg-id="TVLandDrama.us" group-title="Movies",TV Land Drama
@@ -1135,6 +1131,8 @@ http://c3921155.edmonst.net/iptv/42L7TCH8YYKLBRHNPV52HBRN/31765/index.m3u8
 http://315e5a5d.ottrast.com/iptv/8XFKA8883W9M5K/12024/index.m3u8
 #EXTINF:-1 tvg-id="ViasatKinoComedy.ua" group-title="Movies, Comedy",Viasat Kino Comedy
 http://c3921155.edmonst.net/iptv/42L7TCH8YYKLBRHNPV52HBRN/31764/index.m3u8
+#EXTINF:-1 tvg-id="ViasatKinoComedy.ua" group-title="Movies, Comedy",Viasat Kino Comedy
+http://ukr.ukrainske.tv/493/keytvainua/video.m3u8
 #EXTINF:-1 tvg-id="ViasatKinoWorld.ua" group-title="Movies",Viasat Kino World
 http://c3921155.edmonst.net/iptv/42L7TCH8YYKLBRHNPV52HBRN/31448/index.m3u8
 #EXTINF:-1 tvg-id="ViasatSerial.ua" group-title="Movies, Series",Viasat Serial
@@ -1169,3 +1167,5 @@ http://103.175.73.12:8080/live/270/master.m3u8
 http://41.223.30.230/ZEEAFLAM/index.m3u8
 #EXTINF:-1 tvg-id="ZeeCinema.in" group-title="Movies",Zee Cinema
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/NGCHD.m3u8
+#EXTINF:-1 tvg-id="ZeeCinema.in" group-title="Movies",Zee Cinema
+http://41.223.30.230/ZEECINEMA/index.m3u8
