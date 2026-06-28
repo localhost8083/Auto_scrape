@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="2STV.sn" group-title="Culture",2STV
-http://69.64.57.208/2stv/playlist.m3u8
 #EXTINF:-1 tvg-id="3ABNCanada.ca" group-title="Religious",3ABN Canada
 https://3abn.bozztv.com/3abncanada/3ABN/master.m3u8
 #EXTINF:-1 tvg-id="4Kurd.fr" group-title="Music",4Kurd
@@ -15,6 +13,8 @@ https://video1.getstreamhosting.com:1936/8042/8042/playlist.m3u8
 https://live-20minutestv.digiteka.com/1961167769/index.m3u8
 #EXTINF:-1 tvg-id="981PearlFM.sx" group-title="Music",98.1 Pearl FM
 https://live2.tensila.com/pearl-v-1.pearlfm/hls/live/mystream.m3u8
+#EXTINF:-1 tvg-id="A2iMusic.sn" group-title="Music",A2i Music
+https://stream.sen-gt.com/A2iMusic/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="A2iReligion.sn" group-title="Religious",A2i Religion
 https://stream.sen-gt.com/A2iReligion/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="A12TV.ci" group-title="General",A12 TV
@@ -91,6 +91,8 @@ http://live.azstartv.com/azstar/smil:azstar.smil/playlist.m3u8
 https://live.livestreamtv.ca/azstar/ngrp:azstar/playlist.m3u8
 #EXTINF:-1 tvg-id="BAMTV.be" group-title="Culture",BAM-TV
 https://belafrikamediatv.vedge.infomaniak.com/livecast/ik:belafrikamediatv/manifest.m3u8
+#EXTINF:-1 tvg-id="BarakaTelevision.cd" group-title="News",Baraka Television
+https://stream.berosat.live:19360/baraka-hd/baraka-hd.m3u8
 #EXTINF:-1 tvg-id="BelRTL.be" group-title="Music",Bel RTL
 https://bel-live-hls.akamaized.net/hls/live/2038650/BEL-Live-HLS/master.m3u8
 #EXTINF:-1 tvg-id="BenieTV.ci" group-title="Religious",Benie TV
@@ -127,6 +129,8 @@ https://event.vedge.infomaniak.com/livecast/ik:canal32_4/manifest.m3u8
 https://canalalphaju.vedge.infomaniak.com/livecast/ik:canalalphaju/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalAlphaNeuchatel.ch" group-title="Uncategorized",Canal Alpha Neuchatel
 https://canalalpha.vedge.infomaniak.com/livecast/ik:canalalpha/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalJ.fr" group-title="Kids",Canal J
+http://41.205.77.102/CANALJ/index.m3u8
 #EXTINF:-1 tvg-id="CanalPlus.fr" group-title="Entertainment",Canal+
 http://151.80.18.177:86/Canal+_HD/index.m3u8
 #EXTINF:-1 tvg-id="CanalPlusCinemas.fr" group-title="Movies",Canal+ Cinemas
@@ -171,8 +175,6 @@ https://652930de05533.streamlock.net/live/ngrp:livestream_all/playlist.m3u8
 http://185.105.4.236:1935/live/ngrp:livestream_all/live.m3u8
 #EXTINF:-1 tvg-id="CHCOTV.ca" group-title="General",CHCO-TV
 https://temp4.isilive.ca/live/CHCOTV/live/index.m3u8
-#EXTINF:-1 tvg-id="CheriflaTV.ml" group-title="General",Cherifla TV
-http://69.64.57.208/cherifla/playlist.m3u8
 #EXTINF:-1 tvg-id="CineNanar.fr" group-title="Movies",Cine Nanar
 https://zylo-cinenanar-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="CinePlusClassic.fr" group-title="Movies",Cine+ Classic
@@ -217,16 +219,14 @@ https://vdo3.pro-fhi.net:3218/stream/play.m3u8
 https://bild-und-ton.stream/die-neue-zeit-tv-live/smil:dnz-de.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="DisneyJr.fr" group-title="Kids",Disney Jr.
 http://151.80.18.177:86/Disney_Junior_HD/index.m3u8
+#EXTINF:-1 tvg-id="DisneyJr.fr" group-title="Kids",Disney Jr.
+http://41.205.77.102/DISNEY-JUNIOR/index.m3u8
 #EXTINF:-1 tvg-id="DudelangeTV.lu" group-title="General",Dudelange TV
 https://streamer20.multimedia.blue/Eltrona/DudelangeTV/playlist.m3u8
 #EXTINF:-1 tvg-id="DukhNivaran.ca" group-title="Culture",Dukh Nivaran
 http://cdn12.henico.net:8080/live/dncal/index.m3u8
 #EXTINF:-1 tvg-id="EawazTV.ca" group-title="Culture",Eawaz TV
 https://streamer12.vdn.dstreamone.net/saazoawaz/saazoawaz/playlist.m3u8
-#EXTINF:-1 tvg-id="EbS.be" group-title="Legislative",EbS
-https://streams.prd.commavservices.eu/live/ebs/index.m3u8
-#EXTINF:-1 tvg-id="EbSPlus.be" group-title="Legislative",EbS+
-https://streams.prd.commavservices.eu/live/ebsplus/index.m3u8
 #EXTINF:-1 tvg-id="EdenTV.bj" group-title="General",Eden TV
 https://rtmp.edentv.bj/hls/stream.m3u8
 #EXTINF:-1 tvg-id="EETTV.ca" group-title="Culture",EET TV
@@ -436,6 +436,8 @@ https://streamer12.vdn.dstreamone.net/carishowtime/showtime/chunks.m3u8
 #EXTINF:-1 tvg-id="GuideLoveTV.ci" group-title="Lifestyle",Guide Love TV
 https://video1.getstreamhosting.com:1936/8056/8056/playlist.m3u8
 #EXTINF:-1 tvg-id="Gulli.fr" group-title="Kids",Gulli
+http://41.205.77.102/GULLI/index.m3u8
+#EXTINF:-1 tvg-id="Gulli.fr" group-title="Kids",Gulli
 http://99.27.51.147:8080/Gulli/index.m3u8
 #EXTINF:-1 tvg-id="GurSikhSabhaTV.ca" group-title="Religious",GurSikh Sabha TV
 http://cdn12.henico.net:8080/live/gsctv/index.m3u8
@@ -621,8 +623,8 @@ http://rezofoot.tv/MCM/index.m3u8
 http://tv.mondeduloisir.fr:1935/tixtv/smil:web.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Meteonews.ch" group-title="Weather",Meteonews
 https://streaming.meteonews.net/hls/stream.m3u8
-#EXTINF:-1 tvg-id="mfm.lb" group-title="Music",mfm
-https://hms.pfs.gdn/hms/v1/broadcast/hlmvmp2hfriode891/playlist.m3u8
+#EXTINF:-1 tvg-id="Mezzo.fr" group-title="Music",Mezzo
+https://live-3.otcnet.ru/Mezzo/index.m3u8
 #EXTINF:-1 tvg-id="MHZ.ca" group-title="Entertainment",MHZ
 https://mhz-samsung-linear-ca.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="MierschTV.lu" group-title="General",MierschTV
@@ -643,6 +645,8 @@ https://op-group1-densxvisionhd-1.dens.tv/h/h18/index.m3u8
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8
 #EXTINF:-1 tvg-id="MyZenTV.fr" group-title="Relax",MyZen TV
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-samsungen-samsungit/playlist.m3u8
+#EXTINF:-1 tvg-id="NationalGeographicWild.fr" group-title="Documentary",National Geographic Wild
+http://41.205.77.102/NATGEO-WILD/index.m3u8
 #EXTINF:-1 tvg-id="NatureTime.ca" group-title="Documentary",NatureTime
 https://amg00090-blueantllc-lovenature-au-samsungau-wggcn.amagi.tv/playlist/amg00090-blueantllc-lovenature-au-samsungau/playlist.m3u8
 #EXTINF:-1 tvg-id="NatureTime.ca" group-title="Documentary",NatureTime
@@ -699,10 +703,6 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://2-fss-1.streamhoster.com/pl_122/201748-1431018-1/chunklist.m3u8
 #EXTINF:-1 tvg-id="NumericaTV.cd" group-title="General",Numerica TV
 https://tnt-television.com/NUMERICA/index.m3u8
-#EXTINF:-1 tvg-id="OneFM.lb" group-title="Music",OneFM
-https://hms.pfs.gdn/v1/broadcast/onefm/playlist.m3u8
-#EXTINF:-1 tvg-id="OneTV.lb" group-title="Music",One TV
-https://hms.pfs.gdn/v1/broadcast/one/playlist.m3u8
 #EXTINF:-1 tvg-id="OntarioParliamentaryNetwork.ca" group-title="Legislative",Ontario Parliamentary Network
 https://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8
 #EXTINF:-1 tvg-id="OntarioParliamentaryNetwork.ca" group-title="Legislative",Ontario Parliamentary Network
@@ -797,8 +797,6 @@ https://585b674743bbb.streamlock.net/9030/9030/playlist.m3u8
 https://uni01rtmp.tulix.tv/4vehtv/4vehtv-firetv/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioTeleEvangileSansLimite.ca" group-title="Religious",Radio Tele Evangile Sans Limite
 https://5790d294af2dc.streamlock.net/8124/8124/chunklist.m3u8
-#EXTINF:-1 tvg-id="RadioTeleFullGospel.ht" group-title="Religious",Radio Tele Full Gospel
-https://f-tx-edge-87.christianworldmedia.com/EJCFG/mp4:EJCFG/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioTeleGinen.ht" group-title="General",Radio Tele Ginen
 http://teleginen.srfms.com:1935/teleginen/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioTeleHit.ht" group-title="Music",Radio Tele Hit
@@ -817,6 +815,10 @@ http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/1038/index.m3u8
 https://edge12.vedge.infomaniak.com/livecast/ik:livehautetension/manifest.m3u8
 #EXTINF:-1 tvg-id="RLPROTV.cd" group-title="Documentary",RL PRO TV
 https://stream.berosat.live:19360/rlpro-tv/rlpro-tv.m3u8
+#EXTINF:-1 tvg-id="RMCDecouverte.fr" group-title="Uncategorized",RMC Decouverte
+http://41.205.77.102/RMCDECOUVERTE/index.m3u8
+#EXTINF:-1 tvg-id="RMCLife.fr" group-title="Entertainment, Interactive",RMC Life
+http://41.205.77.102/CHERIE25/index.m3u8
 #EXTINF:-1 tvg-id="RMCStory.fr" group-title="Uncategorized",RMC Story
 https://d15aro46bnpfm8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fqkqiax1078up/RMC_Story_FR.m3u8
 #EXTINF:-1 tvg-id="RTB3.bf" group-title="Culture",RTB 3
@@ -879,6 +881,8 @@ https://vdo2.pro-fhi.net:3297/stream/play.m3u8
 http://31.14.41.69:8080/hls/sensesonline/index.m3u8
 #EXTINF:-1 tvg-id="SenTV.sn" group-title="General",Sen TV
 http://69.64.57.208/sentv/playlist.m3u8
+#EXTINF:-1 tvg-id="SerieMax.ci" group-title="Series",Serie Max
+https://video1.getstreamhosting.com:1936/8330/8330/playlist.m3u8
 #EXTINF:-1 tvg-id="SikhSpiritualCentreRexdale.ca" group-title="Uncategorized",Sikh Spiritual Centre Rexdale
 https://cdn12.henico.net:8443/live/ssct/index.m3u8
 #EXTINF:-1 tvg-id="SivanTV.ch" group-title="Religious",Sivan TV
@@ -1047,6 +1051,8 @@ http://69.64.57.208/tfm/playlist.m3u8
 https://amg17292-amg17292c1-distrotv-us-4170.playouts.now.amagi.tv/playlist/amg17292-tetonridgellc-tetonridgefast-distrotvus/playlist.m3u8
 #EXTINF:-1 tvg-id="TheWeatherNetwork.ca" group-title="Weather",The Weather Network
 https://jmp2.uk/plu-63da370e2e477400081cf8b6.m3u8
+#EXTINF:-1 tvg-id="TiJi.fr" group-title="Kids",TiJi
+http://41.205.77.102/TIJI/index.m3u8
 #EXTINF:-1 tvg-id="Tipik.be" group-title="Uncategorized",Tipik
 http://193.111.198.85:8589/stream/mstv/rtbftipiklive26/master.m3u8?u=Oleg&p=967e33767f592e1aaf3d4019f38f380bf784e113b193d89c412d047059d6300d
 #EXTINF:-1 tvg-id="TM1TV.ml" group-title="General",TM1 TV
@@ -1105,6 +1111,8 @@ https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8
 https://tracesportstars-klowdtv.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TraceSportStars.fr" group-title="Sports",Trace Sport Stars
 https://amg01131-tracetv-amg01131c2-stirr-us-4392.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TraceSportStars.fr" group-title="Sports",Trace Sport Stars
+http://ott.watch/XE5QWWBZ87/256/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="TraceToca.fr" group-title="Music",Trace Toca
 https://channels.trace.plus/Traceprod/TOCA_hd/index.m3u8
 #EXTINF:-1 tvg-id="TraceUrban.fr" group-title="Music",Trace Urban
@@ -1183,6 +1191,8 @@ https://dlgt0tdl2hpq3.cloudfront.net/rtbf/clr-rtbf/764748cd/index.m3u8
 https://livevideo.infomaniak.com/streaming/livecast/tvm3/playlist.m3u8
 #EXTINF:-1 tvg-id="TVMonaco.mc" group-title="General",TV Monaco
 https://production-fast-mcrtv.content.okast.tv/channels/2116dc08-1959-465d-857f-3619daefb66b/b702b2b9-aebd-436c-be69-2118f56f3d86/master.m3u8
+#EXTINF:-1 tvg-id="TVOKids.ca" group-title="Kids",TVOKids
+https://fastly.live.brightcove.com/6369851620112/us-east-1/15364602001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoicGZncmlmLmVncmVzcy50N2M3emwiLCJhY2NvdW50X2lkIjoiMTUzNjQ2MDIwMDEiLCJlaG4iOiJmYXN0bHkubGl2ZS5icmlnaHRjb3ZlLmNvbSIsImlzcyI6ImJsaXZlLXBsYXliYWNrLXNvdXJjZS1hcGkiLCJzdWIiOiJwYXRobWFwdG9rZW4iLCJhdWQiOlsiMTUzNjQ2MDIwMDEiXSwianRpIjoiNjM2OTg1MTYyMDExMiJ9.zRE6fD9JwdbNLUIK5zgvlTAvXCQ3HeeE5p0yH0Pd3-Q/playlist-hls.m3u8
 #EXTINF:-1 tvg-id="TVPanou.ht" group-title="General",TV Panou
 http://tvpanoucom.srfms.com:1935/tvpanoucom/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="TVPunjab.ca" group-title="News",TV Punjab

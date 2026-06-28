@@ -113,6 +113,8 @@ https://vs-hls-pushb-ww.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_per
 https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persian_tv/hevc_iptv_mse_v0.mpd
 #EXTINF:-1 tvg-id="BBCThreeCBBC.uk" group-title="Family, Kids, Animation",BBC Three/CBBC
 https://adpnetworkhd-cmd.github.io/iptv/BBCThreeCBBC.m3u8
+#EXTINF:-1 tvg-id="BBCThreeCBBC.uk" group-title="Family, Kids, Animation",BBC Three/CBBC
+http://41.205.77.102/BBC-THREE/index.m3u8
 #EXTINF:-1 tvg-id="BBCTwo.uk" group-title="General",BBC Two
 https://adpnetworkhd-cmd.github.io/iptv/BBCTwo.m3u8
 #EXTINF:-1 tvg-id="Blaze.uk" group-title="Entertainment",Blaze
@@ -173,8 +175,6 @@ https://stream8.cinerama.uz/1442/tracks-v1a1/mono.m3u8
 https://cdn.global.elektamedia.com/live/c7eds/ENT_Channel/SA_LIVE_hls_enc/master.m3u8
 #EXTINF:-1 tvg-id="ENTFamily.uk" group-title="Entertainment",ENT Family
 https://cdn.global.elektamedia.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/master.m3u8
-#EXTINF:-1 tvg-id="EpicDrama.uk" group-title="Series",Epic Drama
-http://195.189.60.253/118/index.m3u8
 #EXTINF:-1 tvg-id="EpicDrama.uk" group-title="Series",Epic Drama
 http://82.78.243.219:45739/play/a01p/index.m3u8
 #EXTINF:-1 tvg-id="EpicDrama.uk" group-title="Series",Epic Drama
@@ -309,16 +309,12 @@ https://live-islamtv-urdu.simplestreamcdn.com/live13/islamtv_urdu/bitrate1.isml/
 https://e85541db4ae943d9b5a09477d6b1d8ab.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_Jail/playlist.m3u8
 #EXTINF:-1 tvg-id="JimJamEurope.uk" group-title="Kids",JimJam Europe
 http://158.160.149.81:8080/269/index.m3u8
-#EXTINF:-1 tvg-id="JimJamEurope.uk" group-title="Kids",JimJam Europe
-https://cors-proxy.cooks.fyi/http://212.5.144.156:8080/jimjam/index.m3u8
 #EXTINF:-1 tvg-id="KalemehTV.uk" group-title="Religious",Kalemeh TV
 https://klmhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="KanalJadid.uk" group-title="General",Kanal Jadid
 https://kjhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="KanshiTV.uk" group-title="Religious",Kanshi TV
 https://live.kanshitv.co.uk/mobile/kanshitvkey.m3u8
-#EXTINF:-1 tvg-id="LatestTV.uk" group-title="General",Latest TV
-https://5a0e89631aa14.streamlock.net/live/LatestTelevision/playlist.m3u8
 #EXTINF:-1 tvg-id="MagnavisionTV.uk" group-title="Entertainment",Magnavision TV
 https://j78dpa3edq5r-hls-live.5centscdn.com/abr/0864028584026e6ad9cdf922473177a4/playlist.m3u8
 #EXTINF:-1 tvg-id="MiracleTV.uk" group-title="Religious",Miracle TV
@@ -473,6 +469,8 @@ https://jmp2.uk/plu-66f137cb483d460008ece053.m3u8
 https://97bf7b92.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9SdWdieVBhc3NUVl9ITFM/playlist.m3u8
 #EXTINF:-1 tvg-id="RugbyPassTV.uk" group-title="Uncategorized",RugbyPass TV
 https://dt1kh32hg3tft.cloudfront.net/v1/world_rugby_rugbypasstv_1/samsungheadend_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="S4C.uk" group-title="Uncategorized",S4C
+https://live-uk.s4c-cdn.co.uk/out/v1/a0134f1fd5a2461b9422b574566d4442/live_uk.m3u8
 #EXTINF:-1 tvg-id="SafeerTV.uk" group-title="Religious",Safeer TV
 https://cdn3.wowza.com/1/YStGZlJRdktzZkdK/VXROZWNW/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-id="SetarehTV.uk" group-title="Uncategorized",Setareh TV
