@@ -51,8 +51,6 @@ http://88.212.15.19/live/test_amc_25p/playlist.m3u8
 http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/6949/index.m3u8
 #EXTINF:-1 tvg-id="AMCEurope.uk" group-title="Movies",AMC Europe
 https://dokagents.site/live/amc/mono.m3u8
-#EXTINF:-1 tvg-id="AMCEurope.uk" group-title="Movies",AMC Europe
-https://lb.dstvmultimedia.com/AMC/index.m3u8
 #EXTINF:-1 tvg-id="AmediaHit.ru" group-title="Movies, Series",Amedia Hit
 http://31.148.48.15/Amedia_HIT_HD/index.m3u8
 #EXTINF:-1 tvg-id="AmediaPremium.ru" group-title="Movies, Series",Amedia Premium
@@ -69,8 +67,6 @@ http://103.175.73.12:8080/live/271/271_0.m3u8
 https://amogonetworx-artflix-1-nl.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ARTFLIXMovieClassics.us" group-title="Movies, Classic",ARTFLIX Movie Classics
 https://amogonetworx-artflix-1-se.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="AuroraMediaFilms.gt" group-title="Movies",Aurora Media Films
-https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8
 #EXTINF:-1 tvg-id="AXN.es" group-title="Movies",AXN
 http://cdn.haititivi.com/AXN/index.m3u8
 #EXTINF:-1 tvg-id="AXNAdria.us" group-title="Movies",AXN Adria
@@ -185,6 +181,8 @@ https://zylo-cinenanar-rakuten.amagi.tv/playlist.m3u8
 https://a-cdn.klowdtv.com/live2/nost_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="CinePlusClassic.fr" group-title="Movies",Cine+ Classic
 http://99.27.51.147/CineClassic/index.m3u8
+#EXTINF:-1 tvg-id="CinePlusFrisson.fr" group-title="Movies",Cine+ Frisson
+http://99.27.51.147:8080/CineFrisson/index.m3u8
 #EXTINF:-1 tvg-id="CinePremiere.us" group-title="Movies",Cine Premiere
 https://jmp2.uk/plu-5cf968040ab7d8f181e6a68b.m3u8
 #EXTINF:-1 tvg-id="CineRetrobyPlutoTV.de" group-title="Movies",Cine Retro by Pluto TV
@@ -693,6 +691,8 @@ https://jmp2.uk/plu-61373bb45168fe000773eecd.m3u8
 https://jmp2.uk/plu-609059dc63be6e0007b4eca6.m3u8
 #EXTINF:-1 tvg-id="PlutoTVCineClassicos.us" group-title="Movies",Pluto TV Cine Classicos
 https://jmp2.uk/plu-5fa1612a669ba0000702017b.m3u8
+#EXTINF:-1 tvg-id="PlutoTVCineComedia.de" group-title="Movies",Pluto TV Cine Comedia
+https://jmp2.uk/plu-5f1ac8099c49f600076579b2.m3u8
 #EXTINF:-1 tvg-id="PlutoTVCineComedia.us" group-title="Movies",Pluto TV Cine Comedia
 https://jmp2.uk/plu-5f12101f0b12f00007844c7c.m3u8
 #EXTINF:-1 tvg-id="PlutoTVCineComedia.us" group-title="Movies",Pluto TV Cine Comedia
@@ -875,8 +875,6 @@ https://jmp2.uk/plu-612ce5214bb5790007ad3016.m3u8
 https://jmp2.uk/plu-5f8ed9461b35690007a0bc3a.m3u8
 #EXTINF:-1 tvg-id="PlutoTVParanormal.de" group-title="Movies",Pluto TV Paranormal
 https://jmp2.uk/plu-66c70033b1a34600087bb09a.m3u8
-#EXTINF:-1 tvg-id="PlutoTVParanormal.de" group-title="Movies",Pluto TV Paranormal
-https://jmp2.uk/plu-5d4af2ffa9506ab29cf38c38.m3u8
 #EXTINF:-1 tvg-id="PlutoTVParanormal.se" group-title="Movies",Pluto TV Paranormal
 https://jmp2.uk/plu-62b30beb81f89900071fc7b9.m3u8
 #EXTINF:-1 tvg-id="PlutoTVParanormal.se" group-title="Movies",Pluto TV Paranormal
@@ -1037,6 +1035,8 @@ https://stream8.cinerama.uz/1052/tracks-v1a1/mono.m3u8
 http://31.148.48.15/Rodnoe_kino/index.m3u8
 #EXTINF:-1 tvg-id="RojaMovies.in" group-title="Movies",Roja Movies
 https://stream.rojatv.cloud/rojatv/rojatv/index.m3u8
+#EXTINF:-1 tvg-id="RomedyNow.in" group-title="Movies",Romedy Now
+http://103.157.248.140:8000/play/a015/index.m3u8
 #EXTINF:-1 tvg-id="Runtime.us" group-title="Movies",Runtime
 https://jmp2.uk/plu-62c5d32e2c48f9000715b6e9.m3u8
 #EXTINF:-1 tvg-id="Runtime.us" group-title="Movies",Runtime
@@ -1097,6 +1097,8 @@ http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/StarChannel.stream/playlist.m3u8
 https://dash2.antik.sk/live/test_star_cinema_atktv/playlist.m3u8
 #EXTINF:-1 tvg-id="StarFamily.ru" group-title="Movies",Star Family
 https://dash2.antik.sk/live/test_star_family_atktv/playlist.m3u8
+#EXTINF:-1 tvg-id="StarGoldThrills.in" group-title="Movies",Star Gold Thrills
+http://103.157.248.140:8000/play/a00b/index.m3u8
 #EXTINF:-1 tvg-id="StarzCinema.us" group-title="Movies",Starz Cinema
 http://23.237.104.106:8080/USA_STARZ_CINEMA/index.m3u8
 #EXTINF:-1 tvg-id="StudioOnePlus.in" group-title="Movies",Studio One +
