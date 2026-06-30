@@ -20,7 +20,11 @@ https://awtv.nuvemplay.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="AXNMovies.pt" group-title="Movies",AXN Movies
 http://50.7.120.34:8080/AXN_BLACK/index.m3u8
 #EXTINF:-1 tvg-id="BandNews.br" group-title="News",BandNews
+https://cdn-5.nxplay.com.br/BAND_NEWS/index.m3u8
+#EXTINF:-1 tvg-id="BandNews.br" group-title="News",BandNews
 http://143.14.178.40:7777/Band_News_HD/index.m3u8
+#EXTINF:-1 tvg-id="BandSports.br" group-title="Sports",Band Sports
+https://cdn-5.nxplay.com.br/BAND_SPORTS/index.m3u8
 #EXTINF:-1 tvg-id="BandSports.br" group-title="Sports",Band Sports
 http://143.14.178.40:7777/Band_Sports_HD/index.m3u8
 #EXTINF:-1 tvg-id="Bis.br" group-title="Uncategorized",Bis
@@ -55,6 +59,8 @@ http://143.14.178.40:7777/OFF_HD/index.m3u8
 https://cdn2.easy.tv.br/canalrural/index.m3u8
 #EXTINF:-1 tvg-id="CanalSaude.br" group-title="Education, Lifestyle",Canal Saude
 https://eitv7.cdn.broadpeak.io/account351-i1495/event/canalsaude/format720p.m3u8
+#EXTINF:-1 tvg-id="CanalSete.br" group-title="General",Canal Sete
+http://play.canalsete.com.br:1935/canalsete/xpl-c7_source/playlist.m3u8
 #EXTINF:-1 tvg-id="CazeTV.br" group-title="Sports",CazeTV
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
 #EXTINF:-1 tvg-id="ChromaTV.br" group-title="Entertainment",Chroma TV
@@ -229,14 +235,16 @@ https://streaming.cloudecast.com/hls/redetves/index.m3u8
 https://cdn.live.br1.jmvstream.com/webtv/AVJ-15235/playlist/playlist.m3u8
 #EXTINF:-1 tvg-id="RedeTVParana.br" group-title="Uncategorized",RedeTV! Parana
 https://tv01.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
+#EXTINF:-1 tvg-id="RedeVida.br" group-title="Religious",Rede Vida
+https://cdn-5.nxplay.com.br/REDE_VIDA/index.m3u8
 #EXTINF:-1 tvg-id="ReinoInfantil.mz" group-title="Kids",Reino Infantil
 https://www.khuwemultimedia.com/hls/reinoinfantiltv/reinoinfantiltv.m3u8
 #EXTINF:-1 tvg-id="RFPtv.pt" group-title="Music",RFPtv
 https://video03.logicahost.com.br/rfptv/rfptv/playlist.m3u8
 #EXTINF:-1 tvg-id="RITTV.br" group-title="Religious",RIT TV
 https://acesso.ecast.site:3648/live/ritlive.m3u8
-#EXTINF:-1 tvg-id="RTP1.pt" group-title="General",RTP 1
-https://streaming-live.rtp.pt/liverepeater/rtp1HD.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RITTV.br" group-title="Religious",RIT TV
+https://cdn-5.nxplay.com.br/RIT_TV/index.m3u8
 #EXTINF:-1 tvg-id="RTP2.pt" group-title="General",RTP 2
 https://streaming-live.rtp.pt/liverepeater/rtp2HD.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="RTPAcores.pt" group-title="General",RTP Acores
@@ -247,8 +255,6 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtpacores.smil/playlist.m3u8
 https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="RTPMadeira.pt" group-title="General",RTP Madeira
 https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RTPMundo.pt" group-title="General",RTP Mundo
-https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="RTPNoticias.pt" group-title="News",RTP Noticias
 https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="RTPNoticias.pt" group-title="News",RTP Noticias
@@ -265,6 +271,8 @@ https://production-fast-sic.content.okast.tv/fa2e8c4385712f9a7dce4ff2dcebac2e/ch
 https://parecisfmlive.brasilstream.com.br/hls/parecisfmlive/index.m3u8
 #EXTINF:-1 tvg-id="SolTV.gq" group-title="Entertainment",SolTV
 https://stream.solmediaeg.com/soltv/soltv.m3u8
+#EXTINF:-1 tvg-id="SonyChannel.br" group-title="Uncategorized",Sony Channel
+https://cdn-5.nxplay.com.br/SONY_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="SOUTV.br" group-title="General",SOU TV
 https://video10.logicahost.com.br/soutv/soutv/playlist.m3u8
 #EXTINF:-1 tvg-id="STZTV.br" group-title="News, Culture",STZ TV
@@ -303,6 +311,8 @@ https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/5d880199c902eb4a1e8
 https://stream3.camara.gov.br/tv1/manifest.m3u8
 #EXTINF:-1 tvg-id="TVCancaoNova.br" group-title="Uncategorized",TV Cancao Nova
 https://5c65286fc6ace.streamlock.net/cancaonova/CancaoNova.stream_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="TVCancaoNova.br" group-title="Uncategorized",TV Cancao Nova
+https://cdn-5.nxplay.com.br/CANCAO_NOVA/index.m3u8
 #EXTINF:-1 tvg-id="TVCidade.cv" group-title="Music",TV Cidade
 https://stmv1.srvif.com/tvcidade/tvcidade/playlist.m3u8
 #EXTINF:-1 tvg-id="TVCidadeVerdeCuiaba.br" group-title="Uncategorized",TV Cidade Verde Cuiaba
@@ -317,6 +327,8 @@ https://5b7f3c45ab7c2.streamlock.net/8008/smil:8008.smil/playlist.m3u8?DVR=
 https://video05.logicahost.com.br/comunitariario/comunitariario/playlist.m3u8
 #EXTINF:-1 tvg-id="TVCultura.br" group-title="Uncategorized",TV Cultura
 https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
+#EXTINF:-1 tvg-id="TVCultura.br" group-title="Uncategorized",TV Cultura
+https://cdn-5.nxplay.com.br/TV_CULTURA/index.m3u8
 #EXTINF:-1 tvg-id="TVCultura.br" group-title="Uncategorized",TV Cultura
 https://lbgo.bozztv.com/ssh101/ssh101/tvlafaietehd/playlist.m3u8
 #EXTINF:-1 tvg-id="TVCultura.br" group-title="Uncategorized",TV Cultura
@@ -333,6 +345,8 @@ https://streaming.procergs.com.br:8443/tve/stve/playlist.m3u8
 https://tv02.zas.media:1936/tvfuturo/tvfuturo/playlist.m3u8
 #EXTINF:-1 tvg-id="TVGE.gq" group-title="General",TVGE
 http://69.64.57.208/tvge/playlist.m3u8
+#EXTINF:-1 tvg-id="TVGloboSaoPaulo.br" group-title="Uncategorized",TV Globo Sao Paulo
+https://cdn-5.nxplay.com.br/GLOBO_SP_TK/index.m3u8
 #EXTINF:-1 tvg-id="TVGloboSaoPaulo.br" group-title="Uncategorized",TV Globo Sao Paulo
 http://187.62.68.32:8080/GLOBO/index.m3u8
 #EXTINF:-1 tvg-id="TVGRANDENATALHDTVBRASIL.br" group-title="Entertainment",TV GRANDE NATAL HDTV BRASIL
@@ -373,8 +387,6 @@ https://w1.manasat.com/tvmana-leste/smil:tvmana-leste.smil/playlist.m3u8
 https://tv02.zas.media:1936/tvmarajoara/tvmarajoara/playlist.m3u8
 #EXTINF:-1 tvg-id="TVMAX.br" group-title="Uncategorized",TV MAX
 https://5cf4a2c2512a2.streamlock.net/tvmax/tvmax/playlist.m3u8
-#EXTINF:-1 tvg-id="TVMetropole.br" group-title="General",TV Metropole
-https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8
 #EXTINF:-1 tvg-id="TVNBN.br" group-title="General",TVNBN
 https://cdn.jmvstream.com/w/LVW-8410/LVW8410_uiZOVm6vz1/playlist.m3u8
 #EXTINF:-1 tvg-id="TVPadreCicero.br" group-title="Religious",TV Padre Cicero

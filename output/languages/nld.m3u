@@ -21,6 +21,8 @@ https://dnx1f4sl30ba2.cloudfront.net/nlpo/clr-nlpo/altenatv/index.m3u8
 https://takeoff.jetstre.am/?account=OmroepAssen&file=OmroepAssenTV/playlist.m3u8&output=playlist.m3u8&protocol=https&service=webdav&type=live
 #EXTINF:-1 tvg-id="AT5.nl" group-title="General",AT5
 https://takeoff.jetstre.am/?account=atvijf&file=live&output=playlist.m3u8&protocol=https&service=wowza&type=live
+#EXTINF:-1 tvg-id="ATV.be" group-title="General",ATV
+https://live.zendzend.com/mpegts/29375_107244/media_mpegts_0.m3u8
 #EXTINF:-1 tvg-id="BalchiTV.aw" group-title="Culture",Balchi TV
 https://rtmpcontrol.com:1936/balchitv/balchitv/playlist.m3u8
 #EXTINF:-1 tvg-id="BAMTV.be" group-title="Culture",BAM-TV
@@ -213,8 +215,6 @@ https://d2ycaxub5x98iw.cloudfront.net/nlpo/clr-nlpo/merwetv/index.m3u8
 https://ms2.mx-cd.net/dtv-02/204-1147034/3ML_TV.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ML5TV.nl" group-title="General",ML5 TV
 https://ms7.mx-cd.net/dtv-02/204-1147034/3ML_TV.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="NH.nl" group-title="General, News",NH
-https://takeoff.jetstre.am/?account=nhnieuws&file=live&output=playlist.m3u8&protocol=https&service=wowza&type=live
 #EXTINF:-1 tvg-id="NOOSTV.nl" group-title="General",NOOS TV
 https://ms2.mx-cd.net/tv/276-2860564/Omroep_NOOS.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Notele.be" group-title="General",Notele
@@ -295,8 +295,6 @@ https://ms2.mx-cd.net/dtv-02/260-2403096/Regio90TV.smil/playlist.m3u8
 https://d3ud9qm9b5yby9.cloudfront.net/nlpo/clr-nlpo/76ecd122/index.m3u8
 #EXTINF:-1 tvg-id="RPLWoerden.nl" group-title="General",RPL Woerden
 https://d1893oi5c6e5u0.cloudfront.net/nlpo/clr-nlpo/rpltvwoerden/index.m3u8
-#EXTINF:-1 tvg-id="RTLTVI.be" group-title="Uncategorized",RTL-TVI
-https://tvi-live-hls.akamaized.net/hls/live/2038650/TVI-Live-HLS/master.m3u8
 #EXTINF:-1 tvg-id="RTV1.nl" group-title="Uncategorized",RTV 1
 https://dy7fxpkq4ggk8.cloudfront.net/nlpo/clr-nlpo/rtv1/index.m3u8
 #EXTINF:-1 tvg-id="RTVArnhemTV.nl" group-title="Uncategorized",RTV Arnhem TV
@@ -429,6 +427,8 @@ https://ms2.mx-cd.net/tv/81-334271/VechtdalTV.smil/playlist.m3u8
 http://86.87.15.10:8003/play/a01x/index.m3u8
 #EXTINF:-1 tvg-id="VIPTV.aw" group-title="Music",VIP TV
 https://vs20.live.opencaster.com/viptvaruba_01e417ae/index.m3u8
+#EXTINF:-1 tvg-id="WavezFM.aw" group-title="Music",Wavez FM
+https://media.streambrothers.com:1936/uszqnhpjpa/uszqnhpjpa/playlist.m3u8
 #EXTINF:-1 tvg-id="WeertFMTV.nl" group-title="General",WeertFM TV
 https://ms2.mx-cd.net/tv/151-573495/WeertFM_TV.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="WOS.nl" group-title="Uncategorized",WOS
