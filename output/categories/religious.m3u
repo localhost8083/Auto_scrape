@@ -259,6 +259,8 @@ https://live.x2.co.th/live/bntv.m3u8
 https://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8
 #EXTINF:-1 tvg-id="BXInspire.us" group-title="Religious, General",BX Inspire
 https://reflect-stream-bronxnet.cablecast.tv/live-18/live/stream-7/live.m3u8
+#EXTINF:-1 tvg-id="Canal13Jujuy.ar" group-title="Religious",Canal 13 Jujuy
+https://genexservicios.com:19360/canal13jujuy/canal13jujuy.m3u8
 #EXTINF:-1 tvg-id="Canal26TVIAP.sv" group-title="Religious",Canal 26 TV IAP
 https://vdo.tecnoservix.stream:3899/live/canal26tvlive.m3u8
 #EXTINF:-1 tvg-id="Canal30TVBethel.gt" group-title="Religious",Canal 30 TV Bethel
@@ -487,6 +489,8 @@ http://flash.softhost.com.br:1935/fonte/fontetv/live.m3u8
 https://59fb88a1b1108.streamlock.net/fonte/_definst_/fontetv/chunklist_w1224511652.m3u8
 #EXTINF:-1 tvg-id="FortalezaTV.cl" group-title="Religious",Fortaleza TV
 https://multimedia.fortalezatv.cl/video/video.m3u8
+#EXTINF:-1 tvg-id="FrecuenciaFTV.co" group-title="Religious",Frecuencia F TV
+https://tv.frecuenciaf.com/live/envivo_1080p4000kbs/index.m3u8
 #EXTINF:-1 tvg-id="GBNTV.us" group-title="Religious",GBN TV
 https://cdn3.wowza.com/5/Ny9jK1A1Q3h4N1VZ/live/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="GCN.kr" group-title="Religious",GCN
@@ -531,8 +535,6 @@ https://d1msejlow1t3l4.cloudfront.net/211125/godtv/chunks.m3u8
 https://live.streamingfast.net/osmflivech2.m3u8
 #EXTINF:-1 tvg-id="GoodLife45.us" group-title="Religious",GoodLife 45
 https://2-fss-2.streamhoster.com/pl_118/201450-1248872-1/playlist.m3u8
-#EXTINF:-1 tvg-id="GoodnessTV.in" group-title="Religious",Goodness TV
-https://mumt02.tangotv.in/GOODNESSTV/index.m3u8
 #EXTINF:-1 tvg-id="GoodNewsTV.in" group-title="Religious",GoodNews TV
 https://bpgdlwwar3ze-hls-live.wmncdn.net/goodnews/live.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="GoodTV.kr" group-title="Religious",Good TV
@@ -555,8 +557,6 @@ https://rpn3.bozztv.com/schurch1/livecdn69/live/playlist.m3u8
 https://streamer1.nexgen.bz/GUADALUPE_MEDIA/index.m3u8
 #EXTINF:-1 tvg-id="GurSikhSabhaTV.ca" group-title="Religious",GurSikh Sabha TV
 http://cdn12.henico.net:8080/live/gsctv/index.m3u8
-#EXTINF:-1 tvg-id="HabibTV.ir" group-title="Religious",Habib TV
-https://ncdn.telewebion.ir/habib/live/playlist.m3u8
 #EXTINF:-1 tvg-id="HareKrsnaTV.in" group-title="Religious",Hare Krsna TV
 https://hktv.harekrsnatv.com/HKTV/HKWebApp/manifest.mpd
 #EXTINF:-1 tvg-id="HareKrsnaTV.in" group-title="Religious",Hare Krsna TV
@@ -579,8 +579,6 @@ https://cdn-1.pishow.tv/live/959/master.m3u8
 https://aloula-redirect.vercel.app/13/playlist.m3u8
 #EXTINF:-1 tvg-id="HolyQuranRadio.sa" group-title="Religious, General",Holy Quran Radio
 https://live.kwikmotion.com/sbrksaquranradiolive/srpksaquranradio/playlist.m3u8
-#EXTINF:-1 tvg-id="HolyQuranRadioNablus.ps" group-title="Religious",Holy Quran Radio Nablus
-http://streaming.zaytonatube.com:8080/holyquran/holyquran/video.m3u8
 #EXTINF:-1 tvg-id="HomebaseTV.za" group-title="Religious",Homebase TV
 https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_022/Stream/playlist.m3u8
 #EXTINF:-1 tvg-id="HopeChannelAfrica.za" group-title="Religious",Hope Channel Africa
@@ -623,6 +621,8 @@ https://cloud37.ecuatel.com/iglesia2020/Stream1/playlist.m3u8
 http://streamingcontrol.com:1935/ectv/ectv/playlist.m3u8
 #EXTINF:-1 tvg-id="IIPCTV.ca" group-title="Religious",IIPC TV
 https://rpn.bozztv.com/dvrfl03/iipctv/index.m3u8
+#EXTINF:-1 tvg-id="IIPCTV.ca" group-title="Religious",IIPC TV
+https://uni10rtmp.tulix.tv/iipctv/iipctv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ImamHusseinTV1.iq" group-title="Religious",Imam Hussein TV 1
 https://live.imamhossaintv.com/live/ih1.m3u8
 #EXTINF:-1 tvg-id="ImamHusseinTV2.iq" group-title="Religious",Imam Hussein TV 2
@@ -667,12 +667,6 @@ https://live.jayatv.lk/hls/stream.m3u8
 https://tv.webmedialive.com/jbn_live/enlace/playlist.m3u8
 #EXTINF:-1 tvg-id="JBNTV.hn" group-title="Religious",JBN TV
 https://viewhn.com/jbn_live/enlace/playlist.m3u8
-#EXTINF:-1 tvg-id="JBS.us" group-title="Religious",JBS
-http://uni8rtmp.tulix.tv:1935/shalomtv-pc/smil:shalomtv.smil/master.m3u8
-#EXTINF:-1 tvg-id="JBS.us" group-title="Religious",JBS
-http://uni8rtmp.tulix.tv:1935/shalomtv-pc/smil:shalomtv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="JBS.us" group-title="Religious",JBS
-https://uni8rtmp.tulix.tv/shalomtv-pc/smil:shalomtv.smil/master.m3u8
 #EXTINF:-1 tvg-id="JehovaTV.hn" group-title="Religious",Jehova TV
 https://mp.panelchs.com:1936/8038/8038/playlist.m3u8
 #EXTINF:-1 tvg-id="JewishLifeTelevision.us" group-title="Culture, Religious",Jewish Life Television
@@ -983,6 +977,8 @@ https://s.emisoras.tv:8081/penielkids/index.m3u8
 https://s.emisoras.tv:8081/penielmusical/index.m3u8
 #EXTINF:-1 tvg-id="PenielTVBibliaAbierta.gt" group-title="Religious",Peniel TV Biblia Abierta
 https://s.emisoras.tv:8081/penielbibliaabierta/index.m3u8
+#EXTINF:-1 tvg-id="PentTV.gh" group-title="Religious",Pent TV
+https://playlist.dacast.com/live/a72117af-d78e-7ffe-7c12-1af6cd4a8483-live-42172a86-494b-a866-498f-dbaff4b5e3c0/master.m3u8
 #EXTINF:-1 tvg-id="PlovdivOrthodoxTV.bg" group-title="Religious",Plovdiv Orthodox TV
 http://78.130.149.196:1935/live/pptv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="PMCTelugu.in" group-title="Religious",PMC Telugu
