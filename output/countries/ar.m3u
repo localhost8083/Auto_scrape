@@ -55,8 +55,6 @@ http://vivo.canal3tacural.com.ar:8081/hls/stream.m3u8
 https://5cd577a3dd8ec.streamlock.net/CANAL4/smil:CANAL4.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal4Posadas.ar" group-title="Uncategorized",Canal 4 Posadas
 https://iptv.ixfo.com.ar:30443/live/C4POS/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal4SanJuan.ar" group-title="Uncategorized",Canal 4 San Juan
-https://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal4Teleaire.ar" group-title="General",Canal 4 Teleaire
 https://stmvideo6.livecastv.com/canal4/canal4/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal5DelPueblo.ar" group-title="General",Canal 5 Del Pueblo
@@ -77,12 +75,16 @@ https://vivo.solumedia.com:19360/cooperativa/cooperativa.m3u8
 https://vivo.solumedia.com:19360/canal7salta/canal7salta.m3u8
 #EXTINF:-1 tvg-id="Canal7TV.ar" group-title="Uncategorized",Canal 7 TV
 https://stream.arcast.com.ar/envivo/castv/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal9Link.ar" group-title="Entertainment",Canal 9 Link
+https://617c5175c970b.streamlock.net:4444/9linklivert/smil:9linkmultibr.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal9Litoral.ar" group-title="Uncategorized",Canal 9 Litoral
 https://stream.arcast.live/ahora/ahora/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal9Resistencia.ar" group-title="General",Canal 9 Resistencia
 http://coninfo.net:1935/9linklivert/smil:9linkmultibr.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal12Web.ar" group-title="Uncategorized",Canal 12 Web
 https://nd106.republicaservers.com:4433/c7827.mp4
+#EXTINF:-1 tvg-id="Canal13Jujuy.ar" group-title="Religious",Canal 13 Jujuy
+https://genexservicios.com:19360/canal13jujuy/canal13jujuy.m3u8
 #EXTINF:-1 tvg-id="Canal13LaRioja.ar" group-title="Uncategorized",Canal 13 La Rioja
 http://arcast.net:1935/mp/mp/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal13SanLuis.ar" group-title="Uncategorized",Canal 13 San Luis
@@ -91,8 +93,6 @@ https://stream.radiosmundiales.com:19360/sanluismas/sanluismas.m3u8
 https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal26.ar" group-title="News",Canal 26
 https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
-#EXTINF:-1 tvg-id="Canal34SanJuan.ar" group-title="General",Canal 34 San Juan
-https://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal79LaCosta.ar" group-title="Uncategorized",Canal 79 La Costa
 https://streamconex.com:19360/lacosta/lacosta.m3u8
 #EXTINF:-1 tvg-id="Canal79MardelPlata.ar" group-title="Uncategorized",Canal 79 Mar del Plata
@@ -167,6 +167,8 @@ http://181.119.93.83:8000/play/a1sr/index.m3u8
 https://jmp2.uk/plu-5a74b8e1e22a61737979c6bf.m3u8
 #EXTINF:-1 tvg-id="GarageTVLatinAmerica.ar" group-title="Auto",Garage TV Latin America
 https://stream1.sersat.com/hls/garagetv.m3u8
+#EXTINF:-1 tvg-id="IPNoticias.ar" group-title="News",IP Noticias
+https://twitch-m3u8.bastypro112.workers.dev/argentina_12tw/index.m3u8
 #EXTINF:-1 tvg-id="ItelTVCanal2.ar" group-title="General",Itel TV Canal 2
 https://proxystream.iteltv.com.ar/output/iteltv/playlist.m3u8
 #EXTINF:-1 tvg-id="KpopMix.ar" group-title="Uncategorized",Kpop Mix
@@ -225,8 +227,6 @@ https://media.neuquen.gov.ar/rtn/television/media.m3u8
 https://stream.radiosmundiales.com/hls/sanluismas/sanluismas.m3u8
 #EXTINF:-1 tvg-id="SanPedroTV.ar" group-title="Uncategorized",San Pedro TV
 https://iptv.ixfo.com.ar:30443/live/sanpedrotv/playlist.m3u8
-#EXTINF:-1 tvg-id="SenalU.ar" group-title="Culture",Senal U
-https://live20.bozztv.com/giatv/giatv-canal30tda/canal30tda/chunks.m3u8
 #EXTINF:-1 tvg-id="SenillosaTV.ar" group-title="Uncategorized",Senillosa TV
 https://player.videohost.click/senillosatv/senillosatv/playlist.m3u8
 #EXTINF:-1 tvg-id="SicardiTV.ar" group-title="Uncategorized",Sicardi TV
@@ -249,8 +249,6 @@ https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8
 https://live20.bozztv.com/giatv/giatv-teleposadaso01/teleposadaso01/playlist.m3u8
 #EXTINF:-1 tvg-id="TelpinTVCanal2HD.ar" group-title="Uncategorized",Telpin TV Canal 2 HD
 https://mistserver.telpin.com.ar:8443/hls/telpinlive/index.m3u8
-#EXTINF:-1 tvg-id="TIVTelevision.ar" group-title="Uncategorized",TIV Television
-https://videohd.live:19360/8008/8008.m3u8
 #EXTINF:-1 tvg-id="TN.ar" group-title="News",TN
 http://playcom.trapemn.tv:1935/transcoderip/tn.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="TVManaArgentina.ar" group-title="Religious",TV Mana Argentina
