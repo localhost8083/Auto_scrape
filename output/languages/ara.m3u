@@ -196,10 +196,6 @@ https://ktvlive.online/stream/hls/ch1.m3u8
 #EXTINF:-1 tvg-id="AlQuranAlKareemTV.sa" group-title="Religious",Al Quran Al Kareem TV
 https://aloula-redirect.vercel.app/7/playlist.m3u8
 #EXTINF:-1 tvg-id="AlQuranAlKareemTV.sa" group-title="Religious",Al Quran Al Kareem TV
-http://m.live.net.sa:1935/live/quran/gmswf.m3u8
-#EXTINF:-1 tvg-id="AlQuranAlKareemTV.sa" group-title="Religious",Al Quran Al Kareem TV
-http://m.live.net.sa:1935/live/quran/playlist.m3u8
-#EXTINF:-1 tvg-id="AlQuranAlKareemTV.sa" group-title="Religious",Al Quran Al Kareem TV
 https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8
 #EXTINF:-1 tvg-id="AlRasheedTV.iq" group-title="General",Al Rasheed TV
 https://media1.livaat.com/static/AL-RASHEED-HD/playlist.m3u8
@@ -237,10 +233,6 @@ https://5d94523502c2d.streamlock.net/alsharqiyalive/mystream/playlist.m3u8
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-al-souriya-tv/e3150760fa5fd62776225433b8c3d406/index.m3u8
 #EXTINF:-1 tvg-id="AlSunnahAlNabawiyahTV.sa" group-title="Religious",Al Sunnah Al Nabawiyah TV
 https://aloula-redirect.vercel.app/6/playlist.m3u8
-#EXTINF:-1 tvg-id="AlSunnahAlNabawiyahTV.sa" group-title="Religious",Al Sunnah Al Nabawiyah TV
-http://m.live.net.sa:1935/live/sunnah/gmswf.m3u8
-#EXTINF:-1 tvg-id="AlSunnahAlNabawiyahTV.sa" group-title="Religious",Al Sunnah Al Nabawiyah TV
-http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
 #EXTINF:-1 tvg-id="AlSunnahAlNabawiyahTV.sa" group-title="Religious",Al Sunnah Al Nabawiyah TV
 https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/index.m3u8
 #EXTINF:-1 tvg-id="AltaghierTV.jo" group-title="News",Altaghier TV
@@ -285,6 +277,8 @@ https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/manifest.mpd
 https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="AsharqRadio.sa" group-title="Business, News",Asharq Radio
 https://svs.itworkscdn.net/asharqradiovlive/asharqradiov/playlist.m3u8
+#EXTINF:-1 tvg-id="AtfalMawahebTV.sa" group-title="Kids",Atfal & Mawaheb TV
+https://5aafcc5de91f1.streamlock.net/atfal1.com/atfal2/playlist.m3u8
 #EXTINF:-1 tvg-id="AtfalMawahebTV.sa" group-title="Kids",Atfal & Mawaheb TV
 https://5d658d7e9f562.streamlock.net/atfal1.com/atfal2/playlist.m3u8
 #EXTINF:-1 tvg-id="AvarTV.iq" group-title="Uncategorized",Avar TV
@@ -339,6 +333,8 @@ https://hls.dabangasudan.org/hls/stream.m3u8
 https://radiodamascus.ortas.live/RDimshq/RDimshqLive/playlist.m3u8
 #EXTINF:-1 tvg-id="DijlahTV.iq" group-title="News",Dijlah TV
 https://ghaasiflu.online/Dijlah/index.m3u8
+#EXTINF:-1 tvg-id="DisneyChannel.il" group-title="Kids",Disney Channel
+http://bethoven.af-stream.com:1600/s/kwtlxswl/yes-disney-il-hd/video.m3u8
 #EXTINF:-1 tvg-id="DubaiTVInternational.ae" group-title="General",Dubai TV International
 http://185.9.2.18/chid_139/index.m3u8
 #EXTINF:-1 tvg-id="ElRadio9090FM.eg" group-title="Music",El Radio 9090 FM
@@ -377,6 +373,8 @@ https://aloula-redirect.vercel.app/13/playlist.m3u8
 https://live.kwikmotion.com/sbrksaquranradiolive/srpksaquranradio/playlist.m3u8
 #EXTINF:-1 tvg-id="HolyQuranRadioNablus.ps" group-title="Religious",Holy Quran Radio Nablus
 http://streaming.zaytonatube.com:8080/holyquran/holyquran/video.m3u8
+#EXTINF:-1 tvg-id="Hop.il" group-title="Kids",Hop!
+http://bethoven.af-stream.com:1600/s/kwtlxswl/hop-childhood-il/video.m3u8
 #EXTINF:-1 tvg-id="HudaTV.eg" group-title="Religious",Huda TV
 https://cdn.bestream.io:19360/elfaro1/elfaro1.m3u8
 #EXTINF:-1 tvg-id="i24NEWSHebrew.il" group-title="News",i24NEWS Hebrew
@@ -423,6 +421,8 @@ http://93.184.10.248/JordanSport/index.m3u8
 https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Tourism/playlist.m3u8
 #EXTINF:-1 tvg-id="JordanTV.jo" group-title="General",Jordan TV
 https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8
+#EXTINF:-1 tvg-id="Junior.il" group-title="Kids",Junior
+http://bethoven.af-stream.com:1600/s/kwtlxswl/junior-il/video.m3u8
 #EXTINF:-1 tvg-id="KabbalahforthePeopleIsrael.il" group-title="Religious",Kabbalah for the People Israel
 https://edge3.uk.kab.tv/live/tv66-heb-high/playlist.m3u8
 #EXTINF:-1 tvg-id="KaifaTV.jo" group-title="General",Kaifa TV
@@ -557,10 +557,16 @@ https://shd-amg-fast.edgenextcdn.net/tx012/playlist.m3u8
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mtv-lebanon/b8ebb2a5affb812f1541712adde10e26/index.m3u8
 #EXTINF:-1 tvg-id="MusawaChannel.ps" group-title="General",Musawa Channel
 https://pbc.furrera.ps/musawahd/index.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.il" group-title="Kids",Nickelodeon
+http://bethoven.af-stream.com:1600/s/kwtlxswl/yes-nickelodeon-il/video.m3u8
+#EXTINF:-1 tvg-id="NickJr.il" group-title="Kids",Nick Jr.
+http://bethoven.af-stream.com:1600/s/kwtlxswl/nick-jr-il/video.m3u8
 #EXTINF:-1 tvg-id="NidaeAlIslamRadio.sa" group-title="Music",Nidae AlIslam Radio
 https://aloula-redirect.vercel.app/14/playlist.m3u8
 #EXTINF:-1 tvg-id="NidaeAlIslamRadio.sa" group-title="Music",Nidae AlIslam Radio
 https://live.kwikmotion.com/sbrksanedaradiolive/srpksanedaradio/playlist.m3u8
+#EXTINF:-1 tvg-id="NogoumFMTV.eg" group-title="Music",NogoumFMTV
+https://nogoumtv.nrpstream.com/hls/stream.m3u8
 #EXTINF:-1 tvg-id="NourAlKoddass.lb" group-title="Religious",Nour Al Koddass
 https://svs.itworkscdn.net/nour1satlive/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="NourAlSharq.lb" group-title="Religious",Nour Al Sharq
@@ -593,8 +599,6 @@ https://pbc.furrera.ps/PalestineEDU/index.m3u8
 https://pbc.furrera.ps/palestinelivehd/index.m3u8
 #EXTINF:-1 tvg-id="PalestineSatelliteChannel.ps" group-title="General",Palestine Satellite Channel
 https://pbc.furrera.ps/palestinehd/index.m3u8
-#EXTINF:-1 tvg-id="PalestineSatelliteChannel.ps" group-title="General",Palestine Satellite Channel
-https://cdn-globecast.akamaized.net/live/eds/palestinian_satellite_channel/hls_roku/palestinian_satellite_channel.m3u8
 #EXTINF:-1 tvg-id="PalestineToday.ps" group-title="News",Palestine Today
 https://live.paltodaytv.com/paltv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="PanoramaFM.sa" group-title="Music",Panorama FM
