@@ -171,6 +171,8 @@ https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbeebies_
 https://cdn10jtedge.indihometv.com/atm/DASH/cbeebies/manifest.mpd
 #EXTINF:-1 tvg-id="CCTV14.cn" group-title="Kids",CCTV-14
 http://74.91.26.218:82/live/cctv14hd.m3u8
+#EXTINF:-1 tvg-id="Chikitoonz.pe" group-title="Kids",Chikitoonz
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/Chikitoonz/playlist.m3u8
 #EXTINF:-1 tvg-id="ChinolaTV.do" group-title="Kids",Chinola TV
 https://tv.wracanal10.com:3300/live/chinolatvlive.m3u8
 #EXTINF:-1 tvg-id="Chithiram.in" group-title="Kids",Chithiram
@@ -191,8 +193,6 @@ https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/clan_int_main_1080.m3u8
 http://88.212.15.19/live/ct_art_avc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="Cufo.al" group-title="Kids",Cufo
 https://digitalb-live.morescreens.com/DAL_1_005/playlist.m3u8?application_id=backoffice1&application_installation_id=1&authority_instance_id=spectar-prd-digitalb&detected_delivery_method=hls&id=DAL_1_005&playlist_template=nginx&profile_id=1&ps=94d0066599d8f74d1c090e93ac4617b6491d3629d2e2d770870fcef1f7effa25b204aa53b3821da5e9e65bee8e94331bcae2cb344d0739ca3a938b4ef2051cc8&subscriber_id=1&token=142cda7d50870275a9ca7988ff001b32ab30709b&uuid=backoffice1&vh=7ab82e63aae8510c6b37ea16da502e54e441a5a1a88bce0c8ed63da99bce948d86253d64ae00424dda8b9c8b6e2cd0f6cd79d8b0a56e10759210cdf4f6761d11&video_id=12498
-#EXTINF:-1 tvg-id="D2hKids.in" group-title="Kids",D2h Kids
-https://live-evg7.tv360.bitel.com.pe/bitel/pequestv/playlist.m3u8
 #EXTINF:-1 tvg-id="DetectiveConan.us" group-title="Animation, Kids",Detective Conan
 https://jmp2.uk/plu-62f3e8ad2a8e8000077b013d.m3u8
 #EXTINF:-1 tvg-id="DetectiveConan.us" group-title="Animation, Kids",Detective Conan
@@ -275,8 +275,6 @@ http://84.17.50.102/disneyjunior/index.m3u8
 http://206.212.244.63/655/index.m3u8
 #EXTINF:-1 tvg-id="DisneyJuniorMENA.uk" group-title="Kids",Disney Junior MENA
 http://116.90.120.157:8000/play/a0qo/index.m3u8
-#EXTINF:-1 tvg-id="DisneyStories.in" group-title="Kids",Disney Stories
-http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/Chikitoonz/playlist.m3u8
 #EXTINF:-1 tvg-id="DisneyXD.us" group-title="Kids",Disney XD
 http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
 #EXTINF:-1 tvg-id="DisneyXD.us" group-title="Kids",Disney XD
@@ -575,8 +573,12 @@ https://rezofoot.tv/NICKELODEON/index.m3u8
 http://206.212.244.63/666/index.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon.us" group-title="Kids",Nickelodeon
 http://40.160.24.55/NICKELODEON/index.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.us" group-title="Kids",Nickelodeon
+http://cdn.haititivi.net/NICKELODEON/index.m3u8
 #EXTINF:-1 tvg-id="NickelodeonAsia.sg" group-title="Kids",Nickelodeon Asia
 http://202.169.224.202:8800/udp/239.9.1.17:1234
+#EXTINF:-1 tvg-id="NickelodeonCIS.kz" group-title="Kids",Nickelodeon CIS
+https://stream8.cinerama.uz/1500/playlist.m3u8
 #EXTINF:-1 tvg-id="NickelodeonClasico.us" group-title="Kids",Nickelodeon Clasico
 https://jmp2.uk/plu-6824cda00101510f9eeaa011.m3u8
 #EXTINF:-1 tvg-id="NickelodeonClassico.us" group-title="Kids",Nickelodeon Classico
@@ -613,6 +615,8 @@ http://103.72.101.252:8080/live/1226.m3u8
 http://116.90.120.157:8000/play/a0i3/index.m3u8
 #EXTINF:-1 tvg-id="NickJr.il" group-title="Kids",Nick Jr.
 http://bethoven.af-stream.com:1600/s/kwtlxswl/nick-jr-il/video.m3u8
+#EXTINF:-1 tvg-id="NickJr.ru" group-title="Kids",Nick Jr.
+https://stream8.cinerama.uz/1501/playlist.m3u8
 #EXTINF:-1 tvg-id="NickJr.us" group-title="Kids",Nick Jr.
 http://84.17.50.102/nickjr/index.m3u8
 #EXTINF:-1 tvg-id="NickJr.us" group-title="Kids",Nick Jr.
@@ -643,6 +647,8 @@ http://41.205.93.154/NICKTOONS/index.m3u8
 http://40.160.24.55/NICKTOONS/index.m3u8
 #EXTINF:-1 tvg-id="NickToonsBrasil.br" group-title="Kids, Animation",NickToons Brasil
 https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8
+#EXTINF:-1 tvg-id="NicktoonsCIS.ru" group-title="Kids",Nicktoons CIS
+https://stream8.cinerama.uz/1502/playlist.m3u8
 #EXTINF:-1 tvg-id="NickWeb.br" group-title="Animation, Kids",NickWeb
 https://vs20.live.opencaster.com/nickelodeonbrasil_68f1743d/index.m3u8
 #EXTINF:-1 tvg-id="NinjaKidzTV.us" group-title="Kids",Ninja Kidz TV
@@ -683,6 +689,8 @@ https://amg02333-pbs-amg02333c6-firetv-us-4236.playouts.now.amagi.tv/playlist.m3
 https://d2spdq8rliqjem.cloudfront.net/v1/master/43fcaa28f618f06de1eb896cc4c2469172c85466/ac2206ef-c654-4325-8725-85d995901b62/live.m3u8
 #EXTINF:-1 tvg-id="PeppaPig.us" group-title="Kids",Peppa Pig
 https://jmp2.uk/plu-5d14fb6c84dd37df3b4290c5.m3u8
+#EXTINF:-1 tvg-id="PequesTV.pe" group-title="Kids",Peques TV
+https://live-evg7.tv360.bitel.com.pe/bitel/pequestv/playlist.m3u8
 #EXTINF:-1 tvg-id="PersianaJunior.fr" group-title="Kids",Persiana Junior
 https://junhls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="PersianaTeen.fr" group-title="Kids",Persiana Teen
@@ -905,6 +913,8 @@ http://bethoven.af-stream.com:1600/s/kwtlxswl/teennick-il/video.m3u8
 http://91.146.94.234:10001/play/a08o
 #EXTINF:-1 tvg-id="TeenNick.us" group-title="Kids",TeenNick
 http://206.212.244.63/670/index.m3u8
+#EXTINF:-1 tvg-id="TeletoonPlus.fr" group-title="Animation, Kids",Teletoon+
+http://cdn.haititivi.com/TELETOON-HD/index.m3u8
 #EXTINF:-1 tvg-id="Teletubbies.uk" group-title="Kids",Teletubbies
 https://jmp2.uk/plu-64e50055286f6b000838c067.m3u8
 #EXTINF:-1 tvg-id="Teletubbies.uk" group-title="Kids",Teletubbies
