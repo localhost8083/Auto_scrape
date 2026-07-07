@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="2STV.sn" group-title="Culture",2STV
+http://69.64.57.208/2stv/playlist.m3u8
 #EXTINF:-1 tvg-id="3ABNCanada.ca" group-title="Religious",3ABN Canada
 https://3abn.bozztv.com/3abncanada/3ABN/master.m3u8
 #EXTINF:-1 tvg-id="4Kurd.fr" group-title="Music",4Kurd
@@ -41,8 +43,6 @@ https://africa24.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8
 https://c3c275b999764df8a2dd55ffe2996818.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576/bitok/eyJzdGlkIjoiOTU0NDAyODQtOTU0My00Yzc2LThmZjQtNDRhY2YwYmQxYTYwIiwibWt0IjoicGwiLCJjaCI6NjYwNiwicHRmIjo1fQ==/26036/africanews-en.m3u8
 #EXTINF:-1 tvg-id="AfricanewsEnglish.fr" group-title="News",Africanews English
 https://cdn-euronews.akamaized.net/live/eds/africanews-en/25049/index.m3u8
-#EXTINF:-1 tvg-id="AfricanewsEnglish.fr" group-title="News",Africanews English
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/africanews/africanews-en.m3u8?ads.vf=Cxy9froLXMW
 #EXTINF:-1 tvg-id="AfricanewsFrench.fr" group-title="News",Africanews French
 https://cdn-euronews.akamaized.net/live/eds/africanews-fr/25050/index.m3u8
 #EXTINF:-1 tvg-id="AfrikInfoTV.gn" group-title="News",Afrik Info TV
@@ -97,6 +97,8 @@ http://live.azstartv.com/azstar/smil:azstar.smil/playlist.m3u8
 https://live.livestreamtv.ca/azstar/ngrp:azstar/playlist.m3u8
 #EXTINF:-1 tvg-id="BAMTV.be" group-title="Culture",BAM-TV
 https://belafrikamediatv.vedge.infomaniak.com/livecast/ik:belafrikamediatv/manifest.m3u8
+#EXTINF:-1 tvg-id="BarakaTelevision.cd" group-title="News",Baraka Television
+https://stream.berosat.live:19360/baraka-hd/baraka-hd.m3u8
 #EXTINF:-1 tvg-id="BCNTV.rw" group-title="Religious",BCN TV
 https://live.bcntv.org/live/bcn_16_9.m3u8
 #EXTINF:-1 tvg-id="BenieTV.ci" group-title="Religious",Benie TV
@@ -185,6 +187,8 @@ http://69.64.57.208/cherifla/playlist.m3u8
 https://zylo-cinenanar-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="CinePlusClassic.fr" group-title="Movies",Cine+ Classic
 http://99.27.51.147/CineClassic/index.m3u8
+#EXTINF:-1 tvg-id="CinePlusFrisson.fr" group-title="Movies",Cine+ Frisson
+http://99.27.51.147:8080/CineFrisson/index.m3u8
 #EXTINF:-1 tvg-id="CineWestern.fr" group-title="Movies",Cine Western
 https://amg00711-zylo-amg00711c8-rakuten-uk-2686.playouts.now.amagi.tv/playlist/amg00711-zylofast-cinewestern-rakutenuk/playlist.m3u8
 #EXTINF:-1 tvg-id="CityNewsCalgary.ca" group-title="News",CityNews Calgary
@@ -259,8 +263,6 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/live2.
 http://69.64.57.208/equinoxtv/playlist.m3u8
 #EXTINF:-1 tvg-id="ErfanHalghehTV.ca" group-title="Religious",Erfan Halgheh TV
 https://hls.erfanhalgheh.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="Esaie45Tele.cg" group-title="Religious",Esaie 45 Tele
-https://stream.berosat.live/hls/esaie45-tv/esaie45-tv.m3u8
 #EXTINF:-1 tvg-id="EspaceTV.gn" group-title="News",Espace TV
 https://edge11.vedge.infomaniak.com/livecast/ik:espacetv/manifest.m3u8
 #EXTINF:-1 tvg-id="ETV.gp" group-title="General",ETV
@@ -313,8 +315,6 @@ https://jmp2.uk/plu-61b86ea479a4390007c6d5fc.m3u8
 https://jmp2.uk/plu-619e6614c9d9650007a2b171.m3u8
 #EXTINF:-1 tvg-id="EuronewsPortuguese.fr" group-title="News",Euronews Portuguese
 https://6e52fb8b.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmxheHhUVi1ldV9FdXJvbmV3c1BvcnR1Z3Vlc19ITFM/playlist.m3u8
-#EXTINF:-1 tvg-id="EuronewsPortuguese.fr" group-title="News",Euronews Portuguese
-https://cdn-euronews.akamaized.net/live/eds/euronews-pt/25040/index.m3u8
 #EXTINF:-1 tvg-id="EuronewsRussian.fr" group-title="News",Euronews Russian
 https://stream8.cinerama.uz/1024/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="EuronewsRussian.fr" group-title="News",Euronews Russian
@@ -327,6 +327,10 @@ https://cdn-euronews.akamaized.net/live/eds/euronews-es/25053/index.m3u8
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/euronews-spa/euronews-es.m3u8?ads.vf=j3Z4oxuHXXK
 #EXTINF:-1 tvg-id="EuronewsSpanish.fr" group-title="News",Euronews Spanish
 https://jmp2.uk/plu-619d59b7cbef25000728221c.m3u8
+#EXTINF:-1 tvg-id="EvasionTV.gn" group-title="General",Evasion TV
+https://kali.vdopanel.com:3788/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="EVITV.cd" group-title="Entertainment",EVI TV
+https://stream.berosat.live:19360/evi-tv/evi-tv.m3u8
 #EXTINF:-1 tvg-id="Evtele.cg" group-title="Culture",Ev-tele
 https://playtv4k.live/live/EVTELE/index.m3u8
 #EXTINF:-1 tvg-id="FashionTVParisLOriginal.fr" group-title="Lifestyle",FashionTV Paris L'Original
@@ -557,6 +561,8 @@ https://5c46fa289c89f.streamlock.net/pub2live/myStream/playlist.m3u8
 https://video1.getstreamhosting.com:1936/8244/8244/playlist.m3u8
 #EXTINF:-1 tvg-id="JapanimTV.be" group-title="Animation, Kids",JapanimTV
 https://foxkidstv.be:3369/stream/play.m3u8
+#EXTINF:-1 tvg-id="JOSTVHD.cg" group-title="Culture",JOS TV HD
+https://stream.berosat.live:19360/jos-tv-stream/jos-tv-stream.m3u8
 #EXTINF:-1 tvg-id="KalacTV.gn" group-title="General",Kalac TV
 https://edge13.vedge.infomaniak.com/livecast/ik:kalactv/chunklist_w280736538.m3u8
 #EXTINF:-1 tvg-id="KassouaTV.bj" group-title="General",KassouaTV
@@ -577,6 +583,8 @@ https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/fd
 http://41.205.77.102/KTO/index.m3u8
 #EXTINF:-1 tvg-id="LanaTV.lb" group-title="General",Lana TV
 https://cdn.streamlane.tv/hls/ltv/master.m3u8
+#EXTINF:-1 tvg-id="LaUne.be" group-title="Entertainment",La Une
+http://193.111.198.85:8589/stream/mstv/rtbflaunelive26/master.m3u8?u=Oleg&p=967e33767f592e1aaf3d4019f38f380bf784e113b193d89c412d047059d6300d
 #EXTINF:-1 tvg-id="LauraDaveMediaTV.cm" group-title="General",Laura Dave Media TV
 https://streaming.lauradavemedia.com/ldm/index.m3u8
 #EXTINF:-1 tvg-id="LBCInternational.lb" group-title="General",LBC International
@@ -595,8 +603,6 @@ https://temp3.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8
 https://temp2.isilive.ca/live/_definst_/ontla/house-en-cc/playlist.m3u8
 #EXTINF:-1 tvg-id="LegislativeAssemblyTVNunavut.ca" group-title="Legislative",Legislative Assembly TV Nunavut
 http://temp2.isilive.ca/live/nunavut/live-eng/index.m3u8
-#EXTINF:-1 tvg-id="LemanBleu.ch" group-title="News",Leman Bleu
-http://livevideo.infomaniak.com/streaming/livecast/naxoo/playlist.m3u8
 #EXTINF:-1 tvg-id="LeMondeen24h.cd" group-title="News",Le Monde en 24h
 https://stream.berosat.live/hls/monde24h-tv-index/monde24h-tv-index.m3u8
 #EXTINF:-1 tvg-id="LeNouveauManagerTV.bj" group-title="Business",Le Nouveau Manager TV
@@ -627,6 +633,8 @@ https://rakutenaa-blueskyent-lovepetsemea-rakuten-ikc4q.amagi.tv/playlist/rakute
 https://amg01576-blueskyeenterta-lovepetsemea-samsunguk-32fso.amagi.tv/playlist/amg01576-blueskyeenterta-lovepetsemea-samsunguk/playlist.m3u8
 #EXTINF:-1 tvg-id="LovePets.ca" group-title="Documentary",Love Pets
 https://d31r8y66tn175.cloudfront.net/Love_Pets.m3u8
+#EXTINF:-1 tvg-id="M6.fr" group-title="Entertainment",M6
+http://99.27.51.147:8080/M6/index.m3u8
 #EXTINF:-1 tvg-id="M6.fr" group-title="Entertainment",M6
 http://cdn.haititivi.com/M6-HD/index.m3u8
 #EXTINF:-1 tvg-id="MadrasFMTV.gp" group-title="Music",Madras FM TV
@@ -741,6 +749,8 @@ http://live.stream.cdn.pamirtv.com/ptv/d0dbe915091d400bd8ee7f27f0791303.sdp/inde
 http://stream.pardesitv.online/pardesi/index.m3u8
 #EXTINF:-1 tvg-id="PardesiTV.ca" group-title="Culture",Pardesi TV
 http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="ParisPremiere.fr" group-title="General",Paris Premiere
+http://cdn.haititivi.com/PARIS-PREMIERE/index.m3u8
 #EXTINF:-1 tvg-id="PersianaCinema.fr" group-title="Movies",Persiana Cinema
 https://cinehls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="PersianaComedy.fr" group-title="Comedy",Persiana Comedy
@@ -899,8 +909,6 @@ https://stream.sen-gt.com/senjeunestv/myStream/playlist.m3u8
 http://69.64.57.208/sentv/playlist.m3u8
 #EXTINF:-1 tvg-id="SikhSpiritualCentreRexdale.ca" group-title="Uncategorized",Sikh Spiritual Centre Rexdale
 https://cdn12.henico.net:8443/live/ssct/index.m3u8
-#EXTINF:-1 tvg-id="SivanTV.ch" group-title="Religious",Sivan TV
-http://sivantv.livebox.co.in/sivantvhls/sivan.m3u8
 #EXTINF:-1 tvg-id="SohailTV.ca" group-title="General",Sohail TV
 https://iptv.sohailtv.com/sohail/playlist/index.m3u8
 #EXTINF:-1 tvg-id="SolTV.gq" group-title="Entertainment",SolTV
@@ -1021,8 +1029,12 @@ https://lotus.stingray.com/manifest/ose-317ads-montreal/samsungtvplus/master.m3u
 https://lotus.stingray.com/manifest/ose-190ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-id="StingrayUrbanBeat.ca" group-title="Music",Stingray Urban Beat
 https://lotus.stingray.com/manifest/ose-133ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="SunPlusTV.cm" group-title="Entertainment",Sun+ TV
+https://livemaraboo.com/hls/stream.m3u8
 #EXTINF:-1 tvg-id="SuperyachtTV.mc" group-title="Lifestyle",Superyacht TV
 https://sy.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="Syfy.fr" group-title="Uncategorized",Syfy
+http://99.27.51.147:8080/SYFY/index.m3u8
 #EXTINF:-1 tvg-id="T18.fr" group-title="General",T18
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/t18/t18-dm.m3u8
 #EXTINF:-1 tvg-id="TAGTV.ca" group-title="Uncategorized",TAG TV
@@ -1077,8 +1089,6 @@ http://69.64.57.208/tm1/playlist.m3u8
 https://tntv-samsung-fr.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TodayRadio.lu" group-title="Music",Today Radio
 https://stream.rtl.lu/data/live/tele/rtltodayradio/playlist.m3u8
-#EXTINF:-1 tvg-id="Toronto360TV.ca" group-title="Uncategorized",Toronto 360 TV
-http://cdn3.toronto360.tv:8081/toronto360/hd/playlist.m3u8
 #EXTINF:-1 tvg-id="TotalCrime.ca" group-title="Documentary",Total Crime
 https://aegis-cloudfront-1.tubi.video/b062c287-a170-47df-99e4-f5dcd441ee59/playlist.m3u8
 #EXTINF:-1 tvg-id="TR24Television.cm" group-title="Entertainment",TR24 Television
@@ -1096,7 +1106,13 @@ https://amg01131-tracetv-amg01131c4-stirr-us-4390.playouts.now.amagi.tv/playlist
 #EXTINF:-1 tvg-id="TraceCaribbean.fr" group-title="Music",Trace Caribbean
 https://channels.trace.plus/Traceprod/CARIBBEAN_hd/index.m3u8
 #EXTINF:-1 tvg-id="TraceGospel.fr" group-title="Music, Religious",Trace Gospel
+https://channels.trace.plus/Traceprod/GOSPEL_ROA/index.m3u8
+#EXTINF:-1 tvg-id="TraceGospel.fr" group-title="Music, Religious",Trace Gospel
 https://channels.trace.plus/Traceprod/GOSPEL_FR/.m3u8
+#EXTINF:-1 tvg-id="TraceGospel.fr" group-title="Music, Religious",Trace Gospel
+https://channels.trace.plus/Traceprod/GOSPEL_SA_ld/index.m3u8
+#EXTINF:-1 tvg-id="TraceIvoire.fr" group-title="Music",Trace Ivoire
+https://channels.trace.plus/Traceprod/TRACE_IVOIRE_hd/index.m3u8
 #EXTINF:-1 tvg-id="TraceJama.fr" group-title="Music",Trace Jama
 https://channels.trace.plus/Traceprod/JAMA_ld/index.m3u8
 #EXTINF:-1 tvg-id="TraceKitoko.fr" group-title="Music",Trace Kitoko
@@ -1117,6 +1133,8 @@ https://channels.trace.plus/Traceprod/MUZIKA_hd/index.m3u8
 https://channels.trace.plus/Traceprod/MZIKI_hd/index.m3u8
 #EXTINF:-1 tvg-id="TraceNaija.fr" group-title="Music",Trace Naija
 https://channels.trace.plus/Traceprod/NAIJA_hd/index.m3u8
+#EXTINF:-1 tvg-id="TraceNgoma.fr" group-title="Music",Trace Ngoma
+https://channels.trace.plus/Traceprod/AFRICA_EN_ld/index.m3u8
 #EXTINF:-1 tvg-id="TraceSportStars.fr" group-title="Sports",Trace Sport Stars
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TraceSportStars.fr" group-title="Sports",Trace Sport Stars
@@ -1183,6 +1201,8 @@ https://tvf-tv5ch.otteravision.com/tvf/tv5ch/tv5ch.m3u8
 http://45.14.84.37:80/tv5monde/index.m3u8
 #EXTINF:-1 tvg-id="TV5MondeStyle.fr" group-title="Lifestyle",TV5Monde Style
 https://ott.tv5monde.com/Content/HLS/Live/channel(style1)/variant.m3u8
+#EXTINF:-1 tvg-id="TV5QuebecCanada.ca" group-title="Uncategorized",TV5 Quebec Canada
+http://23.133.220.149/TV5/index.m3u8
 #EXTINF:-1 tvg-id="TV7Colmar.fr" group-title="General",TV7 Colmar
 https://tv7.live-kd.com/live/tv7/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="TV10.rw" group-title="General",TV10
@@ -1195,6 +1215,8 @@ https://live.tvcbenin.com/direct/729c37a1d3319ee21991227b1f84c687.sdp/playlist.m
 https://streamer1.streamhost.org/salive/GMItvfh/playlist.m3u8
 #EXTINF:-1 tvg-id="TVGE.gq" group-title="General",TVGE
 http://69.64.57.208/tvge/playlist.m3u8
+#EXTINF:-1 tvg-id="TVLaCapitale.ci" group-title="News",TV La Capitale
+https://stream.berosat.live:19360/tv-capitale-tream/tv-capitale-tream.m3u8
 #EXTINF:-1 tvg-id="TVLux.be" group-title="Uncategorized",TV Lux
 https://dlgt0tdl2hpq3.cloudfront.net/rtbf/clr-rtbf/764748cd/index.m3u8
 #EXTINF:-1 tvg-id="TVM3.ch" group-title="Uncategorized",TVM 3
