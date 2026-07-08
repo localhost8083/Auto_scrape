@@ -105,6 +105,8 @@ http://185.105.4.151:8080/_defapp_/ittihad/index.m3u8
 http://185.9.2.18/chid_391/mono.m3u8
 #EXTINF:-1 tvg-id="AlJanoubTV.iq" group-title="News",Al Janoub TV
 https://live.alissahost.net/hls/test.m3u8
+#EXTINF:-1 tvg-id="AlJawadainTV.iq" group-title="Religious",Al-Jawadain TV
+https://live.aljawadain.org/live/aljawadaintv/playlist.m3u8
 #EXTINF:-1 tvg-id="AlJazeera2.qa" group-title="News",Al Jazeera 2
 https://live-hls-web-aja2-gcp.thehlive.com/AJA2/index.m3u8
 #EXTINF:-1 tvg-id="AlJazeera.qa" group-title="News",Al Jazeera
@@ -215,8 +217,6 @@ https://alrayyancdn.vidgyor.com/pub-noalrayy3pwz0l/liveabr/playlist_dvr.m3u8
 https://aloula-redirect.vercel.app/12/playlist.m3u8
 #EXTINF:-1 tvg-id="AlRiyadhRadio.sa" group-title="Uncategorized",Al Riyadh Radio
 https://live.kwikmotion.com/sbrksariyadhradiolive/srpksariyadhradio/playlist.m3u8
-#EXTINF:-1 tvg-id="AlSahatTV.ye" group-title="Religious",Al-Sahat TV
-https://assahat.b-cdn.net/Assahat/assahatobs/index.m3u8
 #EXTINF:-1 tvg-id="AlSaudiya.sa" group-title="General",Al Saudiya
 https://aloula-redirect.vercel.app/2/playlist.m3u8
 #EXTINF:-1 tvg-id="AlSaudiya.sa" group-title="General",Al Saudiya
@@ -457,8 +457,6 @@ https://aloula-redirect.vercel.app/10/playlist.m3u8
 https://aloula-redirect.vercel.app/16/playlist.m3u8
 #EXTINF:-1 tvg-id="KTV1.kw" group-title="General",KTV 1
 https://kwtktv1ta.cdn.mangomolo.com/ktv1/smil:ktv1.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="KTV1.kw" group-title="General",KTV 1
-https://cdn-globecast.akamaized.net/live/eds/kuwait_tv1/hls_roku/index.m3u8
 #EXTINF:-1 tvg-id="KTV2.kw" group-title="Culture, News",KTV 2
 https://kwtktv2ta.cdn.mangomolo.com/ktv2/smil:ktv2.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="KTVAlQurain.kw" group-title="Religious",KTV Al Qurain
@@ -471,8 +469,6 @@ https://kwtethta.cdn.mangomolo.com/eth/smil:eth.stream.smil/chunklist.m3u8
 https://kwtkbta.cdn.mangomolo.com/kb/smil:kb.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="KTVNews.kw" group-title="News",KTV News
 https://kwtktvata.cdn.mangomolo.com/ktva/smil:ktva.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="KTVNews.kw" group-title="News",KTV News
-https://cdn-globecast.akamaized.net/live/eds/ktv_al_akhbar/hls_roku/ktv_al_akhbar.m3u8
 #EXTINF:-1 tvg-id="KTVSport.kw" group-title="Sports",KTV Sport
 https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="KTVSportPlus.kw" group-title="Sports",KTV Sport Plus
@@ -559,8 +555,6 @@ https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-maghreb_jnbspmg/playlist.m
 https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-maghreb_jnbspmg/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="MelodyFM.jo" group-title="Music",Melody FM
 https://cdn3.wowza.com/1/OVRrOWxXUEswS2Yv/eGVxSWZy/hls/live/playlist.m3u8
-#EXTINF:-1 tvg-id="mfm.lb" group-title="Music",mfm
-https://hms.pfs.gdn/hms/v1/broadcast/hlmvmp2hfriode891/playlist.m3u8
 #EXTINF:-1 tvg-id="MixHollywood.eg" group-title="Movies",Mix Hollywood
 https://ml-pull-hwc.myco.io/MixTV/hls/index.m3u8
 #EXTINF:-1 tvg-id="Mixkurdy.iq" group-title="Family",Mixkurdy
@@ -605,10 +599,6 @@ https://cdn-globecast.akamaized.net/live/eds/oman_tv/hls_roku/index.m3u8
 https://partwota.cdn.mgmlcdn.com/omcultural/smil:omcultural.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="OmanTVMubashir.om" group-title="News",Oman TV Mubashir
 https://partwota.cdn.mgmlcdn.com/omlive/smil:omlive.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="OneFM.lb" group-title="Music",OneFM
-https://hms.pfs.gdn/v1/broadcast/onefm/playlist.m3u8
-#EXTINF:-1 tvg-id="OneTV.lb" group-title="Music",One TV
-https://hms.pfs.gdn/v1/broadcast/one/playlist.m3u8
 #EXTINF:-1 tvg-id="OTV.lb" group-title="General",OTV
 https://otv.hibridcdn.net/otv/tv_abr/playlist.m3u8
 #EXTINF:-1 tvg-id="PalestineAlYawm.lb" group-title="News",Palestine Al Yawm
