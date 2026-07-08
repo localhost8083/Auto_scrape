@@ -25,8 +25,6 @@ https://playout172.livextend.cloud/liveiframe/_definst_/liveartvabr/playlist.m3u
 https://awtv.nuvemplay.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="AXN.br" group-title="Movies",AXN
 http://45.162.231.38:7779/AXN/index.m3u8
-#EXTINF:-1 tvg-id="AXNMovies.pt" group-title="Movies",AXN Movies
-http://50.7.120.34:8080/AXN_BLACK/index.m3u8
 #EXTINF:-1 tvg-id="BandNews.br" group-title="News",BandNews
 http://143.14.178.40:7777/Band_News_HD/index.m3u8
 #EXTINF:-1 tvg-id="BandNews.br" group-title="News",BandNews
@@ -41,6 +39,8 @@ http://45.162.231.38:7779/BIS/index.m3u8
 https://stmv1.transmissaodigital.com/blitstv/blitstv/playlist.m3u8
 #EXTINF:-1 tvg-id="BMCNews.br" group-title="News",BM&C News
 https://jmp2.uk/plu-666c9c60a7efd40008f552f0.m3u8
+#EXTINF:-1 tvg-id="BoasNovas.br" group-title="Uncategorized",Boas Novas
+https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8
 #EXTINF:-1 tvg-id="BoaVontadeTV.br" group-title="Uncategorized",Boa Vontade TV
 http://45.162.231.38:7779/Boa_Vontade_TV/index.m3u8
 #EXTINF:-1 tvg-id="BoxKidsTV.br" group-title="Kids",Box Kids TV
@@ -109,6 +109,8 @@ https://stmv1.samcast.com.br/demaistv6503/demaistv6503/playlist.m3u8
 https://br.conectmy.com.br/DespertarTV/index.m3u8
 #EXTINF:-1 tvg-id="DisneyChannel.br" group-title="Kids",Disney Channel
 http://167.250.126.140:7777/DISNEY-HD/index.m3u8
+#EXTINF:-1 tvg-id="DisneyChannel.pt" group-title="Kids",Disney Channel
+http://151.80.18.177:86/Disney_Channel_HD/index.m3u8
 #EXTINF:-1 tvg-id="DumDum.br" group-title="Kids",DumDum
 http://45.162.231.38:7779/ZooMoo/index.m3u8
 #EXTINF:-1 tvg-id="ElementalChannel.br" group-title="Entertainment",Elemental Channel
@@ -195,6 +197,8 @@ https://video24.mais.uol.com.br/live/6146.m3u8
 https://jmp2.uk/plu-6317ba014d4d040007227f72.m3u8
 #EXTINF:-1 tvg-id="KKTV.ao" group-title="Religious",KK TV
 https://w1.manasat.com/ktv-angola/smil:ktv-angola.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="KpopTVPlay.br" group-title="Music",KpopTV Play
+https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8
 #EXTINF:-1 tvg-id="KuriakosCine.pt" group-title="Movies",Kuriakos Cine
 https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="KuriakosKids.pt" group-title="Animation, Kids, Religious",Kuriakos Kids
@@ -301,10 +305,10 @@ http://45.162.231.38:7779/Rede_Brasil/index.m3u8
 http://45.162.231.38:7779/CNT/index.m3u8
 #EXTINF:-1 tvg-id="RedeGospel.br" group-title="Religious",Rede Gospel
 https://redegospel-aovivo.nuvemplay.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="RedeMinas.br" group-title="Education",Rede Minas
-https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/playlist.m3u8
 #EXTINF:-1 tvg-id="RedeNGT.br" group-title="Entertainment",Rede NGT
 https://isaocorp.cloudecast.com/ngt/index.m3u8
+#EXTINF:-1 tvg-id="RedeSeculo21.br" group-title="Religious",Rede Seculo 21
+http://45.162.64.114/REDE_SECULO_21/index.m3u8
 #EXTINF:-1 tvg-id="RedeSPTV.br" group-title="General",Rede SPTV
 https://video01.logicahost.com.br/websptv/websptv/playlist.m3u8
 #EXTINF:-1 tvg-id="RedeTV.br" group-title="General",Rede TV!
@@ -327,14 +331,10 @@ https://acesso.ecast.site:3648/live/ritlive.m3u8
 http://45.162.231.38:7779/RIT/index.m3u8
 #EXTINF:-1 tvg-id="RTP1.pt" group-title="General",RTP 1
 https://streaming-live.rtp.pt/liverepeater/rtp1HD.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RTP2.pt" group-title="General",RTP 2
-https://streaming-live.rtp.pt/liverepeater/rtp2HD.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="RTPAcores.pt" group-title="General",RTP Acores
 https://streaming-live.rtp.pt/liverepeater/smil:rtpacoresHD.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="RTPAcores.pt" group-title="General",RTP Acores
 https://streaming-live.rtp.pt/liverepeater/smil:rtpacores.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RTPAfrica.pt" group-title="General",RTP Africa
-https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="RTPMadeira.pt" group-title="General",RTP Madeira
 https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="RTPMemoria.pt" group-title="General",RTP Memoria
@@ -345,6 +345,8 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
 https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="RTPNoticias.pt" group-title="News",RTP Noticias
 https://streaming-live.rtp.pt/livetvhlsDVR/rtpndvr.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="SBTCuiaba.br" group-title="General",SBT Cuiaba
+https://video09.logicahost.com.br/sbtcuiaba/sbtcuiaba/playlist.m3u8
 #EXTINF:-1 tvg-id="SBTInterior.br" group-title="General",SBT Interior
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
 #EXTINF:-1 tvg-id="SBTInterior.br" group-title="General",SBT Interior
@@ -353,6 +355,12 @@ http://167.250.126.140:7777/COMEDYCENTRAL-HD/index.m3u8
 https://6836041ea1117.streamlock.net/cverde/cverde/playlist.m3u8
 #EXTINF:-1 tvg-id="SBTNacional.br" group-title="Uncategorized",SBT Nacional
 http://45.162.231.38:7779/SBT/index.m3u8
+#EXTINF:-1 tvg-id="SBTNovaMutum.br" group-title="Uncategorized",SBT Nova Mutum
+https://video09.logicahost.com.br/sbtmutum/sbtmutum/playlist.m3u8
+#EXTINF:-1 tvg-id="SBTRondonopolis.br" group-title="Uncategorized",SBT Rondonopolis
+https://video09.logicahost.com.br/sbtroo/sbtroo/playlist.m3u8
+#EXTINF:-1 tvg-id="SBTSinop.br" group-title="Uncategorized",SBT Sinop
+https://video09.logicahost.com.br/sbtsinop/sbtsinop/playlist.m3u8
 #EXTINF:-1 tvg-id="SESCTV.br" group-title="Uncategorized",SESC TV
 http://45.162.64.114/SESC_TV/index.m3u8
 #EXTINF:-1 tvg-id="SICAltaDefinicao.pt" group-title="Uncategorized",SIC Alta Definicao
@@ -465,6 +473,8 @@ http://45.162.64.114/EVANGELIZAR/index.m3u8
 https://tv02.zas.media:1936/tvfuturo/tvfuturo/playlist.m3u8
 #EXTINF:-1 tvg-id="TVGazeta.br" group-title="Uncategorized",TV Gazeta
 http://45.162.64.114/TV_GAZETA/index.m3u8
+#EXTINF:-1 tvg-id="TVGE.gq" group-title="General",TVGE
+http://69.64.57.208/tvge/playlist.m3u8
 #EXTINF:-1 tvg-id="TVGloboSaoPaulo.br" group-title="Uncategorized",TV Globo Sao Paulo
 http://187.62.68.32:8080/GLOBO/index.m3u8
 #EXTINF:-1 tvg-id="TVGRANDENATALHDTVBRASIL.br" group-title="Entertainment",TV GRANDE NATAL HDTV BRASIL
@@ -533,10 +543,10 @@ http://45.162.64.114/RA_TIM_BUM/index.m3u8
 https://stmv1.voxtvhd.com.br/9030/9030/playlist.m3u8
 #EXTINF:-1 tvg-id="TVSeries.br" group-title="Series",TV Series
 https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
-#EXTINF:-1 tvg-id="TVSimCachoeiro.br" group-title="News",TV Sim Cachoeiro
-https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist.m3u8
 #EXTINF:-1 tvg-id="TVSimSaoMateus.br" group-title="News",TV Sim Sao Mateus
 https://5cf4a2c2512a2.streamlock.net/8236/8236/playlist.m3u8
+#EXTINF:-1 tvg-id="TVSulBahia.br" group-title="Uncategorized",TV Sul Bahia
+https://live.cdn.upx.com/00046/myStream.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="TVSuldeMinas.br" group-title="General",TV Sul de Minas
 https://5cf4a2c2512a2.streamlock.net/tvsuldeminas/tvsuldeminas/playlist.m3u8
 #EXTINF:-1 tvg-id="TVTerceiroAnjo.br" group-title="Religious",TV Terceiro Anjo
