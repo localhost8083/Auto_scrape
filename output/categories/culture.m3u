@@ -29,6 +29,8 @@ http://89.104.114.24:8080/art/index.m3u8
 http://143.14.178.40:7777/Arte_1_HD/index.m3u8
 #EXTINF:-1 tvg-id="Arte1.br" group-title="Culture",Arte 1
 http://45.162.231.38:7779/Arte_1/index.m3u8
+#EXTINF:-1 tvg-id="Arte1.br" group-title="Culture",Arte 1
+http://167.250.126.140:7777/ARTE1-HD/index.m3u8
 #EXTINF:-1 tvg-id="AsiriTV.pe" group-title="Culture",AsiriTV
 https://video2.lhdserver.es/asiritv/live.m3u8
 #EXTINF:-1 tvg-id="ATXN3.us" group-title="General, Culture",ATXN3
@@ -75,6 +77,8 @@ https://video0.rogohosting.com:19360/8006/8006.m3u8
 https://www.opencaster.com/resources/hls_stream/cultura24.m3u8
 #EXTINF:-1 tvg-id="Curta.br" group-title="Culture",Curta!
 http://45.162.231.38:7779/Curta/index.m3u8
+#EXTINF:-1 tvg-id="Curta.br" group-title="Culture",Curta!
+http://167.250.126.140:7777/CURTA!-HD/index.m3u8
 #EXTINF:-1 tvg-id="DDBharati.in" group-title="Culture",DD Bharati
 https://d2lk5u59tns74c.cloudfront.net/out/v1/67cec794d8b14f9ba21f73924ac65797/index.m3u8
 #EXTINF:-1 tvg-id="DDBharati.in" group-title="Culture",DD Bharati
@@ -115,14 +119,10 @@ https://fnx.lls.pbs.org/index.m3u8
 https://aegis-cloudfront-1.tubi.video/0c4bd880-76cc-4000-b9cb-8edabeb88daa/index.m3u8
 #EXTINF:-1 tvg-id="FoxSoul.us" group-title="Culture",Fox Soul
 https://foxsoul-vizio.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="GuaymateTV.do" group-title="Culture",Guaymate TV
-https://live20.bozztv.com/akamaissh101/ssh101/guaymatetv/playlist.m3u8
 #EXTINF:-1 tvg-id="HamaikaTelebista.es" group-title="Culture",Hamaika Telebista
 https://cdn3.wowza.com/1/RERMR282dnU5eE5Z/OHY0dVFs/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-id="HmongStarTV.us" group-title="Culture",Hmong Star TV
 https://livefta.malimarcdn.com/ftaedge00/hmongstartv.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="HolvoetTV.cl" group-title="Culture",Holvoet TV
-https://unlimited1-us.dps.live/holvoettv/holvoettv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="HRT3.hr" group-title="Culture, Documentary",HRT 3
 https://webtvstream.bhtelecom.ba/hrt3.m3u8
 #EXTINF:-1 tvg-id="HyderTV.ca" group-title="Culture",Hyder TV
@@ -254,6 +254,8 @@ https://stream.smotrim.ru/hls2/russia_k/playlist_5.m3u8
 #EXTINF:-1 tvg-id="RussiaK.ru" group-title="Culture",Russia-K
 http://94.230.129.31:8080/Rossia_K/index.m3u8
 #EXTINF:-1 tvg-id="RussiaK.ru" group-title="Culture",Russia-K
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
+#EXTINF:-1 tvg-id="RussiaK.ru" group-title="Culture",Russia-K
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/2/kultura-hd/index.m3u8
 #EXTINF:-1 tvg-id="RussiaK.ru" group-title="Culture",Russia-K
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/4/kultura-hd/index.m3u8
@@ -277,8 +279,6 @@ https://d26idhjf0y1p2g.cloudfront.net/out/v1/cd66dd25b9774cb29943bab54bbf3e2f/in
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-thaqafeyyah/28c0d2a20dbf1dc049ce15d3973f494b/index.m3u8
 #EXTINF:-1 tvg-id="SenalU.ar" group-title="Culture",Senal U
 https://live20.bozztv.com/giatv/giatv-canal30tda/canal30tda/chunks.m3u8
-#EXTINF:-1 tvg-id="SercemTV.tr" group-title="Religious, Culture, General",Sercem TV
-https://canli.sercemtv.com.tr/hls/0/stream.m3u8
 #EXTINF:-1 tvg-id="StoryChannelTV.ma" group-title="Culture",StoryChannel TV
 https://136044159.r.cdnsun.net/storychannel.m3u8
 #EXTINF:-1 tvg-id="STZTV.br" group-title="News, Culture",STZ TV
@@ -301,8 +301,6 @@ https://restreamer.indonusa.id:8443/d5f4ad43-1b5a-4b0f-8bef-5b37224ed221.m3u8
 https://live.suricloud.com/hls/tbntv/index.m3u8
 #EXTINF:-1 tvg-id="TVCuatro42.mx" group-title="Culture",TV Cuatro 4.2
 https://5f2c1b0d880e5.streamlock.net/tv42/tv42.smil/.m3u8
-#EXTINF:-1 tvg-id="TVERS.br" group-title="Culture, Education",TVE RS
-https://streaming.procergs.com.br:8443/tve/stve/playlist.m3u8
 #EXTINF:-1 tvg-id="TVLifeAmerica.br" group-title="Culture",TV Life America
 https://streaming.cloudecast.com/hls/tvlifeamerica/index.m3u8
 #EXTINF:-1 tvg-id="TVRCultural.ro" group-title="Culture",TVR Cultural
@@ -327,3 +325,7 @@ https://streamusmptv.ddns.net/live/stream.m3u8
 http://187.102.210.46/USMP/index.m3u8
 #EXTINF:-1 tvg-id="VersoTV.cl" group-title="Culture",Verso TV
 https://verso.coopcom.cl/live/SHf6GLCpn4hDSpWdzaDzgX0ciU82/index.m3u8
+#EXTINF:-1 tvg-id="zenith.fr" group-title="General, Culture",zenith
+https://live.azenagroup.com/zenith/index.ll.m3u8
+#EXTINF:-1 tvg-id="zenith.fr" group-title="General, Culture",zenith
+https://live.azenagroup.com/zenith/index.m3u8
