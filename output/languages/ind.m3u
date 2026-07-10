@@ -13,8 +13,6 @@ https://ammedia.siar.us/ammedia/live/playlist.m3u8
 https://vodcdn.bamboo-cloud.com/livehls/68ef86320630444b1f796875/master.m3u8
 #EXTINF:-1 tvg-id="AshiilTV.id" group-title="Religious",Ashiil TV
 https://wahyu1ptv.pages.dev/AshiilTV-HD.m3u8
-#EXTINF:-1 tvg-id="AsthaTV.id" group-title="Uncategorized",Astha TV
-https://hgmtv.com:19360/asthatv/asthatv.m3u8
 #EXTINF:-1 tvg-id="AstroBlitarTV.id" group-title="General",Astro Blitar TV
 https://5bf7b725107e5.streamlock.net/abtv/abtv/playlist.m3u8
 #EXTINF:-1 tvg-id="AtambuaTV.id" group-title="Uncategorized",Atambua TV
@@ -90,11 +88,13 @@ https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
 #EXTINF:-1 tvg-id="JTV.id" group-title="General",JTV
 http://122.248.43.242:1935/JTVKEDIRI/_definst_/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="JTV.id" group-title="General",JTV
+http://122.248.43.242:1935/JTVMADIUN/_definst_/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="JTV.id" group-title="General",JTV
 http://122.248.43.242:1935/JTVMALANG/_definst_/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="JTV.id" group-title="General",JTV
 http://122.248.43.242:1935/JTVSURABAYA/_definst_/myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="KilisuciTV.id" group-title="General",Kilisuci TV
-https://5bf7b725107e5.streamlock.net/kstv/kstv/playlist.m3u8
+#EXTINF:-1 tvg-id="KidsTV.id" group-title="Kids",Kids TV
+http://origin5.mediacdn.ru/live/kidstv/index.m3u8
 #EXTINF:-1 tvg-id="KTV.id" group-title="General",KTV
 https://flv.intechmedia.net/live/ch118.m3u8
 #EXTINF:-1 tvg-id="LingkarTV.id" group-title="News, Music, Religious",Lingkar TV
@@ -105,8 +105,6 @@ https://stream.asianastream.com/madani/madanitv.smil/playlist.m3u8
 https://re1.siar.us/madutv/hd720/playlist.m3u8
 #EXTINF:-1 tvg-id="MagnaChannel.id" group-title="General",Magna Channel
 https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="MatrixTVYogyakarta.id" group-title="Uncategorized",Matrix TV Yogyakarta
-https://stream.matrixtv.id/hls/0/stream.m3u8
 #EXTINF:-1 tvg-id="MBGTV.id" group-title="Legislative",MBG TV
 https://stream.convergen.co/mbg_stream/smil:mbStream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="MetroTV.id" group-title="News",Metro TV
@@ -123,6 +121,8 @@ http://122.248.43.242:1935/PADANGTV/_definst_/myStream/playlist.m3u8
 https://streaming.id18.tunnel.my.id/hls/stream.m3u8
 #EXTINF:-1 tvg-id="PONTV.id" group-title="Uncategorized",PONTV
 http://122.248.43.242:1935/PONTV/_definst_/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="RadarLampungTV.id" group-title="Uncategorized",Radar Lampung TV
+https://www.streaming.radartv.co.id/hls/test.m3u8
 #EXTINF:-1 tvg-id="RajawaliTV.id" group-title="Uncategorized",Rajawali TV
 https://rtvstream.rtv.co.id:4555/hls/rtv.m3u8
 #EXTINF:-1 tvg-id="RCTV.id" group-title="Uncategorized",RCTV
@@ -149,10 +149,6 @@ https://cdn.adyadigitalteknologi.com:8090/vod/relay.m3u8
 https://selaparangtv.siar.us/live/selaparangtv.m3u8
 #EXTINF:-1 tvg-id="SemarangTV.id" group-title="Uncategorized",Semarang TV
 http://116.254.112.74/hls/cakralive.m3u8
-#EXTINF:-1 tvg-id="SMTV.id" group-title="Uncategorized",SMTV
-http://122.248.43.242:1935/SMTV/_definst_/myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="SMTV.id" group-title="Uncategorized",SMTV
-https://e.siar.us/live/smtv.m3u8
 #EXTINF:-1 tvg-id="SriwijayaTV.id" group-title="Uncategorized",Sriwijaya TV
 https://sriwijayatv.siar.us/live/sriwijayatv.m3u8
 #EXTINF:-1 tvg-id="StaraTV.id" group-title="Uncategorized",Stara TV
@@ -230,8 +226,6 @@ https://ott-balancer.tvri.go.id/live/eds/Papua/hls/Papua.m3u8
 #EXTINF:-1 tvg-id="TVRI.id" group-title="General",TVRI
 https://ott-balancer.tvri.go.id/live/eds/Riau/hls/Riau.m3u8
 #EXTINF:-1 tvg-id="TVRI.id" group-title="General",TVRI
-https://ott-balancer.tvri.go.id/live/eds/Sultra/hls/Sultra.m3u8
-#EXTINF:-1 tvg-id="TVRI.id" group-title="General",TVRI
 https://ott-balancer.tvri.go.id/live/eds/Kalsel/hls/Kalsel.m3u8
 #EXTINF:-1 tvg-id="TVRI.id" group-title="General",TVRI
 https://ott-balancer.tvri.go.id/live/eds/Sulsel/hls/Sulsel.m3u8
@@ -242,13 +236,13 @@ https://ott-balancer.tvri.go.id/live/eds/Jabar/hls/Jabar.m3u8
 #EXTINF:-1 tvg-id="TVRI.id" group-title="General",TVRI
 https://ott-balancer.tvri.go.id/live/eds/Kalbar/hls/Kalbar.m3u8
 #EXTINF:-1 tvg-id="TVRI.id" group-title="General",TVRI
+https://ott-balancer.tvri.go.id/live/eds/NTB/hls/NTB.m3u8
+#EXTINF:-1 tvg-id="TVRI.id" group-title="General",TVRI
 https://ott-balancer.tvri.go.id/live/eds/Pabar/hls/Pabar.m3u8
 #EXTINF:-1 tvg-id="TVRI.id" group-title="General",TVRI
 https://ott-balancer.tvri.go.id/live/eds/Sulbar/hls/Sulbar.m3u8
 #EXTINF:-1 tvg-id="TVRI.id" group-title="General",TVRI
 https://ott-balancer.tvri.go.id/live/eds/Sumbar/hls/Sumbar.m3u8
-#EXTINF:-1 tvg-id="TVRI.id" group-title="General",TVRI
-https://ott-balancer.tvri.go.id/live/eds/Jogjakarta/hls/Jogjakarta.m3u8
 #EXTINF:-1 tvg-id="TVRISport.id" group-title="Sports",TVRI Sport
 http://157.15.187.3:25092/hls/49/49.m3u8
 #EXTINF:-1 tvg-id="TVRIWorld.id" group-title="Uncategorized",TVRI World
