@@ -35,8 +35,6 @@ https://liveeu-gcp.alkassdigital.net/alkass2-p/main.m3u8
 http://88.212.15.19/live/test_arenasport/playlist.m3u8
 #EXTINF:-1 tvg-id="ArenaSport2.sk" group-title="Sports",Arena Sport 2
 http://88.212.15.19/live/test_arenasport_dva/playlist.m3u8
-#EXTINF:-1 tvg-id="ArenaSport3.si" group-title="Sports",Arena Sport 3
-http://143.244.62.109:80/as3slo/index.m3u8
 #EXTINF:-1 tvg-id="Arryadia.ma" group-title="Sports",Arryadia
 https://stream-lb.livemediama.com/arryadia/hls/master.m3u8
 #EXTINF:-1 tvg-id="Arryadia.ma" group-title="Sports",Arryadia
@@ -67,8 +65,6 @@ http://45.162.231.38:7779/Band_Sports/index.m3u8
 http://167.250.126.140:7777/BANDSPORTS-HD/index.m3u8
 #EXTINF:-1 tvg-id="BandSports.br" group-title="Sports",Band Sports
 http://45.162.64.114/BAND_SPORTS/index.m3u8
-#EXTINF:-1 tvg-id="beINSportsHaber.tr" group-title="Sports",beIN Sports Haber
-https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
 #EXTINF:-1 tvg-id="beINSPORTSXTRA.us" group-title="Sports",beIN SPORTS XTRA
 https://bein-xtra-bein.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="beINSPORTSXTRA.us" group-title="Sports",beIN SPORTS XTRA
@@ -95,6 +91,10 @@ https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playli
 http://178.124.179.122:8080/BT5/index.m3u8
 #EXTINF:-1 tvg-id="Belarus5.by" group-title="Sports",Belarus-5
 https://edge59.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Belarus5.by" group-title="Sports",Belarus-5
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Belarus5.by" group-title="Sports",Belarus-5
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="BellatorMMA.us" group-title="Sports",Bellator MMA
 https://jmp2.uk/plu-5ebc8688f3697d00072f7cf8.m3u8
 #EXTINF:-1 tvg-id="BilliardTV.us" group-title="Sports",Billiard TV
@@ -117,6 +117,8 @@ http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub
 http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="CCTVStormFootball.cn" group-title="Sports",CCTV-Storm Football
 http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="ClaroSports.mx" group-title="Sports",Claro Sports
+https://jmp2.uk/plu-6320d2755e54db000783fd87.m3u8
 #EXTINF:-1 tvg-id="ColimdoTV.do" group-title="Sports",Colimdo TV
 https://cnn.livestreaminggroup.info:3132/live/colimdotvlive.m3u8
 #EXTINF:-1 tvg-id="Combate.br" group-title="Sports",Combate
@@ -139,6 +141,10 @@ https://jmp2.uk/plu-64d626ac9b414d000820e2fc.m3u8
 https://jmp2.uk/plu-648056f0f77b61000828f1ba.m3u8
 #EXTINF:-1 tvg-id="DAZNCombat.uk" group-title="Sports",DAZN Combat
 https://jmp2.uk/plu-64805755536e0c0008a19fa1.m3u8
+#EXTINF:-1 tvg-id="DAZNDartsxPlutoTV.de" group-title="Sports",DAZN Darts x Pluto TV
+https://jmp2.uk/plu-64b67f0424ade50008a3be17.m3u8
+#EXTINF:-1 tvg-id="DAZNHeldinnenxPlutoTV.de" group-title="Sports",DAZN Heldinnen x Pluto TV
+https://jmp2.uk/plu-64afe50c5dc16600087f3227.m3u8
 #EXTINF:-1 tvg-id="DDSports.in" group-title="Sports",DD Sports
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
 #EXTINF:-1 tvg-id="DDSports.in" group-title="Sports",DD Sports
@@ -153,12 +159,8 @@ http://118.107.85.4:1935/live/smil:DNTV2.smil/chunklist.m3u8
 https://na.linear.zype.com/e0bd0e23-a958-4e43-8164-4f2fef8876a8/fd3614bd-90bf-4530-a277-65ae3a1720c8-zype/live.m3u8
 #EXTINF:-1 tvg-id="DraftKingsNetwork.us" group-title="Sports",DraftKings Network
 https://d2obyvq5go60aw.cloudfront.net/DraftKings_Network.m3u8
-#EXTINF:-1 tvg-id="DSports2.us" group-title="Sports",DSports 2
-https://streamvidex.qzz.io/videx/dsports2/index.m3u8
-#EXTINF:-1 tvg-id="DSports.us" group-title="Sports",DSports
-https://streamvidex.qzz.io/videx/dsportsar/index.m3u8
-#EXTINF:-1 tvg-id="DSportsPlus.us" group-title="Sports",DSports+
-https://streamvidex.qzz.io/videx/dsportsplus/index.m3u8
+#EXTINF:-1 tvg-id="ElHeddafTV.dz" group-title="Sports",El-Heddaf TV
+https://live.elheddaftv.com:8081/elheddaftv/index.m3u8
 #EXTINF:-1 tvg-id="Equidia.fr" group-title="Sports",Equidia
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/live2.m3u8
 #EXTINF:-1 tvg-id="ESPN3.br" group-title="Sports",ESPN 3
@@ -239,6 +241,10 @@ https://cffda8ff.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3
 https://webtvstream.bhtelecom.ba/hls7/fightbox.m3u8
 #EXTINF:-1 tvg-id="FightNetwork.ca" group-title="Sports",Fight Network
 https://amg00966-amg00966c10-amgplt0081.playout.now3.amagi.tv/playlist/amg00966-amg00966c10-amgplt0081/playlist.m3u8
+#EXTINF:-1 tvg-id="FightNetwork.ca" group-title="Sports",Fight Network
+https://a-cdn.klowdtv.com/live2/fight_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="FITE247.us" group-title="Sports",FITE 24/7
+https://a-cdn.klowdtv.com/live2/fite247_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="FITE247.us" group-title="Sports",FITE 24/7
 https://d3d85c7qkywguj.cloudfront.net/scheduler/scheduleMaster/263.m3u8
 #EXTINF:-1 tvg-id="FloHockey.us" group-title="Sports",FloHockey
@@ -254,8 +260,6 @@ http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8
 #EXTINF:-1 tvg-id="FoxDeportes.us" group-title="Sports",Fox Deportes
 https://live-manifest.production-public.tubi.io/live/d906efca-1302-4e29-b0d9-9a1d7a305d69/playlist.m3u8
 #EXTINF:-1 tvg-id="FoxSports1.us" group-title="Sports",Fox Sports 1
-https://streamvidex.qzz.io/videx/fox1usa/index.m3u8
-#EXTINF:-1 tvg-id="FoxSports1.us" group-title="Sports",Fox Sports 1
 http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
 #EXTINF:-1 tvg-id="FoxSports.ar" group-title="Sports",Fox Sports
 https://jmp2.uk/plu-5a74b8e1e22a61737979c6bf.m3u8
@@ -263,6 +267,8 @@ https://jmp2.uk/plu-5a74b8e1e22a61737979c6bf.m3u8
 https://1657061170.rsc.cdn77.org/HLS/FTF-LINEAR.m3u8
 #EXTINF:-1 tvg-id="FTFSports.us" group-title="Sports",FTF Sports
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/ftf/FTF_SCTE_B.m3u8?ads.vf=U3lqpPugV2W
+#EXTINF:-1 tvg-id="FTFSports.us" group-title="Sports",FTF Sports
+https://a-cdn.klowdtv.com/live2/ftf_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="FTV.bo" group-title="Sports",FTV
 https://master.tucableip.com/ftvhd/index.m3u8
 #EXTINF:-1 tvg-id="FuboSportsNetwork.us" group-title="Sports",Fubo Sports Network
@@ -287,6 +293,8 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://amg01074-fueltv-amg01074c1-firetv-us-3150.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Futbol.tj" group-title="Sports",Futbol
 https://live.teleradiocom.tj/8/3m.m3u8
+#EXTINF:-1 tvg-id="GamePlus.ca" group-title="Sports",Game+
+https://a-cdn.klowdtv.com/live2/fntsy_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="geFast.br" group-title="Sports",ge Fast
 https://amg00716-globo-amg00716c1-tcl-br-9495.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="geFast.br" group-title="Sports",ge Fast
@@ -311,6 +319,8 @@ http://177.234.249.178:8888/GOLTV/index.m3u8
 https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Hard-Knocks-DistroTV/109.m3u8?ads.vf=6pOF6kgy418
 #EXTINF:-1 tvg-id="HardKnocks.ca" group-title="Sports",Hard Knocks
 https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HardKnocks-PLEX/121.m3u8
+#EXTINF:-1 tvg-id="HorseTV.it" group-title="Sports",Horse TV
+https://a-cdn.klowdtv.com/live2/horsetv_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="HorseTV.it" group-title="Sports",Horse TV
 https://streams2.sofast.tv/vglive-sk-469239/index.m3u8
 #EXTINF:-1 tvg-id="HTSporTV.tr" group-title="Sports",HTSpor TV
@@ -353,6 +363,8 @@ https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8
 https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="L1Max.pe" group-title="Sports",L1 Max
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/liga1max.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="LacrosseTV.us" group-title="Sports",Lacrosse TV
+https://a-cdn.klowdtv.com/live2/lsn_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="MadeinBOTV.it" group-title="Sports",MadeinBO TV
 https://srvx1.selftv.video/dmchannel/live/playlist.m3u8
 #EXTINF:-1 tvg-id="MatchArena.ru" group-title="Sports",Match! Arena
@@ -413,6 +425,8 @@ https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
 http://23.237.104.106:8080/USA_MSG/index.m3u8
 #EXTINF:-1 tvg-id="MTRSPT1.us" group-title="Sports",MTRSPT1
 https://amg02873-kravemedia-mtrspt1-distrotv-mnsrl.amagi.tv/playlist/amg02873-kravemedia-mtrspt1-distrotv/playlist.m3u8
+#EXTINF:-1 tvg-id="NauticalChannel.it" group-title="Sports",Nautical Channel
+https://a-cdn.klowdtv.com/live2/nautical_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="NauticalChannel.it" group-title="Sports",Nautical Channel
 https://streams2.sofast.tv/vglive-sk-231198/index.m3u8
 #EXTINF:-1 tvg-id="NBATV.us" group-title="Sports",NBA TV
@@ -538,6 +552,10 @@ https://jmp2.uk/plu-639b4f75d3d35c0007d37b30.m3u8
 #EXTINF:-1 tvg-id="PlutoTVSport.de" group-title="Sports",Pluto TV Sport
 https://jmp2.uk/plu-608030eff4b6f70007e1684c.m3u8
 #EXTINF:-1 tvg-id="PlutoTVSport.se" group-title="Sports",Pluto TV Sport
+https://jmp2.uk/plu-6357f3de3643ba0007bc0b50.m3u8
+#EXTINF:-1 tvg-id="PlutoTVSport.se" group-title="Sports",Pluto TV Sport
+https://jmp2.uk/plu-6357f33cb51d2d00077927c6.m3u8
+#EXTINF:-1 tvg-id="PlutoTVSport.se" group-title="Sports",Pluto TV Sport
 https://jmp2.uk/plu-62cd74e38f6f0d000798cd93.m3u8
 #EXTINF:-1 tvg-id="PokerGo.us" group-title="Sports",PokerGo
 https://jmp2.uk/plu-5fc54366b04b2300072e31af.m3u8
@@ -617,6 +635,8 @@ https://0b73ace69ebb45eaa249bb87837cb958.mediatailor.us-west-2.amazonaws.com/v1/
 https://lukentvlive.vgcdn.net/v1/master/cef183924f24adfa3d5d7601c3a17769082c0c2b/Revn/index.m3u8
 #EXTINF:-1 tvg-id="RightNowTV.us" group-title="Sports, Entertainment",Right Now TV
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/right-now-tv/playlist.m3u8?ads.vf=XXIrbw6_Odq
+#EXTINF:-1 tvg-id="RightNowTV.us" group-title="Sports, Entertainment",Right Now TV
+https://a-cdn.klowdtv.com/live2/rightnowtv_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="RightNowTV.us" group-title="Sports, Entertainment",Right Now TV
 https://2-fss-1.streamhoster.com/pl_154/amlst:205448-2145652/rightnowtv.m3u8
 #EXTINF:-1 tvg-id="RussianExtreme.ru" group-title="Sports",Russian Extreme
