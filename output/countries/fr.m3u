@@ -248,6 +248,8 @@ https://static.lefigaro.fr/secom/tnt.m3u8
 #EXTINF:-1 tvg-id="LittoralFMTV.fr" group-title="Music",Littoral FM TV
 https://live.creacast.com/littoralfm-ch1/stream/playlist.m3u8
 #EXTINF:-1 tvg-id="M6.fr" group-title="Entertainment",M6
+http://99.27.51.147:8080/M6/index.m3u8
+#EXTINF:-1 tvg-id="M6.fr" group-title="Entertainment",M6
 http://cdn.haititivi.com/M6-HD/index.m3u8
 #EXTINF:-1 tvg-id="MCMTop.fr" group-title="Music",MCM Top
 http://rezofoot.tv/MCM/index.m3u8
@@ -366,21 +368,25 @@ https://channels.trace.plus/Traceprod/AYITI_hd/index.m3u8
 #EXTINF:-1 tvg-id="TraceBrazuca.fr" group-title="Music",Trace Brazuca
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-samsungbr/playlist.m3u8
 #EXTINF:-1 tvg-id="TraceBrazuca.fr" group-title="Music",Trace Brazuca
+https://channels.trace.plus/Traceprod/BRAZIL_hd/index.m3u8
+#EXTINF:-1 tvg-id="TraceBrazuca.fr" group-title="Music",Trace Brazuca
 https://amg01131-tracetv-amg01131c4-stirr-us-4390.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TraceCaribbean.fr" group-title="Music",Trace Caribbean
 https://channels.trace.plus/Traceprod/CARIBBEAN_hd/index.m3u8
 #EXTINF:-1 tvg-id="TraceGospel.fr" group-title="Music, Religious",Trace Gospel
-https://channels.trace.plus/Traceprod/GOSPEL_ROA/index.m3u8
+https://channels.trace.plus/Traceprod/GOSPEL_ROA_hd/index.m3u8
 #EXTINF:-1 tvg-id="TraceGospel.fr" group-title="Music, Religious",Trace Gospel
-https://channels.trace.plus/Traceprod/GOSPEL_FR/.m3u8
+https://channels.trace.plus/Traceprod/GOSPEL_FR_hd/index.m3u8
 #EXTINF:-1 tvg-id="TraceGospel.fr" group-title="Music, Religious",Trace Gospel
-https://channels.trace.plus/Traceprod/GOSPEL_SA_ld/index.m3u8
+https://channels.trace.plus/Traceprod/GOSPEL_SA_hd/index.m3u8
 #EXTINF:-1 tvg-id="TraceIvoire.fr" group-title="Music",Trace Ivoire
 https://channels.trace.plus/Traceprod/TRACE_IVOIRE_hd/index.m3u8
 #EXTINF:-1 tvg-id="TraceJama.fr" group-title="Music",Trace Jama
-https://channels.trace.plus/Traceprod/JAMA_ld/index.m3u8
+https://channels.trace.plus/Traceprod/JAMA_hd/index.m3u8
 #EXTINF:-1 tvg-id="TraceKitoko.fr" group-title="Music",Trace Kitoko
 https://channels.trace.plus/Traceprod/KITOKO_hd/index.m3u8
+#EXTINF:-1 tvg-id="TraceLatina.fr" group-title="Music",Trace Latina
+https://channels.trace.plus/Traceprod/LATINA_hd/index.m3u8
 #EXTINF:-1 tvg-id="TraceLatina.fr" group-title="Music",Trace Latina
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracelatinait-samsungit/playlist.m3u8
 #EXTINF:-1 tvg-id="TraceLatina.fr" group-title="Music",Trace Latina
@@ -398,7 +404,7 @@ https://channels.trace.plus/Traceprod/MZIKI_hd/index.m3u8
 #EXTINF:-1 tvg-id="TraceNaija.fr" group-title="Music",Trace Naija
 https://channels.trace.plus/Traceprod/NAIJA_hd/index.m3u8
 #EXTINF:-1 tvg-id="TraceNgoma.fr" group-title="Music",Trace Ngoma
-https://channels.trace.plus/Traceprod/AFRICA_EN_ld/index.m3u8
+https://channels.trace.plus/Traceprod/AFRICA_EN_hd/index.m3u8
 #EXTINF:-1 tvg-id="TraceSportStars.fr" group-title="Sports",Trace Sport Stars
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TraceSportStars.fr" group-title="Sports",Trace Sport Stars
@@ -414,7 +420,7 @@ http://ott.watch/XE5QWWBZ87/256/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="TraceSportStars.fr" group-title="Sports",Trace Sport Stars
 https://stream8.cinerama.uz/1274/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="TraceSportStars.fr" group-title="Sports",Trace Sport Stars
-https://channels.trace.plus/Traceprod/TRACE_SPORT_STARS_sd/index.m3u8
+https://channels.trace.plus/Traceprod/TRACE_SPORT_STARS_hd/index.m3u8
 #EXTINF:-1 tvg-id="TraceToca.fr" group-title="Music",Trace Toca
 https://channels.trace.plus/Traceprod/TOCA_hd/index.m3u8
 #EXTINF:-1 tvg-id="TraceUrban.fr" group-title="Music",Trace Urban
@@ -427,8 +433,6 @@ https://channels.trace.plus/Traceprod/URBAN_FR_hd/index.m3u8
 https://channels.trace.plus/Traceprod/URBAN_INTER_hd/index.m3u8
 #EXTINF:-1 tvg-id="TraceUrban.fr" group-title="Music",Trace Urban
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="TraceUrban.fr" group-title="Music",Trace Urban
-https://channels.trace.plus/Traceprod/URBAN_FR/.m3u8
 #EXTINF:-1 tvg-id="TraceUrban.fr" group-title="Music",Trace Urban
 https://amg01131-tracetv-amg01131c1-rakuten-us-1081.playouts.now.amagi.tv/playlist/amg01131-tracetvfast-traceurban-rakutenus/playlist.m3u8
 #EXTINF:-1 tvg-id="TraceUrban.fr" group-title="Music",Trace Urban
@@ -457,6 +461,8 @@ http://5.9.121.178:80/tv5monde/index.m3u8
 https://tvf-tv5ch.otteravision.com/tvf/tv5ch/tv5ch.m3u8
 #EXTINF:-1 tvg-id="TV5MondeEurope.fr" group-title="General",TV5Monde Europe
 http://45.14.84.37:80/tv5monde/index.m3u8
+#EXTINF:-1 tvg-id="TV5MondeEurope.fr" group-title="General",TV5Monde Europe
+https://ert-ucdn.broadpeak-aas.com/bpk-tv/TV5/default/index.m3u8
 #EXTINF:-1 tvg-id="TV5MondeLatinAmerica.fr" group-title="General",TV5Monde Latin America
 http://45.162.231.38:7779/TV5_Monde/index.m3u8
 #EXTINF:-1 tvg-id="TV5MondeStyle.fr" group-title="Lifestyle",TV5Monde Style
