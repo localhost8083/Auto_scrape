@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="AFBTVKupang.id" group-title="General",AFBTV Kupang
 https://afbtv.siar.us/live/afbtv.m3u8
+#EXTINF:-1 tvg-id="AhsanTV.id" group-title="Religious",Ahsan TV
+https://5bf7b725107e5.streamlock.net/ahsantv/ahsantv/playlist.m3u8
 #EXTINF:-1 tvg-id="AlImanTV.id" group-title="Religious",Al-Iman TV
 https://tv.aliman.id/aliman/live.m3u8
 #EXTINF:-1 tvg-id="Allegro.id" group-title="General",Allegro
@@ -21,8 +23,6 @@ http://122.248.43.242:1935/BALIKPAPANTV/_definst_/myStream/playlist.m3u8
 http://202.150.153.254:65500/bandungtvWEBSITE.m3u8
 #EXTINF:-1 tvg-id="BantenTV.id" group-title="Uncategorized",Banten TV
 https://5bf7b725107e5.streamlock.net/bantentv/bantentv/playlist.m3u8
-#EXTINF:-1 tvg-id="BatamTV.id" group-title="General",Batam TV
-http://122.248.43.242:1935/BATAMTV/_definst_/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="BiznetAdventure.id" group-title="Uncategorized",Biznet Adventure
 http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="BiznetKids.id" group-title="Kids",Biznet Kids
@@ -85,8 +85,6 @@ http://122.248.43.242:1935/JTVKEDIRI/_definst_/myStream/playlist.m3u8
 http://122.248.43.242:1935/JTVMALANG/_definst_/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="JTV.id" group-title="General",JTV
 http://122.248.43.242:1935/JTVSURABAYA/_definst_/myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="KidsTV.id" group-title="Kids",Kids TV
-http://origin5.mediacdn.ru/live/kidstv/index.m3u8
 #EXTINF:-1 tvg-id="KilisuciTV.id" group-title="General",Kilisuci TV
 https://5bf7b725107e5.streamlock.net/kstv/kstv/playlist.m3u8
 #EXTINF:-1 tvg-id="KTV.id" group-title="General",KTV
@@ -115,8 +113,6 @@ https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 https://streaming.id18.tunnel.my.id/hls/stream.m3u8
 #EXTINF:-1 tvg-id="PONTV.id" group-title="Uncategorized",PONTV
 http://122.248.43.242:1935/PONTV/_definst_/myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="RadarLampungTV.id" group-title="Uncategorized",Radar Lampung TV
-https://www.streaming.radartv.co.id/hls/test.m3u8
 #EXTINF:-1 tvg-id="RajawaliTV.id" group-title="Uncategorized",Rajawali TV
 https://rtvstream.rtv.co.id:4555/hls/rtv.m3u8
 #EXTINF:-1 tvg-id="RCTV.id" group-title="Uncategorized",RCTV
@@ -139,12 +135,8 @@ https://live.salira.tv:3870/stream/play.m3u8
 https://sampit-tv.siar.us/live/sampit-tv.m3u8
 #EXTINF:-1 tvg-id="SangajiTV.id" group-title="Uncategorized",Sangaji TV
 https://cdn.adyadigitalteknologi.com:8090/vod/relay.m3u8
-#EXTINF:-1 tvg-id="SelaparangTV.id" group-title="Uncategorized",Selaparang TV
-https://selaparangtv.siar.us/live/selaparangtv.m3u8
 #EXTINF:-1 tvg-id="SemarangTV.id" group-title="Uncategorized",Semarang TV
 http://116.254.112.74/hls/cakralive.m3u8
-#EXTINF:-1 tvg-id="SMTV.id" group-title="Uncategorized",SMTV
-http://122.248.43.242:1935/SMTV/_definst_/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="SriwijayaTV.id" group-title="Uncategorized",Sriwijaya TV
 https://sriwijayatv.siar.us/live/sriwijayatv.m3u8
 #EXTINF:-1 tvg-id="StaraTV.id" group-title="Uncategorized",Stara TV
@@ -163,8 +155,6 @@ https://parahyangan.staratv.id/hls/0/stream.m3u8
 https://stream.staratv.id/hls/0/stream.m3u8
 #EXTINF:-1 tvg-id="STV.id" group-title="Uncategorized",STV
 http://122.248.43.242:1935/SAMARINDATV/_definst_/myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="SultraTV.id" group-title="Uncategorized",Sultra TV
-http://122.248.43.242:1935/SULTRATV/_definst_/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="SurauTV.id" group-title="Uncategorized",Surau TV
 https://wahyu1ptv.pages.dev/SurauTV-HD.m3u8
 #EXTINF:-1 tvg-id="TATV.id" group-title="Uncategorized",TATV
@@ -214,15 +204,9 @@ https://ott-balancer.tvri.go.id/live/eds/Ambon/hls/Ambon.m3u8
 #EXTINF:-1 tvg-id="TVRI.id" group-title="General",TVRI
 https://ott-balancer.tvri.go.id/live/eds/Sulut/hls/Sulut.m3u8
 #EXTINF:-1 tvg-id="TVRI.id" group-title="General",TVRI
-https://ott-balancer.tvri.go.id/live/eds/Sumut/hls/Sumut.m3u8
-#EXTINF:-1 tvg-id="TVRI.id" group-title="General",TVRI
-https://ott-balancer.tvri.go.id/live/eds/Papua/hls/Papua.m3u8
-#EXTINF:-1 tvg-id="TVRI.id" group-title="General",TVRI
 https://ott-balancer.tvri.go.id/live/eds/Riau/hls/Riau.m3u8
 #EXTINF:-1 tvg-id="TVRI.id" group-title="General",TVRI
 https://ott-balancer.tvri.go.id/live/eds/Sultra/hls/Sultra.m3u8
-#EXTINF:-1 tvg-id="TVRI.id" group-title="General",TVRI
-https://ott-balancer.tvri.go.id/live/eds/Kalsel/hls/Kalsel.m3u8
 #EXTINF:-1 tvg-id="TVRI.id" group-title="General",TVRI
 https://ott-balancer.tvri.go.id/live/eds/Sulsel/hls/Sulsel.m3u8
 #EXTINF:-1 tvg-id="TVRI.id" group-title="General",TVRI
