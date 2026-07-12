@@ -285,6 +285,8 @@ http://177.234.249.178:8888/AMC/index.m3u8
 http://45.171.108.253:8888/AMC/index.m3u8
 #EXTINF:-1 tvg-id="AMCPlus.us" group-title="Entertainment",AMC+
 http://40.160.24.52/AMC_PLUS/index.m3u8
+#EXTINF:-1 tvg-id="AmericanHorrors.us" group-title="Movies",American Horrors
+http://107.167.7.162:8081/playlist/amhor/playlist.m3u8
 #EXTINF:-1 tvg-id="AmericasNextTopModel.us" group-title="Entertainment",America's Next Top Model
 https://jmp2.uk/plu-68679fc6bb46d0bdd38ac9a4.m3u8
 #EXTINF:-1 tvg-id="AmericasNextTopModel.us" group-title="Entertainment",America's Next Top Model
@@ -1851,8 +1853,6 @@ http://stream.cammonitorplus.net/1799/index.m3u8
 http://206.212.244.63/66/index.m3u8
 #EXTINF:-1 tvg-id="FoxBusinessNetwork.us" group-title="Business",Fox Business Network
 https://247preview.foxbusiness.com/hls/live/2020026/fbnv3preview/primary.m3u8
-#EXTINF:-1 tvg-id="FoxBusinessNetwork.us" group-title="Business",Fox Business Network
-http://40.160.24.58/FOX_BUSINESS_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="FoxDeportes.us" group-title="Sports",Fox Deportes
 http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8
 #EXTINF:-1 tvg-id="FoxDeportes.us" group-title="Sports",Fox Deportes
@@ -1877,6 +1877,8 @@ http://40.160.24.52/FOX_SOCCER_PLUS/index.m3u8
 https://aegis-cloudfront-1.tubi.video/0c4bd880-76cc-4000-b9cb-8edabeb88daa/index.m3u8
 #EXTINF:-1 tvg-id="FoxSoul.us" group-title="Culture",Fox Soul
 https://foxsoul-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="FoxSports1.us" group-title="Sports",Fox Sports 1
+http://cdn.haititivi.com/Fox_Sports_1/index.m3u8
 #EXTINF:-1 tvg-id="FoxSports1.us" group-title="Sports",Fox Sports 1
 https://streamvidex.qzz.io/videx/fox1usa/index.m3u8
 #EXTINF:-1 tvg-id="FoxSports1.us" group-title="Sports",Fox Sports 1
@@ -2373,6 +2375,12 @@ https://itiswrittentv.akamaized.net/xR8gyATuHMVx69u9G79DXnpNRL/playlist.m3u8
 https://content.uplynk.com/channel/fbc0f835332e476397b12216f9042f78.m3u8
 #EXTINF:-1 tvg-id="JAG.us" group-title="Series",JAG
 https://jmp2.uk/plu-66a105f4a79dea0008aa5e0f.m3u8
+#EXTINF:-1 tvg-id="JBS.us" group-title="Religious",JBS
+http://uni8rtmp.tulix.tv:1935/shalomtv-pc/smil:shalomtv.smil/master.m3u8
+#EXTINF:-1 tvg-id="JBS.us" group-title="Religious",JBS
+http://uni8rtmp.tulix.tv:1935/shalomtv-pc/smil:shalomtv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="JBS.us" group-title="Religious",JBS
+https://uni8rtmp.tulix.tv/shalomtv-pc/smil:shalomtv.smil/master.m3u8
 #EXTINF:-1 tvg-id="JerseyShore.us" group-title="Series",Jersey Shore
 https://jmp2.uk/plu-609bfa51fbecc1000733152e.m3u8
 #EXTINF:-1 tvg-id="JewelryTV2.us" group-title="Shop",Jewelry TV 2
@@ -2999,8 +3007,6 @@ https://cdn3.wowza.com/5/cXdyRHF0Z3kxN0k2/moorpark/G0086_003/playlist.m3u8
 https://livestream.telvue.com/madrivervalleytv1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="MRVTVChannel45.us" group-title="General",MRVTV Channel 45
 https://livestream.telvue.com/madrivervalleytv2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="MSG2.us" group-title="Sports",MSG 2
-http://40.160.24.52/MSG_2/index.m3u8
 #EXTINF:-1 tvg-id="MSG.us" group-title="Sports",MSG
 http://23.237.104.106:8080/USA_MSG/index.m3u8
 #EXTINF:-1 tvg-id="MSG.us" group-title="Sports",MSG
@@ -3056,9 +3062,9 @@ https://jmp2.uk/plu-64f8a2a23a0d700008a6ed7b.m3u8
 #EXTINF:-1 tvg-id="MTVCatfish.us" group-title="Entertainment",MTV Catfish
 https://jmp2.uk/plu-625461ef01f27a0007976ad1.m3u8
 #EXTINF:-1 tvg-id="MTVClassic.us" group-title="Music",MTV Classic
-https://jmp2.uk/plu-66a01dcb8561260008b0a41d.m3u8
-#EXTINF:-1 tvg-id="MTVClassic.us" group-title="Music",MTV Classic
 https://jmp2.uk/plu-654100b4bdf3cf0008aa49c7.m3u8
+#EXTINF:-1 tvg-id="MTVClassic.us" group-title="Music",MTV Classic
+http://206.212.244.63/117/index.m3u8
 #EXTINF:-1 tvg-id="MTVClassic.us" group-title="Music",MTV Classic
 http://40.160.24.53/MTV_CLASSIC/index.m3u8
 #EXTINF:-1 tvg-id="MTVClassic.us" group-title="Music",MTV Classic
@@ -3115,6 +3121,8 @@ https://jmp2.uk/plu-64f9cccf110545000837912e.m3u8
 https://jmp2.uk/plu-5e98a911c881310007d7aae2.m3u8
 #EXTINF:-1 tvg-id="MTVRocks.us" group-title="Entertainment",MTV Rocks
 https://jmp2.uk/plu-66a01e07d2d50d0008100d6a.m3u8
+#EXTINF:-1 tvg-id="MTVRocks.us" group-title="Entertainment",MTV Rocks
+https://jmp2.uk/plu-66a01b52a4ee27000808ea36.m3u8
 #EXTINF:-1 tvg-id="MTVShore.us" group-title="Entertainment",MTV Shore
 https://jmp2.uk/plu-625463563b8ddc0007134aeb.m3u8
 #EXTINF:-1 tvg-id="MTVSpankinNew.us" group-title="Music",MTV Spankin' New
@@ -3264,8 +3272,6 @@ https://d1m1xk35ma8qfl.cloudfront.net/master.m3u8
 #EXTINF:-1 tvg-id="NBCSportsNOW.us" group-title="Sports",NBC Sports NOW
 https://xumo-xumoent-vc-122-sjv70.fast.nbcuni.com/live/master.m3u8
 #EXTINF:-1 tvg-id="NBCUniverso.us" group-title="Entertainment",NBC Universo
-https://streamvidex.qzz.io/videx/universo/index.m3u8
-#EXTINF:-1 tvg-id="NBCUniverso.us" group-title="Entertainment",NBC Universo
 http://187.102.210.46/universo/index.m3u8
 #EXTINF:-1 tvg-id="NBCUniverso.us" group-title="Entertainment",NBC Universo
 http://190.11.225.124:5000/live/universo_hd/playlist.m3u8
@@ -3287,12 +3293,16 @@ https://ads.its-newid.net/api/manifest.m3u8?ads.service_id=GB1700007PK&channel_i
 https://ads.its-newid.net/api/manifest.m3u8?ads.service_id=GB17000088V&channel_id=newid_086&tp=samsung_tvplus
 #EXTINF:-1 tvg-id="NEWKPOP.us" group-title="Music",NEW K-POP
 https://newidco-newkid-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="News12Brooklyn.us" group-title="News",News12 Brooklyn
+https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12KH_A1/index_new.m3u8?omap=https
+#EXTINF:-1 tvg-id="News12Conneticut.us" group-title="News",News12 Conneticut
+https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12CH_FFLD_MILF_A1/index_new.m3u8?omap=https
+#EXTINF:-1 tvg-id="News12HudsonValley.us" group-title="News",News12 Hudson Valley
+https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12HH_A1/index_new.m3u8?omap=https
 #EXTINF:-1 tvg-id="News12NewYork.us" group-title="News",News12 New York
 https://jmp2.uk/plu-5fff49cfb5cd4f0007c2b0dc.m3u8
 #EXTINF:-1 tvg-id="News12NewYork.us" group-title="News",News12 New York
 https://aegis-cloudfront-1.tubi.video/97fbb992-c212-4164-8406-abb6f731e517/playlist.m3u8
-#EXTINF:-1 tvg-id="News12PlusConnecticut.us" group-title="News",News12+ Connecticut
-https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_CT_A1/index_new.m3u8
 #EXTINF:-1 tvg-id="News12PlusLongIsland.us" group-title="News",News12+ Long Island
 https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_LI_A1/index_new.m3u8
 #EXTINF:-1 tvg-id="News12Westchester.us" group-title="News",News12 Westchester
@@ -3331,6 +3341,8 @@ https://amg00217-newsmax-amg00217c2-zeasn-us-2412.playouts.now.amagi.tv/playlist
 https://a-cdn.klowdtv.com/live2/newsmax_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="NewsNation.us" group-title="News",NewsNation
 http://206.212.244.63/712/index.m3u8
+#EXTINF:-1 tvg-id="NewsNation.us" group-title="News",NewsNation
+http://40.160.24.58/NEWSNATION/index.m3u8
 #EXTINF:-1 tvg-id="NewsNet.us" group-title="News",NewsNet
 https://2-fss-2.streamhoster.com/pl_138/amlst:201950-1311088/playlist.m3u8
 #EXTINF:-1 tvg-id="Newsy.us" group-title="News",Newsy
@@ -4143,6 +4155,8 @@ https://d1uvnirn6lhs2f.cloudfront.net/playlist.m3u8
 https://amc-portlandia-1-us.xumo.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="PositivTV.us" group-title="Family",Positiv TV
 https://livecdn.use1-0004.jwplive.com/live/sites/fGLyccP5/media/FoWynVnP/live.isml/.m3u8
+#EXTINF:-1 tvg-id="PositivTV.us" group-title="Family",Positiv TV
+http://trn03.bozztv.com/gin-positiv/index.m3u8
 #EXTINF:-1 tvg-id="PottaDivineTVUSA.us" group-title="Religious",Potta-Divine TV USA
 https://playout7multirtmp.tulix.tv/live21/Stream1/playlist.m3u8
 #EXTINF:-1 tvg-id="PowerNationTV.us" group-title="Auto",PowerNation TV
@@ -4697,8 +4711,6 @@ http://177.234.249.135:8888/Telehit/index.m3u8
 http://177.234.249.135:8888/TelehitMusica/index.m3u8
 #EXTINF:-1 tvg-id="Telemundo.us" group-title="General",Telemundo
 http://168.228.44.241:9998/play/a0a9/index.m3u8
-#EXTINF:-1 tvg-id="Telemundo.us" group-title="General",Telemundo
-https://streamvidex.qzz.io/videx/telemundo/index.m3u8
 #EXTINF:-1 tvg-id="TelemundoAlDia.us" group-title="General",Telemundo Al Dia
 https://d1rqgw5gocwo9i.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-stitched/10a44c37-f976-4d2b-ab23-8637a7a094ca/3.m3u8
 #EXTINF:-1 tvg-id="TelemundoCorpusChristi.us" group-title="Entertainment",Telemundo Corpus Christi
@@ -4969,6 +4981,8 @@ https://aegis-cloudfront-1.tubi.video/cb7f305d-049a-4feb-bc6e-028c43ad3c3e/maste
 https://jmp2.uk/plu-5ff609de50ab210008025c1b.m3u8
 #EXTINF:-1 tvg-id="Tokusato.us" group-title="Animation",Tokusato
 https://jmp2.uk/plu-5ff608e60e2996000768c366.m3u8
+#EXTINF:-1 tvg-id="ToonamiAftermath.us" group-title="Animation",Toonami Aftermath
+http://api.toonamiaftermath.com:3000/est/playlist.m3u8
 #EXTINF:-1 tvg-id="ToonGoggles.us" group-title="Kids",ToonGoggles
 https://amg01329-otterainc-toongoggles-samsungau-ad-4c.amagi.tv/playlist/amg01329-otterainc-toongoggles-samsungau/playlist.m3u8
 #EXTINF:-1 tvg-id="ToonGoggles.us" group-title="Kids",ToonGoggles
