@@ -72,6 +72,8 @@ https://cdn-5.nxplay.com.br/AMC_BRASIL/index.m3u8
 #EXTINF:-1 tvg-id="AMCLatinAmerica.us" group-title="Movies",AMC Latin America
 http://45.162.231.38:7779/AMC/index.m3u8
 #EXTINF:-1 tvg-id="AMCLatinAmerica.us" group-title="Movies",AMC Latin America
+http://45.190.156.152/AMC/index.m3u8
+#EXTINF:-1 tvg-id="AMCLatinAmerica.us" group-title="Movies",AMC Latin America
 http://200.91.32.158:8080/amc/index.m3u8
 #EXTINF:-1 tvg-id="AMCLatinAmerica.us" group-title="Movies",AMC Latin America
 http://45.162.193.35:80/AMC/index.m3u8
@@ -116,13 +118,13 @@ http://181.114.57.246:4000/play/KgkA9tT2SpLYm86J/index.m3u8
 #EXTINF:-1 tvg-id="AuroraMediaFilms.gt" group-title="Movies",Aurora Media Films
 https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8
 #EXTINF:-1 tvg-id="AXN.br" group-title="Movies",AXN
-http://45.162.231.38:7779/AXN/index.m3u8
+http://45.190.28.50/AXN_HD/index.m3u8
 #EXTINF:-1 tvg-id="AXN.es" group-title="Movies",AXN
 http://cdn.haititivi.com/AXN/index.m3u8
 #EXTINF:-1 tvg-id="AXNAdria.us" group-title="Movies",AXN Adria
 http://5.57.74.130:8000/play/a0at/index.m3u8
 #EXTINF:-1 tvg-id="AXNAsia.sg" group-title="Movies, Series",AXN Asia
-http://54.37.19.157/axn/playlist.m3u8
+http://103.137.83.62:9090/play/21/index.m3u8
 #EXTINF:-1 tvg-id="AXNBlack.us" group-title="Movies",AXN Black
 http://85.14.32.26:8800/udp/239.100.10.17:5000
 #EXTINF:-1 tvg-id="AXNBlack.us" group-title="Movies",AXN Black
@@ -153,8 +155,6 @@ http://190.11.225.124:5000/live/axn_hd/playlist.m3u8
 http://177.245.131.133:8080/AXN/index.m3u8
 #EXTINF:-1 tvg-id="AXNLatinAmerica.us" group-title="Movies",AXN Latin America
 http://45.228.235.116:8000/play/a0iy/index.m3u8
-#EXTINF:-1 tvg-id="AXNLatinAmerica.us" group-title="Movies",AXN Latin America
-http://45.6.4.35/AXN/index.m3u8
 #EXTINF:-1 tvg-id="AXNLatinAmerica.us" group-title="Movies",AXN Latin America
 http://200.91.32.158:8080/axn/index.m3u8
 #EXTINF:-1 tvg-id="AXNMovies.pt" group-title="Movies",AXN Movies
@@ -219,6 +219,8 @@ http://103.213.31.109:90/BollywoodHD/playlist.m3u8
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8?ads.vf=lWu9a-np_Vi
 #EXTINF:-1 tvg-id="Bolt.ru" group-title="Movies, Series",Bolt
 http://hls127.freeott.top:8080/Bolt/video.m3u8
+#EXTINF:-1 tvg-id="Bolt.ua" group-title="Movies, Series",Bolt
+http://176.122.125.10:8080/bolt/index.m3u8
 #EXTINF:-1 tvg-id="Bonanza.us" group-title="Movies, Series",Bonanza
 https://jmp2.uk/plu-696e647b07ea70192d49f6a5.m3u8
 #EXTINF:-1 tvg-id="Bonanza.us" group-title="Movies, Series",Bonanza
@@ -294,8 +296,6 @@ http://138.186.23.7:8082/CINECANAL/index.m3u8
 #EXTINF:-1 tvg-id="Cinecanal.us" group-title="Movies",Cinecanal
 http://190.61.43.123:8081/CINECANALHD/index.m3u8
 #EXTINF:-1 tvg-id="Cinecanal.us" group-title="Movies",Cinecanal
-http://45.6.4.35/CINECANAL/index.m3u8
-#EXTINF:-1 tvg-id="Cinecanal.us" group-title="Movies",Cinecanal
 http://200.91.32.158:8080/cinecanal/index.m3u8
 #EXTINF:-1 tvg-id="Cinecanal.us" group-title="Movies",Cinecanal
 http://45.162.193.35:80/CINECANAL/index.m3u8
@@ -333,10 +333,14 @@ http://177.234.249.178:8888/AMERICA/index.m3u8
 https://streams.comclark.com/pknsd/cinemo/playlist.m3u8
 #EXTINF:-1 tvg-id="CineNanar.fr" group-title="Movies",Cine Nanar
 https://zylo-cinenanar-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="CinePlus.ua" group-title="Movies",Cine+
+http://176.122.125.10:8080/CinePlusHD/index.m3u8
 #EXTINF:-1 tvg-id="CinePlusClassic.fr" group-title="Movies",Cine+ Classic
 http://99.27.51.147/CineClassic/index.m3u8
 #EXTINF:-1 tvg-id="CinePlusFrisson.fr" group-title="Movies",Cine+ Frisson
 http://99.27.51.147:8080/CineFrisson/index.m3u8
+#EXTINF:-1 tvg-id="CinePlusHit.ua" group-title="Movies",Cine+ Hit
+http://176.122.125.10:8080/CinePlusHitHD/index.m3u8
 #EXTINF:-1 tvg-id="CinePremiere.us" group-title="Movies",Cine Premiere
 https://jmp2.uk/plu-5cf968040ab7d8f181e6a68b.m3u8
 #EXTINF:-1 tvg-id="CinePremium.us" group-title="Movies",Cine Premium
@@ -477,6 +481,8 @@ https://rpn.bozztv.com/ebstv/ebscinema/index.m3u8
 https://ca-rt.onetv.app/EkranMovies/index-0.m3u8?token=onetv202
 #EXTINF:-1 tvg-id="EmotionL.fr" group-title="Movies",Emotion L
 https://rakutenaa-zylo-emotional-rakuten-r1zkm.amagi.tv/playlist/rakutenAA-zylo-emotional-rakuten/playlist.m3u8
+#EXTINF:-1 tvg-id="EnterFilm.ua" group-title="Movies",Enter-Film
+http://176.122.125.10:8080/enterfilm/index.m3u8
 #EXTINF:-1 tvg-id="EpicBhojpuri.in" group-title="Movies",Epic Bhojpuri
 http://103.72.101.252:8080/live/3384.m3u8
 #EXTINF:-1 tvg-id="EpicBhojpuri.in" group-title="Movies",Epic Bhojpuri
@@ -495,8 +501,6 @@ https://live-evg5.tv360.bitel.com.pe/bitel/fillka/playlist.m3u8
 https://amixtv.com/fillkatvhd/index.m3u8
 #EXTINF:-1 tvg-id="Film4.uk" group-title="Movies",Film4
 http://80.194.62.172:50002/stream/channelid/1764271106
-#EXTINF:-1 tvg-id="FilmArts.ar" group-title="Movies",Film & Arts
-http://45.6.4.35/FILM_AND_ARTS/index.m3u8
 #EXTINF:-1 tvg-id="FilmArts.ar" group-title="Movies",Film & Arts
 http://200.91.32.158:8080/filmarts/index.m3u8
 #EXTINF:-1 tvg-id="Filmax.pk" group-title="Movies",Filmax
@@ -1511,6 +1515,8 @@ https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/
 http://149.71.34.166:8000/play/a00z/index.m3u8
 #EXTINF:-1 tvg-id="SonyMovies.br" group-title="Movies",Sony Movies
 http://45.162.64.114/SONY_MOVIES/index.m3u8
+#EXTINF:-1 tvg-id="SonyMovies.br" group-title="Movies",Sony Movies
+http://45.190.28.50/SONY_MOVIES/index.m3u8
 #EXTINF:-1 tvg-id="SonyMoviesLatinAmerica.us" group-title="Movies",Sony Movies Latin America
 https://cdn-5.nxplay.com.br/SONY_MOVIES/index.m3u8
 #EXTINF:-1 tvg-id="SonyMoviesLatinAmerica.us" group-title="Movies",Sony Movies Latin America
@@ -1550,11 +1556,11 @@ http://138.186.23.7:8082/STARCHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="StarChannelLatinAmerica.us" group-title="Movies, Series",Star Channel Latin America
 http://45.162.193.35:80/STAR_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="StarChannelLatinAmerica.us" group-title="Movies, Series",Star Channel Latin America
-http://45.6.4.35/FOX/index.m3u8
-#EXTINF:-1 tvg-id="StarChannelLatinAmerica.us" group-title="Movies, Series",Star Channel Latin America
 http://200.91.32.158:8080/starchannel/index.m3u8
 #EXTINF:-1 tvg-id="StarCinema.ru" group-title="Movies",Star Cinema
 https://dash2.antik.sk/live/test_star_cinema_atktv/playlist.m3u8
+#EXTINF:-1 tvg-id="StarCinema.ua" group-title="Movies",Star Cinema
+http://176.122.125.10:8080/starcinema/index.m3u8
 #EXTINF:-1 tvg-id="StarFamily.ru" group-title="Movies",Star Family
 https://dash2.antik.sk/live/test_star_family_atktv/playlist.m3u8
 #EXTINF:-1 tvg-id="StarGold2.in" group-title="Movies",Star Gold 2
@@ -1636,27 +1642,15 @@ https://ca-rt.onetv.app/T2Movies/index-0.m3u8?token=onetv202
 #EXTINF:-1 tvg-id="Tamasha.ir" group-title="Movies",Tamasha
 https://ncdn.telewebion.ir/hdtest/live/playlist.m3u8
 #EXTINF:-1 tvg-id="TelecineAction.br" group-title="Movies",Telecine Action
-http://45.162.231.38:7779/Telecine_Action/index.m3u8
-#EXTINF:-1 tvg-id="TelecineAction.br" group-title="Movies",Telecine Action
 http://167.250.126.140:7777/TCACTION-HD/index.m3u8
-#EXTINF:-1 tvg-id="TelecineCult.br" group-title="Movies",Telecine Cult
-http://45.162.231.38:7779/Telecine_Cult/index.m3u8
 #EXTINF:-1 tvg-id="TelecineCult.br" group-title="Movies",Telecine Cult
 http://167.250.126.140:7777/TCCULT-HD/index.m3u8
 #EXTINF:-1 tvg-id="TelecineFun.br" group-title="Movies",Telecine Fun
-http://45.162.231.38:7779/Telecine_Fun/index.m3u8
-#EXTINF:-1 tvg-id="TelecineFun.br" group-title="Movies",Telecine Fun
 http://167.250.126.140:7777/TCFUN-HD/index.m3u8
-#EXTINF:-1 tvg-id="TelecinePipoca.br" group-title="Movies",Telecine Pipoca
-http://45.162.231.38:7779/Telecine_Pipoca/index.m3u8
 #EXTINF:-1 tvg-id="TelecinePipoca.br" group-title="Movies",Telecine Pipoca
 http://167.250.126.140:7777/TCPIPOCA-HD/index.m3u8
 #EXTINF:-1 tvg-id="TelecinePremium.br" group-title="Movies",Telecine Premium
-http://45.162.231.38:7779/Telecine_Premium/index.m3u8
-#EXTINF:-1 tvg-id="TelecinePremium.br" group-title="Movies",Telecine Premium
 http://167.250.126.140:7777/TCPREMIUM-HD/index.m3u8
-#EXTINF:-1 tvg-id="TelecineTouch.br" group-title="Movies",Telecine Touch
-http://45.162.231.38:7779/Telecine_Touch/index.m3u8
 #EXTINF:-1 tvg-id="TelecineTouch.br" group-title="Movies",Telecine Touch
 http://167.250.126.140:7777/TELECINETOUCH-HD/index.m3u8
 #EXTINF:-1 tvg-id="ThalaaTV.in" group-title="Movies",Thalaa TV
