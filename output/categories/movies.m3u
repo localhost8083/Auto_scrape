@@ -47,8 +47,6 @@ http://190.11.225.124:5000/live/amc_hd/playlist.m3u8
 http://23.239.31.26:8989/amc/index.m3u8
 #EXTINF:-1 tvg-id="AMCEurope.uk" group-title="Movies",AMC Europe
 http://88.212.15.19/live/test_amc_25p/playlist.m3u8
-#EXTINF:-1 tvg-id="AMCEurope.uk" group-title="Movies",AMC Europe
-https://dokagents.site/live/amc/mono.m3u8
 #EXTINF:-1 tvg-id="AMCLatinAmerica.us" group-title="Movies",AMC Latin America
 http://45.190.156.152/AMC/index.m3u8
 #EXTINF:-1 tvg-id="AMCLatinAmerica.us" group-title="Movies",AMC Latin America
@@ -79,6 +77,8 @@ https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8
 http://45.190.28.50/AXN_HD/index.m3u8
 #EXTINF:-1 tvg-id="AXN.pt" group-title="Movies",AXN
 http://znty.dyndns.org:5010/hls/axn.m3u8
+#EXTINF:-1 tvg-id="AXNAdria.us" group-title="Movies",AXN Adria
+http://5.57.74.130:8000/play/a0at/index.m3u8
 #EXTINF:-1 tvg-id="AXNAsia.sg" group-title="Movies, Series",AXN Asia
 http://103.137.83.62:9090/play/21/index.m3u8
 #EXTINF:-1 tvg-id="AXNBlack.us" group-title="Movies",AXN Black
@@ -149,8 +149,6 @@ http://198.204.240.250:82/live/cctv6.m3u8
 http://38.75.136.137:98/gslb/dsdqpub/fyjc.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="CCTVTheFirstTheater.cn" group-title="Movies",CCTV-The First Theater
 http://38.75.136.137:98/gslb/dsdqpub/dyjc.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="Charge.us" group-title="Movies",Charge!
-http://40.160.24.52/CHARGE/index.m3u8
 #EXTINF:-1 tvg-id="Charge.us" group-title="Movies",Charge!
 https://fast-channels.sinclairstoryline.com/CHARGE/index.m3u8
 #EXTINF:-1 tvg-id="Charge.us" group-title="Movies",Charge!
@@ -375,12 +373,8 @@ https://dash2.antik.sk/live/test_film_drama_atktv/playlist.m3u8
 https://dash2.antik.sk/live/test_film_life_atktv/playlist.m3u8
 #EXTINF:-1 tvg-id="FlicksofFury.us" group-title="Movies",Flicks of Fury
 https://jmp2.uk/plu-58e55b14ad8e9c364d55f717.m3u8
-#EXTINF:-1 tvg-id="Flix.us" group-title="Movies",Flix
-http://40.160.24.52/FLIX/index.m3u8
 #EXTINF:-1 tvg-id="FrightFlix.us" group-title="Movies",FrightFlix
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2229
-#EXTINF:-1 tvg-id="FXM.us" group-title="Movies",FXM
-http://40.160.24.52/FXM/index.m3u8
 #EXTINF:-1 tvg-id="GEMPixel.tr" group-title="Movies",GEM Pixel
 https://glserver1.tamashaland.com/live/aBCH96886YznRbGOiqTnnQ__/stream_0.m3u8
 #EXTINF:-1 tvg-id="GirlfriendsFilms.us" group-title="Movies",Girlfriends Films
@@ -404,11 +398,7 @@ https://gcinemahls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="GravitasMovies.us" group-title="Movies",Gravitas Movies
 https://d6dg3ebeih71x.cloudfront.net/Gravitas_Movies.m3u8
 #EXTINF:-1 tvg-id="GreatAmericanFaithLiving.us" group-title="Movies, Lifestyle",Great American Faith & Living
-http://40.160.24.52/GAC_LIVING/index.m3u8
-#EXTINF:-1 tvg-id="GreatAmericanFaithLiving.us" group-title="Movies, Lifestyle",Great American Faith & Living
 http://206.212.244.63/82/index.m3u8
-#EXTINF:-1 tvg-id="GreatAmericanFamily.us" group-title="Movies, Family",Great American Family
-http://40.160.24.52/GREAT_AMERICAN_COUNTRY/index.m3u8
 #EXTINF:-1 tvg-id="GreatAmericanFamily.us" group-title="Movies, Family",Great American Family
 http://40.160.24.58/GAC_FAMILY/index.m3u8
 #EXTINF:-1 tvg-id="GreatAmericanFamily.us" group-title="Movies, Family",Great American Family
@@ -583,12 +573,6 @@ https://jmp2.uk/plu-63047bd6b0726b000795341d.m3u8
 https://jmp2.uk/plu-6304854ac6073d0007259fe1.m3u8
 #EXTINF:-1 tvg-id="MetaFilmTV.ir" group-title="Movies",Meta Film TV
 https://metafilmhls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="MGMPlus.us" group-title="Movies",MGM+
-http://40.160.24.52/EPIX/index.m3u8
-#EXTINF:-1 tvg-id="MGMPlusDriveIn.us" group-title="Movies",MGM+ Drive-In
-http://40.160.24.52/EPIX_DRIVE-IN/index.m3u8
-#EXTINF:-1 tvg-id="MGMPlusHits.us" group-title="Movies",MGM+ Hits
-http://40.160.24.52/EPIX_2/index.m3u8
 #EXTINF:-1 tvg-id="MissionImpossible.de" group-title="Movies, Series",Mission Impossible
 https://jmp2.uk/plu-634fe5afece2e60007c9d8b8.m3u8
 #EXTINF:-1 tvg-id="MissionImpossible.de" group-title="Movies, Series",Mission Impossible
@@ -894,10 +878,6 @@ https://jmp2.uk/plu-68fbf8101d26140175db8b58.m3u8
 #EXTINF:-1 tvg-id="PlutoTVHaialarm.de" group-title="Movies, Series",Pluto TV Haialarm
 https://jmp2.uk/plu-69b015c5d29cc97de7da4af8.m3u8
 #EXTINF:-1 tvg-id="PlutoTVHarlequin.se" group-title="Movies",Pluto TV Harlequin
-https://jmp2.uk/plu-68c01afa3efb41cd9759dafb.m3u8
-#EXTINF:-1 tvg-id="PlutoTVHarlequin.se" group-title="Movies",Pluto TV Harlequin
-https://jmp2.uk/plu-68c01b9a6bdcf3b9a64febcc.m3u8
-#EXTINF:-1 tvg-id="PlutoTVHarlequin.se" group-title="Movies",Pluto TV Harlequin
 https://jmp2.uk/plu-68c01bed508ba507f0d0dd60.m3u8
 #EXTINF:-1 tvg-id="PlutoTVHorror.de" group-title="Movies, Series",Pluto TV Horror
 https://jmp2.uk/plu-62f4f4b88157cf00075c22db.m3u8
@@ -969,6 +949,8 @@ https://jmp2.uk/plu-5f8ed9461b35690007a0bc3a.m3u8
 https://jmp2.uk/plu-5d4af2ffa9506ab29cf38c38.m3u8
 #EXTINF:-1 tvg-id="PlutoTVParanormal.de" group-title="Movies",Pluto TV Paranormal
 https://jmp2.uk/plu-66c70033b1a34600087bb09a.m3u8
+#EXTINF:-1 tvg-id="PlutoTVParanormal.se" group-title="Movies",Pluto TV Paranormal
+https://jmp2.uk/plu-62b30beb81f89900071fc7b9.m3u8
 #EXTINF:-1 tvg-id="PlutoTVParanormal.se" group-title="Movies",Pluto TV Paranormal
 https://jmp2.uk/plu-62b1e4189f5db20007ff03be.m3u8
 #EXTINF:-1 tvg-id="PlutoTVPsycho.de" group-title="Movies",Pluto TV Psycho
@@ -1143,8 +1125,6 @@ https://vod.tuva.ru/rusroman/index.m3u8
 http://31.148.48.15/Russkiy_Roman_HD/index.m3u8
 #EXTINF:-1 tvg-id="Russkiyroman.ru" group-title="Movies",Russkiy roman
 http://31.148.48.15/Russkiy_Roman/index.m3u8
-#EXTINF:-1 tvg-id="ScaresbyShudder.us" group-title="Movies",Scares by Shudder
-http://206.212.244.63/147/index.m3u8
 #EXTINF:-1 tvg-id="ScreamIN.fr" group-title="Movies",ScreamIN
 https://rakutenaa-zylo-screamin-rakuten-p11ej.amagi.tv/playlist/rakutenAA-zylo-screamin-rakuten/playlist.m3u8
 #EXTINF:-1 tvg-id="SensaCineTVxPluto.de" group-title="Movies",SensaCine TV x Pluto
