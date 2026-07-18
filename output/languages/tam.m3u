@@ -279,6 +279,8 @@ https://n18syndication.akamaized.net/bpk-tv/CNBC_TV18_NW18_MOB/output01/index.m3
 https://n18syndication.akamaized.net/bpk-tv/CNBC_Tv18_Prime_HD_NW18_MOB/output01/index.m3u8
 #EXTINF:-1 tvg-id="CnewsBharat.in" group-title="News",Cnews Bharat
 https://legitpro.co.in/cnews/cnews/index.fmp4.m3u8
+#EXTINF:-1 tvg-id="ColorsBangla.in" group-title="Entertainment",Colors Bangla
+http://tvsen5.aynascope.net/u3LkNQ7UHhFX/index.m3u8
 #EXTINF:-1 tvg-id="ColorsInfinity.in" group-title="Entertainment",Colors Infinity
 http://103.175.73.12:8080/live/29/29_0.m3u8
 #EXTINF:-1 tvg-id="CTVNAKDPlus.in" group-title="News",CTVN AKD Plus
@@ -499,8 +501,6 @@ https://cdn-2.pishow.tv/live/1461/master.m3u8
 https://aajtaklive.vgcdn.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/3196cced-ce29-4219-9809-f07ccdaa02b9/vglive-sk-848805/master.m3u8
 #EXTINF:-1 tvg-id="GoodNewsToday.in" group-title="News",Good News Today
 https://cc-89m9zu7a2upfe.akamaized.net/hls/live/2016145/gnt/gntlive/playlist.m3u8
-#EXTINF:-1 tvg-id="GoodNewsTV.in" group-title="Religious",GoodNews TV
-https://bpgdlwwar3ze-hls-live.wmncdn.net/goodnews/live.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="GospelTVIndia.in" group-title="Religious",Gospel TV India
 https://server.livelegitpro.in:9899/gospeltv/index.m3u8
 #EXTINF:-1 tvg-id="GSTV.in" group-title="News",GS TV
@@ -831,6 +831,8 @@ https://n18syndication.akamaized.net/bpk-tv/News18_Urdu_NW18_MOB/output01/master
 https://n18syndication.akamaized.net/bpk-tv/News18_UP_Uttarakhand_NW18_MOB/output01/master.m3u8
 #EXTINF:-1 tvg-id="News24.in" group-title="News",News 24
 https://vidcdn.vidgyor.com/news24-origin/liveabr/playlist.m3u8
+#EXTINF:-1 tvg-id="News24.in" group-title="News",News 24
+http://tvsen5.aynascope.net/News24/index.m3u8
 #EXTINF:-1 tvg-id="NewsDaily24.in" group-title="News",News Daily 24
 https://cdn-6.pishow.tv/live/10009/master.m3u8
 #EXTINF:-1 tvg-id="NewsIndia24x7.in" group-title="News",News India 24x7
@@ -853,8 +855,6 @@ https://cdn-2.pishow.tv/live/1494/master.m3u8
 http://103.137.83.62:9090/play/28/index.m3u8
 #EXTINF:-1 tvg-id="NickHDPlus.in" group-title="Kids",Nick HD+
 http://116.90.120.157:8000/play/a0i3/index.m3u8
-#EXTINF:-1 tvg-id="NickJrAsia.sg" group-title="Kids",Nick Jr. Asia
-https://phcornerultralast.qzz.io/hls/laslo-serverless/dr_nickjr/index.m3u8
 #EXTINF:-1 tvg-id="NireekshanaTV.in" group-title="Religious",Nireekshana TV
 https://cdn-1.pishow.tv/live/965/master.m3u8
 #EXTINF:-1 tvg-id="NKRTVKannada.in" group-title="General",NKR TV Kannada
@@ -1067,8 +1067,12 @@ https://cdn-3.pishow.tv/live/1229/master.m3u8
 https://cdn-3.pishow.tv/live/1135/master.m3u8
 #EXTINF:-1 tvg-id="SansadTV1.in" group-title="Legislative",Sansad TV 1
 https://d2lk5u59tns74c.cloudfront.net/out/v1/fff8f20221d5456e8922e689d71dedc3/index.m3u8
+#EXTINF:-1 tvg-id="SansadTV1.in" group-title="Legislative",Sansad TV 1
+https://playhls.media.nic.in/hls/live/lstv/lstv.m3u8
 #EXTINF:-1 tvg-id="SansadTV2.in" group-title="Legislative",Sansad TV 2
 https://d2lk5u59tns74c.cloudfront.net/out/v1/e4182054dce340da9e0ff38b6b3658a4/index.m3u8
+#EXTINF:-1 tvg-id="SansadTV2.in" group-title="Legislative",Sansad TV 2
+https://playhls.media.nic.in/hls/live/rstv/rstv.m3u8
 #EXTINF:-1 tvg-id="SansadTV2.in" group-title="Legislative",Sansad TV 2
 https://cdn-2.pishow.tv/live/39/master.m3u8
 #EXTINF:-1 tvg-id="SantvaniChannel.in" group-title="Uncategorized",Santvani Channel
@@ -1094,21 +1098,31 @@ https://6284rn2xr7xv-hls-live.wmncdn.net/shubhsandeshtv1/live123.stream/index.m3
 #EXTINF:-1 tvg-id="ShubhsandeshTV.in" group-title="Religious",Shubhsandesh TV
 https://cdn-2.pishow.tv/live/457/master.m3u8
 #EXTINF:-1 tvg-id="SirippoliTV.in" group-title="Comedy",Sirippoli TV
-http://ptuf.ridsys.in/riptv/live/KALAIGNAR_SIRIPOLI/index.m3u8
-#EXTINF:-1 tvg-id="SirippoliTV.in" group-title="Comedy",Sirippoli TV
 https://segment.yuppcdn.net/240122/siripoli/playlist.m3u8
 #EXTINF:-1 tvg-id="SiyathaTV.lk" group-title="Uncategorized",Siyatha TV
 https://rtmp01.voaplus.com/hls/6x6ik312qk4grfxocfcv.m3u8
 #EXTINF:-1 tvg-id="SongdewTV.in" group-title="Music",Songdew TV
 https://yuppnimrestreammum.akamaized.net/181224/smil:songdewtv.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+#EXTINF:-1 tvg-id="SonyEntertainmentTelevision.in" group-title="Entertainment",Sony Entertainment Television
+http://tvsen5.aynascope.net/Wfn4bVp3dLgA/index.m3u8
 #EXTINF:-1 tvg-id="SouthStation.in" group-title="Movies",South Station
 https://cc-yw7ztecy8do3q.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yw7ztecy8do3q/SS_IN.m3u8
 #EXTINF:-1 tvg-id="Spondon.in" group-title="Entertainment",Spondon
 https://cdn-7.pishow.tv/live/10019/master.m3u8
+#EXTINF:-1 tvg-id="StarJalsha.in" group-title="Entertainment",Star Jalsha
+http://tvsen7.aynascope.net/sjhdbd/index.m3u8
+#EXTINF:-1 tvg-id="StarJalsha.in" group-title="Entertainment",Star Jalsha
+http://tvsen5.aynascope.net/gUX8BJmNc2yF/index.m3u8
 #EXTINF:-1 tvg-id="Starnet.in" group-title="General",Starnet
 https://5a1178b42cc03.streamlock.net/8220/8220/playlist.m3u8
 #EXTINF:-1 tvg-id="StarPlus.in" group-title="Entertainment",StarPlus
+http://tvsen7.aynascope.net/sphdbd/index.m3u8
+#EXTINF:-1 tvg-id="StarPlus.in" group-title="Entertainment",StarPlus
 http://41.205.77.102/STAR-PLUS/index.m3u8
+#EXTINF:-1 tvg-id="StarSports1.in" group-title="Sports",Star Sports 1
+http://tvsen5.aynascope.net/c9EpzZ6fQBJ3/index.m3u8
+#EXTINF:-1 tvg-id="StarSportsSelect1.in" group-title="Sports",Star Sports Select 1
+http://tvsen7.aynascope.net/sspts1/index.m3u8
 #EXTINF:-1 tvg-id="SteelbirdMusic.in" group-title="Music",Steelbird Music
 https://cdn2.in/SteelbirdMusicTVhls/live.m3u8
 #EXTINF:-1 tvg-id="StudioOnePlus.in" group-title="Movies",Studio One +
@@ -1249,12 +1263,16 @@ https://cdn-3.pishow.tv/live/461/master.m3u8
 https://cdn-3.pishow.tv/live/1271/master.m3u8
 #EXTINF:-1 tvg-id="VerbumTV.lk" group-title="Uncategorized",Verbum TV
 https://video-eu1.streamerr.co/hls/scb80244b91/live.m3u8
+#EXTINF:-1 tvg-id="VijayTakkar.in" group-title="Music",Vijay Takkar
+https://tglmp01.akamaized.net/out/v1/c1071012b73f4f189b202e1529e8f802/manifest.mpd
 #EXTINF:-1 tvg-id="VillageTV.in" group-title="Religious",Village TV
 https://villagetv.applelive.in/villagetv/villagetv/index.m3u8
 #EXTINF:-1 tvg-id="VIPNews.in" group-title="News",VIP News
 https://live.vipnews24x7.co.in/vipnews24x7/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="VTU.in" group-title="Uncategorized",VTU
 https://lbgo.bozztv.com/ssh101/ssh101/afghantheatretv/playlist.m3u8
+#EXTINF:-1 tvg-id="VyasChannel.in" group-title="Education",Vyas Channel
+https://playhls.media.nic.in/hls/live/vyas/vyas.m3u8
 #EXTINF:-1 tvg-id="WeatherSpy.in" group-title="Weather",WeatherSpy
 https://jukin-weatherspy-2-in.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="WinTV.in" group-title="Uncategorized",Win TV
@@ -1283,8 +1301,6 @@ https://wion-klowdtv.amagi.tv/playlist.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
 #EXTINF:-1 tvg-id="ZainabiaChannel.in" group-title="Religious",Zainabia Channel
 https://zainabia.livebox.co.in/ZainabiaChannelhls/channel.m3u8
-#EXTINF:-1 tvg-id="ZBBhakti.in" group-title="Religious",ZB Bhakti
-https://server.zillarbarta.com/zbbhakti/index.m3u8
 #EXTINF:-1 tvg-id="ZBCartoon.in" group-title="Kids",ZB Cartoon
 https://server.zillarbarta.com/zbcatun/video.m3u8
 #EXTINF:-1 tvg-id="ZBCinema.in" group-title="Classic, Movies",ZB Cinema
