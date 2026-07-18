@@ -85,6 +85,8 @@ http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
 http://145.239.5.177/300/index.m3u8
 #EXTINF:-1 tvg-id="ATV.be" group-title="General",ATV
 https://live.zendzend.com/mpegts/29375_107244/media_mpegts_0.m3u8
+#EXTINF:-1 tvg-id="ATV.gn" group-title="General",ATV
+https://guineetvdirect.online:3320/live/atvguineelive.m3u8
 #EXTINF:-1 tvg-id="AzanTV.ca" group-title="Religious",Azan TV
 https://dbcanada.sonarbanglatv.com/azantv/atv/index.m3u8
 #EXTINF:-1 tvg-id="AzStarTV.ca" group-title="General",Az Star TV
@@ -283,8 +285,6 @@ https://jmp2.uk/plu-61de90a47365340007f77c27.m3u8
 https://jmp2.uk/plu-5ca1da6c593a5d78f0e7edce.m3u8
 #EXTINF:-1 tvg-id="EuronewsEnglish.fr" group-title="News",Euronews English
 https://a-cdn.klowdtv.com/live3/euronews_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="EuronewsEnglish.fr" group-title="News",Euronews English
-https://streams.sofast.tv/euronewsen/live/eds/euronews-en/25017/euronews-en.m3u8
 #EXTINF:-1 tvg-id="EuronewsEnglish.fr" group-title="News",Euronews English
 https://aegis-cloudfront-1.tubi.video/b1c4d439-03a5-4c40-ae9d-90a183e010c9/euronews-en.m3u8
 #EXTINF:-1 tvg-id="EuronewsFrench.fr" group-title="News",Euronews French
@@ -551,8 +551,6 @@ https://vdo2.pro-fhi.net:3769/stream/play.m3u8
 https://rpn.bozztv.com/dvrfl03/iipctv/index.m3u8
 #EXTINF:-1 tvg-id="IIPCTV.ca" group-title="Religious",IIPC TV
 https://uni10rtmp.tulix.tv/iipctv/iipctv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ILTV.fr" group-title="Uncategorized",ILTV
-https://live.creacast.com/iltv/smil:iltv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ImmaculataTV.ch" group-title="Religious",Immaculata TV
 https://g5nl63z8lpq6-hls-live.5centscdn.com/tvistream/a5586d8ea3b7b021120a05c60dc59876.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="IntoCrime.fr" group-title="Documentary",Into Crime
@@ -655,8 +653,6 @@ http://tv.mondeduloisir.fr:1935/tixtv/smil:web.smil/playlist.m3u8
 https://streaming.meteonews.net/hls/stream.m3u8
 #EXTINF:-1 tvg-id="Mezzo.fr" group-title="Music",Mezzo
 https://live-3.otcnet.ru/Mezzo/index.m3u8
-#EXTINF:-1 tvg-id="mfm.lb" group-title="Music",mfm
-https://hms.pfs.gdn/hms/v1/broadcast/hlmvmp2hfriode891/playlist.m3u8
 #EXTINF:-1 tvg-id="MHZ.ca" group-title="Entertainment",MHZ
 https://mhz-samsung-linear-ca.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="MierschTV.lu" group-title="General",MierschTV
@@ -715,8 +711,6 @@ https://amg00090-blueantmedia-naturetime-samsungse-axgcn.amagi.tv/playlist/amg00
 https://amg01515-amg01515c43-samsung-gb-9038.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon.fr" group-title="Kids",Nickelodeon
 http://151.80.18.177:86/Nickelodeon_FR/index.m3u8
-#EXTINF:-1 tvg-id="NickelodeonJunior.fr" group-title="Kids",Nickelodeon Junior
-http://151.80.18.177:86/Nickelodeon_Junior/index.m3u8
 #EXTINF:-1 tvg-id="NollywoodTV.fr" group-title="Movies",Nollywood TV
 http://145.239.5.177/148/index.m3u8
 #EXTINF:-1 tvg-id="Notele.be" group-title="General",Notele
@@ -737,18 +731,14 @@ https://strhlslb01.streamakaci.tv/str_ntv_ntv/str_ntv_ntv_multi/playlist.m3u8
 https://2-fss-1.streamhoster.com/pl_122/201748-1431018-1/chunklist.m3u8
 #EXTINF:-1 tvg-id="NumericaTV.cd" group-title="General",Numerica TV
 https://tnt-television.com/NUMERICA/index.m3u8
-#EXTINF:-1 tvg-id="NWSport1.tg" group-title="Sports",NW Sport 1
-http://41.205.70.146/BEINSPORT1/index.m3u8
 #EXTINF:-1 tvg-id="NWSport2.tg" group-title="Sports",NW Sport 2
 http://41.205.70.146/M6/index.m3u8
-#EXTINF:-1 tvg-id="OneFM.lb" group-title="Music",OneFM
-https://hms.pfs.gdn/v1/broadcast/onefm/playlist.m3u8
-#EXTINF:-1 tvg-id="OneTV.lb" group-title="Music",One TV
-https://hms.pfs.gdn/v1/broadcast/one/playlist.m3u8
 #EXTINF:-1 tvg-id="OntarioParliamentaryNetwork.ca" group-title="Legislative",Ontario Parliamentary Network
 https://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8
 #EXTINF:-1 tvg-id="OntarioParliamentaryNetwork.ca" group-title="Legislative",Ontario Parliamentary Network
 https://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-fr/playlist.m3u8
+#EXTINF:-1 tvg-id="ORTBTV.bj" group-title="General",ORTB TV
+https://strhls.streamakaci.tv/ortb/ortb1-multi/playlist.m3u8
 #EXTINF:-1 tvg-id="OTV.lb" group-title="General",OTV
 https://otv.hibridcdn.net/otv/tv_abr/playlist.m3u8
 #EXTINF:-1 tvg-id="P2MTV.fr" group-title="Music",P2M TV
@@ -881,6 +871,8 @@ https://live-edge.rtl.lu/channel2/smil:channel2/playlist.m3u8
 https://tnt-television.com/rtnc_HD/index.m3u8
 #EXTINF:-1 tvg-id="RTS1.ch" group-title="Uncategorized",RTS 1
 http://41.205.70.146/RTSUN/index.m3u8
+#EXTINF:-1 tvg-id="RTS3.sn" group-title="General",RTS 3
+http://145.239.5.177/224/index.m3u8
 #EXTINF:-1 tvg-id="RTSInfo.ch" group-title="News",RTS Info
 https://rtsinfo-d.akamaized.net/out/v1/2b7ae2e1ba3f43c6aba15bced153baf5/index.m3u8
 #EXTINF:-1 tvg-id="RTVC.ci" group-title="Religious",RTVC
