@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="36TVHuacho.pe" group-title="General",36 TV Huacho
 https://live-evg10.tv360.bitel.com.pe/bitel/36tvSRT/playlist.m3u8
-#EXTINF:-1 tvg-id="ABCTeleshow.pe" group-title="General",ABC Teleshow
-https://live-evg10.tv360.bitel.com.pe/bitel/abctv/playlist.m3u8
 #EXTINF:-1 tvg-id="AgroTV.pe" group-title="Outdoor",Agro TV
 https://live-evg8.tv360.bitel.com.pe/bitel/agroSRT/playlist.m3u8
 #EXTINF:-1 tvg-id="AgroTV.pe" group-title="Outdoor",Agro TV
@@ -11,8 +9,16 @@ https://play.agenciastreaming.com:8081/agrotv/index.m3u8
 https://live-evg10.tv360.bitel.com.pe/bitel/urbanatv/playlist.m3u8
 #EXTINF:-1 tvg-id="AlturaTV.pe" group-title="General",Altura TV
 https://play.agenciastreaming.com:8081/tvalturalimalive/video.m3u8
+#EXTINF:-1 tvg-id="AmazoniaTV.pe" group-title="General",Amazonia TV
+https://servilive.com:3199/live/amazoniatvlive.m3u8
+#EXTINF:-1 tvg-id="AmazonicaTV.pe" group-title="General",Amazonica TV
+https://live-evg8.tv360.bitel.com.pe/bitel/amazonicatvSRT/playlist.m3u8
+#EXTINF:-1 tvg-id="AmazonicaTV.pe" group-title="General",Amazonica TV
+https://videoserver.tmcreativos.com:19360/amazonicatv/amazonicatv.m3u8
 #EXTINF:-1 tvg-id="AmericaTelevision.pe" group-title="General",America Television
 http://45.171.108.253:8888/AMERICA/index.m3u8
+#EXTINF:-1 tvg-id="AmericaTelevision.pe" group-title="General",America Television
+https://live-bd1.tv360.bitel.com.pe/manifest/america/master_clean_source.m3u8
 #EXTINF:-1 tvg-id="AmericaTelevision.pe" group-title="General",America Television
 http://187.102.210.46/AMERICA/index.m3u8
 #EXTINF:-1 tvg-id="AndesTelevision.pe" group-title="Religious",Andes Television
@@ -24,21 +30,23 @@ https://live-evg8.tv360.bitel.com.pe/bitel/andinatvSRT/playlist.m3u8
 #EXTINF:-1 tvg-id="AntaresTelevision.pe" group-title="Entertainment",Antares Television
 https://5949aa132c8fb.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
 #EXTINF:-1 tvg-id="Antena1.pe" group-title="General",Antena 1
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/antenauno.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Antena1.pe" group-title="General",Antena 1
 https://live-evg8.tv360.bitel.com.pe/bitel/aunoSRT/playlist.m3u8
 #EXTINF:-1 tvg-id="AntenaSUR.pe" group-title="General",Antena SUR
 https://cloudpro.servidoresdestream.com:8081/8010/index.m3u8
-#EXTINF:-1 tvg-id="AntenaSUR.pe" group-title="General",Antena SUR
-https://live-evg8.tv360.bitel.com.pe/bitel/antenasurtv/playlist.m3u8
 #EXTINF:-1 tvg-id="ArpegioTV.pe" group-title="General",Arpegio TV
 https://live-evg8.tv360.bitel.com.pe/bitel/arpegioSRT/playlist.m3u8
 #EXTINF:-1 tvg-id="ArpegioTV.pe" group-title="General",Arpegio TV
 https://vdo.oyotunserver.com/arpegio/video.m3u8
-#EXTINF:-1 tvg-id="AtlantisRadioTV.pe" group-title="General",Atlantis Radio TV
-https://live-evg8.tv360.bitel.com.pe/bitel/atlantisSRT/playlist.m3u8
 #EXTINF:-1 tvg-id="ATV.pe" group-title="General",ATV
 https://d19e55ehz2il4i.cloudfront.net/ts:abr.m3u8
 #EXTINF:-1 tvg-id="ATV.pe" group-title="General",ATV
 http://187.102.210.46/ATV/index.m3u8
+#EXTINF:-1 tvg-id="ATV.pe" group-title="General",ATV
+https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8
+#EXTINF:-1 tvg-id="ATVPlus.pe" group-title="News",ATV+
+http://45.171.108.253:8888/ATV/index.m3u8
 #EXTINF:-1 tvg-id="ATVPlus.pe" group-title="News",ATV+
 http://177.234.249.178:8888/ATV/index.m3u8
 #EXTINF:-1 tvg-id="ATVPlus.pe" group-title="News",ATV+
@@ -187,10 +195,6 @@ https://live.obslivestream.com/mastertv/index.m3u8
 https://live-evg5.tv360.bitel.com.pe/bitel/mediatv/playlist.m3u8
 #EXTINF:-1 tvg-id="MegaTVJaen.pe" group-title="General",Mega TV Jaen
 https://7.innovatestream.pe:19360/megatvjaen/megatvjaen.m3u8
-#EXTINF:-1 tvg-id="MegaTVJaen.pe" group-title="General",Mega TV Jaen
-https://live-evg5.tv360.bitel.com.pe/bitel/megatv/playlist.m3u8
-#EXTINF:-1 tvg-id="MetropolitanadelCuzco.pe" group-title="Music",Metropolitana del Cuzco
-https://video1.earthcam.com/myearthcam/075ff02f78c35af55564cf3af3b3f750.flv/playlist.m3u8
 #EXTINF:-1 tvg-id="MielTV.pe" group-title="Music",Miel TV
 https://7.innovatestream.pe:19360/mieltv/mieltv.m3u8
 #EXTINF:-1 tvg-id="MielTV.pe" group-title="Music",Miel TV
@@ -221,12 +225,12 @@ http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/DigitalTV/playlist.m3u8
 https://live-evg7.tv360.bitel.com.pe/bitel/neotvSRT/playlist.m3u8
 #EXTINF:-1 tvg-id="NZKTelevision.pe" group-title="General",NZK Television
 https://eu1.servers10.com:8081/8258/index.m3u8
+#EXTINF:-1 tvg-id="ONDADIGITAL.pe" group-title="General",ONDA DIGITAL
+https://tv.ondadigital.pe/ondadigital/index.m3u8
 #EXTINF:-1 tvg-id="OndaTV.pe" group-title="General",Onda TV
 https://live-evg5.tv360.bitel.com.pe/bitel/onda/playlist.m3u8
 #EXTINF:-1 tvg-id="OvacionTV.pe" group-title="Sports",Ovacion TV
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
-#EXTINF:-1 tvg-id="OzonoTV.pe" group-title="General",Ozono TV
-https://live-evg8.tv360.bitel.com.pe/bitel/ozonotv/playlist.m3u8
 #EXTINF:-1 tvg-id="OzonoTV.pe" group-title="General",Ozono TV
 http://vps.chasquirouter.com/salida/ozono.m3u8
 #EXTINF:-1 tvg-id="PanamericanaTV.pe" group-title="General",Panamericana TV
@@ -391,8 +395,6 @@ https://streamusmptv.ddns.net/live/stream.m3u8
 https://live.obslivestream.com/viaaltomayomux/index.m3u8
 #EXTINF:-1 tvg-id="ViaTelevision.pe" group-title="General",Via Television
 https://videoserver.tmcreativos.com:19360/cablerasvia/cablerasvia.m3u8
-#EXTINF:-1 tvg-id="Vision.pe" group-title="Religious",Vision
-https://lbgo.bozztv.com/ssh101/ssh101/visiononline/playlist.m3u8
 #EXTINF:-1 tvg-id="VisionSur.pe" group-title="General",Vision Sur
 https://live-evg8.tv360.bitel.com.pe/bitel/visionsur/playlist.m3u8
 #EXTINF:-1 tvg-id="VivaTV.pe" group-title="General",VivaTV
@@ -411,7 +413,3 @@ http://187.102.210.46/WILLAX/index.m3u8
 https://live-evg7.tv360.bitel.com.pe/bitel/ncanalSRT/playlist.m3u8
 #EXTINF:-1 tvg-id="Yurivision.pe" group-title="General",Yurivision
 https://live-evg5.tv360.bitel.com.pe/bitel/yurivisionSRT/playlist.m3u8
-#EXTINF:-1 tvg-id="ZeleveTV.pe" group-title="General",Zeleve TV
-https://live-evg11.tv360.bitel.com.pe/bitel/zeleve/playlist.m3u8
-#EXTINF:-1 tvg-id="ZeleveTV.pe" group-title="General",Zeleve TV
-https://7.innovatestream.pe:19360/zelevetv/zelevetv.m3u8

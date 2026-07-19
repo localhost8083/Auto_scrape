@@ -27,8 +27,6 @@ http://45.162.64.114/ARTE1/index.m3u8
 http://45.190.28.50/ARTE_1/index.m3u8
 #EXTINF:-1 tvg-id="ARTV.pt" group-title="Legislative",ARTV
 https://playout172.livextend.cloud/liveiframe/_definst_/liveartvabr/playlist.m3u8
-#EXTINF:-1 tvg-id="AugeTV.br" group-title="General",Auge TV
-https://cdn-tiva-video01-logicahost-com-br.smartbit.co/canalaugetv/canalaugetv/playlist.m3u8
 #EXTINF:-1 tvg-id="AWTV.br" group-title="Classic, Series",AWTV
 https://awtv.nuvemplay.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="AXN.br" group-title="Movies",AXN
@@ -69,6 +67,8 @@ https://cdn.live.br1.jmvstream.com/w/LVW-11668/ngrp:LVW11668_wiJpjbMrks_all/play
 https://cdn-tiva-stream01-msolutionbrasil-com-br.smartbit.co/hls/canal25/live.m3u8
 #EXTINF:-1 tvg-id="Canal25Jundiai.br" group-title="Uncategorized",Canal 25 Jundiai
 https://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8
+#EXTINF:-1 tvg-id="Canal38.br" group-title="News",Canal 38
+https://cdn.jmvstream.com/w/LVW-8503/LVW8503_d0V5oduFlK/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalBrasil.br" group-title="Uncategorized",Canal Brasil
 http://45.190.156.152/CANAL_BRASIL/index.m3u8
 #EXTINF:-1 tvg-id="CanaldoBoi.br" group-title="Uncategorized",Canal do Boi
@@ -219,6 +219,8 @@ http://45.190.28.50/JP_NEWS/index.m3u8
 https://jmp2.uk/plu-6317ba014d4d040007227f72.m3u8
 #EXTINF:-1 tvg-id="KKTV.ao" group-title="Religious",KK TV
 https://w1.manasat.com/ktv-angola/smil:ktv-angola.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="KpopTVPlay.br" group-title="Music",KpopTV Play
+https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8
 #EXTINF:-1 tvg-id="KuriakosCine.pt" group-title="Movies",Kuriakos Cine
 https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="KuriakosKids.pt" group-title="Animation, Kids, Religious",Kuriakos Kids
@@ -339,8 +341,6 @@ https://isaocorp.cloudecast.com/ngt/index.m3u8
 https://cdn-tiva-maystreaming-cloudecast-com.smartbit.co/ngt/index.m3u8
 #EXTINF:-1 tvg-id="RedePremiumTV.br" group-title="Entertainment",Rede Premium TV
 https://cdn-tiva-stmv2-samcast-com-br.smartbit.co/leonardo9878/leonardo9878/playlist.m3u8
-#EXTINF:-1 tvg-id="RedeSeculo21.br" group-title="Religious",Rede Seculo 21
-http://45.162.64.114/REDE_SECULO_21/index.m3u8
 #EXTINF:-1 tvg-id="RedeSPTV.br" group-title="General",Rede SPTV
 https://video01.logicahost.com.br/websptv/websptv/playlist.m3u8
 #EXTINF:-1 tvg-id="RedeTV.br" group-title="General",Rede TV!
@@ -373,8 +373,8 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/playlist.m3u8
 https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="RTPmAsia.pt" group-title="General",RTPm Asia
 http://103.137.83.62:9090/play/58/index.m3u8
-#EXTINF:-1 tvg-id="RTPMundo.pt" group-title="General",RTP Mundo
-https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RTPMemoria.pt" group-title="General",RTP Memoria
+https://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="RTPNoticias.pt" group-title="News",RTP Noticias
 https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="RTPNoticias.pt" group-title="News",RTP Noticias
