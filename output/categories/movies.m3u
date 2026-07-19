@@ -56,8 +56,6 @@ http://45.171.108.253:8888/AMC/index.m3u8
 #EXTINF:-1 tvg-id="AMCLatinAmerica.us" group-title="Movies",AMC Latin America
 http://177.234.249.178:8888/AMC/index.m3u8
 #EXTINF:-1 tvg-id="AmediaHit.ru" group-title="Movies, Series",Amedia Hit
-http://stream.mcquack.net/162/index.m3u8
-#EXTINF:-1 tvg-id="AmediaHit.ru" group-title="Movies, Series",Amedia Hit
 http://31.148.48.15/Amedia_HIT_HD/index.m3u8
 #EXTINF:-1 tvg-id="AmediaPremium.ru" group-title="Movies, Series",Amedia Premium
 http://31.148.48.15/Amedia_Premium_HD/index.m3u8
@@ -91,6 +89,8 @@ http://88.212.15.19/live/test_black/playlist.m3u8
 http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/6952/index.m3u8
 #EXTINF:-1 tvg-id="AXNCEE.es" group-title="Movies",AXN CEE
 http://88.212.15.19/live/test_axn/playlist.m3u8
+#EXTINF:-1 tvg-id="AXNCEE.es" group-title="Movies",AXN CEE
+https://aes.m3u8simplu.workers.dev/axn/index.m3u8
 #EXTINF:-1 tvg-id="AXNLatinAmerica.us" group-title="Movies",AXN Latin America
 http://138.186.23.7:8082/AXN/index.m3u8
 #EXTINF:-1 tvg-id="AXNLatinAmerica.us" group-title="Movies",AXN Latin America
@@ -223,8 +223,6 @@ https://zylo-cinenanar-rakuten.amagi.tv/playlist.m3u8
 http://99.27.51.147/CineClassic/index.m3u8
 #EXTINF:-1 tvg-id="CinePlusEmotion.fr" group-title="Movies",Cine+ Emotion
 http://145.239.5.177/337/index.m3u8
-#EXTINF:-1 tvg-id="CinePlusFrisson.fr" group-title="Movies",Cine+ Frisson
-http://99.27.51.147:8080/CineFrisson/index.m3u8
 #EXTINF:-1 tvg-id="CinePremiere.us" group-title="Movies",Cine Premiere
 https://jmp2.uk/plu-5cf968040ab7d8f181e6a68b.m3u8
 #EXTINF:-1 tvg-id="CinePremium.us" group-title="Movies",Cine Premium
@@ -311,8 +309,6 @@ https://stream8.cinerama.uz/1054/tracks-v1a1/mono.m3u8
 https://streaming.thestream.cyou/live/44.m3u8
 #EXTINF:-1 tvg-id="DomkinoPremium.ru" group-title="Movies",Dom kino Premium
 http://31.148.48.15/Dom_Kino_Premium_HD/index.m3u8
-#EXTINF:-1 tvg-id="Dorama.ru" group-title="Movies",Dorama
-http://stream.mcquack.net/412/index.m3u8
 #EXTINF:-1 tvg-id="DUST.us" group-title="Movies",DUST
 https://dqi7ayt2o24fn.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="EbonyTVbyLionsgate.us" group-title="Movies, Series",Ebony TV by Lionsgate
@@ -335,10 +331,6 @@ http://31.148.48.15/Evrokino/index.m3u8
 http://31.148.48.15/Fan/index.m3u8
 #EXTINF:-1 tvg-id="FeniksplusKino.ru" group-title="Movies",Feniks plus Kino
 http://31.148.48.15/Feniks_plus_kino/index.m3u8
-#EXTINF:-1 tvg-id="FillkaTV.pe" group-title="Series, Movies, Entertainment",Fillka TV
-https://amixtv.com/fillkatvhd/index.m3u8
-#EXTINF:-1 tvg-id="Film1Action.nl" group-title="Movies",Film1 Action
-http://86.87.15.10:8008/play/a01l/index.m3u8
 #EXTINF:-1 tvg-id="Film1Drama.nl" group-title="Movies",Film1 Drama
 http://86.87.15.10:8008/play/a01k/index.m3u8
 #EXTINF:-1 tvg-id="Film1Family.nl" group-title="Movies",Film1 Family
@@ -473,8 +465,6 @@ http://40.160.24.53/HALLMARK_MOVIES_AND_MYSTERIES/index.m3u8
 http://206.212.244.63/86/index.m3u8
 #EXTINF:-1 tvg-id="HarbinMovieChannel.cn" group-title="Movies",Harbin Movie Channel
 https://stream.hrbtv.net/yspd/playlist.m3u8
-#EXTINF:-1 tvg-id="Hero.fi" group-title="Movies",Hero
-https://live-fi.tvkaista.net/hero/live.m3u8?hd=true
 #EXTINF:-1 tvg-id="Hit.ru" group-title="Movies",Hit
 http://hls127.freeott.top:8080/XitHD/video.m3u8
 #EXTINF:-1 tvg-id="Hollywood.ru" group-title="Movies",Hollywood
@@ -525,8 +515,6 @@ http://31.148.48.15/Kineko_HD/index.m3u8
 http://kino-1.catcast.tv/content/38617/index.m3u8
 #EXTINF:-1 tvg-id="Kino1.ru" group-title="Movies",Kino 1
 https://autopilot.catcast.tv/content/38617/index.m3u8
-#EXTINF:-1 tvg-id="Kino1.ua" group-title="Movies",Kino 1
-http://stream.mcquack.net/395/index.m3u8
 #EXTINF:-1 tvg-id="KinoBarrandov.cz" group-title="Movies",Kino Barrandov
 http://88.212.15.19/live/test_kino_barrandov_sd_hevc50/playlist.m3u8
 #EXTINF:-1 tvg-id="KinoHit.ru" group-title="Movies",KinoHit
@@ -681,8 +669,6 @@ https://appletree-mytimeau-samsung.amagi.tv/playlist.m3u8
 https://mytime-tcl.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="MyTimeMovieNetworkEast.us" group-title="Movies",MyTime Movie Network East
 https://mytimeuk-rakuten-samsung.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="Nashe.ru" group-title="Movies, Series",Nashe
-http://stream.mcquack.net/217/index.m3u8
 #EXTINF:-1 tvg-id="NasheLubimoeKino.ru" group-title="Movies",Nashe Lubimoe Kino
 http://hls127.freeott.top:8080/Lubimoe_Kino/video.m3u8
 #EXTINF:-1 tvg-id="NasheNovoeKino.ru" group-title="Movies",Nashe Novoe Kino
@@ -1091,8 +1077,6 @@ https://jmp2.uk/plu-68c017bf337652ee75db201f.m3u8
 https://jmp2.uk/plu-65786888b228b7000843ad9a.m3u8
 #EXTINF:-1 tvg-id="PopcornCentral.mx" group-title="Movies",Popcorn Central
 https://oly-ftvpc.otteravision.com/oly/ftvpc/ftvpc.m3u8
-#EXTINF:-1 tvg-id="Premialnoe.ru" group-title="Movies",Premialnoe
-http://stream.mcquack.net/421/index.m3u8
 #EXTINF:-1 tvg-id="PublicMovies.in" group-title="Movies",Public Movies
 https://mumt04.tangotv.in/m18aqlK4PUBLICMOVIES/index.m3u8
 #EXTINF:-1 tvg-id="PublicMovies.in" group-title="Movies",Public Movies
@@ -1172,19 +1156,13 @@ https://jmp2.uk/plu-62c5d80dc6de440007e033eb.m3u8
 #EXTINF:-1 tvg-id="RuntimeEspanol.us" group-title="Movies",Runtime Espanol
 https://run-rt-uh-roku.otteravision.com/run/rt_uh/rt_uh.m3u8
 #EXTINF:-1 tvg-id="RusskiyBestseller.ru" group-title="Movies",Russkiy Bestseller
-http://stream.mcquack.net/208/index.m3u8
-#EXTINF:-1 tvg-id="RusskiyBestseller.ru" group-title="Movies",Russkiy Bestseller
 http://31.148.48.15/Russkiy_Bestseller/index.m3u8
-#EXTINF:-1 tvg-id="RusskiyDetektiv.ru" group-title="Movies",Russkiy Detektiv
-http://stream.mcquack.net/204/index.m3u8
 #EXTINF:-1 tvg-id="RusskiyDetektiv.ru" group-title="Movies",Russkiy Detektiv
 http://31.148.48.15/Russkiy_Detektiv/index.m3u8
 #EXTINF:-1 tvg-id="RusskiyIllusion.ru" group-title="Movies",Russkiy Illusion
 http://31.148.48.15/Russkiy_illusion/index.m3u8
 #EXTINF:-1 tvg-id="Russkiyroman.ru" group-title="Movies",Russkiy roman
 https://vod.tuva.ru/rusroman/index.m3u8
-#EXTINF:-1 tvg-id="Russkiyroman.ru" group-title="Movies",Russkiy roman
-http://stream.mcquack.net/266/index.m3u8
 #EXTINF:-1 tvg-id="Russkiyroman.ru" group-title="Movies",Russkiy roman
 http://31.148.48.15/Russkiy_Roman_HD/index.m3u8
 #EXTINF:-1 tvg-id="Russkiyroman.ru" group-title="Movies",Russkiy roman
@@ -1207,6 +1185,8 @@ https://stream.qazcdn.net/ex6r514/silkwaycinema/index.m3u8
 https://slonehls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="SL2.ir" group-title="Movies",SL 2
 https://sltwohls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="Smotrim100Klassika.ru" group-title="Movies, Classic",Smotrim 100% Klassika
+https://stream.smotrim.ru/hls/fasttv03/playlist_3.m3u8
 #EXTINF:-1 tvg-id="SonyMovies.br" group-title="Movies",Sony Movies
 http://45.162.64.114/SONY_MOVIES/index.m3u8
 #EXTINF:-1 tvg-id="SonyMovies.br" group-title="Movies",Sony Movies
@@ -1247,8 +1227,6 @@ https://dash2.antik.sk/live/test_star_cinema_atktv/playlist.m3u8
 https://dash2.antik.sk/live/test_star_family_atktv/playlist.m3u8
 #EXTINF:-1 tvg-id="StarMovies.pt" group-title="Movies",Star Movies
 http://znty.dyndns.org:5010/hls/foxm.m3u8
-#EXTINF:-1 tvg-id="STARTAir.ru" group-title="Movies",START Air
-http://stream.mcquack.net/128/index.m3u8
 #EXTINF:-1 tvg-id="StarTrekDeepSpaceNine.us" group-title="Movies, Series",Star Trek: Deep Space Nine
 https://jmp2.uk/plu-65c69bbfd77d450008c7ffee.m3u8
 #EXTINF:-1 tvg-id="StarTrekMovies.se" group-title="Movies",Star Trek Movies
