@@ -103,6 +103,8 @@ https://iptv.ixfo.com.ar:30443/live/c6digital/playlist.m3u8
 https://stmvideo6.livecastv.com/vientorecio/vientorecio/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal7Jujuy.ar" group-title="Uncategorized",Canal 7 Jujuy
 https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal7Neuquen.ar" group-title="General",Canal 7 Neuquen
+https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal7Salta.ar" group-title="Uncategorized",Canal 7 Salta
 https://vivo.solumedia.com:19360/cooperativa/cooperativa.m3u8
 #EXTINF:-1 tvg-id="Canal7Salta.ar" group-title="Uncategorized",Canal 7 Salta
@@ -123,8 +125,6 @@ http://coninfo.net:1935/9linklivert/smil:9linkmultibr.smil/playlist.m3u8
 https://vivo.solumedia.com:19360/dadaproductora/dadaproductora.m3u8
 #EXTINF:-1 tvg-id="Canal12Web.ar" group-title="Uncategorized",Canal 12 Web
 https://nd106.republicaservers.com:4433/c7827.mp4
-#EXTINF:-1 tvg-id="Canal13LaRioja.ar" group-title="Uncategorized",Canal 13 La Rioja
-http://arcast.net:1935/mp/mp/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal13SanLuis.ar" group-title="Uncategorized",Canal 13 San Luis
 https://stream.radiosmundiales.com:19360/sanluismas/sanluismas.m3u8
 #EXTINF:-1 tvg-id="Canal15Teleor.bo" group-title="General",Canal 15 Teleor
@@ -327,6 +327,12 @@ https://rds3.desdeparaguay.net/mitv/mitv/playlist.m3u8
 https://copacogen.desdeparaguay.net/monumentaltv/monumentaltv_alta/playlist.m3u8?admin=tvaccion
 #EXTINF:-1 tvg-id="NandejaraNeeTV.py" group-title="Religious",Nandejara Ne'e TV
 https://copacogen.desdeparaguay.net/nandejaraneetv/nandejaraneetv/playlist.m3u8?admin=tvaccion
+#EXTINF:-1 tvg-id="NandePortetepeTV.py" group-title="Music",Nande Portetepe TV
+https://video.hostingcaaguazu.com:19360/nandeportetepe/nandeportetepe.m3u8
+#EXTINF:-1 tvg-id="Nanduti.py" group-title="News",Nanduti
+https://nanduti.b-cdn.net/Source.m3u8
+#EXTINF:-1 tvg-id="Nanduti.py" group-title="News",Nanduti
+https://nanduti.b-cdn.net/720p.m3u8
 #EXTINF:-1 tvg-id="NeoTV.ar" group-title="General",Neo TV
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 #EXTINF:-1 tvg-id="NeoxTV.ar" group-title="General",Neox TV
@@ -347,8 +353,6 @@ http://www.coninfo.net:1935/tvlink/live/playlist.m3u8
 https://617c5175c970b.streamlock.net:4444/tvlink/live/playlist.m3u8
 #EXTINF:-1 tvg-id="NPY.py" group-title="News",NPY
 https://copacogen.desdeparaguay.net/npy/npy_py_alta/playlist.m3u8?admin=tvaccion
-#EXTINF:-1 tvg-id="OasisTV.py" group-title="Entertainment",Oasis TV
-https://video.hostingcaaguazu.com:19360/oasistv/oasistv.m3u8
 #EXTINF:-1 tvg-id="ObediraTV.py" group-title="Religious",Obedira TV
 https://video.hostingcaaguazu.com:19360/obediratv/obediratv.m3u8
 #EXTINF:-1 tvg-id="OviedoTV.py" group-title="General",Oviedo TV
@@ -447,8 +451,6 @@ https://rtp.noxun.net/hls/stream.m3u8
 https://stream.radiosmundiales.com/hls/sanluismas/sanluismas.m3u8
 #EXTINF:-1 tvg-id="SanPedroTV.ar" group-title="Uncategorized",San Pedro TV
 https://iptv.ixfo.com.ar:30443/live/sanpedrotv/playlist.m3u8
-#EXTINF:-1 tvg-id="SCMTVHD321.bo" group-title="General",SCM TV HD 32.1
-https://lbgo.bozztv.com/ssh101/ssh101/cinebes/playlist.m3u8
 #EXTINF:-1 tvg-id="SenalU.ar" group-title="Culture",Senal U
 https://live20.bozztv.com/giatv/giatv-canal30tda/canal30tda/chunks.m3u8
 #EXTINF:-1 tvg-id="SenillosaTV.ar" group-title="Uncategorized",Senillosa TV
@@ -487,12 +489,10 @@ https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8
 https://617c5175c970b.streamlock.net:4444/previsoratv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="Telenord.ar" group-title="Uncategorized",Telenord
 http://www.coninfo.net:1935/previsoratv/live/playlist.m3u8
-#EXTINF:-1 tvg-id="TelePosadas.ar" group-title="General",Tele Posadas
-https://live20.bozztv.com/giatv/giatv-teleposadaso01/teleposadaso01/playlist.m3u8
-#EXTINF:-1 tvg-id="TelePosadas.ar" group-title="General",Tele Posadas
-https://lbgo.bozztv.com/giatv/giatv-teleposadaso01/teleposadaso01/playlist.m3u8
 #EXTINF:-1 tvg-id="Telequince.py" group-title="General",Telequince
 https://video.hostingcaaguazu.com:19360/telequince/telequince.m3u8
+#EXTINF:-1 tvg-id="TelpinTVCanal2HD.ar" group-title="Uncategorized",Telpin TV Canal 2 HD
+https://mistserver.telpin.com.ar:8443/hls/telpinlive/index.m3u8
 #EXTINF:-1 tvg-id="TigoSportsPlus.py" group-title="Sports",Tigo Sports+
 http://45.170.130.224:8000/play/a04i/index.m3u8
 #EXTINF:-1 tvg-id="TLEstrella.bo" group-title="Uncategorized",TL Estrella
@@ -553,6 +553,8 @@ https://lbgo.bozztv.com/ssh101/ssh101/tvjoaquiniana26/playlist.m3u8
 http://190.60.39.195:8000/play/a01r/index.m3u8
 #EXTINF:-1 tvg-id="Uniteve.ar" group-title="Uncategorized",Uniteve
 https://vivo.solumedia.com:19360/uniteve/uniteve.m3u8
+#EXTINF:-1 tvg-id="UnivalleTelevision.bo" group-title="Uncategorized",Univalle Television
+https://master.tucableip.com/univalletv/playlist.m3u8
 #EXTINF:-1 tvg-id="UPEATV.bo" group-title="Uncategorized",UPEA TV
 https://tvstream.upea.bo/hls/oSs0jSWumTFIIVY97559.m3u8
 #EXTINF:-1 tvg-id="UrbanMix.ar" group-title="Uncategorized",Urban Mix
