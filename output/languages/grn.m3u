@@ -73,6 +73,8 @@ https://nd106.republicaservers.com:4433/hls/c6611/index.m3u8
 https://stream.arcast.net:4443/gualeguay/gualeguay/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal2Misiones.ar" group-title="Uncategorized",Canal 2 Misiones
 https://nd106.republicaservers.com:4433/hls/canal2misioness/index.m3u8
+#EXTINF:-1 tvg-id="Canal2NexTVRafaela.ar" group-title="General",Canal 2 NexTV Rafaela
+https://edge.enhdtv.com/nexthd/index.m3u8
 #EXTINF:-1 tvg-id="Canal3Formosa.ar" group-title="Uncategorized",Canal 3 Formosa
 https://stmvideo6.livecastv.com/agenfor/agenfor/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal3LaPampa.ar" group-title="Uncategorized",Canal 3 La Pampa
@@ -300,8 +302,6 @@ https://lbgo.bozztv.com/ssh101/ssh101/imagentvpotosib/playlist.m3u8
 #EXTINF:-1 tvg-id="ImperialTV.bo" group-title="General",Imperial TV
 https://tv.centaurychile.com/imperial/streams/EnCyCiwNLsqEQ2kv2852222720686498.m3u8
 #EXTINF:-1 tvg-id="InteractivoTelevision.bo" group-title="General",Interactivo Television
-https://mist01.homestream.fun/hls/interactivotv2/index.m3u8
-#EXTINF:-1 tvg-id="InteractivoTelevision.bo" group-title="General",Interactivo Television
 https://mist01.homestream.fun/hls/interactivotv/index.m3u8
 #EXTINF:-1 tvg-id="InvasivaTV.py" group-title="Uncategorized",Invasiva TV
 http://cdn.cl.scl.edge.01.zplay.cl/Invasiva/video.m3u8?token=l1kw8GqMdTR5_3
@@ -339,6 +339,8 @@ https://copacogen.desdeparaguay.net/monumentaltv/monumentaltv_alta/playlist.m3u8
 https://videostream.shockmedia.com.ar:19360/multivisionfederal/multivisionfederal.m3u8
 #EXTINF:-1 tvg-id="NandejaraNeeTV.py" group-title="Religious",Nandejara Ne'e TV
 https://copacogen.desdeparaguay.net/nandejaraneetv/nandejaraneetv/playlist.m3u8?admin=tvaccion
+#EXTINF:-1 tvg-id="NandePortetepeTV.py" group-title="Music",Nande Portetepe TV
+https://video.hostingcaaguazu.com:19360/nandeportetepe/nandeportetepe.m3u8
 #EXTINF:-1 tvg-id="Nanduti.py" group-title="News",Nanduti
 https://nanduti.b-cdn.net/Source.m3u8
 #EXTINF:-1 tvg-id="Nanduti.py" group-title="News",Nanduti
@@ -355,6 +357,8 @@ https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
 https://unlimited6-cl.dps.live/nettv/nettv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="NETTV.ar" group-title="General",NET TV
 http://190.7.19.197:232/play/a095/index.m3u8
+#EXTINF:-1 tvg-id="NextHD.py" group-title="Movies, Music",Next HD
+https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
 #EXTINF:-1 tvg-id="NGFederal.ar" group-title="General",NG Federal
 http://www.coninfo.net:1935/tvlink/live/playlist.m3u8
 #EXTINF:-1 tvg-id="NGFederal.ar" group-title="General",NG Federal
@@ -435,14 +439,10 @@ https://live.enhdtv.com:8081/radioiguazutv/index.m3u8
 https://copacoradios.desdeparaguay.net/rcctv/rcctv/playlist.m3u8?admin=nacion
 #EXTINF:-1 tvg-id="RedADvenirTV.bo" group-title="Uncategorized",RedADvenir TV
 http://streamer1.streamhost.org:1935/salive/GMIredadvenirm/playlist.m3u8
-#EXTINF:-1 tvg-id="RedAmericaTV.bo" group-title="General",Red America TV
-https://edge.enhdtv.com/redamerica/index.m3u8
 #EXTINF:-1 tvg-id="RedCCTV.bo" group-title="Uncategorized",Red CCTV
 https://ares.disfrutaenlared.com:1936/redcctv/redcctv/playlist.m3u8
 #EXTINF:-1 tvg-id="RedDigital.py" group-title="General",Red Digital
 https://video.hostingcaaguazu.com:19360/reddigitalsanpedro/reddigitalsanpedro.m3u8
-#EXTINF:-1 tvg-id="RedInteriorTV.py" group-title="General",Red Interior TV
-https://video.wilohosting.com:19360/redinteriortv/redinteriortv.m3u8
 #EXTINF:-1 tvg-id="RedRubi.bo" group-title="General",Red Rubi
 https://59d39900ebfb8.streamlock.net/asiesmipueblo/asiesmipueblo/playlist.m3u8
 #EXTINF:-1 tvg-id="RedTVShop.bo" group-title="Shop",Red TV Shop
@@ -505,6 +505,10 @@ http://201.190.41.246:8822/play/a036/index.m3u8
 https://59d39900ebfb8.streamlock.net/telefehd/telefehd/playlist.m3u8
 #EXTINF:-1 tvg-id="TelefeBuenosAires.ar" group-title="General",Telefe Buenos Aires
 http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8
+#EXTINF:-1 tvg-id="TeleFederal.ar" group-title="General",Tele Federal
+https://lbgo.bozztv.com/giatv/giatv-federaltv/federaltv/playlist.m3u8
+#EXTINF:-1 tvg-id="TeleFederal.ar" group-title="General",Tele Federal
+https://183.bozztv.com/giatv/giatv-federaltv/federaltv/playlist.m3u8
 #EXTINF:-1 tvg-id="TelefeInternacional.ar" group-title="Uncategorized",Telefe Internacional
 http://190.108.83.69:8000/play/a08l/index.m3u8
 #EXTINF:-1 tvg-id="Telefuturo.py" group-title="General",Telefuturo
@@ -575,18 +579,20 @@ https://59d39900ebfb8.streamlock.net/unicatv/unicatv/playlist.m3u8
 https://5dcabf026b188.streamlock.net/StreamUnife/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="UnifeTV.ar" group-title="Religious",Unife TV
 https://cdn.mycloudstream.io/hls/live/broadcast/xundwjvp/index.m3u8
-#EXTINF:-1 tvg-id="Unifranz.bo" group-title="Education, Entertainment, News",Unifranz
-https://edge.enhdtv.com/8192/index.m3u8
-#EXTINF:-1 tvg-id="Unifranz.bo" group-title="Education, Entertainment, News",Unifranz
-https://live.enhdtv.com:8081/8192/index.m3u8
 #EXTINF:-1 tvg-id="UnionTV.py" group-title="General",Union TV
 https://tigocloud.desdeparaguay.net/800tv/800tv/playlist.m3u8
 #EXTINF:-1 tvg-id="UniRadioTV.py" group-title="Uncategorized",UniRadio TV
 https://video.hostingcaaguazu.com:19360/uniradiotv/uniradiotv.m3u8
 #EXTINF:-1 tvg-id="UnitelCochabamba.bo" group-title="General",Unitel Cochabamba
 https://lbgo.bozztv.com/ssh101/ssh101/tvjoaquiniana26/playlist.m3u8
+#EXTINF:-1 tvg-id="UnitelCochabamba.bo" group-title="General",Unitel Cochabamba
+https://mdstrm.com/live-stream-playlist/691f2aeb5ac95d286c49af8d.m3u8
+#EXTINF:-1 tvg-id="UnitelLaPaz.bo" group-title="General",Unitel La Paz
+https://mdstrm.com/live-stream-playlist/6928b14aaa768aad947bf65d.m3u8
 #EXTINF:-1 tvg-id="UnitelLaPaz.bo" group-title="General",Unitel La Paz
 http://190.60.39.195:8000/play/a01r/index.m3u8
+#EXTINF:-1 tvg-id="UnitelSantaCruz.bo" group-title="General",Unitel Santa Cruz
+https://mdstrm.com/live-stream-playlist/692b7e7ac84183fcf9e3462d.m3u8
 #EXTINF:-1 tvg-id="Uniteve.ar" group-title="Uncategorized",Uniteve
 https://vivo.solumedia.com:19360/uniteve/uniteve.m3u8
 #EXTINF:-1 tvg-id="UnivalleTelevision.bo" group-title="Uncategorized",Univalle Television
