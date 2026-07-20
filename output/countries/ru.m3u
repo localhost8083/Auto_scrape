@@ -98,8 +98,6 @@ http://31.148.48.15/Bridge_TV_HD/index.m3u8
 #EXTINF:-1 tvg-id="BRIDGEHits.ru" group-title="Music",BRIDGE Hits
 http://31.148.48.15/Bridge_TV_Dance/index.m3u8
 #EXTINF:-1 tvg-id="BST.ru" group-title="Uncategorized",BST
-http://bst.bratsk.ru/hls/bst2/index.m3u8
-#EXTINF:-1 tvg-id="BST.ru" group-title="Uncategorized",BST
 https://bsttv.bonus-tv.ru/cdn/bst/playlist.m3u8
 #EXTINF:-1 tvg-id="Carousel.ru" group-title="Kids",Carousel
 http://185.37.150.46/Karusel/index.m3u8
@@ -127,6 +125,8 @@ http://tshift-1.telecoma.tv/8channel/index.m3u8
 http://v4.proofix.ru/okino-tv/index.m3u8
 #EXTINF:-1 tvg-id="Channel8.ru" group-title="Entertainment",Channel 8
 https://v4.proofix.ru/8tv-russia/index.m3u8
+#EXTINF:-1 tvg-id="Channel8Krasnoyarsk.ru" group-title="General",Channel 8 Krasnoyarsk
+https://tshift-1.telecoma.tv/8channel/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="Channel8Novosibirsk.ru" group-title="General",Channel 8 Novosibirsk
 https://live-8knsk.cdnvideo.ru/8knsk/stream1/playlist.m3u8
 #EXTINF:-1 tvg-id="Channel10.ru" group-title="General",Channel 10
@@ -141,8 +141,6 @@ https://12channel.bonus-tv.ru/cdn/12channel_blackout/playlist.m3u8
 http://serv25.vintera.tv:8081/test/k16/playlist.m3u8
 #EXTINF:-1 tvg-id="ChannelOne.ru" group-title="General",Channel One
 https://streaming.thestream.cyou/live/210.m3u8
-#EXTINF:-1 tvg-id="ChannelOne.ru" group-title="General",Channel One
-https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1 tvg-id="ChannelOne.ru" group-title="General",Channel One
 https://stream8.cinerama.uz/1214/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ChannelOne.ru" group-title="General",Channel One
@@ -410,6 +408,8 @@ https://tvshops.bonus-tv.ru/cdn/shop24/playlist.m3u8
 #EXTINF:-1 tvg-id="Magnat.ru" group-title="Shop",Magnat
 https://s1.tv-nano.com/Magnat_HD_5119705/video.m3u8
 #EXTINF:-1 tvg-id="Maidan.ru" group-title="Music",Maidan
+https://live-maidantv.cdnvideo.ru/maidantv/maidantv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Maidan.ru" group-title="Music",Maidan
 http://hls127.freeott.top:8080/Maydan/video.m3u8
 #EXTINF:-1 tvg-id="Mama.ru" group-title="Kids",Mama
 http://stream.mcquack.net/79/index.m3u8
@@ -473,8 +473,6 @@ http://stream.tvbelgorod.ru:8080/mirbelogorya/index.m3u8
 http://31.148.48.15/Mir_Seriala/index.m3u8
 #EXTINF:-1 tvg-id="MMATVcom.ru" group-title="Sports",MMA-TV.com
 https://stream8.cinerama.uz/1226/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="MMATVcom.ru" group-title="Sports",MMA-TV.com
-https://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8
 #EXTINF:-1 tvg-id="MosfilmGoldCollection.ru" group-title="Movies",Mosfilm Gold Collection
 http://31.222.235.15/mosfilm/index.m3u8
 #EXTINF:-1 tvg-id="MosfilmGoldCollection.ru" group-title="Movies",Mosfilm Gold Collection
@@ -677,6 +675,8 @@ http://stream.mcquack.net/421/index.m3u8
 https://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Prima/hls/index.m3u8
 #EXTINF:-1 tvg-id="Prima.ru" group-title="Uncategorized",Prima
 https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R11_OTT_SIB_KRSK_STS/variant.m3u8
+#EXTINF:-1 tvg-id="ProBusiness.ru" group-title="Business",Pro Business
+https://tv-streaming.bsh.ru:21938/probusiness/probusiness.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Prodvizhenie.ru" group-title="Uncategorized",Prodvizhenie
 http://origin5.mediacdn.ru/live/prodvizhenie_new/index.m3u8
 #EXTINF:-1 tvg-id="Prodvizhenie.ru" group-title="Uncategorized",Prodvizhenie
@@ -1383,6 +1383,8 @@ https://stream.smotrim.ru/hls/fasttv02/playlist_3.m3u8
 https://stream.smotrim.ru/hls/fasttv04/playlist_3.m3u8
 #EXTINF:-1 tvg-id="SmotrimChestnyyDetektiv.ru" group-title="Series",Smotrim Chestnyy Detektiv
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Sochi24.ru" group-title="General, News",Sochi24
+http://serv30.vintera.tv:8081/sochi/sochi24_tv/playlist.m3u8
 #EXTINF:-1 tvg-id="SochiLive.ru" group-title="General",Sochi Live
 http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Solnce.ru" group-title="Animation, Kids",Solnce
@@ -1506,6 +1508,8 @@ http://31.148.48.15/Terra/index.m3u8
 #EXTINF:-1 tvg-id="TERRA.ru" group-title="Documentary",TERRA
 http://31.148.48.15/Terra_HD/index.m3u8
 #EXTINF:-1 tvg-id="TiJi.ru" group-title="Kids",TiJi
+https://live-3.otcnet.ru/Tiji/index.m3u8
+#EXTINF:-1 tvg-id="TiJi.ru" group-title="Kids",TiJi
 https://stream8.cinerama.uz/1441/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="TKR.ru" group-title="Uncategorized",TKR
 http://live.tkr.cdnvideo.ru/tkr/tkr.sdp/playlist.m3u8
@@ -1625,8 +1629,6 @@ https://live20.bozztv.com/akamaissh101/ssh101/vivarussia/playlist.m3u8
 http://178.134.1.158:8081/vkus/index.m3u8
 #EXTINF:-1 tvg-id="VmesteRF.ru" group-title="Uncategorized",Vmeste-RF
 https://streaming.thestream.cyou/live/7006.m3u8
-#EXTINF:-1 tvg-id="VmesteRF.ru" group-title="Uncategorized",Vmeste-RF
-https://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Volga.ru" group-title="Uncategorized",Volga
 http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Volga/hls/1920x1080@4504/playlist.m3u8
 #EXTINF:-1 tvg-id="Volgograd24.ru" group-title="Uncategorized",Volgograd 24
