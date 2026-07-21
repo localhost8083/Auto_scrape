@@ -155,6 +155,8 @@ https://streamconex.com:19360/mardelplata/mardelplata.m3u8
 https://streamconex.com:19360/puan/puan.m3u8
 #EXTINF:-1 tvg-id="Canal79SantaClaradelMar.ar" group-title="Uncategorized",Canal 79 Santa Clara del Mar
 https://streamconex.com:19360/santaclara-1/santaclara-1.m3u8
+#EXTINF:-1 tvg-id="Canal79VillaMaza.ar" group-title="Uncategorized",Canal 79 Villa Maza
+https://streamconex.com:19360/villamaza/villamaza.m3u8
 #EXTINF:-1 tvg-id="Canal99Miramar.ar" group-title="General",Canal 99 Miramar
 https://vivo.solumedia.com:19360/cardinal/cardinal.m3u8
 #EXTINF:-1 tvg-id="CanalE.ar" group-title="Business, News",Canal E
@@ -441,8 +443,6 @@ https://edge.enhdtv.com/8054/index.m3u8
 https://iptv.ixfo.com.ar:30443/live/RadioUpTvStreaming/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioYguazuTV.ar" group-title="Entertainment",Radio Yguazu TV
 https://live.enhdtv.com:8081/radioiguazutv/index.m3u8
-#EXTINF:-1 tvg-id="RATelevision.bo" group-title="General",RA Television
-https://lbgo.bozztv.com/ssh101/ssh101/ratvbol/playlist.m3u8
 #EXTINF:-1 tvg-id="RCCTV.py" group-title="Religious",RCC TV
 https://copacoradios.desdeparaguay.net/rcctv/rcctv/playlist.m3u8?admin=nacion
 #EXTINF:-1 tvg-id="RedADvenirTV.bo" group-title="Uncategorized",RedADvenir TV
@@ -451,6 +451,8 @@ http://streamer1.streamhost.org:1935/salive/GMIredadvenirm/playlist.m3u8
 https://ares.disfrutaenlared.com:1936/redcctv/redcctv/playlist.m3u8
 #EXTINF:-1 tvg-id="RedDigital.py" group-title="General",Red Digital
 https://video.hostingcaaguazu.com:19360/reddigitalsanpedro/reddigitalsanpedro.m3u8
+#EXTINF:-1 tvg-id="RedInteriorTV.py" group-title="General",Red Interior TV
+https://video.wilohosting.com:19360/redinteriortv/redinteriortv.m3u8
 #EXTINF:-1 tvg-id="RedRubi.bo" group-title="General",Red Rubi
 https://59d39900ebfb8.streamlock.net/asiesmipueblo/asiesmipueblo/playlist.m3u8
 #EXTINF:-1 tvg-id="RedTVShop.bo" group-title="Shop",Red TV Shop
@@ -469,8 +471,6 @@ https://rtp.noxun.net/hls720/stream3.m3u8
 https://rtp.noxun.net/hls480/stream2.m3u8
 #EXTINF:-1 tvg-id="RTP.bo" group-title="General",RTP
 https://rtp.noxun.net/hls/stream.m3u8
-#EXTINF:-1 tvg-id="RTVNorte.bo" group-title="General",RTV Norte
-https://lbgo.bozztv.com/ssh101/ssh101/mbocayatyhd/playlist.m3u8
 #EXTINF:-1 tvg-id="SanLuisPlus.ar" group-title="General",San Luis +
 https://stream.radiosmundiales.com/hls/sanluismas/sanluismas.m3u8
 #EXTINF:-1 tvg-id="SanPedroTV.ar" group-title="Uncategorized",San Pedro TV
@@ -515,6 +515,8 @@ http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8
 https://lbgo.bozztv.com/giatv/giatv-federaltv/federaltv/playlist.m3u8
 #EXTINF:-1 tvg-id="TeleFederal.ar" group-title="General",Tele Federal
 https://183.bozztv.com/giatv/giatv-federaltv/federaltv/playlist.m3u8
+#EXTINF:-1 tvg-id="TelefeInterior.ar" group-title="General",Telefe Interior
+http://200.91.32.158:8080/telefehdvalle/index.m3u8
 #EXTINF:-1 tvg-id="TelefeInternacional.ar" group-title="Uncategorized",Telefe Internacional
 http://190.108.83.69:8000/play/a08l/index.m3u8
 #EXTINF:-1 tvg-id="Telefuturo.py" group-title="General",Telefuturo
@@ -527,8 +529,6 @@ https://live20.bozztv.com/giatv/giatv-teleposadaso01/teleposadaso01/playlist.m3u
 https://lbgo.bozztv.com/giatv/giatv-teleposadaso01/teleposadaso01/playlist.m3u8
 #EXTINF:-1 tvg-id="Telequince.py" group-title="General",Telequince
 https://video.hostingcaaguazu.com:19360/telequince/telequince.m3u8
-#EXTINF:-1 tvg-id="TelpinTVCanal2HD.ar" group-title="Uncategorized",Telpin TV Canal 2 HD
-https://mistserver.telpin.com.ar:8443/hls/telpinlive/index.m3u8
 #EXTINF:-1 tvg-id="TigoSportsPlus.py" group-title="Sports",Tigo Sports+
 http://45.170.130.224:8000/play/a04i/index.m3u8
 #EXTINF:-1 tvg-id="TIVTelevision.ar" group-title="Uncategorized",TIV Television
@@ -587,10 +587,6 @@ https://tigocloud.desdeparaguay.net/800tv/800tv/playlist.m3u8
 https://video.hostingcaaguazu.com:19360/uniradiotv/uniradiotv.m3u8
 #EXTINF:-1 tvg-id="UnitelCochabamba.bo" group-title="General",Unitel Cochabamba
 https://lbgo.bozztv.com/ssh101/ssh101/tvjoaquiniana26/playlist.m3u8
-#EXTINF:-1 tvg-id="UnitelCochabamba.bo" group-title="General",Unitel Cochabamba
-https://mdstrm.com/live-stream-playlist/691f2aeb5ac95d286c49af8d.m3u8
-#EXTINF:-1 tvg-id="UnitelLaPaz.bo" group-title="General",Unitel La Paz
-https://mdstrm.com/live-stream-playlist/6928b14aaa768aad947bf65d.m3u8
 #EXTINF:-1 tvg-id="UnitelLaPaz.bo" group-title="General",Unitel La Paz
 http://190.60.39.195:8000/play/a01r/index.m3u8
 #EXTINF:-1 tvg-id="UnitelSantaCruz.bo" group-title="General",Unitel Santa Cruz
