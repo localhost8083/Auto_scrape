@@ -119,6 +119,8 @@ https://eco.streams.ovh:8081/barazatv/tracks-v1a1/mono.m3u8
 https://rtmp.streams.ovh:1936/barazarelax/barazazararelax/barazarelax/playlist.m3u8
 #EXTINF:-1 tvg-id="BarazaTVRelaxing.gr" group-title="Music",Baraza TV Relaxing
 https://rtmp.streams.ovh:1936/barazarelax/barazarelax/playlist.m3u8
+#EXTINF:-1 tvg-id="BeatsRadio.ar" group-title="Music",Beats Radio
+https://videostream.shockmedia.com.ar:19360/beatsradio/beatsradio.m3u8
 #EXTINF:-1 tvg-id="BEATTV.nl" group-title="Music, Entertainment",BEATTV
 https://tv.beatfm.nl/live.m3u8
 #EXTINF:-1 tvg-id="BestofDanceTV.ee" group-title="Music",Best of Dance TV
@@ -783,8 +785,6 @@ https://noshls.persiana.live/hls/stream.m3u8
 https://sistemastr.tropicalmoonmedia.com/live/7C452409423F57ADC960F6405635267F/7.m3u8
 #EXTINF:-1 tvg-id="Planet1009FM.pa" group-title="Music",Planet 100.9 FM
 https://streamlov.alsolnet.com/planet1009fm/live/playlist.m3u8
-#EXTINF:-1 tvg-id="PlayTV.cm" group-title="Music",Play TV
-http://connectiktv.ddns.net:5000/playtv/@playtv/playlist.m3u8
 #EXTINF:-1 tvg-id="PlayTV.gr" group-title="Music",Play TV
 http://web.onair-radio.eu:1935/Alpha-Host/Alpha-Host/playlist.m3u8
 #EXTINF:-1 tvg-id="PlutoTVKaraokeporStingray.us" group-title="Music",Pluto TV Karaoke por Stingray
@@ -1044,7 +1044,11 @@ http://hls127.freeott.top:8080/Shanson_Tv/video.m3u8
 #EXTINF:-1 tvg-id="ShansonTV.ru" group-title="Music",Shanson TV
 https://uiptv.do.am/1ufc/602079679/playlist.m3u8
 #EXTINF:-1 tvg-id="ShansonTV.ru" group-title="Music",Shanson TV
+http://hls.shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="ShansonTV.ru" group-title="Music",Shanson TV
 https://streaming.thestream.cyou/live/7009.m3u8
+#EXTINF:-1 tvg-id="ShansonTV.ru" group-title="Music",Shanson TV
+https://hls-shansontv.cdnvideo.ru/shansontv/smil:shansontv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ShowVenTV.ve" group-title="Culture, Music",ShowVen TV
 https://cdnbarinas.tvzamora.com/showven/index.m3u8
 #EXTINF:-1 tvg-id="SiembraTV.do" group-title="Music",Siembra TV
@@ -1075,8 +1079,6 @@ https://cloudvideo.servers10.com:8081/8026/tracks-v1a1/index.m3u8
 https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
 #EXTINF:-1 tvg-id="Star101FM.gu" group-title="Music",Star 101 FM
 https://live2.tensila.com/knut-v-1.choice/hls/master.m3u8
-#EXTINF:-1 tvg-id="SteelbirdMusic.in" group-title="Music",Steelbird Music
-https://cdn2.in/SteelbirdMusicTVhls/live.m3u8
 #EXTINF:-1 tvg-id="StingrayClassica.ca" group-title="Music",Stingray Classica
 https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-id="StingrayClassica.ca" group-title="Music",Stingray Classica
@@ -1485,8 +1487,6 @@ https://59ef525c24caa.streamlock.net/videotour/videotour/playlist.m3u8
 https://tglmp01.akamaized.net/out/v1/c1071012b73f4f189b202e1529e8f802/manifest.mpd
 #EXTINF:-1 tvg-id="VintageMusic.cr" group-title="Music",Vintage Music
 https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8
-#EXTINF:-1 tvg-id="VIPTV.aw" group-title="Music",VIP TV
-https://vs20.live.opencaster.com/viptvaruba_01e417ae/index.m3u8
 #EXTINF:-1 tvg-id="VisionTelevision.mx" group-title="Music",Vision Television
 https://cloudvideo.servers10.com:8081/8016/index.m3u8
 #EXTINF:-1 tvg-id="VMLatino.cr" group-title="Music",VM Latino
@@ -1543,16 +1543,12 @@ https://jmp2.uk/plu-654102ed770cf1000866c307.m3u8
 https://jmp2.uk/plu-5d14fc31252d35decbc4080b.m3u8
 #EXTINF:-1 tvg-id="YRFMusic.in" group-title="Music",YRF Music
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
-#EXTINF:-1 tvg-id="ZBMusic.in" group-title="Music",ZB Music
-https://server.zillarbarta.com/zbmusic/index.m3u8
 #EXTINF:-1 tvg-id="ZFMZoetermeerTV.nl" group-title="Music",ZFM Zoetermeer TV
 https://zfmzoetermeer.nl/live/master.m3u8
 #EXTINF:-1 tvg-id="Zhara.ru" group-title="Music",Zhara
 http://hls127.freeott.top:8080/Zhara/video.m3u8
 #EXTINF:-1 tvg-id="Zhara.ru" group-title="Music",Zhara
 http://31.148.48.15/Zhara/index.m3u8
-#EXTINF:-1 tvg-id="ZICOTV.rs" group-title="Music",ZICO TV
-https://gjirafa-video-live.gjirafa.net/gjvideo-live/j3a-n14-2pf-g3s/index.m3u8
 #EXTINF:-1 tvg-id="Zoom.in" group-title="Music",Zoom
 https://dai.google.com/linear/hls/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
 #EXTINF:-1 tvg-id="Zoom.in" group-title="Music",Zoom
