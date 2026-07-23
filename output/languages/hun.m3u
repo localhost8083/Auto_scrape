@@ -17,6 +17,8 @@ https://cloudfront44.lexanetwork.com:1344/freerelay/bpetv.sdp/playlist.m3u8
 https://citytv.hu/playlist.m3u8
 #EXTINF:-1 tvg-id="CsurgoTV.hu" group-title="General",Csurgo TV
 https://cstv.medialivecdn.hu/csurgotv/27725804dc13aa23b3970414524d2dbf.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="DisneyChannel.hu" group-title="Kids",Disney Channel
+http://88.212.15.19/live/disney_channel_hun/index.m3u8
 #EXTINF:-1 tvg-id="DTV.hu" group-title="Uncategorized",DTV
 http://cloudfront44.lexanetwork.com:1732/hlsrelay003/hls/livestream.sdp.m3u8
 #EXTINF:-1 tvg-id="ESTV.hu" group-title="General",ESTV
@@ -25,8 +27,6 @@ https://cloudfront44.lexanetwork.com:1344/relay01/HDE032.sdp/playlist.m3u8
 https://cloudfront44.lexanetwork.com:1344/relay44_1/HDE040.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="EWTNBonumTV.hu" group-title="Religious",EWTN/Bonum TV
 https://dash2.antik.sk/live/ewtn_bonum/index.m3u8
-#EXTINF:-1 tvg-id="FehervarTV.hu" group-title="General",Fehervar TV
-https://cloudfront44.lexanetwork.com:1344/freerelay/fehervartv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="Galaxy4.hu" group-title="General",Galaxy4
 https://budapest-cache-1.antik.sk/live/test_galaxy_4_atk_1200/playlist.m3u8
 #EXTINF:-1 tvg-id="GyongyosiTV.hu" group-title="General",Gyongyosi TV
@@ -35,6 +35,8 @@ https://cloudfront44.lexanetwork.com:1344/relay44_1/HDE043.sdp/playlist.m3u8
 https://cloudfront44.lexanetwork.com:1344/relay03/livestream003.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="HirTV.hu" group-title="News",Hir TV
 https://video11.videa.hu/static/live/8.2966061.2530409.1.5.590.590/index.m3u8
+#EXTINF:-1 tvg-id="History.hu" group-title="Documentary",History
+http://88.212.15.19/live/history_hun/index.m3u8
 #EXTINF:-1 tvg-id="JaszsagiTersegiTV.hu" group-title="General",Jaszsagi Tersegi TV
 https://cloudfront44.lexanetwork.com:1344/relay01/broadcast007.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="KanizsaTV.hu" group-title="General",Kanizsa TV
@@ -51,8 +53,18 @@ http://88.212.15.19/live/m2_hun/index.m3u8
 http://88.212.15.19/live/test_m_5_hun_atk_1200/playlist.m3u8
 #EXTINF:-1 tvg-id="MakoiVarosiTelevizio.hu" group-title="General",Makoi Varosi Televizio
 http://makomedia.mikrohalo.hu/hls/makotv.m3u8
+#EXTINF:-1 tvg-id="MezokovesdiTelevizio.hu" group-title="General",Mezokovesdi Televizio
+https://cloudfront44.lexanetwork.com:1344/freerelay/mezokovesdvtv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="MoraNetTV.hu" group-title="General",Mora-Net TV
 https://stream.moranettv.hu/live/index.m3u8
+#EXTINF:-1 tvg-id="MoziPlus.hu" group-title="Movies",Mozi+
+http://88.212.15.19/live/mozi_plusz/index.m3u8
+#EXTINF:-1 tvg-id="Moziverzum.hu" group-title="Movies",Moziverzum
+http://88.212.15.19/live/moziverzum/index.m3u8
+#EXTINF:-1 tvg-id="NationalGeographic.hu" group-title="Documentary",National Geographic
+http://88.212.15.19/live/ngc_hun/index.m3u8
+#EXTINF:-1 tvg-id="NationalGeographicWild.hu" group-title="Documentary",National Geographic Wild
+http://88.212.15.19/live/ngw_hun/index.m3u8
 #EXTINF:-1 tvg-id="OroszlanyiVarosiTelevizio.hu" group-title="General",Oroszlanyi Varosi Televizio
 https://cloudfront44.lexanetwork.com:1344/relay01/broadcast002.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="OrszaggyulesOGYplenaris.hu" group-title="Legislative",Orszaggyules: OGY plenaris
@@ -61,10 +73,20 @@ https://plenaris.parlament.hu:446/edgelive/smil:mkogyplen.smil/playlist.m3u8
 https://tab.parlament.hu:446/edgelive/smil:mkogytab.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="OzdiVarosiTV.hu" group-title="General",Ozdi Varosi TV
 http://stream.nmih.hu:7980/live.m3u8
+#EXTINF:-1 tvg-id="RTL.hu" group-title="Uncategorized",RTL
+http://88.212.15.19/live/test_rtl_klub_hungary_1200_atk/playlist.m3u8
 #EXTINF:-1 tvg-id="RTLGold.hu" group-title="Uncategorized",RTL Gold
 https://budapest-cache-1.antik.sk/live/test_film_plus_2_hungary_1200_atk/playlist.m3u8
+#EXTINF:-1 tvg-id="RTLHarom.hu" group-title="Uncategorized",RTL Harom
+http://88.212.15.19/live/test_rtl_plus_hungary_1200_atk/playlist.m3u8
+#EXTINF:-1 tvg-id="RTLKetto.hu" group-title="Uncategorized",RTL Ketto
+http://88.212.15.19/live/test_rtl2_hungary_1200_atk/playlist.m3u8
 #EXTINF:-1 tvg-id="SIXOTV.hu" group-title="General",SIXO TV
 https://cloudfront44.lexanetwork.com:1344/relay01/HDE038.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="Spektrum.hu" group-title="Documentary",Spektrum
+http://88.212.15.19/live/spektrum_hun/index.m3u8
+#EXTINF:-1 tvg-id="SpektrumHome.hu" group-title="Entertainment",Spektrum Home
+http://88.212.15.19/live/spektrum_home_hun/index.m3u8
 #EXTINF:-1 tvg-id="Story4.hu" group-title="Uncategorized",Story4
 http://88.212.15.19/live/test_story_4_atk_1200/playlist.m3u8
 #EXTINF:-1 tvg-id="SzolnokTV.hu" group-title="General",Szolnok TV
@@ -81,9 +103,19 @@ http://stream.tveger.hu:8010/live.m3u8
 https://cloudfront44.lexanetwork.com:1344/freerelay/keszthelyivtv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="VasarhelyiTelevizio.hu" group-title="General",Vasarhelyi Televizio
 https://stream.vasarhelyitelevizio.hu/stream/stream.m3u8
-#EXTINF:-1 tvg-id="VTVMor.hu" group-title="General",VTV Mor
-https://cloudfront44.lexanetwork.com:1344/freerelay/morvtv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="Viasat2.hu" group-title="Uncategorized",Viasat2
+http://88.212.15.19/live/viasat2/index.m3u8
+#EXTINF:-1 tvg-id="Viasat3.hu" group-title="Uncategorized",Viasat 3
+http://88.212.15.19/live/viasat3/index.m3u8
+#EXTINF:-1 tvg-id="Viasat6.hu" group-title="Uncategorized",Viasat 6
+http://88.212.15.19/live/viasat6/index.m3u8
+#EXTINF:-1 tvg-id="ViasatFilm.hu" group-title="Movies",Viasat Film
+http://88.212.15.19/live/viasat_film/index.m3u8
 #EXTINF:-1 tvg-id="XVTV.hu" group-title="General",XV TV
 https://cloudfront44.lexanetwork.com:1344/relay01/HDE051.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="ZalaegerszegiTV.hu" group-title="Uncategorized",Zalaegerszegi TV
 https://cloudfront44.lexanetwork.com:1344/freerelay/zegtv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="Zenebutik.hu" group-title="Uncategorized",Zenebutik
+http://88.212.15.19/live/zenebutik/index.m3u8
+#EXTINF:-1 tvg-id="ZugloTV.hu" group-title="Entertainment",Zuglo TV
+https://cloudfront44.lexanetwork.com:1344/freerelay/zuglotv.sdp/playlist.m3u8
