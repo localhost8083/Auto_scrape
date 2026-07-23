@@ -97,8 +97,6 @@ http://vivo.canal3tacural.com.ar:8081/hls/stream.m3u8
 https://5cd577a3dd8ec.streamlock.net/CANAL4/smil:CANAL4.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal4Posadas.ar" group-title="Uncategorized",Canal 4 Posadas
 https://iptv.ixfo.com.ar:30443/live/C4POS/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal4SanJuan.ar" group-title="Uncategorized",Canal 4 San Juan
-https://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal4Teleaire.ar" group-title="General",Canal 4 Teleaire
 https://stmvideo6.livecastv.com/canal4/canal4/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal4VillaDolores.ar" group-title="General",Canal 4 Villa Dolores
@@ -117,6 +115,8 @@ https://iptv.ixfo.com.ar:30443/live/c6digital/playlist.m3u8
 https://stmvideo6.livecastv.com/vientorecio/vientorecio/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal7Jujuy.ar" group-title="Uncategorized",Canal 7 Jujuy
 https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal7Neuquen.ar" group-title="General",Canal 7 Neuquen
+https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal7Salta.ar" group-title="Uncategorized",Canal 7 Salta
 https://vivo.solumedia.com:19360/cooperativa/cooperativa.m3u8
 #EXTINF:-1 tvg-id="Canal7Salta.ar" group-title="Uncategorized",Canal 7 Salta
@@ -189,8 +189,6 @@ http://190.61.90.17:40000/play/a043/index.m3u8
 https://rds3.desdeparaguay.net/caritastv/caritastv/playlist.m3u8
 #EXTINF:-1 tvg-id="CatamarcaTV.ar" group-title="Culture, News",Catamarca TV
 https://stream.arcast.com.ar/canal7catamarca/ngrp:canal7catamarca_all/playlist.m3u8?DVR=
-#EXTINF:-1 tvg-id="CEACOMTV.bo" group-title="News, Lifestyle, Music, General",CEACOM TV
-https://eu1.servers10.com:8081/ceacom/index.m3u8
 #EXTINF:-1 tvg-id="CeltaTV.ar" group-title="Uncategorized",Celta TV
 https://vivo.solumedia.com:19360/celta/celta.m3u8
 #EXTINF:-1 tvg-id="ChacoTV.ar" group-title="Uncategorized",Chaco TV
@@ -260,8 +258,6 @@ http://45.185.163.75:8000/play/a016/index.m3u8
 #EXTINF:-1 tvg-id="DisneyJrLatinAmerica.ar" group-title="Animation, Kids",Disney Jr. Latin America
 http://tr.live.clarovtrcdn.vtrplay.com/disneyjrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 #EXTINF:-1 tvg-id="DisneyJrLatinAmerica.ar" group-title="Animation, Kids",Disney Jr. Latin America
-http://45.134.141.161:2200/ARG/Disney_Junior/index.m3u8
-#EXTINF:-1 tvg-id="DisneyJrLatinAmerica.ar" group-title="Animation, Kids",Disney Jr. Latin America
 http://179.60.51.134:8888/DISNEY-JR/index.m3u8
 #EXTINF:-1 tvg-id="DisneyJrLatinAmerica.ar" group-title="Animation, Kids",Disney Jr. Latin America
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/disney_jr.stream/playlist.m3u8
@@ -321,14 +317,10 @@ https://tv2.bitstreaming.net:3576/multi_live/play.m3u8
 https://tv.bitstreaming.net:3348/live/gigavisionlive.m3u8
 #EXTINF:-1 tvg-id="GOTV.py" group-title="Entertainment, Music",GO TV
 https://rds3.desdeparaguay.net/gotv/gotv/playlist.m3u8
-#EXTINF:-1 tvg-id="GTV.bo" group-title="General",GTV
-https://lbgo.bozztv.com/ssh101/ssh101/guadalupetv/playlist.m3u8
 #EXTINF:-1 tvg-id="HEiNow.py" group-title="Music",HEi Now
 https://copacogen.desdeparaguay.net/heitv/heitv_py_alta/playlist.m3u8?admin=nacion
 #EXTINF:-1 tvg-id="ImagenTV.bo" group-title="General",Imagen TV
 https://lbgo.bozztv.com/ssh101/ssh101/imagentvpotosib/playlist.m3u8
-#EXTINF:-1 tvg-id="ImperialTV.bo" group-title="General",Imperial TV
-https://tv.centaurychile.com/imperial/streams/EnCyCiwNLsqEQ2kv2852222720686498.m3u8
 #EXTINF:-1 tvg-id="InteractivoTelevision.bo" group-title="General",Interactivo Television
 https://mist01.homestream.fun/hls/interactivotv2/index.m3u8
 #EXTINF:-1 tvg-id="InteractivoTelevision.bo" group-title="General",Interactivo Television
@@ -377,8 +369,6 @@ https://video.hostingcaaguazu.com:19360/nandeportetepe/nandeportetepe.m3u8
 https://nanduti.b-cdn.net/Source.m3u8
 #EXTINF:-1 tvg-id="Nanduti.py" group-title="News",Nanduti
 https://nanduti.b-cdn.net/720p.m3u8
-#EXTINF:-1 tvg-id="NeoTV.ar" group-title="General",Neo TV
-https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 #EXTINF:-1 tvg-id="NeoxTV.ar" group-title="General",Neox TV
 https://tv.streamcasthd.com:3031/live/neoxtvlive.m3u8
 #EXTINF:-1 tvg-id="NETTV.ar" group-title="General",NET TV
@@ -401,6 +391,8 @@ https://copacogen.desdeparaguay.net/npy/npy_py_alta/playlist.m3u8?admin=tvaccion
 https://video.hostingcaaguazu.com:19360/obediratv/obediratv.m3u8
 #EXTINF:-1 tvg-id="OccidentalTV.py" group-title="General",Occidental TV
 https://video.wilohosting.com:19360/occidentaltv/occidentaltv.m3u8
+#EXTINF:-1 tvg-id="PalenqueTV.bo" group-title="General",Palenque TV
+https://tv.bitstreaming.net:3234/live/palenquetvlive.m3u8
 #EXTINF:-1 tvg-id="ParaguayTV.py" group-title="General",Paraguay TV
 https://stream.paraguaytv.gov.py/memfs/bbe36fed-9b49-4d1d-adaa-4bd6d1b2e386.m3u8
 #EXTINF:-1 tvg-id="PlimPlim.ar" group-title="Animation, Kids",Plim Plim
@@ -478,8 +470,6 @@ https://59d39900ebfb8.streamlock.net/asiesmipueblo/asiesmipueblo/playlist.m3u8
 #EXTINF:-1 tvg-id="RedTVShop.bo" group-title="Shop",Red TV Shop
 https://master.tucableip.com/redtvshop/index.m3u8
 #EXTINF:-1 tvg-id="RedUno.bo" group-title="General",Red Uno
-https://tv.centaurychile.com/interactiva/streams/KIgB6QvZ0L8XaSLd3211668845221245.m3u8
-#EXTINF:-1 tvg-id="RedUno.bo" group-title="General",Red Uno
 http://190.181.18.82:4111/play/a005/index.m3u8
 #EXTINF:-1 tvg-id="RedUnoSantaCruz.bo" group-title="General",Red Uno Santa Cruz
 http://190.181.18.82:4111/play/a006/index.m3u8
@@ -495,8 +485,6 @@ https://rtp.noxun.net/hls720/stream3.m3u8
 https://rtp.noxun.net/hls480/stream2.m3u8
 #EXTINF:-1 tvg-id="RTP.bo" group-title="General",RTP
 https://rtp.noxun.net/hls/stream.m3u8
-#EXTINF:-1 tvg-id="RTVNorte.bo" group-title="General",RTV Norte
-https://lbgo.bozztv.com/ssh101/ssh101/mbocayatyhd/playlist.m3u8
 #EXTINF:-1 tvg-id="SanLuisPlus.ar" group-title="General",San Luis +
 https://stream.radiosmundiales.com/hls/sanluismas/sanluismas.m3u8
 #EXTINF:-1 tvg-id="SanPedroTV.ar" group-title="Uncategorized",San Pedro TV
@@ -543,6 +531,10 @@ http://190.108.83.69:8000/play/a08l/index.m3u8
 https://copacotf.desdeparaguay.net/telefuturo/telefuturo_py_alta/playlist.m3u8
 #EXTINF:-1 tvg-id="Telemax.ar" group-title="Uncategorized",Telemax
 https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8
+#EXTINF:-1 tvg-id="Telenord.ar" group-title="Uncategorized",Telenord
+https://617c5175c970b.streamlock.net:4444/previsoratv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="Telenord.ar" group-title="Uncategorized",Telenord
+http://www.coninfo.net:1935/previsoratv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="TelePosadas.ar" group-title="General",Tele Posadas
 https://live20.bozztv.com/giatv/giatv-teleposadaso01/teleposadaso01/playlist.m3u8
 #EXTINF:-1 tvg-id="TelePosadas.ar" group-title="General",Tele Posadas
@@ -597,8 +589,6 @@ https://live.enhdtv.com:8081/8026/tracks-v1a1/mono.m3u8
 https://edge.enhdtv.com/8190/index.m3u8
 #EXTINF:-1 tvg-id="UMSATVULP.bo" group-title="News, Culture, Education",UMSA TVU LP
 https://live.enhdtv.com:8081/8190/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="UnicaTV.bo" group-title="General",Unica TV
-https://59d39900ebfb8.streamlock.net/unicatv/unicatv/playlist.m3u8
 #EXTINF:-1 tvg-id="UnifeTV.ar" group-title="Religious",Unife TV
 https://5dcabf026b188.streamlock.net/StreamUnife/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="UnifeTV.ar" group-title="Religious",Unife TV
@@ -619,8 +609,6 @@ http://190.60.39.195:8000/play/a01r/index.m3u8
 https://vivo.solumedia.com:19360/uniteve/uniteve.m3u8
 #EXTINF:-1 tvg-id="UnivalleTelevision.bo" group-title="Uncategorized",Univalle Television
 https://master.tucableip.com/univalletv/playlist.m3u8
-#EXTINF:-1 tvg-id="UPEATV.bo" group-title="Uncategorized",UPEA TV
-https://tvstream.upea.bo/hls/oSs0jSWumTFIIVY97559.m3u8
 #EXTINF:-1 tvg-id="UrbanMix.ar" group-title="Uncategorized",Urban Mix
 https://cloud.tvomix.com/URBANMIX/index.m3u8
 #EXTINF:-1 tvg-id="VenusMedia.py" group-title="Music",Venus Media
