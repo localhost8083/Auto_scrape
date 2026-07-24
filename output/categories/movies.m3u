@@ -47,6 +47,8 @@ http://23.239.31.26:8989/amc/index.m3u8
 http://88.212.15.19/live/test_amc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="AMCEurope.uk" group-title="Movies",AMC Europe
 https://dokagents.site/live/amc/mono.m3u8
+#EXTINF:-1 tvg-id="AMCEurope.uk" group-title="Movies",AMC Europe
+https://aes.m3u8simplu.workers.dev/amc/index.m3u8
 #EXTINF:-1 tvg-id="AMCLatinAmerica.us" group-title="Movies",AMC Latin America
 http://45.190.156.152/AMC/index.m3u8
 #EXTINF:-1 tvg-id="AMCLatinAmerica.us" group-title="Movies",AMC Latin America
@@ -241,8 +243,8 @@ https://cdn1.skygo.mn/live/disk1/CinemaTV/HLS-FTA/CinemaTV.m3u8
 https://cdn4.skygo.mn/live/disk1/CinemaTV/HLSv3-FTA/CinemaTV.m3u8
 #EXTINF:-1 tvg-id="Cinema.ru" group-title="Movies",Cinema
 https://stream8.cinerama.uz/1227/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="CineMaraton.ro" group-title="Movies",CineMaraton
-https://aes.m3u8simplu.workers.dev/cinemaraton/index.m3u8
+#EXTINF:-1 tvg-id="CinemaratonMoldova.md" group-title="Movies",Cinemaraton Moldova
+https://aes.m3u8simplu.workers.dev/cinemaratonmoldova/index.m3u8
 #EXTINF:-1 tvg-id="CinemaWorld.my" group-title="Movies",CinemaWorld
 https://cdn.qd.je/163189/cinemaworld
 #EXTINF:-1 tvg-id="CineMexicano.us" group-title="Movies",Cine Mexicano
@@ -255,8 +257,6 @@ https://zylo-cinenanar-rakuten.amagi.tv/playlist.m3u8
 http://99.27.51.147/CineClassic/index.m3u8
 #EXTINF:-1 tvg-id="CinePlusEmotion.fr" group-title="Movies",Cine+ Emotion
 http://145.239.5.177/337/index.m3u8
-#EXTINF:-1 tvg-id="CinePlusFrisson.fr" group-title="Movies",Cine+ Frisson
-http://99.27.51.147:8080/CineFrisson/index.m3u8
 #EXTINF:-1 tvg-id="CinePremiere.us" group-title="Movies",Cine Premiere
 https://jmp2.uk/plu-5cf968040ab7d8f181e6a68b.m3u8
 #EXTINF:-1 tvg-id="CinePremium.us" group-title="Movies",Cine Premium
@@ -495,8 +495,6 @@ http://40.160.24.58/GAC_FAMILY/index.m3u8
 http://206.212.244.63/81/index.m3u8
 #EXTINF:-1 tvg-id="GreatAmericanFamily.us" group-title="Movies, Family",Great American Family
 https://gpuserver3.tier1streams.com/GREAT_AMERICAN_COUNTRY/index.m3u8
-#EXTINF:-1 tvg-id="GreatAmericanFamily.us" group-title="Movies, Family",Great American Family
-https://starlite.best/api/stream/hurt/hurt/livetv.epg/gac.great.american.country.us.m3u8
 #EXTINF:-1 tvg-id="GREATmovies.uk" group-title="Movies",GREAT! movies
 https://amg01753-narrativeuk-amg01753c3-lg-gb-1833.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-greatmovies-lggb/playlist.m3u8
 #EXTINF:-1 tvg-id="GREATmovies.uk" group-title="Movies",GREAT! movies
@@ -1175,6 +1173,8 @@ https://mumt04.tangotv.in/m18aqlK4PUBLICMOVIES/index.m3u8
 http://103.175.73.12:8080/live/239/master.m3u8
 #EXTINF:-1 tvg-id="PunjabiShorts.in" group-title="Movies",Punjabi Shorts
 https://vglivessai.akamaized.net/ptnr-yupptv/title-Punjabi_Shorts/in/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/27c3fd7a-b01f-4b00-ac03-557ac77acd47/index.m3u8
+#EXTINF:-1 tvg-id="QTV3.cn" group-title="Movies",QTV-3
+http://video10.qtv.com.cn/drm/qtv3at/manifest.m3u8
 #EXTINF:-1 tvg-id="RajDigitalPlus.in" group-title="Movies",Raj Digital Plus
 https://livestream.rajtv.tv/hlslive/Admin/px08241087/live/RajTV_Digital_plus/master_1.m3u8
 #EXTINF:-1 tvg-id="RakutenTVActionMovies.es" group-title="Movies",Rakuten TV Action Movies
