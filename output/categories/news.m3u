@@ -5,6 +5,8 @@ https://2gblive.akamaized.net/hls/live/2033805/2GB/index.m3u8
 https://3awlive.akamaized.net/hls/live/2032295/3AW/index.m3u8
 #EXTINF:-1 tvg-id="3CatInfo.es" group-title="News, Public",3CatInfo
 https://directes-tv-int.3catdirectes.cat/live-origin/canal324-hls/master.m3u8
+#EXTINF:-1 tvg-id="4DmasNoticiasTV.py" group-title="News",4Dmas Noticias TV
+https://rds3.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/playlist.m3u8
 #EXTINF:-1 tvg-id="4TVNews.in" group-title="News",4TV News
 https://cdn-4.pishow.tv/live/1007/master.m3u8
 #EXTINF:-1 tvg-id="6PR.au" group-title="News",6PR
@@ -165,8 +167,6 @@ http://138.255.2.6:8084/AGROMAIS/index.m3u8
 http://45.177.114.115:80/agromais/index.m3u8
 #EXTINF:-1 tvg-id="AgroMais.br" group-title="News",AgroMais
 http://45.177.114.115:80/AGROMAIS_HD/index.m3u8
-#EXTINF:-1 tvg-id="AgroMais.br" group-title="News",AgroMais
-http://170.83.16.50:80/AGRO_MAIS/index.m3u8
 #EXTINF:-1 tvg-id="AHaber.tr" group-title="News",A Haber
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/ahaber/ahaber.m3u8
 #EXTINF:-1 tvg-id="AKDCalcuttaNews.in" group-title="News",AKD Calcutta News
@@ -255,8 +255,6 @@ https://live-hls-apps-aje-v3-fa.getaj.net/AJE/index.m3u8
 https://live-hls-web-aje-fa.thehlive.com/AJE/index.m3u8
 #EXTINF:-1 tvg-id="AlJazeera.qa" group-title="News",Al Jazeera
 https://cdn-7.pishow.tv/live/429/master.m3u8
-#EXTINF:-1 tvg-id="AlJazeera.qa" group-title="News",Al Jazeera
-http://170.83.16.50:80/ALJAZEERA/index.m3u8
 #EXTINF:-1 tvg-id="AlJazeera.qa" group-title="News",Al Jazeera
 https://dash4.antik.sk/live/test_aljazeera_eng/playlist.m3u8
 #EXTINF:-1 tvg-id="AlJazeera.qa" group-title="News",Al Jazeera
@@ -397,6 +395,8 @@ http://177.234.249.178:8888/ATV/index.m3u8
 http://179.60.51.134:8888/ATV/index.m3u8
 #EXTINF:-1 tvg-id="ATVPlus.pe" group-title="News",ATV+
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/atvplus.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="ATVPlus.pe" group-title="News",ATV+
+https://d26l0c7cli5gzs.cloudfront.net/ts:abr.m3u8
 #EXTINF:-1 tvg-id="AwaazIndiaTV.in" group-title="News",Awaaz India TV
 https://awaazindia.livebox.co.in/AwaazIndaTVhls/Live.m3u8
 #EXTINF:-1 tvg-id="B1.ro" group-title="News",B1
@@ -412,11 +412,7 @@ http://168.197.104.22:80/BAND_NEWS/index.m3u8
 #EXTINF:-1 tvg-id="BandNews.br" group-title="News",BandNews
 http://45.177.114.115:80/BAND_NEWS/index.m3u8
 #EXTINF:-1 tvg-id="BandNews.br" group-title="News",BandNews
-http://170.83.16.50:80/BAND_NEWS/index.m3u8
-#EXTINF:-1 tvg-id="BandNews.br" group-title="News",BandNews
 http://170.83.49.66:8083/BANDNEWSHD/index.m3u8
-#EXTINF:-1 tvg-id="BansalNews.in" group-title="News",Bansal News
-https://8yzmq2gbdvax-hls-live.wmncdn.net/bansalnewstv1/live1.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="BansalNews.in" group-title="News",Bansal News
 https://cdn-2.pishow.tv/live/1051/master.m3u8
 #EXTINF:-1 tvg-id="BarakaTelevision.cd" group-title="News",Baraka Television
@@ -457,8 +453,6 @@ http://138.121.15.230:9002/BBC-NEWS/index.m3u8
 http://206.212.244.63/14/index.m3u8
 #EXTINF:-1 tvg-id="BBCNews.uk" group-title="News",BBC News
 https://gpuserver3.tier1streams.com/BBC_WORLD_NEWS/index.m3u8
-#EXTINF:-1 tvg-id="BBCNews.uk" group-title="News",BBC News
-http://23.237.104.106:8080/USA_BBC_NEWS/index.m3u8
 #EXTINF:-1 tvg-id="BBCNews.uk" group-title="News",BBC News
 https://jmp2.uk/plu-65d92a8c8b24c80008e285c0.m3u8
 #EXTINF:-1 tvg-id="BBCNews.uk" group-title="News",BBC News
@@ -553,8 +547,6 @@ http://138.186.23.7:8082/CABLENOTICIAS/index.m3u8
 https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 #EXTINF:-1 tvg-id="Canal33Tijuana.mx" group-title="General, News",Canal 33 Tijuana
 https://5f2c1b0d880e5.streamlock.net/canal33tijuana/videocanal33tijuana/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal38.br" group-title="News",Canal 38
-https://cdn.jmvstream.com/w/LVW-8503/LVW8503_d0V5oduFlK/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalE.ar" group-title="Business, News",Canal E
 https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalI.ve" group-title="News",Canal I
@@ -669,6 +661,8 @@ http://74.91.26.218:82/live/cctv13hd.m3u8
 https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="CCTVPlus2.cn" group-title="News",CCTV+ 2
 https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="CEACOMTV.bo" group-title="News, Lifestyle, Music, General",CEACOM TV
+https://eu1.servers10.com:8081/ceacom/index.m3u8
 #EXTINF:-1 tvg-id="CGTN.cn" group-title="News",CGTN
 https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
 #EXTINF:-1 tvg-id="CGTN.cn" group-title="News",CGTN
@@ -742,6 +736,8 @@ https://cdn-4.pishow.tv/live/1627/master.m3u8
 #EXTINF:-1 tvg-id="ChardiklaTimeTVNorthAmerica.in" group-title="News",Chardikla Time TV North America
 https://chardikalanorthamerica.gigabitcdn.net/in-chardikala/chardikala-north-usa/playlist.m3u8
 #EXTINF:-1 tvg-id="CheddarNews.us" group-title="News",Cheddar News
+http://206.212.244.63/35/index.m3u8
+#EXTINF:-1 tvg-id="CheddarNews.us" group-title="News",Cheddar News
 https://hls.livecdn.io/cheddar.com/cheddar/playlist.m3u8
 #EXTINF:-1 tvg-id="CheddarNews.us" group-title="News",Cheddar News
 https://gpuserver3.tier1streams.com/CHEDDAR_NEWS/index.m3u8
@@ -787,8 +783,6 @@ http://88.212.15.19/live/test_cnn_pirma_news/playlist.m3u8
 https://live.obslivestream.com/conecta2/index.m3u8
 #EXTINF:-1 tvg-id="Contivision.cl" group-title="News",Contivision
 https://unlimited6-cl.dps.live/cm/cm.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="CordobaTV.es" group-title="News",Cordoba TV
-https://cloudvideo.servers10.com:8081/8020/index.m3u8
 #EXTINF:-1 tvg-id="CorfuChannel.gr" group-title="News",Corfu Channel
 https://itv.streams.ovh:1936/corfuchannel/corfuchannel/playlist.m3u8
 #EXTINF:-1 tvg-id="CosmosTv.ar" group-title="Movies, News",Cosmos Tv
@@ -857,8 +851,6 @@ http://45.190.28.50/DW/index.m3u8
 https://stream8.cinerama.uz/1418/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="DW.de" group-title="News",DW
 https://cdn-7.pishow.tv/live/431/master.m3u8
-#EXTINF:-1 tvg-id="DW.de" group-title="News",DW
-http://170.83.16.50:80/DW/index.m3u8
 #EXTINF:-1 tvg-id="DW.de" group-title="News",DW
 http://177.234.249.178:8888/DW/index.m3u8
 #EXTINF:-1 tvg-id="DW.de" group-title="News",DW
@@ -998,8 +990,6 @@ https://aes.m3u8simplu.workers.dev/euronews/index.m3u8
 #EXTINF:-1 tvg-id="EuronewsRussian.fr" group-title="News",Euronews Russian
 https://cdn-euronews.akamaized.net/live/eds/euronews-ru/25071/index.m3u8
 #EXTINF:-1 tvg-id="EuronewsRussian.fr" group-title="News",Euronews Russian
-http://tmptv.sunduk.tv/CH31/index.m3u8
-#EXTINF:-1 tvg-id="EuronewsRussian.fr" group-title="News",Euronews Russian
 https://stream8.cinerama.uz/1024/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="EuronewsSpanish.fr" group-title="News",Euronews Spanish
 https://jmp2.uk/plu-60d3583ef310610007fb02b1.m3u8
@@ -1079,8 +1069,6 @@ https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_900.m3u8
 https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_500.m3u8
 #EXTINF:-1 tvg-id="France24.fr" group-title="News",France 24
 https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_500.m3u8
-#EXTINF:-1 tvg-id="France24.fr" group-title="News",France 24
-http://170.83.16.50:80/FRANCE_24/index.m3u8
 #EXTINF:-1 tvg-id="France24.fr" group-title="News",France 24
 https://amg00106-amg00106c1-samsung-nz-4151.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="France24.fr" group-title="News",France 24
@@ -1224,6 +1212,8 @@ https://highmedia.livebox.co.in/HIGHNEWShls/LIVE.m3u8
 #EXTINF:-1 tvg-id="HindiKhabar.in" group-title="News",Hindi Khabar
 https://d1msejlow1t3l4.cloudfront.net/fta/hindikhabar/playlist.m3u8
 #EXTINF:-1 tvg-id="HindiKhabar.in" group-title="News",Hindi Khabar
+http://tvsen7.aynascope.net/HindiKhabar/index.m3u8
+#EXTINF:-1 tvg-id="HindiKhabar.in" group-title="News",Hindi Khabar
 https://cdn-2.pishow.tv/live/1041/master.m3u8
 #EXTINF:-1 tvg-id="HirTV.hu" group-title="News",Hir TV
 https://video11.videa.hu/static/live/8.2966061.2530409.1.5.590.590/index.m3u8
@@ -1255,8 +1245,6 @@ https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
 https://streaming.icndigital.com/live_output/icn_live_stream_1.m3u8
 #EXTINF:-1 tvg-id="ICONETV.bj" group-title="News",ICONE TV
 https://lecteur.iconetv.bj/hls/stream.m3u8
-#EXTINF:-1 tvg-id="IndiaAhead.in" group-title="News",India Ahead
-https://mumt05.tangotv.in/87NeALx2INDIAAHEAD/index.m3u8
 #EXTINF:-1 tvg-id="IndiaDailyLive.in" group-title="News",India Daily Live
 https://indiadaily.ottlive.co.in/indiadailylive/index.m3u8
 #EXTINF:-1 tvg-id="IndiaToday.in" group-title="News",India Today
@@ -1351,8 +1339,6 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://2-fss-2.streamhoster.com/pl_118/206858-4404454-1/playlist.m3u8
 #EXTINF:-1 tvg-id="KPVMLD254.us" group-title="News",KPVM-LD 25.4
 https://2-fss-2.streamhoster.com/pl_118/206858-4404458-1/playlist.m3u8
-#EXTINF:-1 tvg-id="KPVMLD255.us" group-title="News",KPVM-LD 25.5
-https://2-fss-2.streamhoster.com/pl_120/206858-4404556-1/playlist.m3u8
 #EXTINF:-1 tvg-id="KrikTV.ru" group-title="News",Krik-TV
 http://cdn-01.bonus-tv.ru/kriktv_edge/playlist.m3u8
 #EXTINF:-1 tvg-id="KTNNews.pk" group-title="News",KTN News
@@ -1397,8 +1383,6 @@ https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/playlist.m3u8
 https://stream.vocl.com/hls/lindelltv/index.m3u8
 #EXTINF:-1 tvg-id="LingkarTV.id" group-title="News, Music, Religious",Lingkar TV
 https://lingkartv.my.id/hls/lingkartv.m3u8
-#EXTINF:-1 tvg-id="LinierosTV.do" group-title="News",Linieros TV
-https://soportedvb.click:3017/live/linierostvlive.m3u8
 #EXTINF:-1 tvg-id="LiraTV.it" group-title="News",Lira TV
 https://a928c0678d284da5b383f29ecc5dfeec.msvdn.net/live/S57315730/8kTBWibNteJA/playlist.m3u8
 #EXTINF:-1 tvg-id="LiveNOWfromFOX.us" group-title="News",LiveNOW from FOX
@@ -1583,10 +1567,8 @@ https://vg-tv9yupp.vgcdn.net/vglive-sk-526536/v1/019e01ace8511ea540a871e333268/0
 https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12XH_A1/index_new.m3u8?omap=https
 #EXTINF:-1 tvg-id="News12Brooklyn.us" group-title="News",News12 Brooklyn
 https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12KH_A1/index_new.m3u8?omap=https
-#EXTINF:-1 tvg-id="News12Conneticut.us" group-title="News",News12 Conneticut
-https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12CH_FFLD_MILF_A1/index_new.m3u8?omap=https
-#EXTINF:-1 tvg-id="News12LongIsland.us" group-title="News",News12 Long Island
-https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12LH_WEST_A1/index_new.m3u8?omap=https
+#EXTINF:-1 tvg-id="News12HudsonValley.us" group-title="News",News12 Hudson Valley
+https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12HH_A1/index_new.m3u8?omap=https
 #EXTINF:-1 tvg-id="News12NewJersey.us" group-title="News",News12 New Jersey
 https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12JH_CENT_A1/index_new.m3u8?omap=https
 #EXTINF:-1 tvg-id="News12NewYork.us" group-title="News",News12 New York
@@ -1599,8 +1581,6 @@ https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_CT_A
 https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_LI_A1/index_new.m3u8
 #EXTINF:-1 tvg-id="News12PlusNewJersey.us" group-title="News",News12+ New Jersey
 https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_NJ_A1/index_new.m3u8
-#EXTINF:-1 tvg-id="News12PlusNewYork.us" group-title="News",News12+ New York
-https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_NYC_A1/index_new.m3u8
 #EXTINF:-1 tvg-id="News18AssamNorthEast.in" group-title="News",News18 Assam North-East
 https://n18syndication.akamaized.net/bpk-tv/News18_Assam_North_East_NW18_MOB/output01/master.m3u8
 #EXTINF:-1 tvg-id="News18Bangla.in" group-title="News",News18 Bangla
@@ -1696,7 +1676,7 @@ https://cdn-2.pishow.tv/live/1493/master.m3u8
 #EXTINF:-1 tvg-id="NewsNation.in" group-title="News",News Nation
 http://103.175.73.12:8080/live/93/93_0.m3u8
 #EXTINF:-1 tvg-id="NewsNation.us" group-title="News",NewsNation
-http://206.212.244.63/712/index.m3u8
+http://40.160.24.58/NEWSNATION/index.m3u8
 #EXTINF:-1 tvg-id="NewsNet.us" group-title="News",NewsNet
 https://2-fss-2.streamhoster.com/pl_138/amlst:201950-1311088/playlist.m3u8
 #EXTINF:-1 tvg-id="NewsoftheWorld.us" group-title="News",News of the World
@@ -1722,8 +1702,6 @@ https://takeoff.jetstre.am/?account=nhnieuws&file=live&output=playlist.m3u8&prot
 #EXTINF:-1 tvg-id="NHKWorldJapan.jp" group-title="News, Culture",NHK World-Japan
 https://nhk.lls.pbs.org/index.m3u8
 #EXTINF:-1 tvg-id="NHKWorldJapan.jp" group-title="News, Culture",NHK World-Japan
-http://170.83.16.50:80/NHK_WORLD/index.m3u8
-#EXTINF:-1 tvg-id="NHKWorldJapan.jp" group-title="News, Culture",NHK World-Japan
 https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8
 #EXTINF:-1 tvg-id="NHKWorldJapan.jp" group-title="News, Culture",NHK World-Japan
 https://media-osa.hls.nhkworld.jp/hls/w/live/master.m3u8
@@ -1741,8 +1719,6 @@ https://server.thelegitpro.in/northeastlive/northeastlive/index.fmp4.m3u8
 https://edge.essastream.com/noticias16/playlist.m3u8
 #EXTINF:-1 tvg-id="NoticiasRCN.co" group-title="News",Noticias RCN
 https://jmp2.uk/plu-67d9b0ebc290c9499046e88f.m3u8
-#EXTINF:-1 tvg-id="Noticiero90Minutos.co" group-title="News",Noticiero 90 Minutos
-https://play.cdn.enetres.net/621B146D29C541AFB1507809F038F471021/021/playlist.m3u8
 #EXTINF:-1 tvg-id="NowMediaTelevision.us" group-title="News, Lifestyle",NowMedia Television
 https://stream-204968.castr.net/64e0c91d08bff3041638aee3/live_a4243540d4b911f0b624bda5e9a32aa9/index.m3u8
 #EXTINF:-1 tvg-id="NowMediaTelevision.us" group-title="News, Lifestyle",NowMedia Television
@@ -1903,12 +1879,12 @@ https://www.streaming507.net:19360/anconvideo/anconvideo.m3u8
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S35394734/Z6U2wGoDYANk/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioIslaTV.pr" group-title="News",Radio Isla TV
 https://59a564764e2b6.streamlock.net/palestra/palestra/playlist.m3u8
+#EXTINF:-1 tvg-id="RadioUnoTacna.pe" group-title="News",Radio Uno Tacna
+https://live-evg7.tv360.bitel.com.pe/bitel/radiounotv/playlist.m3u8
 #EXTINF:-1 tvg-id="RCVTV.hn" group-title="News",RCV TV
 https://59d39900ebfb8.streamlock.net/rcv/rcv/playlist.m3u8
 #EXTINF:-1 tvg-id="RDN.do" group-title="News",RDN
 https://edge.essastream.com/rdntv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="RDXGoa.in" group-title="News",RDX Goa
-https://g5nl6xoalpq6-hls-live.5centscdn.com/rdxgoa/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="RealitateaTV.md" group-title="News",Realitatea TV
 https://realitatealive.md/tv/rlive.m3u8
 #EXTINF:-1 tvg-id="RealNewsKerala.in" group-title="News",Real News Kerala
@@ -1925,8 +1901,6 @@ http://168.197.104.22:80/RECORD_NEWS/index.m3u8
 http://138.255.2.6:8084/RECORDNEWS/index.m3u8
 #EXTINF:-1 tvg-id="RecordNews.br" group-title="News",Record News
 http://45.177.114.115:80/RECORD_NEWS/index.m3u8
-#EXTINF:-1 tvg-id="RecordNews.br" group-title="News",Record News
-http://170.83.16.50:80/RECORD_NEWS/index.m3u8
 #EXTINF:-1 tvg-id="RecordNews.br" group-title="News",Record News
 http://170.83.49.66:8083/RECORDNEWSHD/index.m3u8
 #EXTINF:-1 tvg-id="RecordNews.br" group-title="News",Record News
@@ -1993,6 +1967,8 @@ https://live.obslivestream.com/selvatv/index.m3u8
 http://31.148.48.15/RT_HD/index.m3u8
 #EXTINF:-1 tvg-id="RT.ru" group-title="News",RT
 https://wisewatchoott.wiseplayout.com/RT/master.m3u8
+#EXTINF:-1 tvg-id="RT.ru" group-title="News",RT
+http://212.5.144.156:8080/rt/index.m3u8
 #EXTINF:-1 tvg-id="RT.ru" group-title="News",RT
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 #EXTINF:-1 tvg-id="RT.ru" group-title="News",RT
@@ -2299,6 +2275,8 @@ https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3
 https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
 #EXTINF:-1 tvg-id="SkyNewsUrdu.pk" group-title="News",Sky News Urdu
 https://lbgo.bozztv.com/ssh101/ssh101/skynews/playlist.m3u8
+#EXTINF:-1 tvg-id="Sochi24.ru" group-title="General, News",Sochi24
+http://serv30.vintera.tv:8081/sochi/sochi24_tv/playlist.m3u8
 #EXTINF:-1 tvg-id="StarKentrikisElladas.gr" group-title="General, News",Star Kentrikis Elladas
 https://telmaco-cdn.akamaized.net/starcgr/default/index.m3u8
 #EXTINF:-1 tvg-id="StartTV.gr" group-title="News",Start TV
@@ -2433,6 +2411,8 @@ https://tv-trthaber.medya.trt.com.tr/master.m3u8
 https://dash2.antik.sk/live/test_trt_world_atktv/playlist.m3u8
 #EXTINF:-1 tvg-id="TRTWorld.tr" group-title="News",TRT World
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="TSi.hn" group-title="News",TSi
+https://mdstrm.com/live-stream-playlist/6287fdc9303e3008289ab711.m3u8
 #EXTINF:-1 tvg-id="TurkHaberTV.tr" group-title="News",TurkHaber TV
 https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="Turno.cl" group-title="News",Turno
