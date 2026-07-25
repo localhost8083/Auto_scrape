@@ -163,6 +163,8 @@ http://170.83.49.66:8083/CANALRURALHD/index.m3u8
 http://186.219.52.187:80/canal_rural/index.m3u8
 #EXTINF:-1 tvg-id="CanalSaude.br" group-title="Education, Lifestyle",Canal Saude
 https://eitv7.cdn.broadpeak.io/account351-i1495/event/canalsaude/format720p.m3u8
+#EXTINF:-1 tvg-id="CanalSete.br" group-title="General",Canal Sete
+http://play.canalsete.com.br:1935/canalsete/xpl-c7_source/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalSTART.br" group-title="General",Canal START
 https://cdn-tiva-srv5-zcast-com-br.smartbit.co/canalstart/canalstart/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalUOL.br" group-title="General",Canal UOL
@@ -450,8 +452,6 @@ https://cdn-tiva-maystreaming-cloudecast-com.smartbit.co/ngt/index.m3u8
 #EXTINF:-1 tvg-id="RedePremiumTV.br" group-title="Entertainment",Rede Premium TV
 https://cdn-tiva-stmv2-samcast-com-br.smartbit.co/leonardo9878/leonardo9878/playlist.m3u8
 #EXTINF:-1 tvg-id="RedeSeculo21.br" group-title="Religious",Rede Seculo 21
-http://45.162.64.114/REDE_SECULO_21/index.m3u8
-#EXTINF:-1 tvg-id="RedeSeculo21.br" group-title="Religious",Rede Seculo 21
 http://138.255.2.6:8084/REDESECULO21/index.m3u8
 #EXTINF:-1 tvg-id="RedeSeculo21.br" group-title="Religious",Rede Seculo 21
 http://186.219.52.187:80/seculo21/index.m3u8
@@ -521,6 +521,10 @@ https://dai.google.com/linear/hls/event/Gmgmn9icSMOL6TAePageWQ/master.m3u8
 https://dai.google.com/linear/hls/event/1XSOdtQ0SH2G8OEmEfGgjQ/master.m3u8
 #EXTINF:-1 tvg-id="SBTNovaMutum.br" group-title="Uncategorized",SBT Nova Mutum
 https://video09.logicahost.com.br/sbtmutum/sbtmutum/playlist.m3u8
+#EXTINF:-1 tvg-id="SBTRondonopolis.br" group-title="Uncategorized",SBT Rondonopolis
+https://video09.logicahost.com.br/sbtroo/sbtroo/playlist.m3u8
+#EXTINF:-1 tvg-id="SBTSinop.br" group-title="Uncategorized",SBT Sinop
+https://video09.logicahost.com.br/sbtsinop/sbtsinop/playlist.m3u8
 #EXTINF:-1 tvg-id="SeriesClassic.br" group-title="Series",Series Classic
 https://cdn-tiva-video10-logicahost-com-br.smartbit.co/serieclassic/serieclassic/playlist.m3u8
 #EXTINF:-1 tvg-id="SESCTV.br" group-title="Uncategorized",SESC TV
@@ -533,6 +537,8 @@ http://138.255.2.6:8084/SESCTV/index.m3u8
 http://170.83.49.66:8083/SESCTVHD/index.m3u8
 #EXTINF:-1 tvg-id="SESCTV.br" group-title="Uncategorized",SESC TV
 http://186.219.52.187:80/sesc_tv/index.m3u8
+#EXTINF:-1 tvg-id="ShowdoMilhao.br" group-title="Entertainment",Show do Milhao
+https://d38s7rrdbnh4oy.cloudfront.net/v1/master/215c0da80606fed29372070168106400a6ca7e1a/SSAI-Saudades/index.m3u8
 #EXTINF:-1 tvg-id="SICTV.br" group-title="Uncategorized",SIC TV
 https://parecisfmlive.brasilstream.com.br/hls/parecisfmlive/index.m3u8
 #EXTINF:-1 tvg-id="SonyChannel.br" group-title="Uncategorized",Sony Channel
@@ -791,8 +797,6 @@ https://tv02.zas.media:1936/tvmarajoara/tvmarajoara/playlist.m3u8
 https://5cf4a2c2512a2.streamlock.net/tvmax/tvmax/playlist.m3u8
 #EXTINF:-1 tvg-id="TVMeio.br" group-title="General",TV Meio
 https://cdn-tiva-maystreaming-cloudecast-com.smartbit.co/redemeio/index.m3u8
-#EXTINF:-1 tvg-id="TVMetropole.br" group-title="General",TV Metropole
-https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8
 #EXTINF:-1 tvg-id="TVModelo.br" group-title="General, Entertainment, News",TV Modelo
 https://video09.logicahost.com.br/tvmodelo/tvmodelo/playlist.m3u
 #EXTINF:-1 tvg-id="TVMon.br" group-title="Uncategorized",TV Mon
@@ -857,12 +861,12 @@ http://170.83.49.66:8083/TVSENADOHD/index.m3u8
 http://186.219.52.187:80/tv_senado/index.m3u8
 #EXTINF:-1 tvg-id="TVSeries.br" group-title="Series",TV Series
 https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
-#EXTINF:-1 tvg-id="TVShowFortaleza.br" group-title="General",TV Show Fortaleza
-https://stmv8.samcast.com.br/raimundoanselmolimamororo1908/raimundoanselmolimamororo1908/playlist.m3u8
 #EXTINF:-1 tvg-id="TVSimCachoeiro.br" group-title="News",TV Sim Cachoeiro
 https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist.m3u8
 #EXTINF:-1 tvg-id="TVSimColatina.br" group-title="News",TV Sim Colatina
 https://5cf4a2c2512a2.streamlock.net/8132/8132/playlist.m3u8
+#EXTINF:-1 tvg-id="TVSulBahia.br" group-title="Uncategorized",TV Sul Bahia
+https://live.cdn.upx.com/00046/myStream.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="TVSuldeMinas.br" group-title="General",TV Sul de Minas
 https://5cf4a2c2512a2.streamlock.net/tvsuldeminas/tvsuldeminas/playlist.m3u8
 #EXTINF:-1 tvg-id="TVTerceiroAnjo.br" group-title="Religious",TV Terceiro Anjo
