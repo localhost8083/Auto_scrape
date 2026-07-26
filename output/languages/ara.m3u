@@ -290,8 +290,6 @@ https://live-news.asharq.com/asharq.m3u8
 #EXTINF:-1 tvg-id="AsharqNews.sa" group-title="Business, News",Asharq News
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-asharq/10ae30c64e21402c8116a7fb1e5aa789/index.m3u8
 #EXTINF:-1 tvg-id="AsharqNews.sa" group-title="Business, News",Asharq News
-https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/manifest.mpd
-#EXTINF:-1 tvg-id="AsharqNews.sa" group-title="Business, News",Asharq News
 https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="AsharqRadio.sa" group-title="Business, News",Asharq Radio
 https://svs.itworkscdn.net/asharqradiovlive/asharqradiov/playlist.m3u8
@@ -327,6 +325,8 @@ https://flu.systemnet.tv/CBCSofra/index.m3u8
 https://ch14.tv/live/ch4teendoc/playlist.m3u8
 #EXTINF:-1 tvg-id="ChadaTV.ma" group-title="General",Chada TV
 https://edge13.vedge.infomaniak.com/livecast/ik:chadatv/manifest.m3u8
+#EXTINF:-1 tvg-id="ChadaTV.ma" group-title="General",Chada TV
+https://edge19.vedge.infomaniak.com/livecast/ik:chadatv/playlist.m3u8
 #EXTINF:-1 tvg-id="Channel8.iq" group-title="News",Channel8
 https://live.channel8.com/Channel8-Kurdish/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="Channel9.il" group-title="News",Channel 9
@@ -453,6 +453,8 @@ https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Drama/playlist.m3u8
 https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/cooking/playlist.m3u8
 #EXTINF:-1 tvg-id="JordanSongs.jo" group-title="Music",Jordan Songs
 https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Song/playlist.m3u8
+#EXTINF:-1 tvg-id="JordanSport.jo" group-title="Sports",Jordan Sport
+https://jrtv-live.ercdn.net/jordansporthd/jordansporthd.m3u8
 #EXTINF:-1 tvg-id="JordanSport.jo" group-title="Sports",Jordan Sport
 http://93.184.10.248/JordanSport/index.m3u8
 #EXTINF:-1 tvg-id="JordanTourism.jo" group-title="Uncategorized",Jordan Tourism
@@ -821,6 +823,10 @@ https://stream.badinan.xyz/welat/tv/playlist.m3u8
 http://stream.mcquack.net/46/index.m3u8
 #EXTINF:-1 tvg-id="YemenTodayTV.ye" group-title="Uncategorized",Yemen Today TV
 https://video.yementdy.tv/hls/yementoday.m3u8
+#EXTINF:-1 tvg-id="YemenTV.ye" group-title="Uncategorized",Yemen TV
+https://live.yementv.tv/memfs/c8fe49a3-b1ca-4d14-9d78-498e8bad4f76_fast_output_0.m3u8
+#EXTINF:-1 tvg-id="YemenTV.ye" group-title="Uncategorized",Yemen TV
+https://live.yementv.tv/memfs/c8fe49a3-b1ca-4d14-9d78-498e8bad4f76_fast_output_0.m3u8?session=a3Ukc9eUVXdFTN58aiYFdR
 #EXTINF:-1 tvg-id="YesMoviesAction.il" group-title="Movies",Yes Movies Action
 http://stream.mcquack.net/380/index.m3u8
 #EXTINF:-1 tvg-id="ZagrosTV.iq" group-title="General",Zagros TV
