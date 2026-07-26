@@ -262,9 +262,7 @@ https://d1j2csarxnwazk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-id="ClubbingTV.us" group-title="Music",Clubbing TV
 https://a-cdn.klowdtv.com/live3/clubbingtv_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="ClublandTV.uk" group-title="Music",Clubland TV
-http://bore.pub:14073/live.m3u8
-#EXTINF:-1 tvg-id="ClublandTV.uk" group-title="Music",Clubland TV
-http://bore.pub:40823/live.m3u8
+http://109.157.194.186:4040/clublandhls/now.m3u8
 #EXTINF:-1 tvg-id="CMCTV.hr" group-title="Music",CMC TV
 https://stream.cmctv.hr:49998/cmc/live.m3u8
 #EXTINF:-1 tvg-id="CMCUSACountryMusicChannel.us" group-title="Music",CMC-USA Country Music Channel
@@ -371,8 +369,6 @@ https://tv.wracanal10.com:3025/live/elsoltvlive.m3u8
 https://astra.emitv.ro/hls/emi/index.m3u8
 #EXTINF:-1 tvg-id="EnerGeekRadio.cl" group-title="Music",EnerGeek Radio
 https://backend.energeek.cl/webtv/egradioweb/index.m3u8?token=ZZDemoIPTVGH
-#EXTINF:-1 tvg-id="EpicMusic.in" group-title="Music",Epic Music
-http://103.213.31.109:90/ShowBox/playlist.m3u8
 #EXTINF:-1 tvg-id="EpicMusic.in" group-title="Music",Epic Music
 https://mumt04.tangotv.in/m18aqlK4EPICMUSIC/index.m3u8
 #EXTINF:-1 tvg-id="EskaTV.pl" group-title="Music",Eska TV
@@ -651,8 +647,6 @@ https://streamlov.alsolnet.com/hermandadsalsera/live/playlist.m3u8
 https://mdstrm.com/live-stream-playlist/58d191f07290fbb058025843.m3u8
 #EXTINF:-1 tvg-id="LaMejorTV.mx" group-title="Music",La Mejor TV
 http://45.189.62.33:8002/play/a0ls/index.m3u8
-#EXTINF:-1 tvg-id="LAMIATV.do" group-title="Music",LA MIA TV
-https://ss2.tvrdomi.com:1936/lamiatv/lamiatv/playlist.m3u8
 #EXTINF:-1 tvg-id="LaMoradaRadioTV.co" group-title="Music",La Morada Radio TV
 https://movil.ejeserver.com/live/lamoradatv.m3u8
 #EXTINF:-1 tvg-id="LaPerlaRadioTV.ec" group-title="Music",La Perla Radio TV
@@ -821,6 +815,8 @@ https://rtmp.digitalbroadcast.ro/moozdance/moozdance.m3u8
 https://webcam.mosaiquefm.net/mosatv/_definst_/studio/playlist.m3u8?DVR
 #EXTINF:-1 tvg-id="MouvTV.fr" group-title="Music",Mouv' TV
 https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/mouv.m3u8
+#EXTINF:-1 tvg-id="MovieMusicbyStingray.ca" group-title="Music",Movie Music by Stingray
+https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-id="MTVBiggestPop.us" group-title="Music",MTV Biggest Pop
 https://jmp2.uk/plu-6047fbdbbb776a0007e7f2ff.m3u8
 #EXTINF:-1 tvg-id="MTVBiggestPop.us" group-title="Music",MTV Biggest Pop
@@ -879,6 +875,8 @@ http://88.212.15.19/live/mb_dance/index.m3u8
 http://88.212.15.19/live/mb_hits/index.m3u8
 #EXTINF:-1 tvg-id="MusicBoxPolska.pl" group-title="Music",Music Box Polska
 https://vs2133.vcdn.biz/0f0f85e2ea3607b5c396ef68d55c3168_megogo/live/hls/b/4000/u_sid/0/o/156751011/rsid/062147ff-ed0c-4d9c-a131-2bf42026e640/u_uid/0/u_vod/1/u_device/embed_all/u_devicekey/_embed_web/lip/57.128.235.172*asn/type.live/playlist.m3u8
+#EXTINF:-1 tvg-id="MusicBoxPolska.pl" group-title="Music",Music Box Polska
+https://uys1g01.s.gy/MB_UKRAINE
 #EXTINF:-1 tvg-id="MusicBoxSexy.cz" group-title="Music",Music Box Sexy
 http://88.212.15.19/live/mb_sexy/index.m3u8
 #EXTINF:-1 tvg-id="MusicChannel.ro" group-title="Music",Music Channel
@@ -1475,6 +1473,8 @@ https://live2.tensila.com/knut-v-1.choice/hls/master.m3u8
 https://live.muzickatv.mk/live/StarMusic2.m3u8
 #EXTINF:-1 tvg-id="SteelbirdMusic.in" group-title="Music",Steelbird Music
 https://cdn2.in/SteelbirdMusicTVhls/live.m3u8
+#EXTINF:-1 tvg-id="StingrayCityscapes.ca" group-title="Music",Stingray Cityscapes
+https://aka-live1050.delivery.roku.com/7572d640-7373-4137-8b14-a3afff395349/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 tvg-id="StingrayClassica.ca" group-title="Music",Stingray Classica
 https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-id="StingrayClassica.ca" group-title="Music",Stingray Classica
@@ -1485,8 +1485,8 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://lotus.stingray.com/manifest/ose-101ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-id="StingrayClassicRock.ca" group-title="Music",Stingray Classic Rock
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/stingray-classic-rock/master.m3u8?ads.vf=VvT2jJevYaK
-#EXTINF:-1 tvg-id="StingrayCMusic.ca" group-title="Music",Stingray CMusic
-https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingrayCozyCafe.ca" group-title="Music",Stingray Cozy Cafe
+https://aka-live1050.delivery.roku.com/372c813e-1fb9-41d4-a4d0-5fbd803659c5/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 tvg-id="StingrayDJAZZ.ca" group-title="Music",Stingray DJAZZ
 https://lotus.stingray.com/manifest/djazz-djaads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-id="StingrayDJAZZ.ca" group-title="Music",Stingray DJAZZ
@@ -1495,8 +1495,6 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://jmp2.uk/plu-696689d13b9ce349c9be3a18.m3u8
 #EXTINF:-1 tvg-id="StingrayEasyListening.ca" group-title="Music",Stingray Easy Listening
 https://lotus.stingray.com/manifest/ose-137ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-id="StingrayEuroHits.ca" group-title="Music",Stingray Euro Hits
-https://lotus.stingray.com/manifest/ose-214ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-id="StingrayEverything80s.ca" group-title="Music",Stingray Everything '80s
 https://lotus.stingray.com/manifest/ose-128ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-id="StingrayExitosdelMomento.ca" group-title="Music",Stingray Exitos del Momento
@@ -1508,8 +1506,6 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1 tvg-id="StingrayGreatestHits.ca" group-title="Music",Stingray Greatest Hits
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883053
 #EXTINF:-1 tvg-id="StingrayGreatestHits.ca" group-title="Music",Stingray Greatest Hits
-https://lotus.stingray.com/manifest/ose-155ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-id="StingrayGreatestHits.ca" group-title="Music",Stingray Greatest Hits
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/stingray-greatest-hits/master.m3u8?ads.vf=7XQlh7i26u0
 #EXTINF:-1 tvg-id="StingrayGreatestHolidayHits.us" group-title="Music",Stingray Greatest Holiday Hits
 https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/54947915-6504-4548-aaef-eabd451f8607/1.m3u8
@@ -1519,8 +1515,14 @@ https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae0
 https://lotus.stingray.com/manifest/ose-107ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-id="StingrayHitList.ca" group-title="Music",Stingray Hit List
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/stingray-hit-list/master.m3u8?ads.vf=oP0urGQi1pG
+#EXTINF:-1 tvg-id="StingrayHolidayHits.ca" group-title="Music",Stingray Holiday Hits
+https://lotus.stingray.com/manifest/ose-155ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingrayHolidayscapes.ca" group-title="Music",Stingray Holidayscapes
+https://d10cyxntpn0bwm.cloudfront.net/master.m3u8
 #EXTINF:-1 tvg-id="StingrayHolidayscapes.ca" group-title="Music",Stingray Holidayscapes
 https://plextv.ott-channels.stingray.com/holidayscapes/master.m3u8
+#EXTINF:-1 tvg-id="StingrayHolidayscapes.ca" group-title="Music",Stingray Holidayscapes
+https://lotus.stingray.com/manifest/holidayscapes-hol001ads_hol001-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-id="StingrayHotCountry.ca" group-title="Music",Stingray Hot Country
 https://lotus.stingray.com/manifest/ose-108ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-id="StingrayHotCountry.ca" group-title="Music",Stingray Hot Country
@@ -1569,8 +1571,6 @@ https://lotus.stingray.com/manifest/ose-122ads-montreal/samsungtvplus/master.m3u
 https://lotus.stingray.com/manifest/ose-317ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-id="StingrayTodaysLatinPop.ca" group-title="Music",Stingray Today's Latin Pop
 https://lotus.stingray.com/manifest/ose-190ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-id="StingrayUrbanBeat.ca" group-title="Music",Stingray Urban Beat
-https://lotus.stingray.com/manifest/ose-133ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-id="StranaFM.ru" group-title="Music",Strana FM
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="StranaFM.ru" group-title="Music",Strana FM
@@ -1619,8 +1619,6 @@ http://181.119.66.28:8081/TELEHIT-MUSICA/index.m3u8
 http://177.234.249.135:8888/TelehitMusica/index.m3u8
 #EXTINF:-1 tvg-id="TeleMusikSenegal.sn" group-title="Music",TeleMusik Senegal
 https://58c04fb1d143f.streamlock.net/rezopropartner_1_live/rezopropartner_1_live/playlist.m3u8
-#EXTINF:-1 tvg-id="TelerumbaTV.do" group-title="Music",Telerumba TV
-https://inliveserver.com:1936/18506/18506/playlist.m3u8
 #EXTINF:-1 tvg-id="TeleZoukla.mq" group-title="Music",Tele Zoukla
 https://vdo.pro-fhi.net:3228/stream/play.m3u8
 #EXTINF:-1 tvg-id="TezaurTV.md" group-title="Music",Tezaur TV
@@ -1765,8 +1763,6 @@ https://www.streaming507.net:19360/videotropiq/videotropiq.m3u8
 https://stream8.cinerama.uz/1208/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="TRTMuzik.tr" group-title="Music",TRT Muzik
 https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="TuMusicaHD.do" group-title="Music",Tu Musica HD
-https://edge.essastream.com/tumusicahd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Tunes6.in" group-title="Music",Tunes 6
 https://stream.d6-pro.com/tunes6music/live/video.m3u8
 #EXTINF:-1 tvg-id="TurboMixRadioTV.pe" group-title="Music",Turbo Mix Radio TV
