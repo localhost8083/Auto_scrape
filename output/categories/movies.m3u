@@ -375,6 +375,8 @@ http://31.148.48.15/Fan/index.m3u8
 http://31.148.48.15/Feniks_plus_kino/index.m3u8
 #EXTINF:-1 tvg-id="Film1Action.nl" group-title="Movies",Film1 Action
 http://86.87.15.10:8008/play/a01l/index.m3u8
+#EXTINF:-1 tvg-id="Film1Drama.nl" group-title="Movies",Film1 Drama
+http://86.87.15.10:8008/play/a01k/index.m3u8
 #EXTINF:-1 tvg-id="Film1Family.nl" group-title="Movies",Film1 Family
 http://86.87.15.10:8008/play/a01m/index.m3u8
 #EXTINF:-1 tvg-id="Film1Premiere.nl" group-title="Movies",Film1 Premiere
@@ -481,8 +483,6 @@ http://40.160.24.58/GAC_FAMILY/index.m3u8
 http://206.212.244.63/81/index.m3u8
 #EXTINF:-1 tvg-id="GreatAmericanFamily.us" group-title="Movies, Family",Great American Family
 https://gpuserver3.tier1streams.com/GREAT_AMERICAN_COUNTRY/index.m3u8
-#EXTINF:-1 tvg-id="GreatAmericanFamily.us" group-title="Movies, Family",Great American Family
-https://starlite.best/api/stream/hurt/hurt/livetv.epg/gac.great.american.country.us.m3u8
 #EXTINF:-1 tvg-id="GREATmovies.uk" group-title="Movies",GREAT! movies
 https://amg01753-narrativeuk-amg01753c3-lg-gb-1833.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-greatmovies-lggb/playlist.m3u8
 #EXTINF:-1 tvg-id="GREATmovies.uk" group-title="Movies",GREAT! movies
@@ -559,8 +559,6 @@ http://stream.mcquack.net/104/index.m3u8
 https://43wrzjnpqoxe-hls-live.wmncdn.net/indywood/indywoodtv/index.m3u8
 #EXTINF:-1 tvg-id="ItageTV.ng" group-title="Movies",Itage TV
 https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_011/Stream/playlist.m3u8
-#EXTINF:-1 tvg-id="JiangsuMovieChannel.cn" group-title="Movies",Jiangsu Movie Channel
-http://183.207.248.71/gitv/live1/G_JSYS/G_JSYS
 #EXTINF:-1 tvg-id="KairaliWe.in" group-title="Movies",Kairali We
 https://cdn-3.pishow.tv/live/1530/master.m3u8
 #EXTINF:-1 tvg-id="KCM.sg" group-title="Movies, Entertainment",KCM
@@ -1374,6 +1372,8 @@ https://jmp2.uk/plu-69776b58036e883f39e5ab8a.m3u8
 #EXTINF:-1 tvg-id="StarTrekTheOriginalSeries.se" group-title="Movies, Series",Star Trek: The Original Series
 https://jmp2.uk/plu-693add137e308621c051e733.m3u8
 #EXTINF:-1 tvg-id="StarTrekTheOriginalSeries.se" group-title="Movies, Series",Star Trek: The Original Series
+https://jmp2.uk/plu-693addd62bf6cf7414c4b2fc.m3u8
+#EXTINF:-1 tvg-id="StarTrekTheOriginalSeries.se" group-title="Movies, Series",Star Trek: The Original Series
 https://jmp2.uk/plu-693ade4d569386f93f235bb6.m3u8
 #EXTINF:-1 tvg-id="StarTrekVoyager.de" group-title="Movies, Series",Star Trek: Voyager
 https://jmp2.uk/plu-65787f2eb228b7000843fa5c.m3u8
@@ -1447,8 +1447,14 @@ https://jmp2.uk/plu-62f64ec9eb1045000728cad6.m3u8
 http://88.212.15.19/live/viasat_film/index.m3u8
 #EXTINF:-1 tvg-id="vijuPlusMegahit.ru" group-title="Movies",viju+ Megahit
 http://stream.mcquack.net/200/index.m3u8
+#EXTINF:-1 tvg-id="vijuPlusPremiere.ru" group-title="Movies",viju+ Premiere
+http://stream.mcquack.net/202/index.m3u8
+#EXTINF:-1 tvg-id="vijuTV1000.ru" group-title="Movies",viju TV1000
+http://stream.mcquack.net/110/index.m3u8
 #EXTINF:-1 tvg-id="vijuTV1000action.ru" group-title="Movies",viju TV1000 action
 https://stream8.cinerama.uz/1225/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="vijuTV1000action.ru" group-title="Movies",viju TV1000 action
+http://stream.mcquack.net/100/index.m3u8
 #EXTINF:-1 tvg-id="vijuTV1000russkoe.ru" group-title="Movies",viju TV1000 russkoe
 https://stream8.cinerama.uz/1058/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="vijuTV1000russkoe.ru" group-title="Movies",viju TV1000 russkoe
