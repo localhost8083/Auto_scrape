@@ -169,8 +169,6 @@ https://edge.essastream.com/borealtelevision/tracks-v1a1/mono.m3u8
 https://cafefhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="CanalCineDios.co" group-title="Movies",Canal Cine Dios
 https://canal.mediaserver.com.co/live/cinedios.m3u8
-#EXTINF:-1 tvg-id="CanalPlusCinemas.fr" group-title="Movies",Canal+ Cinemas
-http://151.80.18.177:86/Canal+_cinema_HD/index.m3u8
 #EXTINF:-1 tvg-id="CCTV6.cn" group-title="Movies",CCTV-6
 http://69.30.245.50/live/cctv6.m3u8
 #EXTINF:-1 tvg-id="CCTV6.cn" group-title="Movies",CCTV-6
@@ -413,6 +411,8 @@ https://dash3.antik.sk/live/test_filmbox_arthouse_atk_1200/playlist.m3u8
 https://webtvstream.bhtelecom.ba/filmbox_premium.m3u8
 #EXTINF:-1 tvg-id="FILMBOXPlusHits.pl" group-title="Movies",FILMBOX+ Hits
 http://88.212.15.19/live/test_film_boxpremium_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-id="FILMBOXPlusHits.pl" group-title="Movies",FILMBOX+ Hits
+http://88.212.15.19/live/fb_premium_hungary/index.m3u8
 #EXTINF:-1 tvg-id="FILMBOXPlusLoveCrime.pl" group-title="Movies",FILMBOX+ Love & Crime
 https://webtvstream.bhtelecom.ba/filmbox_stars.m3u8
 #EXTINF:-1 tvg-id="FILMBOXPlusLoveCrime.pl" group-title="Movies",FILMBOX+ Love & Crime
@@ -481,16 +481,12 @@ https://gcinemahls.wns.live/hls/stream.m3u8
 https://d6dg3ebeih71x.cloudfront.net/Gravitas_Movies.m3u8
 #EXTINF:-1 tvg-id="GreatAmericanFaithLiving.us" group-title="Movies, Lifestyle",Great American Faith & Living
 http://206.212.244.63/82/index.m3u8
-#EXTINF:-1 tvg-id="GreatAmericanFaithLiving.us" group-title="Movies, Lifestyle",Great American Faith & Living
-https://gpuserver3.tier1streams.com/GAC_LIVING/index.m3u8
 #EXTINF:-1 tvg-id="GreatAmericanFamily.us" group-title="Movies, Family",Great American Family
 http://40.160.24.58/GAC_FAMILY/index.m3u8
 #EXTINF:-1 tvg-id="GreatAmericanFamily.us" group-title="Movies, Family",Great American Family
 http://206.212.244.63/81/index.m3u8
 #EXTINF:-1 tvg-id="GreatAmericanFamily.us" group-title="Movies, Family",Great American Family
 https://gpuserver3.tier1streams.com/GREAT_AMERICAN_COUNTRY/index.m3u8
-#EXTINF:-1 tvg-id="GreatAmericanFamily.us" group-title="Movies, Family",Great American Family
-https://starlite.best/api/stream/hurt/hurt/livetv.epg/gac.great.american.country.us.m3u8
 #EXTINF:-1 tvg-id="GREATmovies.uk" group-title="Movies",GREAT! movies
 https://amg01753-narrativeuk-amg01753c3-lg-gb-1833.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-greatmovies-lggb/playlist.m3u8
 #EXTINF:-1 tvg-id="GREATmovies.uk" group-title="Movies",GREAT! movies
@@ -933,6 +929,8 @@ https://jmp2.uk/plu-5dd6ddb30a1d8a000908ed4c.m3u8
 https://jmp2.uk/plu-5fa991b1f09e020007e78626.m3u8
 #EXTINF:-1 tvg-id="PlutoTVCineInspirador.us" group-title="Movies",Pluto TV Cine Inspirador
 https://jmp2.uk/plu-6806d519fea7414f33f57016.m3u8
+#EXTINF:-1 tvg-id="PlutoTVCinemaItaliano.de" group-title="Movies",Pluto TV Cinema Italiano
+https://jmp2.uk/plu-608aa7d8359b270007861489.m3u8
 #EXTINF:-1 tvg-id="PlutoTVCinemaOrientale.de" group-title="Movies",Pluto TV Cinema Orientale
 https://jmp2.uk/plu-6786235bd648bf0008c2780a.m3u8
 #EXTINF:-1 tvg-id="PlutoTVCineRomance.us" group-title="Movies",Pluto TV Cine Romance
@@ -1119,6 +1117,8 @@ https://jmp2.uk/plu-61728bb9ee3773000840c1fa.m3u8
 https://jmp2.uk/plu-61f9598588f86000078ee7d6.m3u8
 #EXTINF:-1 tvg-id="PlutoTVSciFi.se" group-title="Series, Movies",Pluto TV Sci-Fi
 https://jmp2.uk/plu-61f957e051cca800076f2358.m3u8
+#EXTINF:-1 tvg-id="PlutoTVSciFi.se" group-title="Series, Movies",Pluto TV Sci-Fi
+https://jmp2.uk/plu-61f9597e78607000074f6c2a.m3u8
 #EXTINF:-1 tvg-id="PlutoTVSciFi.us" group-title="Series, Movies",Pluto TV Sci-Fi
 https://jmp2.uk/plu-66166cb1307fa30008f275e7.m3u8
 #EXTINF:-1 tvg-id="PlutoTVSciFi.us" group-title="Series, Movies",Pluto TV Sci-Fi
@@ -1247,8 +1247,6 @@ https://stream8.cinerama.uz/1052/tracks-v1a1/mono.m3u8
 http://stream.mcquack.net/242/index.m3u8
 #EXTINF:-1 tvg-id="RodnoeKino.ru" group-title="Movies",Rodnoe Kino
 http://31.148.48.15/Rodnoe_kino/index.m3u8
-#EXTINF:-1 tvg-id="RojaMovies.in" group-title="Movies",Roja Movies
-https://stream.rojatv.cloud/rojatv/rojatv/index.m3u8
 #EXTINF:-1 tvg-id="Runtime.us" group-title="Movies",Runtime
 https://jmp2.uk/plu-62c5d32e2c48f9000715b6e9.m3u8
 #EXTINF:-1 tvg-id="Runtime.us" group-title="Movies",Runtime
