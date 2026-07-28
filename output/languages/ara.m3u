@@ -93,6 +93,8 @@ http://185.9.2.18/chid_423/index.m3u8
 https://svs.itworkscdn.net/alimanlive/imantv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AlIraqia.iq" group-title="General",Al Iraqia
 https://imn-live.esite-lab.com/hls/iraqia-general.m3u8
+#EXTINF:-1 tvg-id="AlIraqiaKurdish.iq" group-title="Uncategorized",Al Iraqia Kurdish
+https://imn-live.esite-lab.com/hls/iraqia-kurdish.m3u8
 #EXTINF:-1 tvg-id="AlIraqiaNews.iq" group-title="News",Al Iraqia News
 https://imn-live.esite-lab.com/hls/iraqia-news.m3u8
 #EXTINF:-1 tvg-id="AlIraqiaSport.iq" group-title="Sports",Al Iraqia Sport
@@ -129,8 +131,6 @@ https://live-hls-apps-aje-v3-fa.getaj.net/AJE/index.m3u8
 https://live-hls-web-aje-fa.thehlive.com/AJE/index.m3u8
 #EXTINF:-1 tvg-id="AlJazeera.qa" group-title="News",Al Jazeera
 https://cdn-7.pishow.tv/live/429/master.m3u8
-#EXTINF:-1 tvg-id="AlJazeera.qa" group-title="News",Al Jazeera
-http://170.83.16.50:80/ALJAZEERA/index.m3u8
 #EXTINF:-1 tvg-id="AlJazeera.qa" group-title="News",Al Jazeera
 https://dash4.antik.sk/live/test_aljazeera_eng/playlist.m3u8
 #EXTINF:-1 tvg-id="AlJazeera.qa" group-title="News",Al Jazeera
@@ -286,6 +286,8 @@ https://live-news.asharq.com/asharq.m3u8
 #EXTINF:-1 tvg-id="AsharqNews.sa" group-title="Business, News",Asharq News
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-asharq/10ae30c64e21402c8116a7fb1e5aa789/index.m3u8
 #EXTINF:-1 tvg-id="AsharqNews.sa" group-title="Business, News",Asharq News
+https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/manifest.mpd
+#EXTINF:-1 tvg-id="AsharqNews.sa" group-title="Business, News",Asharq News
 https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="AsharqRadio.sa" group-title="Business, News",Asharq Radio
 https://svs.itworkscdn.net/asharqradiovlive/asharqradiov/playlist.m3u8
@@ -311,6 +313,12 @@ https://5c7b683162943.streamlock.net/live/ngrp:bahraintvmain_all/playlist.m3u8
 https://live.beitolabbas.tv/live/beitolabbastv.m3u8
 #EXTINF:-1 tvg-id="BigTimePlus.sa" group-title="Uncategorized",Big Time Plus
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-big-time-plus/924283f994779a311c1389698ff7e736/index.m3u8
+#EXTINF:-1 tvg-id="CBC.eg" group-title="General",CBC
+https://flu.systemnet.tv/CBC/index.m3u8
+#EXTINF:-1 tvg-id="CBCDrama.eg" group-title="Series",CBC Drama
+https://flu.systemnet.tv/CBCDrama/index.m3u8
+#EXTINF:-1 tvg-id="CBCSofra.eg" group-title="Lifestyle",CBC Sofra
+https://flu.systemnet.tv/CBCSofra/index.m3u8
 #EXTINF:-1 tvg-id="Ch4TeenDocumentary.kw" group-title="Religious",Ch4Teen Documentary
 https://ch14.tv/live/ch4teendoc/playlist.m3u8
 #EXTINF:-1 tvg-id="ChadaTV.ma" group-title="General",Chada TV
@@ -355,6 +363,8 @@ https://sw1.tanitweb.net/TunisiaTV/_definst_/watania1/playlist.m3u8?DVR
 https://sw1.tanitweb.net/TunisiaTV/_definst_/watania2/chunklist.m3u8
 #EXTINF:-1 tvg-id="ElWatania2.tn" group-title="General",El Watania 2
 https://sw1.tanitweb.net/TunisiaTV/_definst_/watania2/playlist.m3u8?DVR
+#EXTINF:-1 tvg-id="ElwataniaTV.dz" group-title="General",Elwatania TV
+https://livesstream.work.gd:5443/WebRTCApp/streams/stream.m3u8
 #EXTINF:-1 tvg-id="EmanTv.iq" group-title="Family",EmanTv
 https://avr.host247.net/live/emantv/playlist.m3u8
 #EXTINF:-1 tvg-id="ERiTV1.er" group-title="General",ERi-TV 1
@@ -447,14 +457,16 @@ https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/cooking/playlist.m3u8
 https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Song/playlist.m3u8
 #EXTINF:-1 tvg-id="JordanSport.jo" group-title="Sports",Jordan Sport
 https://jrtv-live.ercdn.net/jordansporthd/jordansporthd.m3u8
+#EXTINF:-1 tvg-id="JordanSport.jo" group-title="Sports",Jordan Sport
+http://93.184.10.248/JordanSport/index.m3u8
 #EXTINF:-1 tvg-id="JordanTourism.jo" group-title="Uncategorized",Jordan Tourism
 https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Tourism/playlist.m3u8
+#EXTINF:-1 tvg-id="JordanTV.jo" group-title="General",Jordan TV
+https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8
 #EXTINF:-1 tvg-id="KabbalahforthePeopleIsrael.il" group-title="Religious",Kabbalah for the People Israel
 https://edge3.uk.kab.tv/live/tv66-heb-high/playlist.m3u8
 #EXTINF:-1 tvg-id="KaifaTV.jo" group-title="General",Kaifa TV
 http://82.212.74.2:8000/live/7311.m3u8
-#EXTINF:-1 tvg-id="Kan11.il" group-title="General",Kan 11
-https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="KanEducational.il" group-title="Education",Kan Educational
 http://stream.mcquack.net/378/index.m3u8
 #EXTINF:-1 tvg-id="KarbalaDocumentary.iq" group-title="Religious, Documentary",Karbala Documentary
@@ -659,8 +671,6 @@ https://dzkyvlfyge.erbvr.com/PeaceTvUrdu/index.m3u8
 https://pmchls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="PMCRoyale.ae" group-title="Music",PMC Royale
 https://pmcrohls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="Prime.sy" group-title="General, Sports",Prime
-https://mn-nl.mncdn.com/primetv/live/index.m3u8
 #EXTINF:-1 tvg-id="Pulse95Radio.ae" group-title="Uncategorized",Pulse95 Radio
 https://svs.itworkscdn.net/pulse95live/pulse96/playlist.m3u8
 #EXTINF:-1 tvg-id="QatarTelevision2.qa" group-title="General",Qatar Television 2
@@ -735,6 +745,8 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-sbc/90e09c0c28db26435799b4a14
 http://31.14.41.69:8080/hls/sensesonline/index.m3u8
 #EXTINF:-1 tvg-id="SerajTV.ps" group-title="News, General",Seraj TV
 https://43869de4e1a0d641.servers.dvcloud.tv/hls/al_aqsa_channel/6udfi7v8a3eof6nlps6e9ovfrs65c7l7.m3u8
+#EXTINF:-1 tvg-id="ShababFM.ps" group-title="Uncategorized",Shabab FM
+https://streaming.zaytonatube.com:8081/ShababFM/shabab/index.m3u8
 #EXTINF:-1 tvg-id="ShamsTV.iq" group-title="News",Shams TV
 https://stream.shams.tv/hls/stream.m3u8
 #EXTINF:-1 tvg-id="Sharjah2.ae" group-title="Religious",Sharjah 2
