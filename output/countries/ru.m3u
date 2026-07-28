@@ -110,6 +110,8 @@ http://stream.mcquack.net/320/index.m3u8
 #EXTINF:-1 tvg-id="BRIDGEHits.ru" group-title="Music",BRIDGE Hits
 http://31.148.48.15/Bridge_TV_Dance/index.m3u8
 #EXTINF:-1 tvg-id="BST.ru" group-title="Uncategorized",BST
+http://bst.bratsk.ru/hls/bst2/index.m3u8
+#EXTINF:-1 tvg-id="BST.ru" group-title="Uncategorized",BST
 https://bsttv.bonus-tv.ru/cdn/bst/playlist.m3u8
 #EXTINF:-1 tvg-id="Carousel.ru" group-title="Kids",Carousel
 http://185.37.150.46/Karusel/index.m3u8
@@ -237,6 +239,8 @@ http://31.148.48.15/Doktor/index.m3u8
 http://94.230.129.31:8080/Domashnii/index.m3u8
 #EXTINF:-1 tvg-id="Domashniy.ru" group-title="Lifestyle",Domashniy
 http://stream.mcquack.net/227/index.m3u8
+#EXTINF:-1 tvg-id="Domashniy.ru" group-title="Lifestyle",Domashniy
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
 #EXTINF:-1 tvg-id="Domkino.ru" group-title="Movies",Dom kino
 https://stream8.cinerama.uz/1054/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Domkino.ru" group-title="Movies",Dom kino
@@ -523,6 +527,10 @@ https://stream8.cinerama.uz/1218/tracks-v1a1/mono.m3u8
 http://45.153.24.78:80/MIR/index.m3u8
 #EXTINF:-1 tvg-id="Mir.ru" group-title="General",Mir
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MIR/variant.m3u8
+#EXTINF:-1 tvg-id="MirBelogorya.ru" group-title="Uncategorized",Mir Belogorya
+http://mirbelogorya.ru:8080/mirbelogorya/index.m3u8
+#EXTINF:-1 tvg-id="MirBelogorya.ru" group-title="Uncategorized",Mir Belogorya
+http://stream.tvbelgorod.ru:8080/mirbelogorya/index.m3u8
 #EXTINF:-1 tvg-id="MirSeriala.ru" group-title="Series",Mir Seriala
 http://31.148.48.15/Mir_Seriala/index.m3u8
 #EXTINF:-1 tvg-id="MMATVcom.ru" group-title="Sports",MMA-TV.com
@@ -795,6 +803,8 @@ https://online-video.rbc.ru/spb/rbctv_spb.m3u8
 http://online-video.rbc.ru/online2/rbctv.m3u8
 #EXTINF:-1 tvg-id="RBKTV.ru" group-title="Business",RBK-TV
 http://31.148.48.15/RBK/index.m3u8
+#EXTINF:-1 tvg-id="red.ru" group-title="Entertainment",.red
+http://5.188.159.128:8070/RED/index.m3u8
 #EXTINF:-1 tvg-id="red.ru" group-title="Entertainment",.red
 http://stream.mcquack.net/69/index.m3u8
 #EXTINF:-1 tvg-id="RedLine.ru" group-title="Uncategorized",Red Line
@@ -1598,8 +1608,6 @@ http://31.148.48.15/Terra/index.m3u8
 #EXTINF:-1 tvg-id="TERRA.ru" group-title="Documentary",TERRA
 http://31.148.48.15/Terra_HD/index.m3u8
 #EXTINF:-1 tvg-id="TiJi.ru" group-title="Kids",TiJi
-https://live-3.otcnet.ru/Tiji/index.m3u8
-#EXTINF:-1 tvg-id="TiJi.ru" group-title="Kids",TiJi
 https://stream8.cinerama.uz/1441/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="TiJi.ru" group-title="Kids",TiJi
 http://stream.mcquack.net/111/index.m3u8
@@ -1619,6 +1627,8 @@ http://stream.mcquack.net/135/index.m3u8
 https://streaming.televizor-24-tochka.ru/live/38.m3u8
 #EXTINF:-1 tvg-id="TNT.ru" group-title="Entertainment",TNT
 http://31.148.48.15/TNT/index.m3u8
+#EXTINF:-1 tvg-id="TNT.ru" group-title="Entertainment",TNT
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
 #EXTINF:-1 tvg-id="TNTInternational.ru" group-title="Entertainment",TNT International
 https://cdn4.skygo.mn/live/disk1/THT/HLSv3-FTA/THT.m3u8
 #EXTINF:-1 tvg-id="TNVPlanet.ru" group-title="Uncategorized",TNV-Planet
@@ -1741,10 +1751,14 @@ http://31.148.48.15/TV1000_Russkoe_kino/index.m3u8
 https://live-11cinema.cdnvideo.ru/11cinema/11cinema/playlist.m3u8
 #EXTINF:-1 tvg-id="VIVARussia.ru" group-title="Music",VIVA Russia
 https://live20.bozztv.com/akamaissh101/ssh101/vivarussia/playlist.m3u8
+#EXTINF:-1 tvg-id="VIVARussia.ru" group-title="Music",VIVA Russia
+https://river-6-601.rtbcdn.ru/stream/genetta-410.ntv.rutube.ru/it_KlgcrpetPAAs-Pfyogw/1785516951/f712ae5ff3db23ec09b3674133d44daa/720p_stream.m3u8
 #EXTINF:-1 tvg-id="Vkus.ru" group-title="Travel",Vkus
 http://178.134.1.158:8081/vkus/index.m3u8
 #EXTINF:-1 tvg-id="VmesteRF.ru" group-title="Uncategorized",Vmeste-RF
 https://streaming.thestream.cyou/live/7006.m3u8
+#EXTINF:-1 tvg-id="VmesteRF.ru" group-title="Uncategorized",Vmeste-RF
+https://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Vmirezhivotnykh.ru" group-title="Uncategorized",V mire zhivotnykh
 http://stream.mcquack.net/241/index.m3u8
 #EXTINF:-1 tvg-id="Volga.ru" group-title="Uncategorized",Volga
