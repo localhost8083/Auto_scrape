@@ -238,6 +238,8 @@ http://85.14.32.26:8800/udp/239.100.10.18:5000
 #EXTINF:-1 tvg-id="AXNWhite.us" group-title="Entertainment",AXN White
 http://88.212.15.19/live/test_white/playlist.m3u8
 #EXTINF:-1 tvg-id="AXNWhite.us" group-title="Entertainment",AXN White
+http://185.227.34.179:8080/axn-white/index.m3u8
+#EXTINF:-1 tvg-id="AXNWhite.us" group-title="Entertainment",AXN White
 http://50.7.120.34:8080/AXN_WHITE/index.m3u8
 #EXTINF:-1 tvg-id="AXNWhite.us" group-title="Entertainment",AXN White
 http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/6950/index.m3u8
@@ -823,10 +825,10 @@ http://tvsen7.aynascope.net/fx/index.m3u8
 https://gpuserver3.tier1streams.com/FX/index.m3u8
 #EXTINF:-1 tvg-id="FX.us" group-title="Entertainment",FX
 http://40.160.24.52/FX/index.m3u8
+#EXTINF:-1 tvg-id="FX.us" group-title="Entertainment",FX
+https://messi.damitv.st/papi/ts/fx-usa/playlist.m3u8
 #EXTINF:-1 tvg-id="FXLatinAmerica.us" group-title="Entertainment",FX Latin America
 http://45.162.193.35/FX/index.m3u8
-#EXTINF:-1 tvg-id="FXLatinAmerica.us" group-title="Entertainment",FX Latin America
-http://177.245.131.133:8080/FX/index.m3u8
 #EXTINF:-1 tvg-id="FXLatinAmerica.us" group-title="Entertainment",FX Latin America
 http://15.204.246.24:8080/FXHD/index.m3u8
 #EXTINF:-1 tvg-id="FXLatinAmerica.us" group-title="Entertainment",FX Latin America
@@ -839,6 +841,8 @@ http://23.237.104.106:8080/USA_FXX/index.m3u8
 https://gpuserver3.tier1streams.com/FXX/index.m3u8
 #EXTINF:-1 tvg-id="FXX.us" group-title="Entertainment",FXX
 http://40.160.24.52/FXX/index.m3u8
+#EXTINF:-1 tvg-id="FXX.us" group-title="Entertainment",FXX
+https://messi.damitv.st/papi/ts/fxx-usa/playlist.m3u8
 #EXTINF:-1 tvg-id="GalaxiATeVe.do" group-title="Entertainment",GalaxiATeVe
 https://streaming.grupomediosdelnorte.com:19360/galaxiateve/galaxiateve.m3u8
 #EXTINF:-1 tvg-id="GalxyTV.us" group-title="Entertainment",Galxy TV
@@ -985,8 +989,6 @@ https://hola-play-2108fd06-86d4-44e8-9867-c35b4895a1c1-es.fast.rakuten.tv/v1/mas
 http://8.243.126.131:8000/play/a0fg/index.m3u8
 #EXTINF:-1 tvg-id="HolaTVLatinAmerica.us" group-title="Entertainment",Hola! TV Latin America
 http://177.234.249.178:8888/HOLA-TV/index.m3u8
-#EXTINF:-1 tvg-id="HolaTVLatinAmerica.us" group-title="Entertainment",Hola! TV Latin America
-http://177.245.131.133:8080/HOLA/index.m3u8
 #EXTINF:-1 tvg-id="HolaTVLatinAmerica.us" group-title="Entertainment",Hola! TV Latin America
 http://15.204.246.24:8080/HOLATVHD/index.m3u8
 #EXTINF:-1 tvg-id="HollyWire.us" group-title="Entertainment, News",HollyWire
@@ -1277,8 +1279,6 @@ https://jmp2.uk/plu-67f7d328efc5473b6b4ac5f4.m3u8
 http://88.212.15.19/live/m2_hun/index.m3u8
 #EXTINF:-1 tvg-id="M6.fr" group-title="Entertainment",M6
 http://99.27.51.147:8080/M6/index.m3u8
-#EXTINF:-1 tvg-id="M6.fr" group-title="Entertainment",M6
-http://cdn.haititivi.com/M6-HD/index.m3u8
 #EXTINF:-1 tvg-id="MaasrangaTV.bd" group-title="Entertainment",Maasranga TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
 #EXTINF:-1 tvg-id="MaasrangaTV.bd" group-title="Entertainment",Maasranga TV
@@ -1515,8 +1515,6 @@ https://jmp2.uk/plu-63988b61c8d285000798a22a.m3u8
 http://179.60.51.134:8888/MTV/index.m3u8
 #EXTINF:-1 tvg-id="MTVLatinAmerica.us" group-title="Entertainment",MTV Latin America
 http://138.186.23.7:8082/MTV/index.m3u8
-#EXTINF:-1 tvg-id="MTVLatinAmerica.us" group-title="Entertainment",MTV Latin America
-http://200.91.32.158:8080/mtvhd/index.m3u8
 #EXTINF:-1 tvg-id="MTVLatinAmerica.us" group-title="Entertainment",MTV Latin America
 http://15.204.246.24:8080/MTVHD/index.m3u8
 #EXTINF:-1 tvg-id="MTVOriginals.de" group-title="Entertainment",MTV Originals
@@ -1981,20 +1979,12 @@ https://fast-channels.sinclairstoryline.com/TBD/index.m3u8
 https://jmp2.uk/plu-63a42df60cc44a0007dd47f8.m3u8
 #EXTINF:-1 tvg-id="ROCKAction.sg" group-title="Entertainment",ROCK Action
 http://nmk.ioapk.com:5050/4gtv-live138/index.m3u8
-#EXTINF:-1 tvg-id="ROCKEntertainment.sg" group-title="Entertainment",ROCK Entertainment
-http://45.144.165.187:8080/live/playidlive/12345/81.m3u8
-#EXTINF:-1 tvg-id="ROCKEntertainment.sg" group-title="Entertainment",ROCK Entertainment
-http://45.144.165.187:8080/live/playidlive/12345/11091.m3u8
 #EXTINF:-1 tvg-id="ROTVValencia.es" group-title="Entertainment",ROTV Valencia
 https://rotv.romediavalencia.com:3839/live/rotvlive.m3u8
 #EXTINF:-1 tvg-id="RSVHonduras.hn" group-title="Entertainment",RSV Honduras
 https://stmv2.srvif.com/rsvhonduras/rsvhonduras/playlist.m3u8
 #EXTINF:-1 tvg-id="RSVHonduras.hn" group-title="Entertainment",RSV Honduras
 https://live20.bozztv.com/dvrfl03/hondu/hondu-rsvhonduras/index.m3u8
-#EXTINF:-1 tvg-id="RTL9.lu" group-title="Entertainment",RTL9
-http://cdn.haititivi.com/rtl-9/index.m3u8
-#EXTINF:-1 tvg-id="RTL9.lu" group-title="Entertainment",RTL9
-http://rezofoot.tv/rtl-9/index.m3u8
 #EXTINF:-1 tvg-id="RTL9.lu" group-title="Entertainment",RTL9
 http://145.239.5.177/308/index.m3u8
 #EXTINF:-1 tvg-id="RTLOtthon.hu" group-title="Entertainment",RTL Otthon
