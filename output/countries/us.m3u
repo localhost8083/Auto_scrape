@@ -43,6 +43,8 @@ https://30a-tv.com/feeds/vidaa/luxelife.m3u8
 https://30a-tv.com/music.m3u8
 #EXTINF:-1 tvg-id="30AMusic.us" group-title="Music",30A Music
 https://30a-tv.com/feeds/ceftech/30atvmusic.m3u8
+#EXTINF:-1 tvg-id="30ARidiculousTV.us" group-title="Comedy",30A Ridiculous TV
+https://30a-tv.com/feeds/720p/63.m3u8
 #EXTINF:-1 tvg-id="30ASidewalks.us" group-title="Entertainment",30A Sidewalks
 https://30a-tv.com/sidewalks.m3u8
 #EXTINF:-1 tvg-id="30ATelevisionChannel.us" group-title="Entertainment",30A Television Channel
@@ -777,8 +779,6 @@ https://pb-xp0ozx9lyqeiv.akamaized.net/BounceXL_US.m3u8
 https://aegis-cloudfront-1.tubi.video/22eea4e9-00a6-427c-92dd-57e78cc160dc/playlist.m3u8
 #EXTINF:-1 tvg-id="BPTV.us" group-title="Legislative",BPTV
 https://buenapark.cablecast.tv/live/stream-1/live.m3u8
-#EXTINF:-1 tvg-id="BPXTVRadio.us" group-title="Music",BPX TV Radio
-https://video1.getstreamhosting.com:1936/8212/8212/playlist.m3u8
 #EXTINF:-1 tvg-id="BratTV.us" group-title="Kids",Brat TV
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/04072b68-dc6a-4d5e-98af-f356ba8d5063/playlist.m3u8
 #EXTINF:-1 tvg-id="BratTV.us" group-title="Kids",Brat TV
@@ -1284,6 +1284,8 @@ https://aegis-cloudfront-1.tubi.video/661c498b-4af0-4ba9-ae1c-4081340ee085/playl
 #EXTINF:-1 tvg-id="CourtTV.us" group-title="Documentary",Court TV
 https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8
 #EXTINF:-1 tvg-id="CoziTV.us" group-title="Entertainment",Cozi TV
+http://206.212.244.63/49/index.m3u8
+#EXTINF:-1 tvg-id="CoziTV.us" group-title="Entertainment",Cozi TV
 https://gpuserver3.tier1streams.com/COZI_TV/index.m3u8
 #EXTINF:-1 tvg-id="Create.us" group-title="Education",Create
 https://create.lls.pbs.org/index.m3u8
@@ -1473,8 +1475,6 @@ https://gpuserver3.tier1streams.com/MOTORTREND/index.m3u8
 http://206.212.244.63/650/index.m3u8
 #EXTINF:-1 tvg-id="DisneyChannel.us" group-title="Kids",Disney Channel
 http://212.5.144.156/disney/index.m3u8
-#EXTINF:-1 tvg-id="DisneyChannel.us" group-title="Kids",Disney Channel
-http://190.14.10.19:16000/play/a06z/index.m3u8
 #EXTINF:-1 tvg-id="DisneyChannel.us" group-title="Kids",Disney Channel
 https://gpuserver3.tier1streams.com/Disney_Channel_HD/index.m3u8
 #EXTINF:-1 tvg-id="DisneyChannel.us" group-title="Kids",Disney Channel
@@ -2267,8 +2267,6 @@ http://177.234.249.178:8888/HISTORY2/index.m3u8
 http://181.119.66.28:8081/HISTORY-2/index.m3u8
 #EXTINF:-1 tvg-id="History.us" group-title="Documentary",History
 http://40.160.24.53/HISTORY_CHANNEL/index.m3u8
-#EXTINF:-1 tvg-id="History.us" group-title="Documentary",History
-http://206.212.244.63/91/index.m3u8
 #EXTINF:-1 tvg-id="History.us" group-title="Documentary",History
 http://212.5.144.156:8080/history/index.m3u8
 #EXTINF:-1 tvg-id="HistoryLatinAmerica.us" group-title="Documentary",History Latin America
@@ -3401,14 +3399,24 @@ https://ads.its-newid.net/api/manifest.m3u8?ads.service_id=GB1700007PK&channel_i
 https://ads.its-newid.net/api/manifest.m3u8?ads.service_id=GB17000088V&channel_id=newid_086&tp=samsung_tvplus
 #EXTINF:-1 tvg-id="NEWKPOP.us" group-title="Music",NEW K-POP
 https://newidco-newkid-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="News12Brooklyn.us" group-title="News",News12 Brooklyn
+https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12KH_A1/index_new.m3u8?omap=https
 #EXTINF:-1 tvg-id="News12Conneticut.us" group-title="News",News12 Conneticut
 https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12CH_FFLD_MILF_A1/index_new.m3u8?omap=https
+#EXTINF:-1 tvg-id="News12LongIsland.us" group-title="News",News12 Long Island
+https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12LH_WEST_A1/index_new.m3u8?omap=https
+#EXTINF:-1 tvg-id="News12NewJersey.us" group-title="News",News12 New Jersey
+https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12JH_CENT_A1/index_new.m3u8?omap=https
 #EXTINF:-1 tvg-id="News12NewYork.us" group-title="News",News12 New York
 https://jmp2.uk/plu-5fff49cfb5cd4f0007c2b0dc.m3u8
 #EXTINF:-1 tvg-id="News12NewYork.us" group-title="News",News12 New York
 https://aegis-cloudfront-1.tubi.video/97fbb992-c212-4164-8406-abb6f731e517/playlist.m3u8
-#EXTINF:-1 tvg-id="News12PlusNewJersey.us" group-title="News",News12+ New Jersey
-https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_NJ_A1/index_new.m3u8
+#EXTINF:-1 tvg-id="News12PlusLongIsland.us" group-title="News",News12+ Long Island
+https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_LI_A1/index_new.m3u8
+#EXTINF:-1 tvg-id="News12PlusNewYork.us" group-title="News",News12+ New York
+https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_NYC_A1/index_new.m3u8
+#EXTINF:-1 tvg-id="News12Westchester.us" group-title="News",News12 Westchester
+https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12WH_A1/index_new.m3u8?omap=https
 #EXTINF:-1 tvg-id="Newsmax2.us" group-title="News",Newsmax 2
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 #EXTINF:-1 tvg-id="Newsmax2.us" group-title="News",Newsmax 2
@@ -4708,8 +4716,6 @@ http://138.186.23.7:8082/STARCHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="StarChannelLatinAmerica.us" group-title="Movies, Series",Star Channel Latin America
 http://177.234.249.178:8888/STAR-CHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="StarChannelLatinAmerica.us" group-title="Movies, Series",Star Channel Latin America
-http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/StarChannel.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="StarChannelLatinAmerica.us" group-title="Movies, Series",Star Channel Latin America
 http://15.204.246.24:8080/STARCHANNELHD/index.m3u8
 #EXTINF:-1 tvg-id="StarChannelLatinAmerica.us" group-title="Movies, Series",Star Channel Latin America
 http://181.119.66.28:8081/STAR-CHANNEL/index.m3u8
@@ -5299,6 +5305,8 @@ https://rpn.bozztv.com/gusa/gusa-TVStalk/index.m3u8
 https://rpn.bozztv.com/gusa/gusa-tvstallyho/index.m3u8
 #EXTINF:-1 tvg-id="TVSTavern.us" group-title="Classic",TVS Tavern
 https://rpn.bozztv.com/gusa/gusa-tavern/index.m3u8
+#EXTINF:-1 tvg-id="TVSTelevisionNetwork.us" group-title="General",TVS Television Network
+https://rpn.bozztv.com/gusa/gusa-tvstn/index.m3u8
 #EXTINF:-1 tvg-id="TVSTravelNetwork.us" group-title="Travel",TVS Travel Network
 https://rpn.bozztv.com/gusa/gusa-tvstravel/index.m3u8
 #EXTINF:-1 tvg-id="TVSTurbo.us" group-title="Sports",TVS Turbo
@@ -5639,8 +5647,6 @@ https://cdn-unified-hls.streamspot.com/ingest1/c7956aac88/playlist.m3u8?origin=1
 https://content.uplynk.com/channel/1f93c13275024afb9e0ead299624073d.m3u8
 #EXTINF:-1 tvg-id="WGNDT1.us" group-title="Uncategorized",WGN-DT1
 http://23.237.104.106:8080/USA_WGN/index.m3u8
-#EXTINF:-1 tvg-id="WGNDT1.us" group-title="Uncategorized",WGN-DT1
-http://40.160.24.55/WGN/index.m3u8
 #EXTINF:-1 tvg-id="WGTV83.us" group-title="Uncategorized",WGTV 8.3
 https://wgtvdt3.lls.pbs.org/wgtvdt3-cmaf-hls.m3u8
 #EXTINF:-1 tvg-id="WHBQTV131.us" group-title="Uncategorized",WHBQ-TV 13.1
