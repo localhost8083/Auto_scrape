@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="1Plus1International.ua" group-title="General",1+1 International
 https://dash2.antik.sk/live/test_one_plus_one_int_tizen/playlist.m3u8
+#EXTINF:-1 tvg-id="1Plus1International.ua" group-title="General",1+1 International
+http://158.101.222.193:88/georgia_play.php?id=1plus1international
 #EXTINF:-1 tvg-id="1Plus1Marafon.ua" group-title="General",1+1 Marafon
 https://dash2.antik.sk/live/1plus1_marathon/playlist.m3u8
 #EXTINF:-1 tvg-id="1Plus1Ukraina.ua" group-title="General",1+1 Ukraina
@@ -49,8 +51,6 @@ https://dash2.antik.sk/live/telekanal_dim/playlist.m3u8
 http://stream.mcquack.net/457/index.m3u8
 #EXTINF:-1 tvg-id="DniproTV.ua" group-title="General",Dnipro TV
 http://vcdn1.produck.company:1935/out/dtv/playlist.m3u8
-#EXTINF:-1 tvg-id="DynamoKyivTV.ua" group-title="Sports",Dynamo Kyiv TV
-http://stream.mcquack.net/396/index.m3u8
 #EXTINF:-1 tvg-id="EnterFilm.ua" group-title="Movies",Enter-Film
 http://stream.mcquack.net/322/index.m3u8
 #EXTINF:-1 tvg-id="Equalympic.ua" group-title="Sports",Equalympic
@@ -77,6 +77,14 @@ https://dash2.antik.sk/live/test_uatv/playlist.m3u8
 http://85.238.112.69:8811/hls_sec/239.0.4.18-.m3u8
 #EXTINF:-1 tvg-id="HappyRadioTV.ua" group-title="Music",Happy Radio TV
 https://tv.mediacp.eu:8081/happyradio/index.m3u8
+#EXTINF:-1 tvg-id="ICTV2.ua" group-title="Entertainment",ICTV2
+http://stream.mcquack.net/368/index.m3u8
+#EXTINF:-1 tvg-id="ICTV.ua" group-title="Entertainment",ICTV
+http://stream.mcquack.net/158/index.m3u8
+#EXTINF:-1 tvg-id="InRatingTV.ua" group-title="Music",InRating TV
+http://stream.mcquack.net/147/index.m3u8
+#EXTINF:-1 tvg-id="Inter.ua" group-title="General",Inter
+http://stream.mcquack.net/174/index.m3u8
 #EXTINF:-1 tvg-id="InterPlus.ua" group-title="General",Inter+
 https://cdn15.live-tv.cloud/ua_infinitas_tv/inter-abr/playlist.m3u8
 #EXTINF:-1 tvg-id="IRT.ua" group-title="General",IRT
@@ -103,12 +111,16 @@ http://stream.mcquack.net/445/index.m3u8
 http://stream.mcquack.net/446/index.m3u8
 #EXTINF:-1 tvg-id="KusKus.ua" group-title="Uncategorized",Kus-Kus
 https://dash2.antik.sk/live/test_kuskus_tv_atktv/playlist.m3u8
+#EXTINF:-1 tvg-id="KvartalTV.ua" group-title="Entertainment",Kvartal TV
+http://158.101.222.193:88/georgia_play.php?id=kvartal95
 #EXTINF:-1 tvg-id="KvartalTVInternational.ua" group-title="Entertainment",Kvartal TV International
 https://dash2.antik.sk/live/kvartal_tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Kyiv.ua" group-title="News",Kyiv
 https://api-tv.ipnet.ua/api/v1/manifest/1293296300.m3u8
 #EXTINF:-1 tvg-id="Lugansk24.ua" group-title="General",Lugansk 24
 https://streaming.televizor-24-tochka.ru/live/29.m3u8
+#EXTINF:-1 tvg-id="M1.ua" group-title="Music",M1
+http://158.101.222.193:88/georgia_play.php?id=m1
 #EXTINF:-1 tvg-id="M1.ua" group-title="Music",M1
 http://stream.mcquack.net/218/index.m3u8
 #EXTINF:-1 tvg-id="M2.ua" group-title="Music",M2
