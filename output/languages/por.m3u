@@ -555,8 +555,6 @@ http://170.83.49.66:8083/RITHD/index.m3u8
 http://170.84.165.204:80/RIT_TV/index.m3u8
 #EXTINF:-1 tvg-id="RTP1.pt" group-title="General",RTP 1
 https://streaming-live.rtp.pt/liverepeater/rtp1HD.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RTP2.pt" group-title="General",RTP 2
-https://streaming-live.rtp.pt/liverepeater/rtp2HD.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="RTPAcores.pt" group-title="General",RTP Acores
 https://streaming-live.rtp.pt/liverepeater/smil:rtpacoresHD.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="RTPAcores.pt" group-title="General",RTP Acores
@@ -565,8 +563,6 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtpacores.smil/playlist.m3u8
 https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="RTPMadeira.pt" group-title="General",RTP Madeira
 https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RTPMundo.pt" group-title="General",RTP Mundo
-https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="RTPNoticias.pt" group-title="News",RTP Noticias
 https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="RTPNoticias.pt" group-title="News",RTP Noticias
@@ -605,6 +601,8 @@ http://186.219.52.187:80/sesc_tv/index.m3u8
 https://production-fast-sic.content.okast.tv/fa2e8c4385712f9aa54bbe52b1bd9b6b/channels/d9070446-8448-455e-8075-773b1ba12562/fc831b20-f252-4e7d-8cc5-2d05f4d43c1c/media_.m3u8
 #EXTINF:-1 tvg-id="SICReplay.pt" group-title="Uncategorized",SIC Replay
 https://production-fast-sic.content.okast.tv/fa2e8c4385712f9a7dce4ff2dcebac2e/channels/d9070446-8448-455e-8075-773b1ba12562/d47eae0f-ad77-414a-9a1d-2a6628ba18c3/media_.m3u8
+#EXTINF:-1 tvg-id="SICTV.br" group-title="Uncategorized",SIC TV
+https://parecisfmlive.brasilstream.com.br/hls/parecisfmlive/index.m3u8
 #EXTINF:-1 tvg-id="SolTV.gq" group-title="Entertainment",SolTV
 https://stream.solmediaeg.com/soltv/soltv.m3u8
 #EXTINF:-1 tvg-id="SonyChannel.br" group-title="Uncategorized",Sony Channel
@@ -748,6 +746,8 @@ http://45.162.64.114/TV_CAMARA/index.m3u8
 #EXTINF:-1 tvg-id="TVCamara.br" group-title="Legislative",TV Camara
 http://45.190.28.50/TV_CAMARA/index.m3u8
 #EXTINF:-1 tvg-id="TVCamara.br" group-title="Legislative",TV Camara
+https://stream3.camara.gov.br/tv1/manifest.m3u8
+#EXTINF:-1 tvg-id="TVCamara.br" group-title="Legislative",TV Camara
 http://168.197.104.22:80/TV_CAMARA/index.m3u8
 #EXTINF:-1 tvg-id="TVCamara.br" group-title="Legislative",TV Camara
 http://138.255.2.6:8084/TVCAMARA/index.m3u8
@@ -813,8 +813,6 @@ https://tvdsoultv.acessaradios.com.br/tvdsoultv/tvdsoultv.stream/playlist.m3u8
 http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
 #EXTINF:-1 tvg-id="TVECultura.br" group-title="Uncategorized",TVE Cultura
 http://45.190.28.50/TVE/index.m3u8
-#EXTINF:-1 tvg-id="TVEncontrodasAguas.br" group-title="General",TV Encontro das Aguas
-https://stmv7.samcast.com.br/sistemaencontrodasaguas/sistemaencontrodasaguas/playlist.m3u8
 #EXTINF:-1 tvg-id="TVERS.br" group-title="Culture, Education",TVE RS
 https://streaming.procergs.com.br:8443/tve/stve/playlist.m3u8
 #EXTINF:-1 tvg-id="TVEscola.br" group-title="Uncategorized",TV Escola
@@ -917,8 +915,6 @@ https://w1.manasat.com/tvmana-leste/smil:tvmana-leste.smil/playlist.m3u8
 https://tv02.zas.media:1936/tvmarajoara/tvmarajoara/playlist.m3u8
 #EXTINF:-1 tvg-id="TVMeio.br" group-title="General",TV Meio
 https://cdn-tiva-maystreaming-cloudecast-com.smartbit.co/redemeio/index.m3u8
-#EXTINF:-1 tvg-id="TVMetropole.br" group-title="General",TV Metropole
-https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8
 #EXTINF:-1 tvg-id="TVMon.br" group-title="Uncategorized",TV Mon
 https://cdn-tiva-video10-logicahost-com-br.smartbit.co/tvmon/tvmon/playlist.m3u8
 #EXTINF:-1 tvg-id="TVNatal.br" group-title="General, News, Entertainment",TV Natal
