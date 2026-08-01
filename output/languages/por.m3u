@@ -47,6 +47,8 @@ http://45.177.114.115:80/ARTE1/index.m3u8
 http://170.83.16.50:80/ARTE_1/index.m3u8
 #EXTINF:-1 tvg-id="ARTV.pt" group-title="Legislative",ARTV
 https://playout172.livextend.cloud/liveiframe/_definst_/liveartvabr/playlist.m3u8
+#EXTINF:-1 tvg-id="AugeTV.br" group-title="General",Auge TV
+https://cdn-tiva-video01-logicahost-com-br.smartbit.co/canalaugetv/canalaugetv/playlist.m3u8
 #EXTINF:-1 tvg-id="AWTV.br" group-title="Classic, Series",AWTV
 https://awtv.nuvemplay.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="AXN.br" group-title="Movies",AXN
@@ -97,6 +99,8 @@ http://170.83.49.66:8083/BANDSPORTSHD/index.m3u8
 https://cdn-tiva-video01-logicahost-com-br.smartbit.co/bemmelhor/bemmelhor/playlist.m3u8
 #EXTINF:-1 tvg-id="BMCNews.br" group-title="News",BM&C News
 https://jmp2.uk/plu-666c9c60a7efd40008f552f0.m3u8
+#EXTINF:-1 tvg-id="BoasNovas.br" group-title="Uncategorized",Boas Novas
+https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8
 #EXTINF:-1 tvg-id="BoxKidsTV.br" group-title="Kids",Box Kids TV
 http://45.190.28.50/BOX_KIDS_HD/index.m3u8
 #EXTINF:-1 tvg-id="BoxKidsTV.br" group-title="Kids",Box Kids TV
@@ -357,8 +361,6 @@ http://45.190.28.50/MUSIC_BOX_HD/index.m3u8
 http://168.197.104.22:80/MUSIC/index.m3u8
 #EXTINF:-1 tvg-id="MusicBoxBrazil.br" group-title="Music",Music Box Brazil
 http://138.255.2.6:8084/MUSICBOXBRASIL/index.m3u8
-#EXTINF:-1 tvg-id="MusicBoxBrazil.br" group-title="Music",Music Box Brazil
-http://170.83.49.66:8083/MUSICBOXBRASILHD/index.m3u8
 #EXTINF:-1 tvg-id="MuzangalaTV.ao" group-title="Music",Muzangala TV
 https://5cf4a2c2512a2.streamlock.net/tvmuzangala/tvmuzangala/playlist.m3u8
 #EXTINF:-1 tvg-id="MyTimeMovieNetwork.br" group-title="Movies",MyTime Movie Network
@@ -442,8 +444,6 @@ http://45.177.114.115:80/RECORD_NEWS/index.m3u8
 #EXTINF:-1 tvg-id="RecordNews.br" group-title="News",Record News
 http://170.83.16.50:80/RECORD_NEWS/index.m3u8
 #EXTINF:-1 tvg-id="RecordNews.br" group-title="News",Record News
-http://170.83.49.66:8083/RECORDNEWSHD/index.m3u8
-#EXTINF:-1 tvg-id="RecordNews.br" group-title="News",Record News
 http://170.84.165.204:80/Record_news/index.m3u8
 #EXTINF:-1 tvg-id="RecordNews.br" group-title="News",Record News
 http://186.219.52.187:80/record_news/index.m3u8
@@ -456,8 +456,6 @@ https://cdn-tiva-video09-logicahost-com-br.smartbit.co/redebrasiloficial/redebra
 #EXTINF:-1 tvg-id="RedeBrasil.br" group-title="General",Rede Brasil
 http://138.255.2.6:8084/REDEBRASIL/index.m3u8
 #EXTINF:-1 tvg-id="RedeBrasil.br" group-title="General",Rede Brasil
-http://170.83.49.66:8083/REDEBRASILHD/index.m3u8
-#EXTINF:-1 tvg-id="RedeBrasil.br" group-title="General",Rede Brasil
 http://170.84.165.204:80/REDEBRASIL/index.m3u8
 #EXTINF:-1 tvg-id="RedeCNTRiodeJaneiro.br" group-title="Uncategorized",Rede CNT Rio de Janeiro
 http://45.162.64.114/CNT/index.m3u8
@@ -465,8 +463,6 @@ http://45.162.64.114/CNT/index.m3u8
 http://45.190.28.50/CNT_HD/index.m3u8
 #EXTINF:-1 tvg-id="RedeCNTRiodeJaneiro.br" group-title="Uncategorized",Rede CNT Rio de Janeiro
 http://168.197.104.22:80/CNT/index.m3u8
-#EXTINF:-1 tvg-id="RedeCNTRiodeJaneiro.br" group-title="Uncategorized",Rede CNT Rio de Janeiro
-http://170.83.49.66:8083/REDECNTHD/index.m3u8
 #EXTINF:-1 tvg-id="RedeCNTRiodeJaneiro.br" group-title="Uncategorized",Rede CNT Rio de Janeiro
 http://170.84.165.204:80/CNT_HD/index.m3u8
 #EXTINF:-1 tvg-id="RedeCNTRiodeJaneiro.br" group-title="Uncategorized",Rede CNT Rio de Janeiro
@@ -483,8 +479,6 @@ https://redegospel-aovivo.nuvemplay.live/hls/stream.m3u8
 http://45.190.28.50/REDE_GOSPEL_HD/index.m3u8
 #EXTINF:-1 tvg-id="RedeGospel.br" group-title="Religious",Rede Gospel
 http://45.177.114.115:80/REDE_GOSPEL/index.m3u8
-#EXTINF:-1 tvg-id="RedeGospel.br" group-title="Religious",Rede Gospel
-http://170.83.49.66:8083/REDEGOSPELHD/index.m3u8
 #EXTINF:-1 tvg-id="RedeGospel.br" group-title="Religious",Rede Gospel
 https://cdn.live.br1.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
 #EXTINF:-1 tvg-id="RedeMeioNorte.br" group-title="Uncategorized",Rede Meio Norte
@@ -518,8 +512,6 @@ http://138.255.2.6:8084/REDETV/index.m3u8
 #EXTINF:-1 tvg-id="RedeTV.br" group-title="General",Rede TV!
 http://170.83.16.50:80/REDE_TV/index.m3u8
 #EXTINF:-1 tvg-id="RedeTV.br" group-title="General",Rede TV!
-http://170.83.49.66:8083/REDETVHD/index.m3u8
-#EXTINF:-1 tvg-id="RedeTV.br" group-title="General",Rede TV!
 http://186.219.52.187:80/rede_tv/index.m3u8
 #EXTINF:-1 tvg-id="RedeTVMais.br" group-title="General",Rede TV! Mais
 https://cdn.live.br1.jmvstream.com/webtv/AVJ-15235/playlist/playlist.m3u8
@@ -531,8 +523,6 @@ http://45.190.28.50/REDE_VIDA_HD/index.m3u8
 http://168.197.104.22:80/REDE_VIDA/index.m3u8
 #EXTINF:-1 tvg-id="RedeVida.br" group-title="Religious",Rede Vida
 http://138.255.2.6:8084/REDEVIDA/index.m3u8
-#EXTINF:-1 tvg-id="RedeVida.br" group-title="Religious",Rede Vida
-http://170.83.49.66:8083/REDEVIDAHD/index.m3u8
 #EXTINF:-1 tvg-id="RedeVida.br" group-title="Religious",Rede Vida
 http://170.84.165.204:80/REDEVIDA_HD/index.m3u8
 #EXTINF:-1 tvg-id="RedeVida.br" group-title="Religious",Rede Vida
@@ -550,13 +540,9 @@ http://138.255.2.6:8084/RIT/index.m3u8
 #EXTINF:-1 tvg-id="RITTV.br" group-title="Religious",RIT TV
 http://45.177.114.115:80/RIT_TV/index.m3u8
 #EXTINF:-1 tvg-id="RITTV.br" group-title="Religious",RIT TV
-http://170.83.49.66:8083/RITHD/index.m3u8
-#EXTINF:-1 tvg-id="RITTV.br" group-title="Religious",RIT TV
 http://170.84.165.204:80/RIT_TV/index.m3u8
 #EXTINF:-1 tvg-id="RTP1.pt" group-title="General",RTP 1
 https://streaming-live.rtp.pt/liverepeater/rtp1HD.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RTP2.pt" group-title="General",RTP 2
-https://streaming-live.rtp.pt/liverepeater/rtp2HD.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="RTPAcores.pt" group-title="General",RTP Acores
 https://streaming-live.rtp.pt/liverepeater/smil:rtpacoresHD.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="RTPAcores.pt" group-title="General",RTP Acores
@@ -565,8 +551,6 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtpacores.smil/playlist.m3u8
 https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="RTPMadeira.pt" group-title="General",RTP Madeira
 https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RTPMemoria.pt" group-title="General",RTP Memoria
-https://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="RTPMundo.pt" group-title="General",RTP Mundo
 https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="RTPNoticias.pt" group-title="News",RTP Noticias
@@ -599,8 +583,6 @@ http://45.162.64.114/SESC_TV/index.m3u8
 http://45.190.28.50/SESC_TV/index.m3u8
 #EXTINF:-1 tvg-id="SESCTV.br" group-title="Uncategorized",SESC TV
 http://138.255.2.6:8084/SESCTV/index.m3u8
-#EXTINF:-1 tvg-id="SESCTV.br" group-title="Uncategorized",SESC TV
-http://170.83.49.66:8083/SESCTVHD/index.m3u8
 #EXTINF:-1 tvg-id="SESCTV.br" group-title="Uncategorized",SESC TV
 http://186.219.52.187:80/sesc_tv/index.m3u8
 #EXTINF:-1 tvg-id="SICAltaDefinicao.pt" group-title="Uncategorized",SIC Alta Definicao
@@ -670,6 +652,8 @@ http://168.197.104.22:80/TERRAVIVA/index.m3u8
 #EXTINF:-1 tvg-id="TerraViva.br" group-title="Outdoor",Terra Viva
 http://138.255.2.6:8084/TERRAVIVA/index.m3u8
 #EXTINF:-1 tvg-id="TerraViva.br" group-title="Outdoor",Terra Viva
+http://45.177.114.115:80/TERRAVIVA/index.m3u8
+#EXTINF:-1 tvg-id="TerraViva.br" group-title="Outdoor",Terra Viva
 http://170.83.16.50:80/TERRA_VIVA/index.m3u8
 #EXTINF:-1 tvg-id="TerraViva.br" group-title="Outdoor",Terra Viva
 http://170.83.49.66:8083/TERRAVIVAHD/index.m3u8
@@ -736,11 +720,11 @@ http://138.255.2.6:8084/TVBRASIL/index.m3u8
 #EXTINF:-1 tvg-id="TVBrasil.br" group-title="Uncategorized",TV Brasil
 http://45.177.114.115:80/TV_BRASIL/index.m3u8
 #EXTINF:-1 tvg-id="TVBrasil.br" group-title="Uncategorized",TV Brasil
-http://170.83.49.66:8083/TVBRASILHD/index.m3u8
-#EXTINF:-1 tvg-id="TVBrasil.br" group-title="Uncategorized",TV Brasil
 http://170.84.165.204:80/TVBRASIL/index.m3u8
 #EXTINF:-1 tvg-id="TVBrasil.br" group-title="Uncategorized",TV Brasil
 http://186.219.52.187:80/tv_brasil/index.m3u8
+#EXTINF:-1 tvg-id="TVBrasilOeste.br" group-title="General",TV Brasil Oeste
+https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8
 #EXTINF:-1 tvg-id="TVBRICSPortuguese.br" group-title="General",TV BRICS Portuguese
 https://porbrics.mediacdn.ru/cdn/brics/portuguese/playlist.m3u8
 #EXTINF:-1 tvg-id="TVBrusque.br" group-title="News",TV Brusque
@@ -861,6 +845,8 @@ http://45.190.28.50/GLOBO_HD/index.m3u8
 http://170.84.165.204:80/Globo_HD/index.m3u8
 #EXTINF:-1 tvg-id="TVGRANDENATALHDTVBRASIL.br" group-title="Entertainment",TV GRANDE NATAL HDTV BRASIL
 http://tvgrandenatalhd.duckdns.org:8080/hls/live.m3u8
+#EXTINF:-1 tvg-id="TVGuara.br" group-title="Uncategorized",TV Guara
+https://video02.logicahost.com.br/tvguara23/tvguara23/playlist.m3u8
 #EXTINF:-1 tvg-id="TVI.pt" group-title="General",TVI
 https://raw.githubusercontent.com/thomraider12/canaistvpt/main/m3u8s/tvi.m3u8
 #EXTINF:-1 tvg-id="TVideoNews.br" group-title="News",TVideoNews
@@ -981,8 +967,6 @@ http://170.83.49.66:8083/TVSENADOHD/index.m3u8
 http://186.219.52.187:80/tv_senado/index.m3u8
 #EXTINF:-1 tvg-id="TVSeries.br" group-title="Series",TV Series
 https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
-#EXTINF:-1 tvg-id="TVShowFortaleza.br" group-title="General",TV Show Fortaleza
-https://stmv8.samcast.com.br/raimundoanselmolimamororo1908/raimundoanselmolimamororo1908/playlist.m3u8
 #EXTINF:-1 tvg-id="TVSimCachoeiro.br" group-title="News",TV Sim Cachoeiro
 https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist.m3u8
 #EXTINF:-1 tvg-id="TVSimColatina.br" group-title="News",TV Sim Colatina
