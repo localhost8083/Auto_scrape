@@ -222,8 +222,6 @@ http://stream.mcquack.net/275/index.m3u8
 #EXTINF:-1 tvg-id="Dikij.ru" group-title="Outdoor",Dikij
 http://hls127.freeott.top:8080/Dikiy/video.m3u8
 #EXTINF:-1 tvg-id="Doctor.ru" group-title="Education, Lifestyle",Doctor
-http://178.134.1.158:8081/doktor/index.m3u8
-#EXTINF:-1 tvg-id="Doctor.ru" group-title="Education, Lifestyle",Doctor
 https://stream8.cinerama.uz/1409/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Doctor.ru" group-title="Education, Lifestyle",Doctor
 http://31.148.48.15/Doktor/index.m3u8
@@ -251,6 +249,8 @@ https://stream8.cinerama.uz/1273/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1421/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="DumaTV.ru" group-title="Legislative",Duma TV
 https://dumatv.iptv2022.com/playlist.m3u8
+#EXTINF:-1 tvg-id="Dushevnoe.ru" group-title="Uncategorized",Dushevnoe
+http://stream.mcquack.net/213/index.m3u8
 #EXTINF:-1 tvg-id="EnglishClass.ru" group-title="Education",English Class
 http://31.148.48.15/English_club_TV_HD/index.m3u8
 #EXTINF:-1 tvg-id="Enisey.ru" group-title="General",Enisey
@@ -407,8 +407,6 @@ http://stream.mcquack.net/171/index.m3u8
 http://176.118.197.101/KinoTvHD/playlist.m3u8
 #EXTINF:-1 tvg-id="KinoTV.ru" group-title="Movies",Kino TV
 https://vod.tuva.ru/kinotv/index.m3u8
-#EXTINF:-1 tvg-id="KinoTV.ru" group-title="Movies",Kino TV
-http://stream.mcquack.net/221/index.m3u8
 #EXTINF:-1 tvg-id="KinoTV.ru" group-title="Movies",Kino TV
 http://31.148.48.15/Kino_TV_HD/index.m3u8
 #EXTINF:-1 tvg-id="KinoTV.ru" group-title="Movies",Kino TV
@@ -827,6 +825,8 @@ https://live.chechensoft.ru/vainahtv/ngrp:vaynahtv_all/playlist.m3u8
 http://31.148.48.15/RT_HD/index.m3u8
 #EXTINF:-1 tvg-id="RT.ru" group-title="News",RT
 https://wisewatchoott.wiseplayout.com/RT/master.m3u8
+#EXTINF:-1 tvg-id="RT.ru" group-title="News",RT
+http://212.5.144.156:8080/rt/index.m3u8
 #EXTINF:-1 tvg-id="RT.ru" group-title="News",RT
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 #EXTINF:-1 tvg-id="RT.ru" group-title="News",RT
@@ -1446,11 +1446,7 @@ http://hls127.freeott.top:8080/Shanson_Tv/video.m3u8
 #EXTINF:-1 tvg-id="ShansonTV.ru" group-title="Music",Shanson TV
 https://uiptv.do.am/1ufc/602079679/playlist.m3u8
 #EXTINF:-1 tvg-id="ShansonTV.ru" group-title="Music",Shanson TV
-http://hls.shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="ShansonTV.ru" group-title="Music",Shanson TV
 https://streaming.thestream.cyou/live/7009.m3u8
-#EXTINF:-1 tvg-id="ShansonTV.ru" group-title="Music",Shanson TV
-https://hls-shansontv.cdnvideo.ru/shansontv/smil:shansontv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ShchyolkovskoeTV.ru" group-title="Uncategorized",Shchyolkovskoe TV
 http://stream0.tv41.ru/live.m3u8
 #EXTINF:-1 tvg-id="Shef.ru" group-title="Series",Shef
@@ -1523,6 +1519,8 @@ https://live-3.otcnet.ru/sportivny/index.m3u8
 https://dash2.antik.sk/live/test_star_cinema_atktv/playlist.m3u8
 #EXTINF:-1 tvg-id="StarFamily.ru" group-title="Movies",Star Family
 https://dash2.antik.sk/live/test_star_family_atktv/playlist.m3u8
+#EXTINF:-1 tvg-id="STARTAir.ru" group-title="Movies",START Air
+http://stream.mcquack.net/128/index.m3u8
 #EXTINF:-1 tvg-id="StranaFM.ru" group-title="Music",Strana FM
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="StranaFM.ru" group-title="Music",Strana FM
@@ -1688,6 +1686,8 @@ https://bl.rutube.ru/livestream/5c9327074e25ca86f3111d4085cbbb65/index.m3u8?e=20
 #EXTINF:-1 tvg-id="U.ru" group-title="Entertainment",U
 http://178.134.1.158:8081/U/index.m3u8
 #EXTINF:-1 tvg-id="U.ru" group-title="Entertainment",U
+http://stream.mcquack.net/230/index.m3u8
+#EXTINF:-1 tvg-id="U.ru" group-title="Entertainment",U
 http://31.148.48.15/U/index.m3u8
 #EXTINF:-1 tvg-id="U.ru" group-title="Entertainment",U
 http://zabava-htlive.cdn.ngenix.net/hls/CH_U/variant.m3u8
@@ -1707,18 +1707,42 @@ https://cdn.universmotri.ru/live/smil:univer.smil/playlist.m3u8
 https://cdn.ntv.ru/unknown_russia/playlist.m3u8
 #EXTINF:-1 tvg-id="Ural24.ru" group-title="General",Ural 24
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/chelyabinsk/ural24-hd/index.m3u8
+#EXTINF:-1 tvg-id="Usadba.ru" group-title="Uncategorized",Usadba
+http://stream.mcquack.net/211/index.m3u8
 #EXTINF:-1 tvg-id="VestiFM.ru" group-title="News",Vesti FM
 https://stream.smotrim.ru/hls2/vesti_fm/playlist_4.m3u8
 #EXTINF:-1 tvg-id="Vetta24.ru" group-title="Uncategorized",Vetta 24
 http://serv24.vintera.tv:8081/vetta/vetta_office/playlist.m3u8
+#EXTINF:-1 tvg-id="Vgostyakhuskazki.ru" group-title="Kids",V gostyakh u skazki
+http://stream.mcquack.net/93/index.m3u8
+#EXTINF:-1 tvg-id="vijuExplore.ru" group-title="Documentary",viju Explore
+http://stream.mcquack.net/239/index.m3u8
 #EXTINF:-1 tvg-id="vijuHistory.ru" group-title="Documentary",viju History
 http://178.124.179.122:8080/HistoryHD/index.m3u8
+#EXTINF:-1 tvg-id="vijuHistory.ru" group-title="Documentary",viju History
+http://stream.mcquack.net/101/index.m3u8
 #EXTINF:-1 tvg-id="vijuNature.ru" group-title="Documentary",viju Nature
 https://stream8.cinerama.uz/1228/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="vijuPlusComedy.ru" group-title="Comedy",viju+ Comedy
+http://stream.mcquack.net/201/index.m3u8
+#EXTINF:-1 tvg-id="vijuPlusMegahit.ru" group-title="Movies",viju+ Megahit
+http://stream.mcquack.net/200/index.m3u8
+#EXTINF:-1 tvg-id="vijuPlusPlanet.ru" group-title="Documentary",viju+ Planet
+http://stream.mcquack.net/240/index.m3u8
+#EXTINF:-1 tvg-id="vijuPlusPremiere.ru" group-title="Movies",viju+ Premiere
+http://stream.mcquack.net/202/index.m3u8
+#EXTINF:-1 tvg-id="vijuPlusSerial.ru" group-title="Series",viju+ Serial
+http://stream.mcquack.net/311/index.m3u8
 #EXTINF:-1 tvg-id="vijuPlusSport.ru" group-title="Sports",viju+ Sport
 https://stream8.cinerama.uz/1229/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="vijuPlusSport.ru" group-title="Sports",viju+ Sport
+http://stream.mcquack.net/333/index.m3u8
+#EXTINF:-1 tvg-id="vijuTV1000.ru" group-title="Movies",viju TV1000
+http://stream.mcquack.net/110/index.m3u8
 #EXTINF:-1 tvg-id="vijuTV1000action.ru" group-title="Movies",viju TV1000 action
 https://stream8.cinerama.uz/1225/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="vijuTV1000action.ru" group-title="Movies",viju TV1000 action
+http://stream.mcquack.net/100/index.m3u8
 #EXTINF:-1 tvg-id="vijuTV1000russkoe.ru" group-title="Movies",viju TV1000 russkoe
 https://stream8.cinerama.uz/1058/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="vijuTV1000russkoe.ru" group-title="Movies",viju TV1000 russkoe
@@ -1735,18 +1759,24 @@ http://178.134.1.158:8081/vkus/index.m3u8
 https://streaming.thestream.cyou/live/7006.m3u8
 #EXTINF:-1 tvg-id="VmesteRF.ru" group-title="Uncategorized",Vmeste-RF
 https://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Vmirezhivotnykh.ru" group-title="Uncategorized",V mire zhivotnykh
+http://stream.mcquack.net/241/index.m3u8
 #EXTINF:-1 tvg-id="Volga.ru" group-title="Uncategorized",Volga
 http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Volga/hls/1920x1080@4504/playlist.m3u8
 #EXTINF:-1 tvg-id="Volgograd24.ru" group-title="Uncategorized",Volgograd 24
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/volgograd/russia1-hd/index.m3u8
 #EXTINF:-1 tvg-id="Volgograd24.ru" group-title="Uncategorized",Volgograd 24
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/volgograd/volgograd24-hd/index.m3u8
+#EXTINF:-1 tvg-id="VoprosyiOtvety.ru" group-title="Entertainment",Voprosy i Otvety
+http://stream.mcquack.net/76/index.m3u8
 #EXTINF:-1 tvg-id="Vostok24.ru" group-title="General",Vostok 24
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/vladivostok/vostok24-hd/index.m3u8
 #EXTINF:-1 tvg-id="Vostok24.ru" group-title="General",Vostok 24
 http://s91030.cdn.ngenix.net/hls/CH_R01_OTT_DV_VLD_VOSTOK24_OTT/variant.m3u8
 #EXTINF:-1 tvg-id="Vremya.ru" group-title="Uncategorized",Vremya
 https://cdn4.skygo.mn/live/disk1/Vremya/HLSv3-FTA/Vremya.m3u8
+#EXTINF:-1 tvg-id="Vremya.ru" group-title="Uncategorized",Vremya
+http://stream.mcquack.net/237/index.m3u8
 #EXTINF:-1 tvg-id="Vremya.ru" group-title="Uncategorized",Vremya
 http://31.148.48.15/Vremya/index.m3u8
 #EXTINF:-1 tvg-id="YaPervyy.ru" group-title="General",YaPervyy
@@ -1766,9 +1796,15 @@ http://31.148.48.15/Zdorovoe_TV/index.m3u8
 #EXTINF:-1 tvg-id="Zhara.ru" group-title="Music",Zhara
 http://hls127.freeott.top:8080/Zhara/video.m3u8
 #EXTINF:-1 tvg-id="Zhara.ru" group-title="Music",Zhara
+http://stream.mcquack.net/386/index.m3u8
+#EXTINF:-1 tvg-id="Zhara.ru" group-title="Music",Zhara
 http://31.148.48.15/Zhara/index.m3u8
 #EXTINF:-1 tvg-id="ZhivayaPlaneta.ru" group-title="Uncategorized",Zhivaya Planeta
 http://31.148.48.15/Zhivaya_Planeta/index.m3u8
+#EXTINF:-1 tvg-id="Zhivayapriroda.ru" group-title="Uncategorized",Zhivaya priroda
+http://stream.mcquack.net/225/index.m3u8
+#EXTINF:-1 tvg-id="Zhivayapriroda.ru" group-title="Uncategorized",Zhivaya priroda
+http://stream.mcquack.net/83/index.m3u8
 #EXTINF:-1 tvg-id="Zhivi.ru" group-title="Lifestyle",Zhivi!
 http://31.148.48.15/Zhivi/index.m3u8
 #EXTINF:-1 tvg-id="Zoopark.ru" group-title="Uncategorized",Zoopark
