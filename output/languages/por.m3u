@@ -47,6 +47,8 @@ http://45.177.114.115:80/ARTE1/index.m3u8
 http://170.83.16.50:80/ARTE_1/index.m3u8
 #EXTINF:-1 tvg-id="ARTV.pt" group-title="Legislative",ARTV
 https://playout172.livextend.cloud/liveiframe/_definst_/liveartvabr/playlist.m3u8
+#EXTINF:-1 tvg-id="AugeTV.br" group-title="General",Auge TV
+https://cdn-tiva-video01-logicahost-com-br.smartbit.co/canalaugetv/canalaugetv/playlist.m3u8
 #EXTINF:-1 tvg-id="AWTV.br" group-title="Classic, Series",AWTV
 https://awtv.nuvemplay.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="AXN.br" group-title="Movies",AXN
@@ -373,6 +375,8 @@ http://168.197.104.22:80/NOVO_TEMPO/index.m3u8
 http://138.255.2.6:8084/TVNOVOTEMPO/index.m3u8
 #EXTINF:-1 tvg-id="NovoTempo.br" group-title="Religious",Novo Tempo
 http://170.83.49.66:8083/TVNOVOTEMPOHD/index.m3u8
+#EXTINF:-1 tvg-id="NovoTempo.br" group-title="Religious",Novo Tempo
+http://186.219.52.187:80/novo_tempo/index.m3u8
 #EXTINF:-1 tvg-id="NPCRadioeTV.pt" group-title="Music",NPC Radio e TV
 https://stmv5.samcast.com.br/nasciparacantartv/nasciparacantartv/playlist.m3u8
 #EXTINF:-1 tvg-id="NSports.br" group-title="Sports",N Sports
@@ -547,12 +551,14 @@ http://170.83.49.66:8083/RITHD/index.m3u8
 http://170.84.165.204:80/RIT_TV/index.m3u8
 #EXTINF:-1 tvg-id="RTP1.pt" group-title="General",RTP 1
 https://streaming-live.rtp.pt/liverepeater/rtp1HD.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RTPAcores.pt" group-title="General",RTP Acores
+https://streaming-live.rtp.pt/liverepeater/smil:rtpacoresHD.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RTPAcores.pt" group-title="General",RTP Acores
+https://streaming-live.rtp.pt/liverepeater/smil:rtpacores.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="RTPAfrica.pt" group-title="General",RTP Africa
 https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="RTPMadeira.pt" group-title="General",RTP Madeira
 https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RTPMemoria.pt" group-title="General",RTP Memoria
-https://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="RTPMundo.pt" group-title="General",RTP Mundo
 https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="RTPNoticias.pt" group-title="News",RTP Noticias
@@ -729,8 +735,6 @@ http://170.83.49.66:8083/TVBRASILHD/index.m3u8
 http://170.84.165.204:80/TVBRASIL/index.m3u8
 #EXTINF:-1 tvg-id="TVBrasil.br" group-title="Uncategorized",TV Brasil
 http://186.219.52.187:80/tv_brasil/index.m3u8
-#EXTINF:-1 tvg-id="TVBrasilOeste.br" group-title="General",TV Brasil Oeste
-https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8
 #EXTINF:-1 tvg-id="TVBRICSPortuguese.br" group-title="General",TV BRICS Portuguese
 https://porbrics.mediacdn.ru/cdn/brics/portuguese/playlist.m3u8
 #EXTINF:-1 tvg-id="TVBrusque.br" group-title="News",TV Brusque
@@ -869,6 +873,8 @@ http://45.190.28.50/TV_JUSTICA/index.m3u8
 http://168.197.104.22:80/TV_JUSTICA/index.m3u8
 #EXTINF:-1 tvg-id="TVJustica.br" group-title="Uncategorized",TV Justica
 http://138.255.2.6:8084/TVJUSTICA/index.m3u8
+#EXTINF:-1 tvg-id="TVJustica.br" group-title="Uncategorized",TV Justica
+http://170.83.16.50:80/TV_JUSTICA/index.m3u8
 #EXTINF:-1 tvg-id="TVJustica.br" group-title="Uncategorized",TV Justica
 http://170.83.49.66:8083/TVJUSTICAHD/index.m3u8
 #EXTINF:-1 tvg-id="TVJustica.br" group-title="Uncategorized",TV Justica
