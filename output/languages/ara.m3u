@@ -9,6 +9,8 @@ http://stream.mcquack.net/41/index.m3u8
 https://d2hng5r56zpsbw.cloudfront.net/out/v1/9c4c990f44bb4767bb46271f326dd574/index.m3u8
 #EXTINF:-1 tvg-id="ABNsat.iq" group-title="Religious",ABNsat
 https://mediaserver.abnvideos.com/streams/abnsat.m3u8
+#EXTINF:-1 tvg-id="AfaqTV.iq" group-title="General",Afaq TV
+https://stream.afaq.iq/live/channel/afaqtv/playlist.m3u8
 #EXTINF:-1 tvg-id="AfarinBaxcha.iq" group-title="Kids",Afarin Baxcha
 https://5dcabf026b188.streamlock.net/afarinTV/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="AfarinTV.iq" group-title="Kids",Afarin TV
@@ -252,8 +254,6 @@ https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AlYaumTV.ae" group-title="News",Al Yaum TV
 https://hlspackager.akamaized.net/live/DB/ALYAUM_TV/HLS/ALYAUM_TV.m3u8
 #EXTINF:-1 tvg-id="AmmanTV.jo" group-title="General",Amman TV
-https://ammantv-live.ercdn.net/ammantvhd/ammantvhd.m3u8
-#EXTINF:-1 tvg-id="AmmanTV.jo" group-title="General",Amman TV
 https://htvnksdtmy.erbvr.com/ammantvhd/ammantvhd.m3u8
 #EXTINF:-1 tvg-id="AmouYazidTV.dz" group-title="Kids",Amou Yazid TV
 http://mkstream.servehttp.com:1940/AmouYazid/ay1/playlist.m3u8
@@ -349,10 +349,10 @@ https://sw1.tanitweb.net/TunisiaTV/_definst_/watania1/playlist.m3u8?DVR
 https://sw1.tanitweb.net/TunisiaTV/_definst_/watania2/chunklist.m3u8
 #EXTINF:-1 tvg-id="ElWatania2.tn" group-title="General",El Watania 2
 https://sw1.tanitweb.net/TunisiaTV/_definst_/watania2/playlist.m3u8?DVR
-#EXTINF:-1 tvg-id="ElwataniaTV.dz" group-title="General",Elwatania TV
-https://livesstream.work.gd:5443/WebRTCApp/streams/stream.m3u8
 #EXTINF:-1 tvg-id="EmanTv.iq" group-title="Family",EmanTv
 https://avr.host247.net/live/emantv/playlist.m3u8
+#EXTINF:-1 tvg-id="ERiTV1.er" group-title="General",ERi-TV 1
+https://jmc-live.ercdn.net/eritreatv/eritreatv.m3u8
 #EXTINF:-1 tvg-id="Fairuz.sa" group-title="Music",Fairuz
 https://shd-amg-fast.edgenextcdn.net/tx029/playlist.m3u8
 #EXTINF:-1 tvg-id="FalastiniTV.ps" group-title="Music",Falastini TV
@@ -439,6 +439,8 @@ https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Drama/playlist.m3u8
 https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/cooking/playlist.m3u8
 #EXTINF:-1 tvg-id="JordanSongs.jo" group-title="Music",Jordan Songs
 https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Song/playlist.m3u8
+#EXTINF:-1 tvg-id="JordanSport.jo" group-title="Sports",Jordan Sport
+https://jrtv-live.ercdn.net/jordansporthd/jordansporthd.m3u8
 #EXTINF:-1 tvg-id="JordanSport.jo" group-title="Sports",Jordan Sport
 http://93.184.10.248/JordanSport/index.m3u8
 #EXTINF:-1 tvg-id="JordanTourism.jo" group-title="Uncategorized",Jordan Tourism
@@ -587,8 +589,6 @@ https://avr.host247.net/live/Mix-kurdy/playlist.m3u8
 https://d2ow8h651gs7dx.cloudfront.net/out/v1/371fb663da604e659a2fb99bf89d92d4/index.m3u8
 #EXTINF:-1 tvg-id="MosaiqueFM.tn" group-title="Music",Mosaique FM
 https://webcam.mosaiquefm.net/mosatv/_definst_/studio/playlist.m3u8?DVR
-#EXTINF:-1 tvg-id="MoviesAction.sa" group-title="Movies",Movies Action
-https://shd-amg-fast.edgenextcdn.net/tx011/playlist.m3u8
 #EXTINF:-1 tvg-id="MoviesThriller.sa" group-title="Movies",Movies Thriller
 https://shd-amg-fast.edgenextcdn.net/tx012/playlist.m3u8
 #EXTINF:-1 tvg-id="MTVLebanon.lb" group-title="General",MTV Lebanon
@@ -679,8 +679,6 @@ https://live.kwikmotion.com/qbusinesslive/qbusiness.smil/playlist.m3u8
 https://shd-amg-fast.edgenextcdn.net/tx004/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioAlbaladTV.ps" group-title="General",Radio Albalad TV
 http://streaming.zaytonatube.com:8080/radioalbalad/radioalbalad/playlist.m3u8
-#EXTINF:-1 tvg-id="RadioAlbaladTV.ps" group-title="General",Radio Albalad TV
-https://streaming.zaytonatube.com:8081/radioalbalad/radioalbalad/index.m3u8
 #EXTINF:-1 tvg-id="RadioFannJordanStudio.jo" group-title="Uncategorized",Radio Fann Jordan Studio
 http://45.63.116.205/hls2/stream1.m3u8
 #EXTINF:-1 tvg-id="RadioYaqeenJordanCityView.jo" group-title="Uncategorized",Radio Yaqeen Jordan City View
@@ -813,6 +811,10 @@ https://stream.badinan.xyz/welat/tv/playlist.m3u8
 http://stream.mcquack.net/46/index.m3u8
 #EXTINF:-1 tvg-id="YemenTodayTV.ye" group-title="Uncategorized",Yemen Today TV
 https://video.yementdy.tv/hls/yementoday.m3u8
+#EXTINF:-1 tvg-id="YemenTV.ye" group-title="Uncategorized",Yemen TV
+https://live.yementv.tv/memfs/c8fe49a3-b1ca-4d14-9d78-498e8bad4f76_fast_output_0.m3u8
+#EXTINF:-1 tvg-id="YemenTV.ye" group-title="Uncategorized",Yemen TV
+https://live.yementv.tv/memfs/c8fe49a3-b1ca-4d14-9d78-498e8bad4f76_fast_output_0.m3u8?session=a3Ukc9eUVXdFTN58aiYFdR
 #EXTINF:-1 tvg-id="YesMoviesAction.il" group-title="Movies",Yes Movies Action
 http://stream.mcquack.net/380/index.m3u8
 #EXTINF:-1 tvg-id="ZagrosTV.iq" group-title="General",Zagros TV
