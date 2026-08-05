@@ -131,8 +131,6 @@ https://jmp2.uk/plu-61c1db8ed6d97900076ea15c.m3u8
 https://jmp2.uk/plu-61c0ac242bb0cf0007015f89.m3u8
 #EXTINF:-1 tvg-id="arte.de" group-title="Entertainment",arte
 https://dash4.antik.sk/live/test_arte_avc_25p/playlist.m3u8
-#EXTINF:-1 tvg-id="arte.fr" group-title="Entertainment",arte
-http://145.239.5.177/300/index.m3u8
 #EXTINF:-1 tvg-id="ArubaTVPlus.aw" group-title="Entertainment",ArubaTV +
 https://rtmpcontrol.com:1936/atvplus/ngrp:atvplus_all/playlist.m3u8
 #EXTINF:-1 tvg-id="AsianBox.mn" group-title="Entertainment",AsianBox
@@ -177,6 +175,8 @@ https://gpuserver3.tier1streams.com/BBC_AMERICA/index.m3u8
 http://88.212.15.29/live/bbc_first/index.m3u8
 #EXTINF:-1 tvg-id="BEATTV.nl" group-title="Music, Entertainment",BEATTV
 https://tv.beatfm.nl/live.m3u8
+#EXTINF:-1 tvg-id="Belarus2.by" group-title="Entertainment",Belarus-2
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Bellavision.do" group-title="Entertainment",Bellavision
 https://fox.hostlagarto.com:8081/bellavision8hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="BestofDrPhil.us" group-title="Entertainment",Best of Dr Phil
@@ -322,6 +322,8 @@ http://45.11.139.43:8555/8kanal/index.m3u8
 #EXTINF:-1 tvg-id="Channel8.ru" group-title="Entertainment",Channel 8
 http://hls127.freeott.top:8080/8_KANAL/video.m3u8
 #EXTINF:-1 tvg-id="Channel8.ru" group-title="Entertainment",Channel 8
+http://tshift-1.telecoma.tv/8channel/index.m3u8
+#EXTINF:-1 tvg-id="Channel8.ru" group-title="Entertainment",Channel 8
 http://v4.proofix.ru/okino-tv/index.m3u8
 #EXTINF:-1 tvg-id="Channel8.ru" group-title="Entertainment",Channel 8
 https://v4.proofix.ru/8tv-russia/index.m3u8
@@ -337,8 +339,6 @@ https://fl.biztv.media/cheksiz_tv_480_unif7hujidth7f4du83jrhuid3k94j8hfj8d93euby
 https://v2.tustreaming.cl/chilechannel/index.m3u8
 #EXTINF:-1 tvg-id="ChromaTV.br" group-title="Entertainment",Chroma TV
 https://5c483b9d1019c.streamlock.net/8054/8054/playlist.m3u8
-#EXTINF:-1 tvg-id="CibaenaTV.do" group-title="Entertainment",Cibaena TV
-https://streamunoapp.com:3958/live/cibaenatvlive.m3u8
 #EXTINF:-1 tvg-id="Cineaventura.us" group-title="Entertainment",Cine aventura
 https://jmp2.uk/plu-60fb2f47c133270007327375.m3u8
 #EXTINF:-1 tvg-id="Cineenespanol.us" group-title="Entertainment",Cine en espanol
@@ -423,6 +423,8 @@ https://xykt-fix.github.io/play/a02j/index.m3u8
 https://cdn4.skygo.mn/live/disk1/Dreambox/DASH-FTA/Dreambox.mpd
 #EXTINF:-1 tvg-id="DreamTV.mn" group-title="Entertainment",DreamTV
 https://cdn4.skygo.mn/live/disk1/Dreambox/HLSv3-FTA/Dreambox.m3u8
+#EXTINF:-1 tvg-id="E.us" group-title="Entertainment",E!
+http://23.237.104.106:8080/USA_E/index.m3u8
 #EXTINF:-1 tvg-id="E.us" group-title="Entertainment",E!
 https://gpuserver3.tier1streams.com/E_ENTERTAINMENT_EAST/index.m3u8
 #EXTINF:-1 tvg-id="E.us" group-title="Entertainment",E!
@@ -543,14 +545,14 @@ https://v3.siar.us/ficomchannel/live/playlist.m3u8
 https://jmp2.uk/plu-6272511cb389bb0007b30b09.m3u8
 #EXTINF:-1 tvg-id="Forsidefruer.se" group-title="Entertainment",Forsidefruer
 https://jmp2.uk/plu-61c19dcefbb4b50007d242e1.m3u8
+#EXTINF:-1 tvg-id="FORTTV.ug" group-title="Entertainment",FORT TV
+https://fort.co-works.org/memfs/87017643-274a-4bc0-a786-7767a0d159c2.m3u8
 #EXTINF:-1 tvg-id="FortuneTV.mm" group-title="Entertainment",Fortune TV
 http://103.215.194.93:8282/hls/fortunetv/vmix.m3u8
 #EXTINF:-1 tvg-id="Fox.pl" group-title="Entertainment",Fox
 http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/6108/index.m3u8
 #EXTINF:-1 tvg-id="Fox.ru" group-title="Entertainment",Fox
 http://stream.mcquack.net/182/index.m3u8
-#EXTINF:-1 tvg-id="Friday.ru" group-title="Entertainment",Friday!
-https://vod.tuva.ru/friday/index.m3u8
 #EXTINF:-1 tvg-id="Friday.ru" group-title="Entertainment",Friday!
 http://stream.mcquack.net/181/index.m3u8
 #EXTINF:-1 tvg-id="Friday.ru" group-title="Entertainment",Friday!
@@ -617,8 +619,6 @@ https://webtvstream.bhtelecom.ba/gametoon.m3u8
 https://pbgangaur.wiseplayout.com/Gangaur/master.m3u8
 #EXTINF:-1 tvg-id="GangaurTV.in" group-title="Entertainment",Gangaur TV
 https://cdn-2.pishow.tv/live/1221/master.m3u8
-#EXTINF:-1 tvg-id="GaviotaTV.ec" group-title="Entertainment",Gaviota TV
-https://gaviotatv.streamseguro.com:3195/live/gaviotatvlive.m3u8
 #EXTINF:-1 tvg-id="GeordieShore.de" group-title="Entertainment",Geordie Shore
 https://jmp2.uk/plu-65c4960d11ced7000812c433.m3u8
 #EXTINF:-1 tvg-id="GeordieShore.de" group-title="Entertainment",Geordie Shore
@@ -753,8 +753,6 @@ https://59d7d6f47d7fc.streamlock.net/italia2/italia2/playlist.m3u8
 https://thm-it-roku.otteravision.com/thm/it/it.m3u8
 #EXTINF:-1 tvg-id="ITVDeportes.mx" group-title="Entertainment, Sports",ITV Deportes
 https://jmp2.uk/plu-63f7e3f9dff38e00082a57af.m3u8
-#EXTINF:-1 tvg-id="iTVHD.kh" group-title="Entertainment",iTV HD
-https://ip.pdtvhd.com/Khmer/streams/ITVHD.m3u8
 #EXTINF:-1 tvg-id="IzauraTV.hu" group-title="Entertainment",Izaura TV
 http://88.212.15.19/live/izaura/index.m3u8
 #EXTINF:-1 tvg-id="JaihindTV.in" group-title="Entertainment",Jaihind TV
@@ -823,6 +821,8 @@ http://65.36.6.216:1935/live/kcwx.smil/playlist.m3u8
 https://streaming-live-fcdn.api.prd.univisionnow.com/kftr/kftr.isml/hls/kftr.m3u8
 #EXTINF:-1 tvg-id="KhushbooBangla.in" group-title="Entertainment",Khushboo Bangla
 https://cdn-4.pishow.tv/live/1473/master.m3u8
+#EXTINF:-1 tvg-id="KingsviewTV.ng" group-title="Entertainment",Kingsview TV
+https://j78dp6reyq5r-hls-live.5centscdn.com/4896_push_1963_001/00cb1f2e4ff89048f2e77e26940c00e6.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="Kluch.ru" group-title="Entertainment",Kluch
 http://hls127.freeott.top:8080/Kluch/video.m3u8
 #EXTINF:-1 tvg-id="KQED92.us" group-title="Entertainment",KQED 9.2
@@ -961,6 +961,8 @@ https://jmp2.uk/plu-687fea9a4fa995eff284a1c8.m3u8
 http://stream.mcquack.net/346/index.m3u8
 #EXTINF:-1 tvg-id="MasTalk.ve" group-title="Entertainment",Mas Talk
 https://vod2live.univtec.com/manifest/89290956-94ab-4950-accb-a54bbd7e176f.m3u8
+#EXTINF:-1 tvg-id="MaximaTV.ve" group-title="Entertainment",Maxima TV
+https://maximatv.net/hls/stream.m3u8
 #EXTINF:-1 tvg-id="MaxivisionTV.gt" group-title="Entertainment",Maxivision TV
 https://video03.logicahost.com.br/maxivisiontv/maxivisiontv/playlist.m3u8
 #EXTINF:-1 tvg-id="MazhavilManorama.in" group-title="Entertainment",Mazhavil Manorama
@@ -987,6 +989,8 @@ https://hls.mbcpersia.live/hls/stream.m3u8
 https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_MAIN.smil/Playlist.m3u8
 #EXTINF:-1 tvg-id="MCTV.de" group-title="Entertainment",MC TV
 https://rrr.sz.xlcdn.com/?account=mceutv&file=mc2&output=playlist.m3u8&protocol=https&service=wowza&type=live
+#EXTINF:-1 tvg-id="MegaTV.bo" group-title="Entertainment",MegaTV
+http://tv.istbolivia.com:1935/megatv/megatv/playlist.m3u8
 #EXTINF:-1 tvg-id="MelRadioTV.ec" group-title="Entertainment",Mel Radio TV
 https://eu1.servers10.com:8081/8334/index.m3u8
 #EXTINF:-1 tvg-id="MeritStreet.us" group-title="Entertainment",Merit Street
@@ -1217,8 +1221,6 @@ https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/olelo/G0125_013/playlist.m3u8
 https://live.olidigital.in/olitv/olitv/index.m3u8
 #EXTINF:-1 tvg-id="OmideIranTV.us" group-title="Entertainment",Omid e Iran TV
 https://oitnhls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="ONVieDrama.vn" group-title="Entertainment",ON Vie Drama
-http://dvrfl05.bozztv.com/vch_vchannel18/index.m3u8
 #EXTINF:-1 tvg-id="OPA.cr" group-title="Entertainment",¡OPA!
 https://5fc584f3f19c9.streamlock.net/genteopa/videogenteopa/playlist.m3u8
 #EXTINF:-1 tvg-id="OPA.cr" group-title="Entertainment",¡OPA!
@@ -1867,3 +1869,5 @@ https://tv1.mediacp.eu:3131/live/dilxbgxylive.m3u8
 http://stream.mcquack.net/327/index.m3u8
 #EXTINF:-1 tvg-id="ZorTV.uz" group-title="Entertainment, Music",Zo'r TV
 https://stream8.cinerama.uz/1016/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="ZugloTV.hu" group-title="Entertainment",Zuglo TV
+https://cloudfront44.lexanetwork.com:1344/freerelay/zuglotv.sdp/playlist.m3u8
