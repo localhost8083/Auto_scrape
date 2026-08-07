@@ -396,7 +396,9 @@ http://30814.hlsplay.aodianyun.com/lms_30814/tv_channel_246.flv
 #EXTINF:-1 group-title="Uncategorized",None
 https://stream2.jlntv.cn/sptv/sd/live.m3u8
 #EXTINF:-1 group-title="Uncategorized",None
-http://183.207.248.71/cntv/live1/SD-1500k-576P-jiayougw/SD-1500k-576P-jiayougw
+http://live.ahsz.tv/video/s10001-ggpd/index.m3u8
+#EXTINF:-1 group-title="Uncategorized",None
+http://live.ahsz.tv/video/s10001-szzh/index.m3u8
 #EXTINF:-1 group-title="Uncategorized",None
 https://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
 #EXTINF:-1 group-title="Uncategorized",None
@@ -461,8 +463,6 @@ https://stream2.jlntv.cn/ja/sd/live.m3u8
 http://visit.jjbctv.com:1935/live/xwzhmb/playlist.m3u8
 #EXTINF:-1 group-title="Uncategorized",None
 https://l.cztvcloud.com/channels/lantian/SXyuyao2/720p.m3u8
-#EXTINF:-1 group-title="Uncategorized",None
-http://183.207.248.71/cntv/live1/HD-2500k-1080P-heilongjiangstv/HD-2500k-1080P-heilongjiangstv
 #EXTINF:-1 group-title="Uncategorized",None
 http://epg.112114.xyz/douyu/4332
 #EXTINF:-1 group-title="Uncategorized",None
@@ -2088,8 +2088,6 @@ https://mediaserver.abnvideos.com/streams/son_of_god_.m3u8
 #EXTINF:-1 group-title="Uncategorized",None
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc6us/master.m3u8
 #EXTINF:-1 group-title="Uncategorized",None
-https://ott.god.tv/live/us/master.m3u8
-#EXTINF:-1 group-title="Uncategorized",None
 https://goldenboy.duckhunting.playout.vju.tv/DuckhuntingTV_GoldenBoy/main.m3u8
 #EXTINF:-1 group-title="Uncategorized",None
 https://freespeech.akamaized.net/hls/live/2024573/live2/playlist.m3u8
@@ -2924,6 +2922,8 @@ https://streams2.sofast.tv/WiseM3U8_27/sofast/cleanhls/master.m3u8
 #EXTINF:-1 group-title="Uncategorized",None
 https://streams2.sofast.tv/sofastplayout/32eb332e-f644-46e5-ad91-e55ad80d14f7_0_HLS/master.m3u8
 #EXTINF:-1 group-title="Uncategorized",None
+https://streams2.sofast.tv/umaxx/v1/01970b146c091ebd470414fa6dc31a/01970b14d5f11ea506ec1fab16cfb0/playlist.m3u8
+#EXTINF:-1 group-title="Uncategorized",None
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/453971f3-855a-455e-9353-ebbb069583a4/manifest.m3u8
 #EXTINF:-1 group-title="Uncategorized",None
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2cafac16-f982-4563-9951-ccd6ab0c2c6b/manifest.m3u8
@@ -3433,8 +3433,6 @@ http://bst.bratsk.ru/hls/bst2/index.m3u8
 https://bsttv.bonus-tv.ru/cdn/bst/playlist.m3u8
 #EXTINF:-1 tvg-id="BTV.lt" group-title="Uncategorized",BTV
 http://stream.mcquack.net/35/index.m3u8
-#EXTINF:-1 tvg-id="BucovinaTV.ro" group-title="Uncategorized",Bucovina TV
-https://www.bucovinatv.ro/proxy/video/playlist.m3u8
 #EXTINF:-1 tvg-id="BuzzfeedUnsolved.pl" group-title="Uncategorized",Buzzfeed Unsolved
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883099
 #EXTINF:-1 tvg-id="BVC.ar" group-title="Uncategorized",BVC
@@ -3451,10 +3449,6 @@ https://d13j8jpstr8iqz.cloudfront.net/BYUtv.m3u8
 https://stream.arcast.com.ar/casse/casse/playlist.m3u8
 #EXTINF:-1 tvg-id="Cadena103TV.ar" group-title="Uncategorized",Cadena103.TV
 http://arcast.net:1935/cadena103/cadena103/playlist.m3u8
-#EXTINF:-1 tvg-id="CadenaTV.pe" group-title="Uncategorized",Cadena TV
-https://tv.bitstreaming.net:3789/live/cdntvlive.m3u8
-#EXTINF:-1 tvg-id="CadenaTV.pe" group-title="Uncategorized",Cadena TV
-https://live-evg10.tv360.bitel.com.pe/bitel/cadenatv/playlist.m3u8
 #EXTINF:-1 tvg-id="CafeTV24.it" group-title="Uncategorized",CafeTV24
 https://srvx1.selftv.video/cafe/live/playlist.m3u8
 #EXTINF:-1 tvg-id="Caillou.fr" group-title="Uncategorized",Caillou
@@ -3487,6 +3481,8 @@ https://5cd577a3dd8ec.streamlock.net/CANAL4/smil:CANAL4.smil/playlist.m3u8
 https://5924d3ad0efcf.streamlock.net/canal4/canal4live/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal4Posadas.ar" group-title="Uncategorized",Canal 4 Posadas
 https://iptv.ixfo.com.ar:30443/live/C4POS/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal4SanJuan.ar" group-title="Uncategorized",Canal 4 San Juan
+https://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal5SantaFe.ar" group-title="Uncategorized",Canal 5 Santa Fe
 https://stream.arcast.com.ar/c5sf/c5sf/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal6Posadas.ar" group-title="Uncategorized",Canal 6 Posadas
@@ -3539,8 +3535,6 @@ https://videos.canal56.com/directe/stream/index.m3u8
 https://streamconex.com:19360/lacosta/lacosta.m3u8
 #EXTINF:-1 tvg-id="Canal79MardelPlata.ar" group-title="Uncategorized",Canal 79 Mar del Plata
 https://streamconex.com:19360/mardelplata/mardelplata.m3u8
-#EXTINF:-1 tvg-id="Canal79Puan.ar" group-title="Uncategorized",Canal 79 Puan
-https://streamconex.com:19360/puan/puan.m3u8
 #EXTINF:-1 tvg-id="Canal79SantaClaradelMar.ar" group-title="Uncategorized",Canal 79 Santa Clara del Mar
 https://streamconex.com:19360/santaclara-1/santaclara-1.m3u8
 #EXTINF:-1 tvg-id="Canal79VillaMaza.ar" group-title="Uncategorized",Canal 79 Villa Maza
@@ -3633,6 +3627,8 @@ https://dash2.antik.sk/live/test_dacha_tv_atktv/playlist.m3u8
 https://dagestan.mediacdn.ru/cdn/dagestan/playlist.m3u8
 #EXTINF:-1 tvg-id="DakLakTV.vn" group-title="Uncategorized",Dak Lak TV
 https://cdn.drt.vn/live/285a27750861b964c27af22091662a74f2f/chunklist.m3u8
+#EXTINF:-1 tvg-id="DamascusRadio.sy" group-title="Uncategorized",Damascus Radio
+https://radiodamascus.ortas.live/RDimshq/RDimshqLive/playlist.m3u8
 #EXTINF:-1 tvg-id="DavikaTV.id" group-title="Uncategorized",Davika TV
 https://5bf7b725107e5.streamlock.net/davika/davika/playlist.m3u8
 #EXTINF:-1 tvg-id="DejTV.ir" group-title="Uncategorized",Dej TV
@@ -3671,8 +3667,6 @@ https://edge1.socialsmart.tv/manisaetv/bant1/playlist.m3u8
 https://5f22d76e220e1.streamlock.net/eurotv/eurotv/playlist.m3u8
 #EXTINF:-1 tvg-id="ExtremaTV.us" group-title="Uncategorized",Extrema TV
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-#EXTINF:-1 tvg-id="FarosTV2.gr" group-title="Uncategorized",Faros TV2
-https://s1.cystream.net/live/faros2/playlist.m3u8
 #EXTINF:-1 tvg-id="FastTV.us" group-title="Uncategorized",Fast TV
 https://live-manifest.production-public.tubi.io/live/e7be5ad5-9044-4151-95d4-a9aae10ab0a5/playlist.m3u8
 #EXTINF:-1 tvg-id="FonMusic.ru" group-title="Uncategorized",FonMusic.ru
@@ -4119,8 +4113,6 @@ https://stream2.xdevel.com/video1s3-7/stream/playlist.m3u8
 https://streaming.rtvmarbella.tv/hls/streamingweb.m3u8
 #EXTINF:-1 tvg-id="RadioTelevizijaBanovina.hr" group-title="Uncategorized",Radio Televizija Banovina
 https://pool.alter-media.hr:1936/live/myStream/playlist.m3u8?DVR=
-#EXTINF:-1 tvg-id="RadioTVNeuquen.ar" group-title="Uncategorized",Radio TV Neuquen
-https://media.neuquen.gov.ar/rtn/television/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioYaqeenJordanCityView.jo" group-title="Uncategorized",Radio Yaqeen Jordan City View
 http://45.63.116.205/hls4/stream1.m3u8
 #EXTINF:-1 tvg-id="RaftaarMedia.in" group-title="Uncategorized",Raftaar Media
@@ -4323,8 +4315,6 @@ http://88.212.15.19/live/test_rtl_plus_hungary_1200_atk/playlist.m3u8
 http://88.212.15.19/live/test_rtl2_hungary_1200_atk/playlist.m3u8
 #EXTINF:-1 tvg-id="RTLSuper.de" group-title="Uncategorized",RTL Super
 https://forsizero.github.io/iptv/m3u/superrtlhd.m3u
-#EXTINF:-1 tvg-id="RTN.ar" group-title="Uncategorized",RTN
-https://media.neuquen.gov.ar/rtn/television/media.m3u8
 #EXTINF:-1 tvg-id="RTP.it" group-title="Uncategorized",RTP
 https://flash2.xdevel.com/rtptv/rtptv/playlist.m3u8
 #EXTINF:-1 tvg-id="RTQQueretaro.mx" group-title="Uncategorized",RTQ Queretaro
@@ -4927,8 +4917,6 @@ https://reflect-temecula.cablecast.tv/live-2/live/stream-1/live.m3u8
 https://cdn3.wowza.com/5/cFh0V0QwUVc4SDl2/tempe/G0355_003/chunklist.m3u8
 #EXTINF:-1 tvg-id="TempoTV.tr" group-title="Uncategorized",Tempo TV
 https://live.artidijitalmedya.com/artidijital_tempotv/tempotv/playlist.m3u8
-#EXTINF:-1 tvg-id="TemucoTelevision.cl" group-title="Uncategorized",Temuco Television
-https://mediacp.nnw.cl:19360/temucotelevision/temucotelevision.m3u8
 #EXTINF:-1 tvg-id="TENCanal10.hn" group-title="Uncategorized",TEN Canal 10
 https://raw.githubusercontent.com/BellezaEmporium/IPTV_Exception/master/channels/hn/tentv.m3u8
 #EXTINF:-1 tvg-id="TendenciasPrime.cl" group-title="Uncategorized",Tendencias Prime
@@ -4981,6 +4969,8 @@ https://live.fptplay53.net/epzsd1/hue_hls.smil/chunklist.m3u8
 http://183.207.248.71/cntv/live1/HD-2500k-1080P-tianjinstv/HD-2500k-1080P-tianjinstv
 #EXTINF:-1 tvg-id="TienGiangTV.vn" group-title="Uncategorized",Tien Giang TV
 https://618b88f69e53b.streamlock.net/THDT2/thdttv2/chunklist.m3u8
+#EXTINF:-1 tvg-id="TimorTV.id" group-title="Uncategorized",Timor TV
+http://122.248.43.242:1935/TIMORTV/_definst_/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="Tipik.be" group-title="Uncategorized",Tipik
 http://193.111.198.85:8589/stream/mstv/rtbftipiklive26/master.m3u8?p=967e33767f592e1aaf3d4019f38f380bf784e113b193d89c412d047059d6300d&u=Oleg
 #EXTINF:-1 tvg-id="TirolTV.at" group-title="Uncategorized",Tirol TV
@@ -5157,6 +5147,8 @@ http://170.84.165.204:80/TVBRASIL/index.m3u8
 http://186.219.52.187:80/tv_brasil/index.m3u8
 #EXTINF:-1 tvg-id="TVBreizh.fr" group-title="Uncategorized",TV Breizh
 http://145.239.5.177/318/index.m3u8
+#EXTINF:-1 tvg-id="TVC.ng" group-title="Uncategorized",TVC
+http://212.5.144.156:8080/tvc/index.m3u8
 #EXTINF:-1 tvg-id="TVCancaoNova.br" group-title="Uncategorized",TV Cancao Nova
 http://45.162.64.114/CANCAO_NOVA/index.m3u8
 #EXTINF:-1 tvg-id="TVCancaoNova.br" group-title="Uncategorized",TV Cancao Nova
@@ -5655,6 +5647,8 @@ https://vsin-sgrewind.streamguys1.com/scte/live-2k/playlist.m3u8
 https://lbgo.bozztv.com/ssh101/ssh101/afghantheatretv/playlist.m3u8
 #EXTINF:-1 tvg-id="VTV1.vn" group-title="Uncategorized",VTV1
 https://live.fptplay53.net/fnxch2/vtv1hd_abr.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="VTV1.vn" group-title="Uncategorized",VTV1
+https://live-a.fptplay53.net/live/media/vtv1/live247-hls-avc/index.m3u8
 #EXTINF:-1 tvg-id="VTV1.vn" group-title="Uncategorized",VTV1
 https://live.fptplay53.net/live/media/vtv1/live247-hls-avc/index.m3u8
 #EXTINF:-1 tvg-id="VTV1.vn" group-title="Uncategorized",VTV1
