@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="1001Noites.br" group-title="Shop",1001 Noites
+https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/playlist.m3u8
 #EXTINF:-1 tvg-id="AdessoTV.br" group-title="General",Adesso TV
 https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8
 #EXTINF:-1 tvg-id="AgroCanal.br" group-title="Education, Outdoor",AgroCanal
@@ -218,8 +220,6 @@ http://181.78.197.59:8000/play/a07z/index.m3u8
 #EXTINF:-1 tvg-id="ESPN.br" group-title="Sports",ESPN
 http://190.83.2.182:8090/ESPN/index.m3u8
 #EXTINF:-1 tvg-id="EUTV.br" group-title="General",EUTV
-https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
-#EXTINF:-1 tvg-id="EUTV.br" group-title="General",EUTV
 https://video01.logicahost.com.br/ypetv/ypetv/playlist.m3u8
 #EXTINF:-1 tvg-id="FalaLitoral.br" group-title="General",Fala Litoral
 https://5c483b9d1019c.streamlock.net/falalitoraltv/falalitoraltv/playlist.m3u8
@@ -368,6 +368,8 @@ http://170.84.165.204:80/Record_news/index.m3u8
 #EXTINF:-1 tvg-id="RecordNews.br" group-title="News",Record News
 http://186.219.52.187:80/record_news/index.m3u8
 #EXTINF:-1 tvg-id="RedeBrasil.br" group-title="General",Rede Brasil
+https://redebrasil.nuvemplay.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="RedeBrasil.br" group-title="General",Rede Brasil
 http://45.190.28.50/REDE_BRASIL_HD/index.m3u8
 #EXTINF:-1 tvg-id="RedeBrasil.br" group-title="General",Rede Brasil
 https://cdn-tiva-video09-logicahost-com-br.smartbit.co/redebrasiloficial/redebrasiloficial/playlist.m3u8
@@ -397,8 +399,6 @@ https://redegospel-aovivo.nuvemplay.live/hls/stream.m3u8
 http://45.190.28.50/REDE_GOSPEL_HD/index.m3u8
 #EXTINF:-1 tvg-id="RedeGospel.br" group-title="Religious",Rede Gospel
 http://45.177.114.115:80/REDE_GOSPEL/index.m3u8
-#EXTINF:-1 tvg-id="RedeGospel.br" group-title="Religious",Rede Gospel
-https://cdn.live.br1.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
 #EXTINF:-1 tvg-id="RedeMeioNorte.br" group-title="Uncategorized",Rede Meio Norte
 https://maystreaming.cloudecast.com/redemeio/index.m3u8
 #EXTINF:-1 tvg-id="RedeMetropole.br" group-title="General",Rede Metropole
@@ -815,6 +815,8 @@ http://170.83.49.66:8083/TVSENADOHD/index.m3u8
 http://186.219.52.187:80/tv_senado/index.m3u8
 #EXTINF:-1 tvg-id="TVSeries.br" group-title="Series",TV Series
 https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
+#EXTINF:-1 tvg-id="TVShowFortaleza.br" group-title="General",TV Show Fortaleza
+https://stmv8.samcast.com.br/raimundoanselmolimamororo1908/raimundoanselmolimamororo1908/playlist.m3u8
 #EXTINF:-1 tvg-id="TVSimCachoeiro.br" group-title="News",TV Sim Cachoeiro
 https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist.m3u8
 #EXTINF:-1 tvg-id="TVSimSaoMateus.br" group-title="News",TV Sim Sao Mateus
@@ -825,6 +827,8 @@ https://live.cdn.upx.com/00046/myStream.sdp/playlist.m3u8
 https://5cf4a2c2512a2.streamlock.net/tvsuldeminas/tvsuldeminas/playlist.m3u8
 #EXTINF:-1 tvg-id="TVTerceiroAnjo.br" group-title="Religious",TV Terceiro Anjo
 https://streamer1.streamhost.org/salive/GMI3anjoh/playlist.m3u8
+#EXTINF:-1 tvg-id="TVUFOP.br" group-title="Public, Education, Culture",TV UFOP
+https://app.tvufop.com.br/hls/tvufop.m3u8
 #EXTINF:-1 tvg-id="TVUniversal.br" group-title="Religious",TV Universal
 https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="TVVicosa.br" group-title="Entertainment",TV Vicosa
