@@ -45,6 +45,8 @@ http://45.177.114.115:80/ARTE1/index.m3u8
 http://170.83.16.50:80/ARTE_1/index.m3u8
 #EXTINF:-1 tvg-id="ARTV.pt" group-title="Legislative",ARTV
 https://playout172.livextend.cloud/liveiframe/_definst_/liveartvabr/playlist.m3u8
+#EXTINF:-1 tvg-id="AugeTV.br" group-title="General",Auge TV
+https://cdn-tiva-video01-logicahost-com-br.smartbit.co/canalaugetv/canalaugetv/playlist.m3u8
 #EXTINF:-1 tvg-id="AWTV.br" group-title="Classic, Series",AWTV
 https://awtv.nuvemplay.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="AXN.br" group-title="Movies",AXN
@@ -201,6 +203,8 @@ https://stmv1.samcast.com.br/demaistv6503/demaistv6503/playlist.m3u8
 https://br.conectmy.com.br/DespertarTV/index.m3u8
 #EXTINF:-1 tvg-id="DisneyChannel.pt" group-title="Kids",Disney Channel
 http://151.80.18.177:86/Disney_Channel_HD/index.m3u8
+#EXTINF:-1 tvg-id="DisneyChannel.pt" group-title="Kids",Disney Channel
+http://zntx.dyndns.org:8085/hls/disney.m3u8
 #EXTINF:-1 tvg-id="DumDum.br" group-title="Kids",DumDum
 http://45.162.64.114/ZOOMOO_KIDS/index.m3u8
 #EXTINF:-1 tvg-id="DumDum.br" group-title="Kids",DumDum
@@ -513,10 +517,6 @@ http://170.83.49.66:8083/RITHD/index.m3u8
 http://170.84.165.204:80/RIT_TV/index.m3u8
 #EXTINF:-1 tvg-id="RTP1.pt" group-title="General",RTP 1
 https://streaming-live.rtp.pt/liverepeater/rtp1HD.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RTPAcores.pt" group-title="General",RTP Acores
-https://streaming-live.rtp.pt/liverepeater/smil:rtpacoresHD.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RTPAcores.pt" group-title="General",RTP Acores
-https://streaming-live.rtp.pt/liverepeater/smil:rtpacores.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="RTPAfrica.pt" group-title="General",RTP Africa
 https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="RTPMadeira.pt" group-title="General",RTP Madeira
@@ -525,10 +525,6 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8
 https://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="RTPMundo.pt" group-title="General",RTP Mundo
 https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RTPNoticias.pt" group-title="News",RTP Noticias
-https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RTPNoticias.pt" group-title="News",RTP Noticias
-https://streaming-live.rtp.pt/livetvhlsDVR/rtpndvr.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="SBTCuiaba.br" group-title="General",SBT Cuiaba
 https://video09.logicahost.com.br/sbtcuiaba/sbtcuiaba/playlist.m3u8
 #EXTINF:-1 tvg-id="SBTInterior.br" group-title="General",SBT Interior
@@ -597,6 +593,10 @@ http://znty.dyndns.org:5010/hls/stv1.m3u8
 http://znty.dyndns.org:5010/hls/stv2.m3u8
 #EXTINF:-1 tvg-id="SportTV5.pt" group-title="Sports",Sport TV5
 http://znty.dyndns.org:5010/hls/stv5.m3u8
+#EXTINF:-1 tvg-id="SportTV6.pt" group-title="Sports",Sport TV6
+http://zntx.dyndns.org:8085/hls/stv6.m3u8
+#EXTINF:-1 tvg-id="SportTV7.pt" group-title="Sports",Sport TV7
+http://zntx.dyndns.org:8085/hls/stv7.m3u8
 #EXTINF:-1 tvg-id="SportTVPlus.pt" group-title="Sports",Sport TV+
 http://znty.dyndns.org:5010/hls/sportv+.m3u8
 #EXTINF:-1 tvg-id="SporTV3.br" group-title="Sports",SporTV 3
@@ -709,8 +709,6 @@ https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/5d880199c902eb4a1e8
 http://45.162.64.114/TV_CAMARA/index.m3u8
 #EXTINF:-1 tvg-id="TVCamara.br" group-title="Legislative",TV Camara
 http://45.190.28.50/TV_CAMARA/index.m3u8
-#EXTINF:-1 tvg-id="TVCamara.br" group-title="Legislative",TV Camara
-https://stream3.camara.gov.br/tv1/manifest.m3u8
 #EXTINF:-1 tvg-id="TVCamara.br" group-title="Legislative",TV Camara
 http://168.197.104.22:80/TV_CAMARA/index.m3u8
 #EXTINF:-1 tvg-id="TVCamara.br" group-title="Legislative",TV Camara
@@ -957,6 +955,8 @@ https://app.tvufop.com.br/hls/tvufop.m3u8
 https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="TVVicosa.br" group-title="Entertainment",TV Vicosa
 http://wz4.dnip.com.br/fratevitv/fratevitv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="TVVilaReal.br" group-title="Uncategorized",TV Vila Real
+https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
 #EXTINF:-1 tvg-id="TVVitoria.mz" group-title="Entertainment",TV Vitoria
 https://stmv1.srvif.com/tvvitoriamz/tvvitoriamz/playlist.m3u8
 #EXTINF:-1 tvg-id="TVZimbo.ao" group-title="General",TV Zimbo
