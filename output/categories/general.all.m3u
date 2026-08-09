@@ -118,8 +118,6 @@ https://public.apsny.camera/tv_abaza_tv_to_site/index.m3u8
 #EXTINF:-1 tvg-id="ABC.us" group-title="General",ABC
 http://41.205.93.154/ABC/index.m3u8
 #EXTINF:-1 tvg-id="ABC.us" group-title="General",ABC
-https://gpuserver3.tier1streams.com/ABC/index.m3u8
-#EXTINF:-1 tvg-id="ABC.us" group-title="General",ABC
 http://stream.cammonitorplus.net/1797/index.m3u8
 #EXTINF:-1 tvg-id="ABCAustralia.au" group-title="General",ABC Australia
 http://103.154.3.101:5001/live/2782.m3u8
@@ -1683,6 +1681,8 @@ https://live-us1.thaimomo.com/live-as/ch7hd-3/playlist.m3u8
 http://cdn10.live-tv.od.ua:8081/7tvod/7tvod-abr/7tvod/7tvod/playlist.m3u8
 #EXTINF:-1 tvg-id="Channel7Ukraine.ua" group-title="General",Channel 7 Ukraine
 https://cdn15.live-tv.cloud/ua_infinitas_tv/7tvod-abr/playlist.m3u8
+#EXTINF:-1 tvg-id="Channel8.sg" group-title="General",Channel 8
+https://cdn.qd.je/163189/ch8
 #EXTINF:-1 tvg-id="Channel8.th" group-title="General",Channel 8
 http://usa.login.in.th:1935/ch8/ch8/playlist.m3u8
 #EXTINF:-1 tvg-id="Channel8.th" group-title="General",Channel 8
@@ -1997,8 +1997,6 @@ https://livestream.telvue.com/cvtv2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlis
 https://livestream.telvue.com/cvtv1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="CVVisionTV.do" group-title="General",CV Vision TV
 https://eu1.servers10.com:8081/8128/index.m3u8
-#EXTINF:-1 tvg-id="CW.us" group-title="General",CW
-https://gpuserver3.tier1streams.com/CW/index.m3u8
 #EXTINF:-1 tvg-id="CW.us" group-title="General",CW
 https://messi.damitv.st/papi/ts/cw-usa/playlist.m3u8
 #EXTINF:-1 tvg-id="CWBTV.br" group-title="Family, General",CWB TV
@@ -3467,6 +3465,8 @@ https://d34pj260kw1xmk.cloudfront.net/live/l1/tv/index.m3u8
 https://rtvelivestream.rtve.es/rtvesec/la1/la1_main.m3u8
 #EXTINF:-1 tvg-id="La1.es" group-title="General, Public",La 1
 https://ztnr.rtve.es/ztnr/1688877.m3u8
+#EXTINF:-1 tvg-id="La1.es" group-title="General, Public",La 1
+http://185.47.212.25:8080/tdp_HD/index.m3u8
 #EXTINF:-1 tvg-id="La1Canarias.es" group-title="General, Public",La 1 Canarias
 https://rtvelivestream.rtve.es/rtvesec/can/la1_can_main.m3u8
 #EXTINF:-1 tvg-id="La1Canarias.es" group-title="General, Public",La 1 Canarias
@@ -4173,6 +4173,10 @@ http://170.254.17.2:80/NBC/index.m3u8
 http://stream.cammonitorplus.net/1800/index.m3u8
 #EXTINF:-1 tvg-id="NBCTV.pg" group-title="General",NBC TV
 https://205444.global.ssl.fastly.net/64ee8a084b935f9f8a6f8825/live_ab333a6093bc11eeb89fbd81423485b7/index.fmp4.m3u8
+#EXTINF:-1 tvg-id="NBT2HD.th" group-title="General",NBT 2 HD
+https://cdn-edge.iiptvcdn.com/live_event/smil:f180-054a-38d7-ce66-f7cf.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="NBTWorld.th" group-title="General",NBT World
+https://cdn-edge.iiptvcdn.com/live_event/smil:d36f-93c1-9c58-fdcc-427f.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="NCMMainChannel.us" group-title="General",NCM Main Channel
 https://reflect-npa.cablecast.tv/live-6/live/live.m3u8
 #EXTINF:-1 tvg-id="NCTV79.us" group-title="General",NCTV79
@@ -4943,12 +4947,20 @@ https://raajjetv.yarr-myn.workers.dev/RaajjeTv.m3u8
 https://live-radio-cf-vrt.akamaized.net/groupa/live/d6fdec5d-5d67-4cc3-9f8c-e3e8993c8ee4/live.isml/.m3u8
 #EXTINF:-1 tvg-id="Radio1.be" group-title="General",Radio 1
 https://live-radio-cf-vrt.akamaized.net/groupa/live/d6fdec5d-5d67-4cc3-9f8c-e3e8993c8ee4/live.isml/.mpd
+#EXTINF:-1 tvg-id="Radio1.be" group-title="General",Radio 1
+https://live.vrtcdn.be/groupa/live/3c3a12b5-093d-4a19-ae1f-3e775433286e/live.isml/.m3u8
+#EXTINF:-1 tvg-id="Radio1.be" group-title="General",Radio 1
+https://live.vrtcdn.be/groupa/live/3c3a12b5-093d-4a19-ae1f-3e775433286e/live.isml/.mpd
 #EXTINF:-1 tvg-id="Radio1.ru" group-title="General",Radio 1
 https://stream.radio1.ru/memfs/49dee7fe-77ba-4e6b-8cdc-fa840535b242.m3u8
 #EXTINF:-1 tvg-id="Radio2.be" group-title="General",Radio 2
 https://live-radio-cf-vrt.akamaized.net/groupa/live/e96793cc-eac5-4ed2-8eb5-617c2f6abc55/live.isml/.m3u8
 #EXTINF:-1 tvg-id="Radio2.be" group-title="General",Radio 2
 https://live-radio-cf-vrt.akamaized.net/groupa/live/e96793cc-eac5-4ed2-8eb5-617c2f6abc55/live.isml/.mpd
+#EXTINF:-1 tvg-id="Radio2.be" group-title="General",Radio 2
+https://live.vrtcdn.be/groupa/live/66a9668e-b37b-4de2-878e-0218563b2dd2/live.isml/.m3u8
+#EXTINF:-1 tvg-id="Radio2.be" group-title="General",Radio 2
+https://live.vrtcdn.be/groupa/live/66a9668e-b37b-4de2-878e-0218563b2dd2/live.isml/.mpd
 #EXTINF:-1 tvg-id="RadioAlbaladTV.ps" group-title="General",Radio Albalad TV
 http://streaming.zaytonatube.com:8080/radioalbalad/radioalbalad/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioAlbaladTV.ps" group-title="General",Radio Albalad TV
