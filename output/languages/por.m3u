@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="ADBTV.pt" group-title="Religious",ADB TV
+https://live-tv.waytv.pt/adbtv/adbtv/playlist.m3u8
 #EXTINF:-1 tvg-id="AdessoTV.br" group-title="General",Adesso TV
 https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8
 #EXTINF:-1 tvg-id="AgroCanal.br" group-title="Education, Outdoor",AgroCanal
@@ -397,6 +399,8 @@ http://200.194.238.229:8383/live/primer/playlist.m3u8
 https://load-balancer.azotosolutions.com/cdnedge19/smil:live19.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="RBATV.br" group-title="General",RBATV
 https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8
+#EXTINF:-1 tvg-id="RCTVBrasil.br" group-title="General",RCTV Brasil
+https://stmv.webtvninjas.com.br/rctv/rctv/playlist.m3u8
 #EXTINF:-1 tvg-id="Record.br" group-title="General",Record
 http://45.190.28.50/RECORD/index.m3u8
 #EXTINF:-1 tvg-id="Record.br" group-title="General",Record
@@ -529,10 +533,10 @@ http://45.177.114.115:80/RIT_TV/index.m3u8
 http://170.83.49.66:8083/RITHD/index.m3u8
 #EXTINF:-1 tvg-id="RITTV.br" group-title="Religious",RIT TV
 http://170.84.165.204:80/RIT_TV/index.m3u8
-#EXTINF:-1 tvg-id="RTPNoticias.pt" group-title="News",RTP Noticias
-https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RTPNoticias.pt" group-title="News",RTP Noticias
-https://streaming-live.rtp.pt/livetvhlsDVR/rtpndvr.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RTPMadeira.pt" group-title="General",RTP Madeira
+https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RTPMundo.pt" group-title="General",RTP Mundo
+https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="SBTCuiaba.br" group-title="General",SBT Cuiaba
 https://video09.logicahost.com.br/sbtcuiaba/sbtcuiaba/playlist.m3u8
 #EXTINF:-1 tvg-id="SBTInterior.br" group-title="General",SBT Interior
@@ -714,8 +718,6 @@ http://45.162.64.114/TV_CAMARA/index.m3u8
 #EXTINF:-1 tvg-id="TVCamara.br" group-title="Legislative",TV Camara
 http://45.190.28.50/TV_CAMARA/index.m3u8
 #EXTINF:-1 tvg-id="TVCamara.br" group-title="Legislative",TV Camara
-https://stream3.camara.gov.br/tv1/manifest.m3u8
-#EXTINF:-1 tvg-id="TVCamara.br" group-title="Legislative",TV Camara
 http://168.197.104.22:80/TV_CAMARA/index.m3u8
 #EXTINF:-1 tvg-id="TVCamara.br" group-title="Legislative",TV Camara
 http://138.255.2.6:8084/TVCAMARA/index.m3u8
@@ -799,6 +801,8 @@ http://170.83.16.50:80/TV_EVANGELIZAR/index.m3u8
 http://170.83.49.66:8083/EVANGELIZARHD/index.m3u8
 #EXTINF:-1 tvg-id="TVEvangelizar.br" group-title="Religious",TV Evangelizar
 http://186.219.52.187:80/tv_evangelizar/index.m3u8
+#EXTINF:-1 tvg-id="TVFronteira.br" group-title="Uncategorized",TV Fronteira
+https://tvfronteira.brasilstream.com.br/hls/tvfronteira/index.m3u8
 #EXTINF:-1 tvg-id="TVFuturo.br" group-title="General",TV Futuro
 https://tv02.zas.media:1936/tvfuturo/tvfuturo/playlist.m3u8
 #EXTINF:-1 tvg-id="TVGazeta.br" group-title="Uncategorized",TV Gazeta
