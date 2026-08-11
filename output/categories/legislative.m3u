@@ -20,13 +20,13 @@ https://video-ar.radioradicale.it/diretta/camera2/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalCongreso.co" group-title="Legislative",Canal Congreso
 http://138.121.15.230:9002/CANAL-CONGRESO/index.m3u8
 #EXTINF:-1 tvg-id="CanalGov.br" group-title="Legislative",Canal Gov
-https://canalgov-stream.ebc.com.br/index.m3u8
-#EXTINF:-1 tvg-id="CanalGov.br" group-title="Legislative",Canal Gov
-http://168.197.104.22:80/TV_BRASIL_2/index.m3u8
+http://45.177.114.115/TV_BRASIL_2/index.m3u8
 #EXTINF:-1 tvg-id="CanalGov.br" group-title="Legislative",Canal Gov
 http://138.255.2.6:8084/TVBRASIL2/index.m3u8
 #EXTINF:-1 tvg-id="CanalGov.br" group-title="Legislative",Canal Gov
-http://45.177.114.115:80/TV_BRASIL_2/index.m3u8
+http://168.197.104.22/TV_BRASIL_2/index.m3u8
+#EXTINF:-1 tvg-id="CanalGov.br" group-title="Legislative",Canal Gov
+https://canalgov-stream.ebc.com.br/index.m3u8
 #EXTINF:-1 tvg-id="CanalParlamento.es" group-title="Legislative",Canal Parlamento
 https://congresodirecto.akamaized.net/hls/live/2037973/canalparlamento/master.m3u8
 #EXTINF:-1 tvg-id="CanalParlamentodelCongresodeJalisco.mx" group-title="Legislative",Canal Parlamento del Congreso de Jalisco
@@ -71,8 +71,6 @@ https://congresodirecto.akamaized.net/hls/live/2038276/canal3/master.m3u8
 https://congresodirecto.akamaized.net/hls/live/2038277/canal4/master.m3u8
 #EXTINF:-1 tvg-id="CongresodelosDiputados5.es" group-title="Legislative",Congreso de los Diputados 5
 https://congresodirecto.akamaized.net/hls/live/2038278/canal5/master.m3u8
-#EXTINF:-1 tvg-id="CongresoTV.pe" group-title="Legislative",Congreso TV
-http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/canalelcongreso.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="COStv.us" group-title="Legislative",COStv
 https://irctv.cablecast.tv/live/stream-1/live.m3u8
 #EXTINF:-1 tvg-id="CruzTV.us" group-title="Legislative",Cruz TV
@@ -127,6 +125,8 @@ https://ert-ucdn.broadpeak-aas.com/bpk-tv/VOULITV/default/index.m3u8
 https://streamer-cache.grnet.gr/parliament/parltv.sdp/master.m3u8
 #EXTINF:-1 tvg-id="HillsboroughTV.us" group-title="Legislative",Hillsborough TV
 https://cdn3.wowza.com/5/M0lyamVmM2JWcjhQ/hillsboroughcounty/G2155_002/playlist.m3u8
+#EXTINF:-1 tvg-id="HluttawSD.mm" group-title="Legislative",Hluttaw S & D
+https://mrtvott.com/cache/MRTV-HLUTTAW/master.m3u8
 #EXTINF:-1 tvg-id="HTV1HoustonTelevision.us" group-title="Legislative",HTV 1 Houston Television
 https://stream.swagit.com/live-edge/houstontx/smil:hd-16x9-2-a/playlist.m3u8
 #EXTINF:-1 tvg-id="HTV2HoustonTelevision.us" group-title="Legislative",HTV 2 Houston Television
@@ -138,9 +138,9 @@ https://lbgo.bozztv.com/ssh101/ssh101/jnetv/playlist.m3u8
 #EXTINF:-1 tvg-id="JusticiaTV.mx" group-title="Legislative",Justicia TV
 https://live-scjn.ovp-vivaro.digital/ovp-origin/638a22b47746d/playlist.m3u8
 #EXTINF:-1 tvg-id="JusticiaTV.pe" group-title="Legislative",Justicia TV
-http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/justicia.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="JusticiaTV.pe" group-title="Legislative",Justicia TV
 http://190.93.224.42/JUSTICIA-TV/index.m3u8
+#EXTINF:-1 tvg-id="JusticiaTV.pe" group-title="Legislative",Justicia TV
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/justicia.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="KernCountyTV.us" group-title="Legislative",Kern County TV
 https://cdn3.wowza.com/5/dk84U1p2UUdoMGxT/kern/G0169_003/playlist.m3u8
 #EXTINF:-1 tvg-id="KnessetChannel.il" group-title="Legislative",Knesset Channel
@@ -169,8 +169,6 @@ https://stream.convergen.co/mbg_stream/smil:mbStream.smil/playlist.m3u8
 https://edge-f.swagit.com/live/miamibeachfl/live-1-a/playlist.m3u8
 #EXTINF:-1 tvg-id="MidpenMediaCenterChannel29.us" group-title="Legislative",Midpen Media Center Channel 29
 https://5c2974786200d.streamlock.net/live-chan29/ngrp:ch29_all/playlist.m3u8
-#EXTINF:-1 tvg-id="MOITV.kh" group-title="Legislative",MOI TV
-http://202.62.56.22:8080/hls/MOITV.m3u8
 #EXTINF:-1 tvg-id="MonroeCountyTV.us" group-title="Legislative",Monroe County TV
 https://castus-vod-dev.s3.amazonaws.com/vod_clients/monroe/live/ch1/video.m3u8
 #EXTINF:-1 tvg-id="NatickGovernmentChannel.us" group-title="Legislative",Natick Government Channel
@@ -201,6 +199,8 @@ https://cdn4.skygo.mn/live/disk1/Parlament/DASH-FTA/Parlament.mpd
 https://cdn4.skygo.mn/live/disk1/Parlament/HLSv3-FTA/Parlament.m3u8
 #EXTINF:-1 tvg-id="ParliamentTV.nz" group-title="Legislative",Parliament TV
 https://ptvlive.kordia.net.nz/out/v1/daf20b9a9ec5449dadd734e50ce52b74/index.m3u8
+#EXTINF:-1 tvg-id="PBCTVChannel20.us" group-title="Legislative",PBC TV Channel 20
+https://pbcvideostreams1.pbc.gov/memfs/1af49f9a-6b90-4ec2-a640-7f65ceebed4a.m3u8
 #EXTINF:-1 tvg-id="PCTV26.us" group-title="Legislative",PCTV 26
 https://cdn3.wowza.com/5/cXdyRHF0Z3kxN0k2/pinole/G0032_004/playlist.m3u8
 #EXTINF:-1 tvg-id="PershyiZahidnyi.ua" group-title="Legislative",Pershyi Zahidnyi
@@ -248,15 +248,15 @@ http://45.162.64.114/TV_CAMARA/index.m3u8
 #EXTINF:-1 tvg-id="TVCamara.br" group-title="Legislative",TV Camara
 http://45.190.28.50/TV_CAMARA/index.m3u8
 #EXTINF:-1 tvg-id="TVCamara.br" group-title="Legislative",TV Camara
-https://stream3.camara.gov.br/tv1/manifest.m3u8
-#EXTINF:-1 tvg-id="TVCamara.br" group-title="Legislative",TV Camara
-http://168.197.104.22:80/TV_CAMARA/index.m3u8
-#EXTINF:-1 tvg-id="TVCamara.br" group-title="Legislative",TV Camara
 http://138.255.2.6:8084/TVCAMARA/index.m3u8
+#EXTINF:-1 tvg-id="TVCamara.br" group-title="Legislative",TV Camara
+http://168.197.104.22/TV_CAMARA/index.m3u8
 #EXTINF:-1 tvg-id="TVCamara.br" group-title="Legislative",TV Camara
 http://170.83.49.66:8083/TVCAMARAHD/index.m3u8
 #EXTINF:-1 tvg-id="TVCamara.br" group-title="Legislative",TV Camara
-http://186.219.52.187:80/tv_camara/index.m3u8
+http://186.219.52.187/tv_camara/index.m3u8
+#EXTINF:-1 tvg-id="TVCamara.br" group-title="Legislative",TV Camara
+https://stream3.camara.gov.br/tv1/manifest.m3u8
 #EXTINF:-1 tvg-id="TVfromtheDanishParliament.dk" group-title="Legislative",TV from the Danish Parliament
 https://cdnapi.kaltura.com/p/2158211/sp/327418300/playManifest/entryId/1_24gfa7qq/protocol/https/format/applehttp/a.m3u8
 #EXTINF:-1 tvg-id="TVNRSR.sk" group-title="Legislative",TV NRSR
