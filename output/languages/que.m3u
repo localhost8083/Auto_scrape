@@ -1,16 +1,14 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="36TVHuacho.pe" group-title="General",36 TV Huacho
 https://live-evg10.tv360.bitel.com.pe/bitel/36tvSRT/playlist.m3u8
+#EXTINF:-1 tvg-id="ABCTeleshow.pe" group-title="General",ABC Teleshow
+https://live-evg10.tv360.bitel.com.pe/bitel/abctv/playlist.m3u8
 #EXTINF:-1 tvg-id="ABTelevision.pe" group-title="General",ABTelevision
 https://live-evg8.tv360.bitel.com.pe/bitel/abctelevisionSRT/playlist.m3u8
 #EXTINF:-1 tvg-id="AbyaYalaTV.bo" group-title="General",Abya Yala TV
 http://15.204.246.24:8080/AbyaYalaTvHD/index.m3u8
 #EXTINF:-1 tvg-id="AgroTV.pe" group-title="Outdoor",Agro TV
-https://live-evg8.tv360.bitel.com.pe/bitel/agroSRT/playlist.m3u8
-#EXTINF:-1 tvg-id="AgroTV.pe" group-title="Outdoor",Agro TV
 https://play.agenciastreaming.com:8081/agrotv/index.m3u8
-#EXTINF:-1 tvg-id="AlegriaTV.bo" group-title="Music",Alegria TV
-https://lbgo.bozztv.com/ssh101/ssh101/confirmatv/playlist.m3u8
 #EXTINF:-1 tvg-id="AlturaTV.pe" group-title="General",Altura TV
 https://live-evg10.tv360.bitel.com.pe/bitel/urbanatv/playlist.m3u8
 #EXTINF:-1 tvg-id="AlturaTV.pe" group-title="General",Altura TV
@@ -49,6 +47,8 @@ https://live-evg8.tv360.bitel.com.pe/bitel/antenasurtv/playlist.m3u8
 https://vdo.oyotunserver.com/arpegio/video.m3u8
 #EXTINF:-1 tvg-id="AsContenidos.bo" group-title="General",As Contenidos
 https://master.tucableip.com/ascontenido/index.m3u8
+#EXTINF:-1 tvg-id="AsiriTV.pe" group-title="Culture",AsiriTV
+https://video2.lhdserver.es/asiritv/live.m3u8
 #EXTINF:-1 tvg-id="ATBLaPaz.bo" group-title="General",ATB La Paz
 http://15.204.246.24:8080/ATBHD/index.m3u8
 #EXTINF:-1 tvg-id="ATBLaPaz.bo" group-title="General",ATB La Paz
@@ -312,9 +312,13 @@ https://live-evg5.tv360.bitel.com.pe/bitel/onda/playlist.m3u8
 #EXTINF:-1 tvg-id="OvacionTV.pe" group-title="Sports",Ovacion TV
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
 #EXTINF:-1 tvg-id="OzonoTV.pe" group-title="General",Ozono TV
+https://live-evg8.tv360.bitel.com.pe/bitel/ozonotv/playlist.m3u8
+#EXTINF:-1 tvg-id="OzonoTV.pe" group-title="General",Ozono TV
 http://vps.chasquirouter.com/salida/ozono.m3u8
 #EXTINF:-1 tvg-id="PalenqueTV.bo" group-title="General",Palenque TV
 http://15.204.246.24:8080/PalenqueTVSD/index.m3u8
+#EXTINF:-1 tvg-id="PalenqueTV.bo" group-title="General",Palenque TV
+https://tv.bitstreaming.net:3234/live/palenquetvlive.m3u8
 #EXTINF:-1 tvg-id="PanamericanaTV.pe" group-title="General",Panamericana TV
 http://45.171.108.253:8888/PANAMERICANA/index.m3u8
 #EXTINF:-1 tvg-id="PanamericanaTV.pe" group-title="General",Panamericana TV
@@ -399,10 +403,14 @@ https://master.tucableip.com/redtvshop/index.m3u8
 http://190.181.18.82:4111/play/a005/index.m3u8
 #EXTINF:-1 tvg-id="RedUno.bo" group-title="General",Red Uno
 https://tv.centaurychile.com/interactiva/streams/KIgB6QvZ0L8XaSLd3211668845221245.m3u8
+#EXTINF:-1 tvg-id="RedUnoSantaCruz.bo" group-title="General",Red Uno Santa Cruz
+http://190.181.18.82:4111/play/a006/index.m3u8
 #EXTINF:-1 tvg-id="RegionTVCallao.pe" group-title="Uncategorized",Region TV Callao
 https://live-evg7.tv360.bitel.com.pe/bitel/regiontvSRT/playlist.m3u8
 #EXTINF:-1 tvg-id="RegionTVCallao.pe" group-title="Uncategorized",Region TV Callao
 https://servilive.com:3757/live/regiontvlive.m3u8
+#EXTINF:-1 tvg-id="RikuTV.pe" group-title="Entertainment",Riku TV
+https://amixtv.com:8081/rikutv/index.m3u8
 #EXTINF:-1 tvg-id="RikuTV.pe" group-title="Entertainment",Riku TV
 https://live-evg7.tv360.bitel.com.pe/bitel/riku/playlist.m3u8
 #EXTINF:-1 tvg-id="RNTelevision.pe" group-title="Uncategorized",RN Television
@@ -508,8 +516,6 @@ https://live-evg5.tv360.bitel.com.pe/bitel/tvnorte/playlist.m3u8
 #EXTINF:-1 tvg-id="TVOFF.bo" group-title="Travel",TV OFF
 https://edge.enhdtv.com/tvoff/index.m3u8
 #EXTINF:-1 tvg-id="TVPeru.pe" group-title="General",TV Peru
-http://181.119.93.83:8000/play/a25t/index.m3u8
-#EXTINF:-1 tvg-id="TVPeru.pe" group-title="General",TV Peru
 http://190.93.224.42/TV-PERU/index.m3u8
 #EXTINF:-1 tvg-id="TVPeru.pe" group-title="General",TV Peru
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/tvperu.stream/playlist.m3u8
@@ -561,6 +567,8 @@ http://190.60.39.195:8000/play/a01r/index.m3u8
 https://master.tucableip.com/univalletv/playlist.m3u8
 #EXTINF:-1 tvg-id="UniversitariaTV.pe" group-title="Uncategorized",Universitaria TV
 https://live-evg11.tv360.bitel.com.pe/bitel/uraniotv/playlist.m3u8
+#EXTINF:-1 tvg-id="UPEATV.bo" group-title="Uncategorized",UPEA TV
+https://tvstream.upea.bo/hls/oSs0jSWumTFIIVY97559.m3u8
 #EXTINF:-1 tvg-id="UranioTV.pe" group-title="Uncategorized",Uranio TV
 https://live-evg8.tv360.bitel.com.pe/bitel/uranioyurimaguasSRT/playlist.m3u8
 #EXTINF:-1 tvg-id="UranioTV.pe" group-title="Uncategorized",Uranio TV
