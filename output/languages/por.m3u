@@ -29,8 +29,6 @@ http://45.190.28.50/AGROMAIS_HD/index.m3u8
 http://138.255.2.6:8084/AGROMAIS/index.m3u8
 #EXTINF:-1 tvg-id="AgroMais.br" group-title="News",AgroMais
 http://168.197.104.22/AGROMAIS/index.m3u8
-#EXTINF:-1 tvg-id="AgroMais.br" group-title="News",AgroMais
-http://170.83.16.50/AGRO_MAIS/index.m3u8
 #EXTINF:-1 tvg-id="AmazonSat.br" group-title="Uncategorized",Amazon Sat
 https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
 #EXTINF:-1 tvg-id="ArarunaTV.br" group-title="General",Araruna TV
@@ -80,8 +78,6 @@ http://45.190.28.50/BAND_NEWS_HD/index.m3u8
 #EXTINF:-1 tvg-id="BandNews.br" group-title="News",BandNews
 http://168.197.104.22/BAND_NEWS/index.m3u8
 #EXTINF:-1 tvg-id="BandNews.br" group-title="News",BandNews
-http://170.83.16.50/BAND_NEWS/index.m3u8
-#EXTINF:-1 tvg-id="BandNews.br" group-title="News",BandNews
 http://170.83.49.66:8083/BANDNEWSHD/index.m3u8
 #EXTINF:-1 tvg-id="BandNews.br" group-title="News",BandNews
 http://177.52.24.163/BAND-NEWS-HD/index.m3u8
@@ -91,6 +87,8 @@ http://45.162.64.114/BAND_SPORTS/index.m3u8
 http://45.190.28.50/BAND_SPORTS_HD/index.m3u8
 #EXTINF:-1 tvg-id="BandSports.br" group-title="Sports",Band Sports
 http://138.255.2.6:8084/BANDSPORTS/index.m3u8
+#EXTINF:-1 tvg-id="BandSports.br" group-title="Sports",Band Sports
+http://170.83.16.50/BAND_SPORTS/index.m3u8
 #EXTINF:-1 tvg-id="BandSports.br" group-title="Sports",Band Sports
 http://170.83.49.66:8083/BANDSPORTSHD/index.m3u8
 #EXTINF:-1 tvg-id="BemMelhor.br" group-title="General",Bem Melhor
@@ -535,6 +533,8 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtpacores.smil/playlist.m3u8
 https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="RTPMadeira.pt" group-title="General",RTP Madeira
 https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RTPMemoria.pt" group-title="General",RTP Memoria
+https://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="RTPMundo.pt" group-title="General",RTP Mundo
 https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="RTPNoticias.pt" group-title="News",RTP Noticias
@@ -752,6 +752,8 @@ http://186.219.52.187/cultura/index.m3u8
 #EXTINF:-1 tvg-id="TVCultura.br" group-title="Uncategorized",TV Cultura
 https://v-us-01.wisestream.io/memfs/e8740862-7a1f-45f3-acb2-4f357e144059.m3u8
 #EXTINF:-1 tvg-id="TVCultura.br" group-title="Uncategorized",TV Cultura
+https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
+#EXTINF:-1 tvg-id="TVCultura.br" group-title="Uncategorized",TV Cultura
 https://jmp2.uk/plu-62e010e6cd663f0007e57dc8.m3u8
 #EXTINF:-1 tvg-id="TVCuruca.br" group-title="Entertainment",TV Curuca
 https://stmv1.srvif.com/tvcurucasp/tvcurucasp/playlist.m3u8
@@ -835,8 +837,6 @@ http://186.219.52.187/tv_justica/index.m3u8
 https://www.latinasat.com.br/hls/live/stream/index.m3u8
 #EXTINF:-1 tvg-id="TVLifeAmerica.br" group-title="Culture",TV Life America
 https://streaming.cloudecast.com/hls/tvlifeamerica/index.m3u8
-#EXTINF:-1 tvg-id="TVLitoralRN.br" group-title="General",TV Litoral RN
-https://5ad482a77183d.streamlock.net/tvnordesteegmail.com/tvnordesteegmail.com/playlist.m3u8
 #EXTINF:-1 tvg-id="TVM.mz" group-title="General",TVM
 https://stream.tvm.co.mz/hls/tvm/playlist.m3u8
 #EXTINF:-1 tvg-id="TVMaisMarica.br" group-title="General",TV Mais Marica
@@ -851,6 +851,8 @@ https://w1.manasat.com/tvmana-brasil/smil:tvmana-brasil.smil/playlist.m3u8
 https://w1.manasat.com/tvmana-english/smil:tvmana-english.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TVManaEspanhol.pt" group-title="Religious",TV Mana Espanhol
 https://w1.manasat.com/tvmana-espanol/smil:tvmana-espanol.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVManaMocambique.mz" group-title="Religious",TV Mana Mocambique
+http://145.239.5.177/141/index.m3u8
 #EXTINF:-1 tvg-id="TVManaMocambique.mz" group-title="Religious",TV Mana Mocambique
 https://w2.manasat.com/tvmana-mz/smil:tvmana-mz.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TVManaRusskiy.pt" group-title="Religious",TV Mana Russkiy
