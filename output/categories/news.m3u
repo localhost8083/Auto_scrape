@@ -157,6 +157,8 @@ http://45.190.28.50/AGROMAIS_HD/index.m3u8
 http://138.255.2.6:8084/AGROMAIS/index.m3u8
 #EXTINF:-1 tvg-id="AgroMais.br" group-title="News",AgroMais
 http://168.197.104.22/AGROMAIS/index.m3u8
+#EXTINF:-1 tvg-id="AgroMais.br" group-title="News",AgroMais
+http://170.83.16.50/AGRO_MAIS/index.m3u8
 #EXTINF:-1 tvg-id="AHaber.tr" group-title="News",A Haber
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/ahaber/ahaber.m3u8
 #EXTINF:-1 tvg-id="AKDCalcuttaNews.in" group-title="News",AKD Calcutta News
@@ -263,8 +265,6 @@ https://live-hls-web-ajm2-fa.getaj.net/AJM2/index.m3u8
 https://live-hls-web-ajm2-fa.thehlive.com/AJM2/index.m3u8
 #EXTINF:-1 tvg-id="AlmahriahTV.tr" group-title="News",Almahriah TV
 https://starmenajo.com/hls/almahriah/index.m3u8
-#EXTINF:-1 tvg-id="AlManar.lb" group-title="News",Al-Manar
-https://edge.fastpublish.me/live/index.m3u8
 #EXTINF:-1 tvg-id="AlMasarTV.ly" group-title="News",Al Masar TV
 https://starmenajo.com/hls/almasar/index.m3u8
 #EXTINF:-1 tvg-id="AlMasirah.ye" group-title="News",Al Masirah
@@ -380,11 +380,15 @@ http://45.190.28.50/BAND_NEWS_HD/index.m3u8
 #EXTINF:-1 tvg-id="BandNews.br" group-title="News",BandNews
 http://168.197.104.22/BAND_NEWS/index.m3u8
 #EXTINF:-1 tvg-id="BandNews.br" group-title="News",BandNews
+http://170.83.16.50/BAND_NEWS/index.m3u8
+#EXTINF:-1 tvg-id="BandNews.br" group-title="News",BandNews
 http://170.83.49.66:8083/BANDNEWSHD/index.m3u8
 #EXTINF:-1 tvg-id="BandNews.br" group-title="News",BandNews
 http://177.52.24.163/BAND-NEWS-HD/index.m3u8
 #EXTINF:-1 tvg-id="BansalNews.in" group-title="News",Bansal News
 https://cdn-2.pishow.tv/live/1051/master.m3u8
+#EXTINF:-1 tvg-id="BarakaTelevision.cd" group-title="News",Baraka Television
+https://stream.berosat.live:19360/baraka-hd/baraka-hd.m3u8
 #EXTINF:-1 tvg-id="BBCArabic.uk" group-title="News",BBC Arabic
 https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.mpd
 #EXTINF:-1 tvg-id="BBCArabic.uk" group-title="News",BBC Arabic
@@ -780,9 +784,9 @@ https://amg01644-amg01644c1-amgplt0343.playout.now3.amagi.tv/ts-eu-w1-n2/playlis
 #EXTINF:-1 tvg-id="DW.de" group-title="News",DW
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8
 #EXTINF:-1 tvg-id="DW.de" group-title="News",DW
-https://live.fptplay53.net/fnxhd2/dwenglish_hls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="DW.de" group-title="News",DW
 http://45.190.28.50/DW/index.m3u8
+#EXTINF:-1 tvg-id="DW.de" group-title="News",DW
+http://170.83.16.50/DW/index.m3u8
 #EXTINF:-1 tvg-id="DW.de" group-title="News",DW
 https://stream8.cinerama.uz/1418/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="DW.de" group-title="News",DW
@@ -1471,12 +1475,10 @@ https://cdn-3.pishow.tv/live/1498/master.m3u8
 https://amg01106-amg01106c3-amgplt0844.playout.now3.amagi.tv/ts-ap-s1-n1/playlist/amg01106-amg01106c3-amgplt0844/playlist.m3u8
 #EXTINF:-1 tvg-id="News9Live.in" group-title="News",News9Live
 https://vg-tv9yupp.vgcdn.net/vglive-sk-526536/v1/019e01ace8511ea540a871e333268/019e01ad3da31ea55784752988551/main.m3u8
-#EXTINF:-1 tvg-id="News12Bronx.us" group-title="News",News12 Bronx
-https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12XH_A1/index_new.m3u8?omap=https
+#EXTINF:-1 tvg-id="News12HudsonValley.us" group-title="News",News12 Hudson Valley
+https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12HH_A1/index_new.m3u8?omap=https
 #EXTINF:-1 tvg-id="News12LongIsland.us" group-title="News",News12 Long Island
 https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12LH_WEST_A1/index_new.m3u8?omap=https
-#EXTINF:-1 tvg-id="News12NewJersey.us" group-title="News",News12 New Jersey
-https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12JH_CENT_A1/index_new.m3u8?omap=https
 #EXTINF:-1 tvg-id="News12NewYork.us" group-title="News",News12 New York
 https://jmp2.uk/plu-5fff49cfb5cd4f0007c2b0dc.m3u8
 #EXTINF:-1 tvg-id="News12NewYork.us" group-title="News",News12 New York
@@ -1610,6 +1612,8 @@ https://takeoff.jetstre.am/?account=nhnieuws&file=live&output=playlist.m3u8&prot
 #EXTINF:-1 tvg-id="NHKWorldJapan.jp" group-title="News, Culture",NHK World-Japan
 https://nhk.lls.pbs.org/index.m3u8
 #EXTINF:-1 tvg-id="NHKWorldJapan.jp" group-title="News, Culture",NHK World-Japan
+http://170.83.16.50/NHK_WORLD/index.m3u8
+#EXTINF:-1 tvg-id="NHKWorldJapan.jp" group-title="News, Culture",NHK World-Japan
 https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8
 #EXTINF:-1 tvg-id="NHKWorldJapan.jp" group-title="News, Culture",NHK World-Japan
 https://media-osa.hls.nhkworld.jp/hls/w/live/master.m3u8
@@ -1739,6 +1743,8 @@ https://live4.presstv.ir/live/smil:presstvfr.smil/playlist.m3u8
 http://158.69.24.53:8080/probashi_tv/index.m3u8
 #EXTINF:-1 tvg-id="PROTVNews.ro" group-title="News",PROTV News
 https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-voyo-news/playlist.m3u8?offsetSeconds=0&url=0
+#EXTINF:-1 tvg-id="PrudentMedia.in" group-title="News",Prudent Media
+https://prudentmcdn.rixcast.com/prudentm.m3u8
 #EXTINF:-1 tvg-id="PSN.mx" group-title="Entertainment, News",PSN
 https://srspsn.live/live/livestream.m3u8
 #EXTINF:-1 tvg-id="PSNCanal452.mx" group-title="News",PSN Canal 45.2
@@ -2161,8 +2167,6 @@ https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3
 https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8
 #EXTINF:-1 tvg-id="SkyNewsExtra3.au" group-title="News",Sky News Extra 3
 https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
-#EXTINF:-1 tvg-id="SkyNewsUrdu.pk" group-title="News",Sky News Urdu
-https://lbgo.bozztv.com/ssh101/ssh101/skynews/playlist.m3u8
 #EXTINF:-1 tvg-id="Sochi24.ru" group-title="General, News",Sochi24
 http://serv30.vintera.tv:8081/sochi/sochi24_tv/playlist.m3u8
 #EXTINF:-1 tvg-id="StarKentrikisElladas.gr" group-title="General, News",Star Kentrikis Elladas
