@@ -155,8 +155,6 @@ https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/master.m3u8
 http://stream.cammonitorplus.net/1712/index.m3u8
 #EXTINF:-1 tvg-id="CFTUDT.ca" group-title="Education",CFTU-DT
 https://hls.savoir.media/live/stream.m3u8
-#EXTINF:-1 tvg-id="ChampionTV.ci" group-title="Business",Champion TV
-https://stream.berosat.live/hls/champion-tv/champion-tv.m3u8
 #EXTINF:-1 tvg-id="ChandelTV.tg" group-title="Entertainment",Chandel TV
 https://kali.vdopanel.com:3660/live/vj6jlam1rlive.m3u8
 #EXTINF:-1 tvg-id="ChannelY.ca" group-title="News",Channel Y
@@ -173,6 +171,8 @@ https://zylo-cinenanar-rakuten.amagi.tv/playlist.m3u8
 http://99.27.51.147/CineClassic/index.m3u8
 #EXTINF:-1 tvg-id="CinePlusEmotion.fr" group-title="Movies",Cine+ Emotion
 http://145.239.5.177/337/index.m3u8
+#EXTINF:-1 tvg-id="CinePlusFrisson.fr" group-title="Movies",Cine+ Frisson
+http://99.27.51.147:8080/CineFrisson/index.m3u8
 #EXTINF:-1 tvg-id="CineWestern.fr" group-title="Movies",Cine Western
 https://amg00711-zylo-amg00711c8-rakuten-uk-2686.playouts.now.amagi.tv/playlist/amg00711-zylofast-cinewestern-rakutenuk/playlist.m3u8
 #EXTINF:-1 tvg-id="CityNewsCalgary.ca" group-title="News",CityNews Calgary
@@ -581,8 +581,6 @@ https://figarotv-live.freecaster.com/live/freecaster/figarotv.m3u8
 https://static.lefigaro.fr/secom/tnt.m3u8
 #EXTINF:-1 tvg-id="LegislativeAssemblyofOntario.ca" group-title="Legislative",Legislative Assembly of Ontario
 https://temp3.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8
-#EXTINF:-1 tvg-id="LemanBleu.ch" group-title="News",Leman Bleu
-http://livevideo.infomaniak.com/streaming/livecast/naxoo/playlist.m3u8
 #EXTINF:-1 tvg-id="LeNouveauManagerTV.bj" group-title="Business",Le Nouveau Manager TV
 https://lnmlive.com/live/lnmtv.m3u8
 #EXTINF:-1 tvg-id="LittoralFMTV.fr" group-title="Music",Littoral FM TV
@@ -611,6 +609,8 @@ https://rakutenaa-blueskyent-lovepetsemea-rakuten-ikc4q.amagi.tv/playlist/rakute
 https://amg01576-blueskyeenterta-lovepetsemea-samsunguk-32fso.amagi.tv/playlist/amg01576-blueskyeenterta-lovepetsemea-samsunguk/playlist.m3u8
 #EXTINF:-1 tvg-id="LovePets.ca" group-title="Documentary",Love Pets
 https://d31r8y66tn175.cloudfront.net/Love_Pets.m3u8
+#EXTINF:-1 tvg-id="M6.fr" group-title="Entertainment",M6
+http://99.27.51.147:8080/M6/index.m3u8
 #EXTINF:-1 tvg-id="M6Music.fr" group-title="Music",M6 Music
 http://145.239.5.177/320/index.m3u8
 #EXTINF:-1 tvg-id="MadrasFMTV.gp" group-title="Music",Madras FM TV
@@ -803,8 +803,6 @@ https://edge-a3.evrideo.tv/8f37c9f0-fe22-44f4-b64a-76ad11730daf_1000026630_HLS/m
 http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/1038/index.m3u8
 #EXTINF:-1 tvg-id="RHTGuadeloupe.gp" group-title="Music",RHT Guadeloupe
 https://edge12.vedge.infomaniak.com/livecast/ik:livehautetension/manifest.m3u8
-#EXTINF:-1 tvg-id="RLPROTV.cd" group-title="Documentary",RL PRO TV
-https://stream.berosat.live:19360/rlpro-tv/rlpro-tv.m3u8
 #EXTINF:-1 tvg-id="RMCLife.fr" group-title="Entertainment, Interactive",RMC Life
 http://145.239.5.177/333/index.m3u8
 #EXTINF:-1 tvg-id="RMCSport1.fr" group-title="Sports",RMC Sport 1
@@ -815,6 +813,10 @@ https://d15aro46bnpfm8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://7nyaler.streamhostingcdn.top/stream/41/index.m3u8
 #EXTINF:-1 tvg-id="RTB3.bf" group-title="Culture",RTB 3
 https://edge13.vedge.infomaniak.com/livecast/ik:rtb3-1/manifest.m3u8
+#EXTINF:-1 tvg-id="RTB.bf" group-title="Uncategorized",RTB
+https://edge12.vedge.infomaniak.com/livecast/ik:rtblive1_8/manifest.m3u8
+#EXTINF:-1 tvg-id="RTFrance.fr" group-title="News",RT France
+https://rt-fra.rttv.com/dvr/rtfrance/playlist.m3u8
 #EXTINF:-1 tvg-id="RTFrance.fr" group-title="News",RT France
 https://rt-fra.rttv.com/live/rtfrance/playlist.m3u8
 #EXTINF:-1 tvg-id="RTI1.ci" group-title="General",RTI 1
@@ -965,6 +967,8 @@ https://live.vrtcdn.be/groupb/live/450aa9d1-7173-47f3-aaaa-9701426f8ddd/live.ism
 https://live.vrtcdn.be/groupb/live/450aa9d1-7173-47f3-aaaa-9701426f8ddd/live.isml/.mpd
 #EXTINF:-1 tvg-id="SuperyachtTV.mc" group-title="Lifestyle",Superyacht TV
 https://sy.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="Syfy.fr" group-title="Uncategorized",Syfy
+http://99.27.51.147:8080/SYFY/index.m3u8
 #EXTINF:-1 tvg-id="T18.fr" group-title="General",T18
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/t18/t18-dm.m3u8
 #EXTINF:-1 tvg-id="TAGTV.ca" group-title="Uncategorized",TAG TV
@@ -1139,6 +1143,10 @@ http://45.14.84.37/tv5monde/index.m3u8
 https://ert-ucdn.broadpeak-aas.com/bpk-tv/TV5/default/index.m3u8
 #EXTINF:-1 tvg-id="TV5MondeStyle.fr" group-title="Lifestyle",TV5Monde Style
 https://ott.tv5monde.com/Content/HLS/Live/channel(style1)/variant.m3u8
+#EXTINF:-1 tvg-id="TV5QuebecCanada.ca" group-title="Uncategorized",TV5 Quebec Canada
+http://23.133.220.149/TV5/index.m3u8
+#EXTINF:-1 tvg-id="TV5Unis.ca" group-title="Uncategorized",TV5 Unis
+http://23.133.220.149/Unis_TV/index.m3u8
 #EXTINF:-1 tvg-id="TV7Colmar.fr" group-title="General",TV7 Colmar
 https://tv7.live-kd.com/live/tv7/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="TV10.rw" group-title="General",TV10
