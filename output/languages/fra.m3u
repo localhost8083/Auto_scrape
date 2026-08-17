@@ -759,6 +759,8 @@ https://euhls.persiana.live/hls/stream.m3u8
 https://onehls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="PersianaTurkiye.fr" group-title="Entertainment",Persiana Turkiye
 https://turkhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="PlayTV.cm" group-title="Music",Play TV
+http://connectiktv.ddns.net:5000/playtv/@playtv/playlist.m3u8
 #EXTINF:-1 tvg-id="PLEXTV.cm" group-title="Entertainment",PLEX TV
 http://connectiktv.ddns.net:5000/plextv/@plextv/playlist.m3u8
 #EXTINF:-1 tvg-id="PrimeAsiaTV.ca" group-title="Uncategorized",Prime Asia TV
@@ -1029,8 +1031,6 @@ https://jmp2.uk/plu-63da370e2e477400081cf8b6.m3u8
 http://193.111.198.85:8589/stream/mstv/rtbftipiklive26/master.m3u8?p=967e33767f592e1aaf3d4019f38f380bf784e113b193d89c412d047059d6300d&u=Oleg
 #EXTINF:-1 tvg-id="TMA.gp" group-title="Music",TMA
 http://hls.tmacaraibes.com/live/index.m3u8
-#EXTINF:-1 tvg-id="TMC.fr" group-title="General",TMC
-http://151.80.18.177:86/TMC/index.m3u8
 #EXTINF:-1 tvg-id="TodayRadio.lu" group-title="Music",Today Radio
 https://stream.rtl.lu/data/live/tele/rtltodayradio/playlist.m3u8
 #EXTINF:-1 tvg-id="Toronto360TV.ca" group-title="Uncategorized",Toronto 360 TV
@@ -1157,6 +1157,8 @@ https://tvf-tv5ch.otteravision.com/tvf/tv5ch/tv5ch.m3u8
 http://5.180.164.197:8080/TV5MONDE/index.m3u8
 #EXTINF:-1 tvg-id="TV5MondeEurope.fr" group-title="General",TV5Monde Europe
 http://45.14.84.37/tv5monde/index.m3u8
+#EXTINF:-1 tvg-id="TV5MondeEurope.fr" group-title="General",TV5Monde Europe
+https://ert-ucdn.broadpeak-aas.com/bpk-tv/TV5/default/index.m3u8
 #EXTINF:-1 tvg-id="TV5MondeStyle.fr" group-title="Lifestyle",TV5Monde Style
 https://ott.tv5monde.com/Content/HLS/Live/channel(style1)/variant.m3u8
 #EXTINF:-1 tvg-id="TV5QuebecCanada.ca" group-title="Uncategorized",TV5 Quebec Canada
