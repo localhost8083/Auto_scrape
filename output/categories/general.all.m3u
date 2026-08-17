@@ -114,8 +114,6 @@ https://public.apsny.camera/tv_abaza_tv_to_site/index.m3u8
 #EXTINF:-1 tvg-id="ABC.us" group-title="General",ABC
 http://190.11.225.124:5000/live/abc_hd/playlist.m3u8
 #EXTINF:-1 tvg-id="ABC.us" group-title="General",ABC
-http://40.160.24.56/ABC_SD/index.m3u8
-#EXTINF:-1 tvg-id="ABC.us" group-title="General",ABC
 http://stream.cammonitorplus.net/1797/index.m3u8
 #EXTINF:-1 tvg-id="ABCAustralia.au" group-title="General",ABC Australia
 http://103.154.3.101:5001/live/2782.m3u8
@@ -871,6 +869,10 @@ https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_w
 https://xemzi.short.gy/1000001
 #EXTINF:-1 tvg-id="BBCUHD2.uk" group-title="General",BBC UHD 2
 https://xemzi.short.gy/1000002
+#EXTINF:-1 tvg-id="BBCUHD3.uk" group-title="General",BBC UHD 3
+http://45.14.84.37/bbc3/index.m3u8
+#EXTINF:-1 tvg-id="BBCUHD4.uk" group-title="General",BBC UHD 4
+http://45.14.84.37/bbc4/index.m3u8
 #EXTINF:-1 tvg-id="BBNTV.bz" group-title="General",BBN TV
 https://streamer2.nexgen.bz/06-BBN/index.m3u8
 #EXTINF:-1 tvg-id="BBSTV.ug" group-title="General",BBS TV
@@ -897,6 +899,8 @@ https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus1.smil/playlist.m3u8
 https://ngtrk.dc.beltelecom.by/ngtrk/_definst_/smil:belarus1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Belarus1.by" group-title="General",Belarus-1
 http://82.209.232.129:10102/0.ts
+#EXTINF:-1 tvg-id="Belarus4.by" group-title="General",Belarus-4
+https://live.dc.beltelecom.by/trkgomel/trkgomel.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Belarus4.by" group-title="General",Belarus-4
 https://ngtrk.dc.beltelecom.by/vtv/bt4.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Belgorod24.ru" group-title="General",Belgorod 24
@@ -1851,8 +1855,6 @@ https://livestream.telvue.com/cvtv1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlis
 https://eu1.servers10.com:8081/8128/index.m3u8
 #EXTINF:-1 tvg-id="CW.us" group-title="General",CW
 https://messi.damitv.st/papi/ts/cw-usa/playlist.m3u8
-#EXTINF:-1 tvg-id="CW.us" group-title="General",CW
-http://40.160.24.56/CW_SD/index.m3u8
 #EXTINF:-1 tvg-id="DaAi1.tw" group-title="General",DaAi 1
 https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 #EXTINF:-1 tvg-id="DaAi2.tw" group-title="General",DaAi 2
@@ -2367,8 +2369,6 @@ https://twitch-m3u8.bastypro112.workers.dev/tvfortalezacueto/index.m3u8
 https://stream.fortistv.com/hls/fortis-news/index.m3u8
 #EXTINF:-1 tvg-id="Fox.us" group-title="General",Fox
 https://messi.damitv.st/papi/ts/fox-usa/playlist.m3u8
-#EXTINF:-1 tvg-id="Fox.us" group-title="General",Fox
-http://40.160.24.56/FOX_SD/index.m3u8
 #EXTINF:-1 tvg-id="Fox.us" group-title="General",Fox
 http://stream.cammonitorplus.net/1752/index.m3u8
 #EXTINF:-1 tvg-id="Fox.us" group-title="General",Fox
@@ -5716,9 +5716,9 @@ https://live2.telemicro.com.do/live/55/playlist.m3u8
 #EXTINF:-1 tvg-id="TeleMocoaCanal10.co" group-title="General",Tele Mocoa Canal 10
 https://live.amelbatv.co:81/telemocoalive/index.m3u8
 #EXTINF:-1 tvg-id="Telemundo.us" group-title="General",Telemundo
-http://45.190.13.8/TelemundoHD/index.m3u8
-#EXTINF:-1 tvg-id="Telemundo.us" group-title="General",Telemundo
 http://190.11.225.124:5000/live/telemundo_hd/playlist.m3u8
+#EXTINF:-1 tvg-id="Telemundo.us" group-title="General",Telemundo
+http://45.190.13.8/TelemundoHD/index.m3u8
 #EXTINF:-1 tvg-id="Telemundo.us" group-title="General",Telemundo
 http://181.119.108.43:9001/play/a044/index.m3u8
 #EXTINF:-1 tvg-id="Telemundo.us" group-title="General",Telemundo

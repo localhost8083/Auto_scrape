@@ -716,8 +716,6 @@ https://jmp2.uk/plu-6231e9b7f6deff00074674f4.m3u8
 #EXTINF:-1 tvg-id="CBSNews247.us" group-title="News",CBS News 24/7
 https://jmp2.uk/plu-6231eb3865be650007f59595.m3u8
 #EXTINF:-1 tvg-id="CBSNews247.us" group-title="News",CBS News 24/7
-http://40.160.24.56/CBS_NEWS/index.m3u8
-#EXTINF:-1 tvg-id="CBSNews247.us" group-title="News",CBS News 24/7
 https://cbsn-us-vtt.cbsnstream.cbsnews.com/out/v1/ef868690d34144509eda696884bf1619/master.m3u8
 #EXTINF:-1 tvg-id="CBSNews247.us" group-title="News",CBS News 24/7
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
@@ -1348,6 +1346,8 @@ https://live-gbnews.simplestreamcdn.com/s3/gbnews/index.m3u8
 #EXTINF:-1 tvg-id="GBNews.uk" group-title="News",GB News
 https://live-gbnews.simplestreamcdn.com/s3/gbnews_subs/index.m3u8
 #EXTINF:-1 tvg-id="GBNews.uk" group-title="News",GB News
+https://hlspackager.akamaized.net/live/DB/GB_NEWS/HLS/GB_NEWS.m3u8
+#EXTINF:-1 tvg-id="GBNews.uk" group-title="News",GB News
 https://rakutenaa-lightning-gbnews-rakuten-ccoa9.amagi.tv/playlist/rakutenAA-lightning-gbnews-rakuten/playlist.m3u8
 #EXTINF:-1 tvg-id="GBNews.uk" group-title="News",GB News
 https://amg01076-lightningintern-gbnews-samsunguk-0lu52.amagi.tv/playlist.m3u8
@@ -1455,8 +1455,12 @@ http://103.86.135.164:9981/stream/channelid/2024790699?profile=pass&ticket=CAC87
 http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_346.m3u8
 #EXTINF:-1 tvg-id="i24NEWSArabic.il" group-title="News",i24NEWS Arabic
 https://i24newsarabic-cdn.encoders.immergo.tv/master.m3u8
+#EXTINF:-1 tvg-id="i24NEWSArabic.il" group-title="News",i24NEWS Arabic
+https://hlspackager.akamaized.net/live/DB/i24_ARABIC/HLS/i24_ARABIC.m3u8
 #EXTINF:-1 tvg-id="i24NEWSEnglishWorld.il" group-title="News",i24NEWS English World
 https://i24newsenglish-cdn.encoders.immergo.tv/master.m3u8
+#EXTINF:-1 tvg-id="i24NEWSEnglishWorld.il" group-title="News",i24NEWS English World
+https://hlspackager.akamaized.net/live/DB/i24_ENGLISH/HLS/i24_ENGLISH.m3u8
 #EXTINF:-1 tvg-id="i24NEWSFrench.il" group-title="News",i24NEWS French
 https://i24newsfrench-cdn.encoders.immergo.tv/master.m3u8
 #EXTINF:-1 tvg-id="i24NEWSFrench.il" group-title="News",i24NEWS French
@@ -2052,8 +2056,6 @@ http://170.83.16.50/NHK_WORLD/index.m3u8
 #EXTINF:-1 tvg-id="NHKWorldJapan.jp" group-title="News, Culture",NHK World-Japan
 https://streams.comclark.com/pknsd/nhk_world/playlist.m3u8
 #EXTINF:-1 tvg-id="NHKWorldJapan.jp" group-title="News, Culture",NHK World-Japan
-https://op-group1-swiftservehd-1.dens.tv/h/h23/index.m3u8
-#EXTINF:-1 tvg-id="NHKWorldJapan.jp" group-title="News, Culture",NHK World-Japan
 https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8
 #EXTINF:-1 tvg-id="NHKWorldJapan.jp" group-title="News, Culture",NHK World-Japan
 https://media-osa.hls.nhkworld.jp/hls/w/live/master.m3u8
@@ -2061,8 +2063,6 @@ https://media-osa.hls.nhkworld.jp/hls/w/live/master.m3u8
 https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8
 #EXTINF:-1 tvg-id="NHKWorldJapan.jp" group-title="News, Culture",NHK World-Japan
 https://cdn-7.pishow.tv/live/455/master.m3u8
-#EXTINF:-1 tvg-id="NHKWorldJapan.jp" group-title="News, Culture",NHK World-Japan
-https://liveh12.vtvprime.vn/hls/NHKWORLD/03.m3u8
 #EXTINF:-1 tvg-id="NKTV24x7.in" group-title="News",NK TV 24x7
 https://nktv.smartstream.video/smartstream-us/nktvplus/nktvplus/chunks.m3u8
 #EXTINF:-1 tvg-id="NKTVBangla.in" group-title="News",NK TV Bangla

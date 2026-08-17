@@ -89,8 +89,6 @@ https://imn-live.esite-lab.com/hls/iraqia-general.m3u8
 https://imn-live.esite-lab.com/hls/iraqia-kurdish.m3u8
 #EXTINF:-1 tvg-id="AlIraqiaNews.iq" group-title="News",Al Iraqia News
 https://imn-live.esite-lab.com/hls/iraqia-news.m3u8
-#EXTINF:-1 tvg-id="AlIraqiaSport.iq" group-title="Sports",Al Iraqia Sport
-https://imn-live.esite-lab.com/hls/iraqia-sports-1.m3u8
 #EXTINF:-1 tvg-id="AlistiqamaTV.om" group-title="Religious",Alistiqama TV
 https://jmc-live.ercdn.net/alistiqama/alistiqama.m3u8
 #EXTINF:-1 tvg-id="AlJadeed.lb" group-title="General",Al Jadeed
@@ -173,6 +171,8 @@ https://bucharest.zeuscdn724.com/lb0/CH-AL-MA/index.m3u8
 https://streaming.zaytonatube.com:8081/AlMadinatv/almadina21/index.m3u8
 #EXTINF:-1 tvg-id="AlMaghribia.ma" group-title="General",Al Maghribia
 http://185.9.2.18/chid_205/index.m3u8
+#EXTINF:-1 tvg-id="AlManar.lb" group-title="News",Al-Manar
+https://edge.fastpublish.me/live/index.m3u8
 #EXTINF:-1 tvg-id="AlMasarTV.ly" group-title="News",Al Masar TV
 https://starmenajo.com/hls/almasar/index.m3u8
 #EXTINF:-1 tvg-id="AlMasirah.ye" group-title="News",Al Masirah
@@ -367,8 +367,12 @@ http://stream.mcquack.net/379/index.m3u8
 https://cdn.bestream.io:19360/elfaro1/elfaro1.m3u8
 #EXTINF:-1 tvg-id="i24NEWSArabic.il" group-title="News",i24NEWS Arabic
 https://i24newsarabic-cdn.encoders.immergo.tv/master.m3u8
+#EXTINF:-1 tvg-id="i24NEWSArabic.il" group-title="News",i24NEWS Arabic
+https://hlspackager.akamaized.net/live/DB/i24_ARABIC/HLS/i24_ARABIC.m3u8
 #EXTINF:-1 tvg-id="i24NEWSEnglishWorld.il" group-title="News",i24NEWS English World
 https://i24newsenglish-cdn.encoders.immergo.tv/master.m3u8
+#EXTINF:-1 tvg-id="i24NEWSEnglishWorld.il" group-title="News",i24NEWS English World
+https://hlspackager.akamaized.net/live/DB/i24_ENGLISH/HLS/i24_ENGLISH.m3u8
 #EXTINF:-1 tvg-id="i24NEWSFrench.il" group-title="News",i24NEWS French
 https://i24newsfrench-cdn.encoders.immergo.tv/master.m3u8
 #EXTINF:-1 tvg-id="i24NEWSHebrew.il" group-title="News",i24NEWS Hebrew
@@ -541,6 +545,8 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-persia/818ee8e4b592dc4976
 https://hls.mbcpersia.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="MBCPlusDrama.sa" group-title="Movies",MBC+ Drama
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-plus-drama/e37251ec2aac8f6c98f75cd0fa37cd28/index.m3u8
+#EXTINF:-1 tvg-id="Medi1TVAfrique.ma" group-title="News",Medi1TV Afrique
+https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-afrique_tm7tu45/playlist.m3u8
 #EXTINF:-1 tvg-id="Medi1TVAfrique.ma" group-title="News",Medi1TV Afrique
 https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-afrique_tm7tu45/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="Medi1TVArabic.ma" group-title="News",Medi1TV Arabic
