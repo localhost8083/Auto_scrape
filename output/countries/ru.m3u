@@ -126,8 +126,6 @@ https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1 tvg-id="ChannelOne.ru" group-title="General",Channel One
 https://stream8.cinerama.uz/1214/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ChannelOne.ru" group-title="General",Channel One
-http://45.153.24.78/1TV/index.m3u8
-#EXTINF:-1 tvg-id="ChannelOne.ru" group-title="General",Channel One
 http://178.217.49.7/1/index.m3u8
 #EXTINF:-1 tvg-id="ChannelOne.ru" group-title="General",Channel One
 https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
@@ -419,6 +417,8 @@ http://mirbelogorya.ru:8080/mirbelogorya/index.m3u8
 http://stream.tvbelgorod.ru:8080/mirbelogorya/index.m3u8
 #EXTINF:-1 tvg-id="MMATVcom.ru" group-title="Sports",MMA-TV.com
 https://stream8.cinerama.uz/1226/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="MMATVcom.ru" group-title="Sports",MMA-TV.com
+https://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8
 #EXTINF:-1 tvg-id="MosfilmGoldCollection.ru" group-title="Movies",Mosfilm Gold Collection
 http://hls127.freeott.top:8080/Mosfilm/video.m3u8
 #EXTINF:-1 tvg-id="MosfilmGoldCollection.ru" group-title="Movies",Mosfilm Gold Collection
@@ -708,8 +708,6 @@ https://rt-doc.rttv.com/dvr/rtdru/playlist.m3u8
 #EXTINF:-1 tvg-id="RTDocumentary.ru" group-title="Documentary",RT Documentary
 https://streaming.thestream.cyou/live/554.m3u8
 #EXTINF:-1 tvg-id="RTenEspanol.ru" group-title="News",RT en Espanol
-http://15.204.246.24:8080/RTHD/index.m3u8
-#EXTINF:-1 tvg-id="RTenEspanol.ru" group-title="News",RT en Espanol
 http://179.60.51.134:8888/RT/index.m3u8
 #EXTINF:-1 tvg-id="RTenEspanol.ru" group-title="News",RT en Espanol
 https://live-evg10.tv360.bitel.com.pe/bitel/rt/playlist.m3u8
@@ -839,8 +837,6 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/yakutsk/russia1-hd/index.m3u8
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/4/russia1-hd/index.m3u8
 #EXTINF:-1 tvg-id="Russia1.ru" group-title="General",Russia-1
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/5/russia1-hd/index.m3u8
-#EXTINF:-1 tvg-id="Russia1.ru" group-title="General",Russia-1
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/6/russia1-hd/index.m3u8
 #EXTINF:-1 tvg-id="Russia1.ru" group-title="General",Russia-1
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/7/russia1-hd/index.m3u8
 #EXTINF:-1 tvg-id="Russia1.ru" group-title="General",Russia-1
@@ -1261,6 +1257,10 @@ http://catchup.videoline.ru/shanson/index.m3u8
 http://hls127.freeott.top:8080/Shanson_Tv/video.m3u8
 #EXTINF:-1 tvg-id="ShansonTV.ru" group-title="Music",Shanson TV
 https://uiptv.do.am/1ufc/602079679/playlist.m3u8
+#EXTINF:-1 tvg-id="ShansonTV.ru" group-title="Music",Shanson TV
+http://hls.shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="ShansonTV.ru" group-title="Music",Shanson TV
+https://hls-shansontv.cdnvideo.ru/shansontv/smil:shansontv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ShchyolkovskoeTV.ru" group-title="Uncategorized",Shchyolkovskoe TV
 http://stream0.tv41.ru/live.m3u8
 #EXTINF:-1 tvg-id="Shef.ru" group-title="Series",Shef
