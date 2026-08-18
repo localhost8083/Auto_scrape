@@ -307,6 +307,8 @@ http://stream.mcquack.net/412/index.m3u8
 https://stream8.cinerama.uz/1273/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Drive.ru" group-title="Auto",Drive
 https://stream8.cinerama.uz/1421/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="DumaTV.ru" group-title="Legislative",Duma TV
+https://dumatv.iptv2022.com/playlist.m3u8
 #EXTINF:-1 tvg-id="Dunyoboylab.uz" group-title="General",Dunyo bo'ylab
 https://stream8.cinerama.uz/1006/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-id="Dushevnoe.ru" group-title="Uncategorized",Dushevnoe
@@ -363,8 +365,6 @@ http://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/playlist.m3u8
 https://stream8.cinerama.uz/1445/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="GulliGirl.ru" group-title="Kids",Gulli Girl
 http://stream.mcquack.net/305/index.m3u8
-#EXTINF:-1 tvg-id="GulliGirl.ru" group-title="Kids",Gulli Girl
-https://live-3.otcnet.ru/GulliGirl/index.m3u8
 #EXTINF:-1 tvg-id="Hit.ru" group-title="Movies",Hit
 http://hls127.freeott.top:8080/XitHD/video.m3u8
 #EXTINF:-1 tvg-id="Hit.ru" group-title="Movies",Hit
@@ -561,8 +561,6 @@ http://mirbelogorya.ru:8080/mirbelogorya/index.m3u8
 http://stream.tvbelgorod.ru:8080/mirbelogorya/index.m3u8
 #EXTINF:-1 tvg-id="MMATVcom.ru" group-title="Sports",MMA-TV.com
 https://stream8.cinerama.uz/1226/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="MMATVcom.ru" group-title="Sports",MMA-TV.com
-https://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8
 #EXTINF:-1 tvg-id="MosfilmGoldCollection.ru" group-title="Movies",Mosfilm Gold Collection
 http://hls127.freeott.top:8080/Mosfilm/video.m3u8
 #EXTINF:-1 tvg-id="MosfilmGoldCollection.ru" group-title="Movies",Mosfilm Gold Collection
@@ -876,6 +874,8 @@ https://live.chechensoft.ru/vainahtv/ngrp:vaynahtv_all/playlist.m3u8
 #EXTINF:-1 tvg-id="RT.ru" group-title="News",RT
 https://wisewatchoott.wiseplayout.com/RT/master.m3u8
 #EXTINF:-1 tvg-id="RT.ru" group-title="News",RT
+http://212.5.144.156:8080/rt/index.m3u8
+#EXTINF:-1 tvg-id="RT.ru" group-title="News",RT
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 #EXTINF:-1 tvg-id="RT.ru" group-title="News",RT
 https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
@@ -896,7 +896,11 @@ https://rt-doc.rttv.com/dvr/rtdru/playlist.m3u8
 #EXTINF:-1 tvg-id="RTDocumentary.ru" group-title="Documentary",RT Documentary
 https://streaming.thestream.cyou/live/554.m3u8
 #EXTINF:-1 tvg-id="RTenEspanol.ru" group-title="News",RT en Espanol
+http://15.204.246.24:8080/RTHD/index.m3u8
+#EXTINF:-1 tvg-id="RTenEspanol.ru" group-title="News",RT en Espanol
 http://179.60.51.134:8888/RT/index.m3u8
+#EXTINF:-1 tvg-id="RTenEspanol.ru" group-title="News",RT en Espanol
+https://live-evg10.tv360.bitel.com.pe/bitel/rt/playlist.m3u8
 #EXTINF:-1 tvg-id="RTenEspanol.ru" group-title="News",RT en Espanol
 https://streaming.thestream.cyou/live/46.m3u8
 #EXTINF:-1 tvg-id="RTenEspanol.ru" group-title="News",RT en Espanol
@@ -909,6 +913,8 @@ https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 http://stream.mcquack.net/164/index.m3u8
 #EXTINF:-1 tvg-id="RTRPlaneta.ru" group-title="General",RTR-Planeta
 https://stream.smotrim.ru/hls/planeta_rtr_asia/playlist.m3u8?entity=channel&id=511&sign=d1fe06cd922b67e412719536998fa43d
+#EXTINF:-1 tvg-id="RTRPlaneta.ru" group-title="General",RTR-Planeta
+https://streaming.televizor-24-tochka.ru/live/211.m3u8
 #EXTINF:-1 tvg-id="RTRPlaneta.ru" group-title="General",RTR-Planeta
 https://stream.smotrim.ru/hls/planeta_rtr_sng/playlist.m3u8?entity=channel&id=512&sign=2abaa592de074d65809a10b6bacc4410
 #EXTINF:-1 tvg-id="RTRPlaneta.ru" group-title="General",RTR-Planeta
@@ -1372,6 +1378,8 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/yakutsk/russia24-sd/index.m3u8
 #EXTINF:-1 tvg-id="Russia24.ru" group-title="News",Russia-24
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/yaroslavl/russia24-sd/index.m3u8
 #EXTINF:-1 tvg-id="Russia24.ru" group-title="News",Russia-24
+https://streaming.televizor-24-tochka.ru/live/30.m3u8
+#EXTINF:-1 tvg-id="Russia24.ru" group-title="News",Russia-24
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8
 #EXTINF:-1 tvg-id="RussiaK.ru" group-title="Culture",Russia-K
 https://stream.smotrim.ru/hls2/russia_k/playlist_5.m3u8
@@ -1443,10 +1451,6 @@ http://catchup.videoline.ru/shanson/index.m3u8
 http://hls127.freeott.top:8080/Shanson_Tv/video.m3u8
 #EXTINF:-1 tvg-id="ShansonTV.ru" group-title="Music",Shanson TV
 https://uiptv.do.am/1ufc/602079679/playlist.m3u8
-#EXTINF:-1 tvg-id="ShansonTV.ru" group-title="Music",Shanson TV
-http://hls.shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="ShansonTV.ru" group-title="Music",Shanson TV
-https://hls-shansontv.cdnvideo.ru/shansontv/smil:shansontv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ShchyolkovskoeTV.ru" group-title="Uncategorized",Shchyolkovskoe TV
 http://stream0.tv41.ru/live.m3u8
 #EXTINF:-1 tvg-id="Shef.ru" group-title="Series",Shef
@@ -1583,8 +1587,6 @@ https://bsttv.bonus-tv.ru/cdn/tamyr/playlist.m3u8
 https://stream8.cinerama.uz/1204/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Tavriya.ru" group-title="General",Tavriya
 https://streaming.televizor-24-tochka.ru/live/24.m3u8
-#EXTINF:-1 tvg-id="TDK42.kz" group-title="Uncategorized",TDK 42
-https://live-tdk42kz.cdnvideo.ru/tdk42kz/tdk42kz_720.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Teatr.ru" group-title="Culture",Teatr
 http://hls127.freeott.top:8080/Teatr/video.m3u8
 #EXTINF:-1 tvg-id="Telecafe.ru" group-title="Cooking",Telecafe
@@ -1601,6 +1603,8 @@ https://streaming.astrakhan.ru/telplushd/playlist.m3u8
 http://stream.mcquack.net/111/index.m3u8
 #EXTINF:-1 tvg-id="TiJi.ru" group-title="Kids",TiJi
 https://stream8.cinerama.uz/1441/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="TKR.ru" group-title="Uncategorized",TKR
+http://live.tkr.cdnvideo.ru/tkr/tkr.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="TNT4.ru" group-title="Entertainment",TNT4
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8
 #EXTINF:-1 tvg-id="TNT.ru" group-title="Entertainment",TNT
@@ -1793,6 +1797,8 @@ https://stream8.cinerama.uz/1016/tracks-v1a1/mono.m3u8
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
 #EXTINF:-1 tvg-id="Zvezda.ru" group-title="General",Zvezda
 https://tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist.m3u8
+#EXTINF:-1 tvg-id="Zvezda.ru" group-title="General",Zvezda
+http://51.158.144.33:2021/zvezda/index.m3u8
 #EXTINF:-1 tvg-id="Zvezda.ru" group-title="General",Zvezda
 https://stream8.cinerama.uz/1050/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Zvezda.ru" group-title="General",Zvezda
