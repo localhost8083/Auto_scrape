@@ -79,8 +79,6 @@ https://jmp2.uk/plu-6452c77ed3fdde00080eb3a8.m3u8
 https://jmp2.uk/plu-5f4d86f519358a00072b978e.m3u8
 #EXTINF:-1 tvg-id="ABC.us" group-title="General",ABC
 http://190.11.225.124:5000/live/abc_hd/playlist.m3u8
-#EXTINF:-1 tvg-id="ABC.us" group-title="General",ABC
-http://stream.cammonitorplus.net/1797/index.m3u8
 #EXTINF:-1 tvg-id="ABCNewsLive1.us" group-title="News",ABC News Live 1
 https://abcnews-streams.akamaized.net/hls/live/2023560/abcnewshudson1/master.m3u8
 #EXTINF:-1 tvg-id="ABCNewsLive2.us" group-title="News",ABC News Live 2
@@ -1317,8 +1315,12 @@ http://177.234.249.178:8888/PARAMOUNT/index.m3u8
 https://media.streambrothers.com:1936/8276/8276/playlist.m3u8
 #EXTINF:-1 tvg-id="DiffrentStrokesArnold.us" group-title="Series",Diff'rent Strokes Arnold
 https://jmp2.uk/plu-61f1d27a189ed10007b7393e.m3u8
+#EXTINF:-1 tvg-id="DisneyChannel.us" group-title="Kids",Disney Channel
+http://212.5.144.156/disney/index.m3u8
 #EXTINF:-1 tvg-id="DisneyJunior.us" group-title="Kids",Disney Junior
 http://23.237.104.106:8080/USA_DISNEY_JUNIOR/index.m3u8
+#EXTINF:-1 tvg-id="DisneyJunior.us" group-title="Kids",Disney Junior
+http://212.5.144.156/disneyjr/index.m3u8
 #EXTINF:-1 tvg-id="DisneyJunior.us" group-title="Kids",Disney Junior
 http://tvsen5.aynascope.net/disney/index.m3u8
 #EXTINF:-1 tvg-id="DisneyJunior.us" group-title="Kids",Disney Junior
@@ -1967,6 +1969,8 @@ http://177.234.249.178:8888/HISTORY2/index.m3u8
 http://181.119.66.28:8081/HISTORY-2/index.m3u8
 #EXTINF:-1 tvg-id="History2LatinAmerica.us" group-title="Documentary",History 2 Latin America
 http://190.93.224.42/HISTORY-2/index.m3u8
+#EXTINF:-1 tvg-id="History.us" group-title="Documentary",History
+http://212.5.144.156:8080/history/index.m3u8
 #EXTINF:-1 tvg-id="HistoryAsia.us" group-title="Documentary",History Asia
 https://freem3u.xyz/api/live/play.m3u8?vid=9856
 #EXTINF:-1 tvg-id="HistoryLatinAmerica.us" group-title="Documentary",History Latin America
@@ -2890,7 +2894,7 @@ https://livestream.telvue.com/natickpegasus3/f7b44cfafd5c52223d5498196c8a2e7b.sd
 #EXTINF:-1 tvg-id="NatickPublicAccessChannel.us" group-title="General",Natick Public Access Channel
 https://livestream.telvue.com/natickpegasus2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="NationalGeographic.us" group-title="Documentary",National Geographic
-http://198.58.104.90:8989/natgeo/index.m3u8
+http://212.5.144.156:8080/natgeo/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographicLatinAmerica.us" group-title="Documentary",National Geographic Latin America
 http://15.204.246.24:8080/NatGeoHD/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographicLatinAmerica.us" group-title="Documentary",National Geographic Latin America
@@ -2975,16 +2979,20 @@ https://ads.its-newid.net/api/manifest.m3u8?ads.service_id=GB1700007PK&channel_i
 https://ads.its-newid.net/api/manifest.m3u8?ads.service_id=GB17000088V&channel_id=newid_086&tp=samsung_tvplus
 #EXTINF:-1 tvg-id="NEWKPOP.us" group-title="Music",NEW K-POP
 https://newidco-newkid-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="News12Conneticut.us" group-title="News",News12 Conneticut
+https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12CH_FFLD_MILF_A1/index_new.m3u8?omap=https
 #EXTINF:-1 tvg-id="News12LongIsland.us" group-title="News",News12 Long Island
 https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12LH_WEST_A1/index_new.m3u8?omap=https
+#EXTINF:-1 tvg-id="News12NewJersey.us" group-title="News",News12 New Jersey
+https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12JH_CENT_A1/index_new.m3u8?omap=https
 #EXTINF:-1 tvg-id="News12NewYork.us" group-title="News",News12 New York
 https://jmp2.uk/plu-5fff49cfb5cd4f0007c2b0dc.m3u8
 #EXTINF:-1 tvg-id="News12NewYork.us" group-title="News",News12 New York
 https://aegis-cloudfront-1.tubi.video/97fbb992-c212-4164-8406-abb6f731e517/playlist.m3u8
 #EXTINF:-1 tvg-id="News12PlusConnecticut.us" group-title="News",News12+ Connecticut
 https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_CT_A1/index_new.m3u8
-#EXTINF:-1 tvg-id="News12PlusHudsonValley.us" group-title="News",News12+ Hudson Valley
-https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_WC_A1/index_new.m3u8
+#EXTINF:-1 tvg-id="News12PlusNewJersey.us" group-title="News",News12+ New Jersey
+https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_NJ_A1/index_new.m3u8
 #EXTINF:-1 tvg-id="Newsmax2.us" group-title="News",Newsmax 2
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 #EXTINF:-1 tvg-id="Newsmax2.us" group-title="News",Newsmax 2
@@ -3037,8 +3045,6 @@ https://d265y4sk8257lt.cloudfront.net/nh.m3u8
 https://aegis-cloudfront-1.tubi.video/b8c5eb48-349b-454f-9625-63911ee923f5/playlist.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon.us" group-title="Kids",Nickelodeon
 http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
-#EXTINF:-1 tvg-id="Nickelodeon.us" group-title="Kids",Nickelodeon
-http://198.58.104.90:8989/nickelodeon/index.m3u8
 #EXTINF:-1 tvg-id="NickelodeonClasico.us" group-title="Kids",Nickelodeon Clasico
 https://jmp2.uk/plu-6824cda00101510f9eeaa011.m3u8
 #EXTINF:-1 tvg-id="NickelodeonClassico.us" group-title="Kids",Nickelodeon Classico
@@ -3065,6 +3071,8 @@ https://jmp2.uk/plu-5fab09a8749b1a00077d35d2.m3u8
 https://jmp2.uk/plu-645951c0e94c38000802d2cb.m3u8
 #EXTINF:-1 tvg-id="NickelodeonToons.us" group-title="Kids",Nickelodeon Toons
 https://jmp2.uk/plu-645952687cb4b100084ed52e.m3u8
+#EXTINF:-1 tvg-id="NickJr.us" group-title="Kids",Nick Jr.
+http://212.5.144.156:8080/nickjr/index.m3u8
 #EXTINF:-1 tvg-id="NickJr.us" group-title="Kids",Nick Jr.
 http://tvsen7.aynascope.net/nickjr/index.m3u8
 #EXTINF:-1 tvg-id="NickJrClub.us" group-title="Kids",Nick Jr. Club
@@ -3775,6 +3783,8 @@ https://d1uvnirn6lhs2f.cloudfront.net/playlist.m3u8
 https://amc-portlandia-1-us.xumo.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="PositivTV.us" group-title="Family",Positiv TV
 https://livecdn.use1-0004.jwplive.com/live/sites/fGLyccP5/media/FoWynVnP/live.isml/.m3u8
+#EXTINF:-1 tvg-id="PositivTV.us" group-title="Family",Positiv TV
+http://trn03.bozztv.com/gin-positiv/index.m3u8
 #EXTINF:-1 tvg-id="PottaDivineTVUSA.us" group-title="Religious",Potta-Divine TV USA
 https://playout7multirtmp.tulix.tv/live21/Stream1/playlist.m3u8
 #EXTINF:-1 tvg-id="PowerNationTV.us" group-title="Auto",PowerNation TV
@@ -4239,6 +4249,8 @@ http://23.237.104.106:8080/USA_SYFY/index.m3u8
 http://tvsen7.aynascope.net/syfy/index.m3u8
 #EXTINF:-1 tvg-id="TalkinLiveClassicsTV.us" group-title="Entertainment",Talkin Live Classics TV
 https://2-fss-1.streamhoster.com/pl_122/206338-3120682-1/playlist.m3u8
+#EXTINF:-1 tvg-id="TAPTVChannel23.us" group-title="Uncategorized",TAP TV Channel 23
+https://livestream.telvue.com/lompoccmttv1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="TAPTVChannel24.us" group-title="General",TAP TV Channel 24
 https://livestream.telvue.com/lompoccmttv2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="TAPTVChannel25.us" group-title="General",TAP TV Channel 25
@@ -4265,6 +4277,8 @@ https://d6ef3usc6d9cl.cloudfront.net/Tastemade_Travel.m3u8
 https://tm-tmtar-xumo.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TBN.us" group-title="Religious",TBN
 https://livecdn.use1-0004.jwplive.com/live/sites/Yal8cmyO/media/fCGf6ROk/live.isml/.m3u8
+#EXTINF:-1 tvg-id="TBN.us" group-title="Religious",TBN
+http://212.5.144.156:8080/tbn/index.m3u8
 #EXTINF:-1 tvg-id="TBN.us" group-title="Religious",TBN
 https://a-cdn.klowdtv.com/live3/tbn_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="TBNArmenia.us" group-title="Uncategorized",TBN Armenia
@@ -4681,8 +4695,6 @@ https://rpn.bozztv.com/gusa/gusa-TVStalk/index.m3u8
 https://rpn.bozztv.com/gusa/gusa-tvstallyho/index.m3u8
 #EXTINF:-1 tvg-id="TVSTavern.us" group-title="Classic",TVS Tavern
 https://rpn.bozztv.com/gusa/gusa-tavern/index.m3u8
-#EXTINF:-1 tvg-id="TVSTelevisionNetwork.us" group-title="General",TVS Television Network
-https://rpn.bozztv.com/gusa/gusa-tvstn/index.m3u8
 #EXTINF:-1 tvg-id="TVSTravelNetwork.us" group-title="Travel",TVS Travel Network
 https://rpn.bozztv.com/gusa/gusa-tvstravel/index.m3u8
 #EXTINF:-1 tvg-id="TVSTurbo.us" group-title="Sports",TVS Turbo
