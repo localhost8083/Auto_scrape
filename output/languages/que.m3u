@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="36TVHuacho.pe" group-title="General",36 TV Huacho
 https://live-evg10.tv360.bitel.com.pe/bitel/36tvSRT/playlist.m3u8
+#EXTINF:-1 tvg-id="ABCTeleshow.pe" group-title="General",ABC Teleshow
+https://live-evg10.tv360.bitel.com.pe/bitel/abctv/playlist.m3u8
 #EXTINF:-1 tvg-id="ABTelevision.pe" group-title="General",ABTelevision
 https://live-evg8.tv360.bitel.com.pe/bitel/abctelevisionSRT/playlist.m3u8
 #EXTINF:-1 tvg-id="AbyaYalaTV.bo" group-title="General",Abya Yala TV
@@ -125,6 +127,8 @@ https://live-evg11.tv360.bitel.com.pe/bitel/mastvSRT/playlist.m3u8
 https://live-evg10.tv360.bitel.com.pe/bitel/anqaratv/playlist.m3u8
 #EXTINF:-1 tvg-id="CasmaTV.pe" group-title="General",Casma TV
 https://live-evg7.tv360.bitel.com.pe/bitel/casmatvSRT-TRA/playlist.m3u8
+#EXTINF:-1 tvg-id="CEACOMTV.bo" group-title="News, Lifestyle, Music, General",CEACOM TV
+https://eu1.servers10.com:8081/ceacom/index.m3u8
 #EXTINF:-1 tvg-id="CharapaTV.pe" group-title="General",Charapa TV
 https://live-evg10.tv360.bitel.com.pe/bitel/charapatvSRT/playlist.m3u8
 #EXTINF:-1 tvg-id="Conecta2TV.pe" group-title="News",Conecta2TV
@@ -322,8 +326,6 @@ https://live-evg8.tv360.bitel.com.pe/bitel/planeatvSRT/playlist.m3u8
 #EXTINF:-1 tvg-id="PlusTLT.bo" group-title="Uncategorized",Plus TLT
 http://15.204.246.24:8080/PlusTLTHD/index.m3u8
 #EXTINF:-1 tvg-id="PoderdeDiosTV.bo" group-title="Religious",Poder de Dios TV
-http://15.204.246.24:8080/PoderdeDiosHD/index.m3u8
-#EXTINF:-1 tvg-id="PoderdeDiosTV.bo" group-title="Religious",Poder de Dios TV
 https://s3.tvdatta.com:3846/live/poderdedioslive.m3u8
 #EXTINF:-1 tvg-id="Primavera15.pe" group-title="General",Primavera 15
 https://mc.servidor.stream:19360/8244/8244.m3u8
@@ -384,8 +386,6 @@ https://live-evg7.tv360.bitel.com.pe/bitel/regiontvSRT/playlist.m3u8
 #EXTINF:-1 tvg-id="RegionTVCallao.pe" group-title="Uncategorized",Region TV Callao
 https://servilive.com:3757/live/regiontvlive.m3u8
 #EXTINF:-1 tvg-id="RikuTV.pe" group-title="Entertainment",Riku TV
-https://amixtv.com:8081/rikutv/index.m3u8
-#EXTINF:-1 tvg-id="RikuTV.pe" group-title="Entertainment",Riku TV
 https://live-evg7.tv360.bitel.com.pe/bitel/riku/playlist.m3u8
 #EXTINF:-1 tvg-id="RNTelevision.pe" group-title="Uncategorized",RN Television
 https://videoserver.tmcreativos.com:19360/rnyurimaguas/rnyurimaguas.m3u8
@@ -417,8 +417,6 @@ https://live-evg11.tv360.bitel.com.pe/bitel/solartvSRT/playlist.m3u8
 https://7.innovatestream.pe:19360/corporacionperiodistica/corporacionperiodistica.m3u8
 #EXTINF:-1 tvg-id="SolTV.bo" group-title="General",Sol TV
 http://190.211.140.91:8081/SVTranscoder/SOLTVabr.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="SolTV.pe" group-title="Uncategorized",SolTV
-https://live20.bozztv.com/giatv/giatv-soltvenvivo/soltvenvivo/chunks.m3u8
 #EXTINF:-1 tvg-id="SPCCanal15.bo" group-title="General",SPC Canal 15
 https://tv.centaurychile.com/magicatv/streams/22AdscM3Y6Un17Zo4747081346569358.m3u8
 #EXTINF:-1 tvg-id="SqalaTV.pe" group-title="Sports",Sqala TV
@@ -457,6 +455,8 @@ https://live-evg8.tv360.bitel.com.pe/bitel/tvempresaSRT/playlist.m3u8
 https://59d39900ebfb8.streamlock.net/teleestrella/teleestrella/playlist.m3u8
 #EXTINF:-1 tvg-id="TopTV.pe" group-title="General",Top TV
 https://tvdatta.com:3084/live/toptvaguaytialive.m3u8
+#EXTINF:-1 tvg-id="TransMedia.bo" group-title="General",TransMedia
+https://edge.enhdtv.com/8064/index.m3u8
 #EXTINF:-1 tvg-id="Trivu.pe" group-title="General",Trivu
 http://190.93.224.42/TRIVU-TV/index.m3u8
 #EXTINF:-1 tvg-id="Trivu.pe" group-title="General",Trivu
@@ -551,8 +551,6 @@ https://live.obslivestream.com/uraniotv/index.m3u8
 http://187.102.210.46/USMP/index.m3u8
 #EXTINF:-1 tvg-id="ViaAltomayo.pe" group-title="General",Via Altomayo
 https://live.obslivestream.com/viaaltomayomux/index.m3u8
-#EXTINF:-1 tvg-id="ViaTelevision.pe" group-title="General",Via Television
-https://videoserver.tmcreativos.com:19360/cablerasvia/cablerasvia.m3u8
 #EXTINF:-1 tvg-id="Vision.pe" group-title="Religious",Vision
 https://lbgo.bozztv.com/ssh101/ssh101/visiononline/playlist.m3u8
 #EXTINF:-1 tvg-id="VisionSur.pe" group-title="General",Vision Sur
