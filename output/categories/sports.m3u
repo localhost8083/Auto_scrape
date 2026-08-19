@@ -115,8 +115,6 @@ https://pb-wm04vonaerv0k.akamaized.net/billi.m3u8
 http://stream.mcquack.net/154/index.m3u8
 #EXTINF:-1 tvg-id="BrondbyTV.se" group-title="Sports",Brondby TV
 https://jmp2.uk/plu-685029cda1e091e16ff57fc8.m3u8
-#EXTINF:-1 tvg-id="CanalPlusSport360.fr" group-title="Sports",Canal+ Sport 360
-https://futbol9865.ultratv13.workers.dev/deportivo111/14.m3u8
 #EXTINF:-1 tvg-id="CanalShowsport.ar" group-title="Sports",Canal Showsport
 https://livestream.lumpentv.com.ar/hls/lumpen.m3u8
 #EXTINF:-1 tvg-id="CazeTV.br" group-title="Sports",CazeTV
@@ -273,8 +271,10 @@ https://live-manifest.production-public.tubi.io/live/d906efca-1302-4e29-b0d9-9a1
 http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
 #EXTINF:-1 tvg-id="FoxSports1.us" group-title="Sports",Fox Sports 1
 http://190.11.225.124:5000/live/fs1_hd/playlist.m3u8
-#EXTINF:-1 tvg-id="FoxSports.ar" group-title="Sports",Fox Sports
-https://futbol9865.ultratv13.workers.dev/deportivo111/78.m3u8
+#EXTINF:-1 tvg-id="FoxSports1.us" group-title="Sports",Fox Sports 1
+https://tvsen7.aynascope.net/foxsports1/index.m3u8
+#EXTINF:-1 tvg-id="FoxSports2.us" group-title="Sports",Fox Sports 2
+https://tvsen7.aynascope.net/foxsports2/index.m3u8
 #EXTINF:-1 tvg-id="FTFSports.us" group-title="Sports",FTF Sports
 https://1593604785.rsc.cdn77.org/FTF/FTF_SCTE.m3u8
 #EXTINF:-1 tvg-id="FTFSports.us" group-title="Sports",FTF Sports
@@ -333,6 +333,8 @@ https://a-cdn.klowdtv.com/live2/horsetv_720p/playlist.m3u8
 https://streams2.sofast.tv/vglive-sk-469239/index.m3u8
 #EXTINF:-1 tvg-id="HTSporTV.tr" group-title="Sports",HTSpor TV
 https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web
+#EXTINF:-1 tvg-id="HTVSports.vn" group-title="Sports",HTV Sports
+https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="InTrouble.nl" group-title="Auto, Sports, Outdoor",InTrouble
 https://amg00861-amg00861c6-rlaxx-uk-3951.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="InTrouble.nl" group-title="Auto, Sports, Outdoor",InTrouble
@@ -401,8 +403,6 @@ https://aegis-cloudfront-1.tubi.video/36ef2f9d-7100-4c4d-b41a-dbf41ab7e461/playl
 http://23.237.104.106:8080/USA_MLB_STRIKE_ZONE/index.m3u8
 #EXTINF:-1 tvg-id="MMATVcom.ru" group-title="Sports",MMA-TV.com
 https://stream8.cinerama.uz/1226/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="MMATVcom.ru" group-title="Sports",MMA-TV.com
-https://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8
 #EXTINF:-1 tvg-id="MNBSport.mn" group-title="Sports",MNB Sport
 https://live.mnb.mn/hls/mnb_sport.stream.m3u8
 #EXTINF:-1 tvg-id="MNBSport.mn" group-title="Sports",MNB Sport
@@ -683,8 +683,14 @@ https://7nyaler.streamhostingcdn.top/stream/8/index.m3u8
 https://7nyaler.streamhostingcdn.top/stream/10/index.m3u8
 #EXTINF:-1 tvg-id="SkySportsF1.ie" group-title="Sports",Sky Sports F1
 https://xemzi.short.gy/2000005
+#EXTINF:-1 tvg-id="SkySportsF1.uk" group-title="Sports",Sky Sports F1
+http://188.138.29.131/skysportsf1/index.m3u8
 #EXTINF:-1 tvg-id="SkySportsFootball.ie" group-title="Sports",Sky Sports Football
 https://7nyaler.streamhostingcdn.top/stream/39/index.m3u8
+#EXTINF:-1 tvg-id="SkySportsFootball.ie" group-title="Sports",Sky Sports Football
+http://188.138.29.131/skyfootball/index.m3u8
+#EXTINF:-1 tvg-id="SkySportsGolf.uk" group-title="Sports",Sky Sports Golf
+http://188.138.29.131/skygolf/index.m3u8
 #EXTINF:-1 tvg-id="SkySportsMainEvent.ie" group-title="Sports",Sky Sports Main Event
 https://7nyaler.streamhostingcdn.top/stream/19/index.m3u8
 #EXTINF:-1 tvg-id="SkySportsNews.uk" group-title="Sports",Sky Sports News
