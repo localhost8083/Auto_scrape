@@ -149,6 +149,8 @@ https://www.opencaster.com/resources/hls_stream/cultura24.m3u8
 http://15.204.246.24:8080/CVCHD/index.m3u8
 #EXTINF:-1 tvg-id="CVNTV.pe" group-title="General",CVN TV
 https://7.innovatestream.pe:19360/cvntumbes/cvntumbes.m3u8
+#EXTINF:-1 tvg-id="DacTV.pe" group-title="General",Dac TV
+https://live-evg8.tv360.bitel.com.pe/bitel/dactvSRT/playlist.m3u8
 #EXTINF:-1 tvg-id="DeltaTV.bo" group-title="General",Delta TV
 https://st.deltaboliviainstitucion.org:3778/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="DeltaTV.pe" group-title="Uncategorized",DeltaTV
@@ -303,6 +305,8 @@ https://live-evg8.tv360.bitel.com.pe/bitel/ozonotv/playlist.m3u8
 http://vps.chasquirouter.com/salida/ozono.m3u8
 #EXTINF:-1 tvg-id="PalenqueTV.bo" group-title="General",Palenque TV
 http://15.204.246.24:8080/PalenqueTVSD/index.m3u8
+#EXTINF:-1 tvg-id="PalenqueTV.bo" group-title="General",Palenque TV
+https://tv.bitstreaming.net:3234/live/palenquetvlive.m3u8
 #EXTINF:-1 tvg-id="PanamericanaTV.pe" group-title="General",Panamericana TV
 http://45.171.108.253:8888/PANAMERICANA/index.m3u8
 #EXTINF:-1 tvg-id="PanamericanaTV.pe" group-title="General",Panamericana TV
@@ -371,8 +375,6 @@ http://streamer1.streamhost.org:1935/salive/GMIredadvenirm/playlist.m3u8
 https://edge.enhdtv.com/redamerica/index.m3u8
 #EXTINF:-1 tvg-id="RedDTV.bo" group-title="General",Red DTV
 http://15.204.246.24:8080/DTVHD/index.m3u8
-#EXTINF:-1 tvg-id="RedRubi.bo" group-title="General",Red Rubi
-https://59d39900ebfb8.streamlock.net/asiesmipueblo/asiesmipueblo/playlist.m3u8
 #EXTINF:-1 tvg-id="RedTVShop.bo" group-title="Shop",Red TV Shop
 https://master.tucableip.com/redtvshop/index.m3u8
 #EXTINF:-1 tvg-id="RedUno.bo" group-title="General",Red Uno
@@ -415,8 +417,6 @@ https://livestream.perucast.com/hls/stream.m3u8
 https://video2.lhdserver.es/siscomtv/live.m3u8
 #EXTINF:-1 tvg-id="SolarTelevision.pe" group-title="Uncategorized",Solar Television
 https://live-evg11.tv360.bitel.com.pe/bitel/solartvSRT/playlist.m3u8
-#EXTINF:-1 tvg-id="SolarTelevision.pe" group-title="Uncategorized",Solar Television
-https://7.innovatestream.pe:19360/corporacionperiodistica/corporacionperiodistica.m3u8
 #EXTINF:-1 tvg-id="SolTV.bo" group-title="General",Sol TV
 http://190.211.140.91:8081/SVTranscoder/SOLTVabr.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="SqalaTV.pe" group-title="Sports",Sqala TV
@@ -451,12 +451,8 @@ https://live-evg11.tv360.bitel.com.pe/bitel/tvtarapotoSRT/playlist.m3u8
 https://live-evg8.tv360.bitel.com.pe/bitel/tvempresaSRT/playlist.m3u8
 #EXTINF:-1 tvg-id="Tevesur.pe" group-title="General",Tevesur
 https://live-evg11.tv360.bitel.com.pe/bitel/tevesurSRT/playlist.m3u8
-#EXTINF:-1 tvg-id="TLEstrella.bo" group-title="Uncategorized",TL Estrella
-https://59d39900ebfb8.streamlock.net/teleestrella/teleestrella/playlist.m3u8
 #EXTINF:-1 tvg-id="TopTV.pe" group-title="General",Top TV
 https://tvdatta.com:3084/live/toptvaguaytialive.m3u8
-#EXTINF:-1 tvg-id="TransMedia.bo" group-title="General",TransMedia
-https://edge.enhdtv.com/8064/index.m3u8
 #EXTINF:-1 tvg-id="Trivu.pe" group-title="General",Trivu
 http://190.93.224.42/TRIVU-TV/index.m3u8
 #EXTINF:-1 tvg-id="Trivu.pe" group-title="General",Trivu
@@ -519,6 +515,10 @@ https://edge.enhdtv.com/8190/index.m3u8
 https://live.enhdtv.com:8081/8190/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="UnicentroTV.pe" group-title="General",Unicentro TV
 https://live-evg11.tv360.bitel.com.pe/bitel/unicentroSRT/playlist.m3u8
+#EXTINF:-1 tvg-id="Unifranz.bo" group-title="Education, Entertainment, News",Unifranz
+https://edge.enhdtv.com/8192/index.m3u8
+#EXTINF:-1 tvg-id="Unifranz.bo" group-title="Education, Entertainment, News",Unifranz
+https://live.enhdtv.com:8081/8192/index.m3u8
 #EXTINF:-1 tvg-id="Unitel.pe" group-title="General",Unitel
 https://play.agenciastreaming.com:8081/uniteltv/index.m3u8
 #EXTINF:-1 tvg-id="UnivalleTelevision.bo" group-title="Uncategorized",Univalle Television
