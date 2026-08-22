@@ -143,6 +143,8 @@ http://138.255.2.6:8084/TVBRASIL2/index.m3u8
 http://168.197.104.22/TV_BRASIL_2/index.m3u8
 #EXTINF:-1 tvg-id="CanalGov.br" group-title="Legislative",Canal Gov
 https://canalgov-stream.ebc.com.br/index.m3u8
+#EXTINF:-1 tvg-id="CanalMetropolitanodeNoticias.br" group-title="News",Canal Metropolitano de Noticias
+https://stmv5.samcast.com.br/claudio8701/claudio8701/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalRural.br" group-title="Outdoor",Canal Rural
 https://cdn2.easy.tv.br/canalrural/index.m3u8
 #EXTINF:-1 tvg-id="CanalRural.br" group-title="Outdoor",Canal Rural
@@ -151,6 +153,8 @@ http://170.83.49.66:8083/CANALRURALHD/index.m3u8
 http://186.219.52.187/canal_rural/index.m3u8
 #EXTINF:-1 tvg-id="CanalSaude.br" group-title="Education, Lifestyle",Canal Saude
 https://eitv7.cdn.broadpeak.io/account351-i1495/event/canalsaude/format720p.m3u8
+#EXTINF:-1 tvg-id="CanalSete.br" group-title="General",Canal Sete
+http://play.canalsete.com.br:1935/canalsete/xpl-c7_source/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalUOL.br" group-title="General",Canal UOL
 https://video24.mais.uol.com.br/live/6146.m3u8
 #EXTINF:-1 tvg-id="CazeTV.br" group-title="Sports",CazeTV
@@ -481,8 +485,6 @@ http://168.197.104.22/REDE_VIDA/index.m3u8
 http://170.84.165.204/REDEVIDA_HD/index.m3u8
 #EXTINF:-1 tvg-id="RedeVida.br" group-title="Religious",Rede Vida
 http://186.219.52.187/rede_vida/index.m3u8
-#EXTINF:-1 tvg-id="ReinoInfantil.mz" group-title="Kids",Reino Infantil
-https://www.khuwemultimedia.com/hls/reinoinfantiltv/reinoinfantiltv.m3u8
 #EXTINF:-1 tvg-id="RFPtv.pt" group-title="Music",RFPtv
 https://video03.logicahost.com.br/rfptv/rfptv/playlist.m3u8
 #EXTINF:-1 tvg-id="RITTV.br" group-title="Religious",RIT TV
@@ -507,8 +509,6 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtpacores.smil/playlist.m3u8
 https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="RTPMadeira.pt" group-title="General",RTP Madeira
 https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RTPMemoria.pt" group-title="General",RTP Memoria
-https://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="RTPMundo.pt" group-title="General",RTP Mundo
 https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="RTPNoticias.pt" group-title="News",RTP Noticias
@@ -611,12 +611,8 @@ http://170.83.49.66:8083/TRAVELBOXHD/index.m3u8
 https://stmv.webtvninjas.com.br/tv3/tv3/playlist.m3u8
 #EXTINF:-1 tvg-id="TVACritica.br" group-title="Uncategorized",TV A Critica
 https://cdn.live.br1.jmvstream.com/w/LVW-20715/LVW20715_50E3x2MCm2/playlist.m3u8
-#EXTINF:-1 tvg-id="TVAFolha.br" group-title="News",TV A Folha
-https://video01.logicahost.com.br/tvafolha/tvafolha/playlist.m3u8
-#EXTINF:-1 tvg-id="TVAldeia.br" group-title="General",TV Aldeia
-https://stmv1.samcast.com.br/giovane7843/giovane7843/playlist.m3u8
-#EXTINF:-1 tvg-id="TVAliancaCatarinense.br" group-title="General",TV Alianca Catarinense
-https://video01.logicahost.com.br/tvalianca/tvalianca/playlist.m3u8
+#EXTINF:-1 tvg-id="TVAlternativa.br" group-title="General",TV Alternativa
+https://stmv5.samcast.com.br/wagner7919/wagner7919/playlist.m3u8
 #EXTINF:-1 tvg-id="TVAparecida.br" group-title="Religious",TV Aparecida
 https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
 #EXTINF:-1 tvg-id="TVAparecida.br" group-title="Religious",TV Aparecida
@@ -769,8 +765,6 @@ http://45.190.28.50/GLOBO_HD/index.m3u8
 http://170.84.165.204/Globo_HD/index.m3u8
 #EXTINF:-1 tvg-id="TVGRANDENATALHDTVBRASIL.br" group-title="Entertainment",TV GRANDE NATAL HDTV BRASIL
 http://tvgrandenatalhd.duckdns.org:8080/hls/live.m3u8
-#EXTINF:-1 tvg-id="TVGuara.br" group-title="Uncategorized",TV Guara
-https://video02.logicahost.com.br/tvguara23/tvguara23/playlist.m3u8
 #EXTINF:-1 tvg-id="TVI.pt" group-title="General",TVI
 https://raw.githubusercontent.com/thomraider12/canaistvpt/main/m3u8s/tvi.m3u8
 #EXTINF:-1 tvg-id="TVideoNews.br" group-title="News",TVideoNews
@@ -829,8 +823,6 @@ https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m
 http://185.228.163.146:8000/play/a01y/index.m3u8
 #EXTINF:-1 tvg-id="TVNBN.br" group-title="General",TVNBN
 https://cdn.jmvstream.com/w/LVW-8410/LVW8410_uiZOVm6vz1/playlist.m3u8
-#EXTINF:-1 tvg-id="TVPadreCicero.br" group-title="Religious",TV Padre Cicero
-https://video01.logicahost.com.br/tvpadrecicero/tvpadrecicero/playlist.m3u8
 #EXTINF:-1 tvg-id="TVPaiEterno.br" group-title="Religious",TV Pai Eterno
 http://45.162.64.114/TV_PAI_ETERNO/index.m3u8
 #EXTINF:-1 tvg-id="TVPaiEterno.br" group-title="Religious",TV Pai Eterno
@@ -839,20 +831,12 @@ http://45.190.28.50/PAI_ETERNO/index.m3u8
 http://168.197.104.22/TV_PAI_ETERNO/index.m3u8
 #EXTINF:-1 tvg-id="TVPaiEterno.br" group-title="Religious",TV Pai Eterno
 http://186.219.52.187/pai_eterno/index.m3u8
-#EXTINF:-1 tvg-id="TVPaiEterno.br" group-title="Religious",TV Pai Eterno
-https://video09.logicahost.com.br/paieterno/paieterno/playlist.m3u8
 #EXTINF:-1 tvg-id="TVPantanalMS.br" group-title="Uncategorized",TV Pantanal MS
 https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="TVParaense.br" group-title="General, Family, Entertainment, News",TV Paraense
-https://video09.logicahost.com.br/tvparaense/tvparaense/playlist.m3u
 #EXTINF:-1 tvg-id="TVParanaTurismo.br" group-title="Travel",TV Parana Turismo
 http://200.189.113.201/hls/tve.m3u8
 #EXTINF:-1 tvg-id="TVPassoFundo.br" group-title="General",TV Passo Fundo
 https://5a57bda70564a.streamlock.net/tvpasso/tvpasso.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="TVPetropolis.br" group-title="General",TV Petropolis
-https://video02.logicahost.com.br/tvpetropolis/tvpetropolis/playlist.m3u8
-#EXTINF:-1 tvg-id="TVPlusPet.br" group-title="Entertainment",TV+Pet
-https://stmv5.samcast.com.br/tvmaispet6354/tvmaispet6354/playlist.m3u8
 #EXTINF:-1 tvg-id="TVProfissao.br" group-title="Uncategorized",TV Profissao
 https://stmv.webtvninjas.com.br/tvprofissao/tvprofissao/playlist.m3u8
 #EXTINF:-1 tvg-id="TVRaTimBum.br" group-title="Uncategorized",TV Ra Tim Bum
