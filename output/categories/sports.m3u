@@ -41,6 +41,8 @@ https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
 https://kanal75xto-llhls.akamaized.net/live/Data/atg-kanal-15-02a-rr/HLS-Legacy-HL/atg-kanal-15-02a-rr.m3u8
 #EXTINF:-1 tvg-id="AztecaDeportesNetwork.mx" group-title="Sports",Azteca Deportes Network
 http://181.119.66.28:8081/AZTECA-DEPORTES-HD/index.m3u8
+#EXTINF:-1 tvg-id="AztecaDeportesNetwork.mx" group-title="Sports",Azteca Deportes Network
+http://209.14.115.253:8081/azteca-deportes/index.m3u8
 #EXTINF:-1 tvg-id="BahrainSports1.bh" group-title="Sports",Bahrain Sports 1
 https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
 #EXTINF:-1 tvg-id="BahrainSports2.bh" group-title="Sports",Bahrain Sports 2
@@ -79,6 +81,8 @@ http://stream.mcquack.net/33/index.m3u8
 https://edge59.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Belarus5.by" group-title="Sports",Belarus-5
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Belarus5.by" group-title="Sports",Belarus-5
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Belarus5.by" group-title="Sports",Belarus-5
 https://streaming.thestream.cyou/live/7001.m3u8
 #EXTINF:-1 tvg-id="BellatorMMA.us" group-title="Sports",Bellator MMA
@@ -119,8 +123,6 @@ https://d382r3rgbxdixq.cloudfront.net/scheduler/scheduleMaster/418.m3u8
 https://stmv2.voxtvhd.com.br/crtvchile/crtvchile/playlist.m3u8
 #EXTINF:-1 tvg-id="CTSport.cz" group-title="Sports",CT Sport
 http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
-#EXTINF:-1 tvg-id="DAZNCombat.uk" group-title="Sports",DAZN Combat
-https://jmp2.uk/plu-64805922536e0c0008a1a1e6.m3u8
 #EXTINF:-1 tvg-id="DAZNCombat.uk" group-title="Sports",DAZN Combat
 https://jmp2.uk/plu-64d626ac9b414d000820e2fc.m3u8
 #EXTINF:-1 tvg-id="DDSports.in" group-title="Sports",DD Sports
@@ -237,8 +239,6 @@ https://nosignal1.antenaplay.ro/hls/fightbox-hd/index.m3u8
 https://webtvstream.bhtelecom.ba/fightbox.m3u8
 #EXTINF:-1 tvg-id="FightNetwork.ca" group-title="Sports",Fight Network
 https://amg00966-amg00966c10-amgplt0081.playout.now3.amagi.tv/playlist/amg00966-amg00966c10-amgplt0081/playlist.m3u8
-#EXTINF:-1 tvg-id="FightNetwork.ca" group-title="Sports",Fight Network
-https://a-cdn.klowdtv.com/live2/fight_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="FITE247.us" group-title="Sports",FITE 24/7
 https://a-cdn.klowdtv.com/live2/fite247_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="FITE247.us" group-title="Sports",FITE 24/7
@@ -304,7 +304,11 @@ https://jmp2.uk/plu-63a0e33a45264d000850ed7e.m3u8
 #EXTINF:-1 tvg-id="GolfChannel.cz" group-title="Sports",Golf Channel
 https://dash4.antik.sk/live/test_golf_channel/playlist.m3u8
 #EXTINF:-1 tvg-id="GolfChannelLatinAmerica.us" group-title="Sports",Golf Channel Latin America
+http://15.204.246.24:8080/GolfChannelHD/index.m3u8
+#EXTINF:-1 tvg-id="GolfChannelLatinAmerica.us" group-title="Sports",Golf Channel Latin America
 http://72.1.184.5:8089/play/a0cw/index.m3u8
+#EXTINF:-1 tvg-id="GolfChannelLatinAmerica.us" group-title="Sports",Golf Channel Latin America
+http://143.14.178.35/TCM-HD/index.m3u8
 #EXTINF:-1 tvg-id="GolTVLatinAmerica.us" group-title="Sports",GolTV Latin America
 http://177.234.249.178:8888/GOLTV/index.m3u8
 #EXTINF:-1 tvg-id="HardKnocks.ca" group-title="Sports",Hard Knocks
@@ -587,16 +591,12 @@ https://jmp2.uk/plu-696e02423b9ce349c90edef9.m3u8
 https://jmp2.uk/plu-696e0fe49ba4ac18057433ac.m3u8
 #EXTINF:-1 tvg-id="RallyTV.us" group-title="Sports",Rally TV
 https://jmp2.uk/plu-696e024a7e92438c27a425a8.m3u8
-#EXTINF:-1 tvg-id="RallyTV.us" group-title="Sports",Rally TV
-https://rally-tv-live.akamaized.net/hls/live/2117704/RallyTV-Pri/master.m3u8
 #EXTINF:-1 tvg-id="RealitateaSportiva.ro" group-title="Sports",Realitatea Sportiva
 https://stream.realitatea.net/realitatea/sportiva_md/ts:playlist.m3u8
 #EXTINF:-1 tvg-id="RealMadridTV.es" group-title="Sports",Real Madrid TV
 https://jmp2.uk/plu-63dac28760bc8f0008a7654b.m3u8
 #EXTINF:-1 tvg-id="RealMadridTV.es" group-title="Sports",Real Madrid TV
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
-#EXTINF:-1 tvg-id="RealMadridTVEnglish.es" group-title="Sports",Real Madrid TV English
-https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
 #EXTINF:-1 tvg-id="RealMadridTVEnglish.es" group-title="Sports",Real Madrid TV English
 http://88.212.15.19/live/real_madrid_tv/index.m3u8
 #EXTINF:-1 tvg-id="RedBullTV.at" group-title="Sports, Outdoor",Red Bull TV
@@ -875,6 +875,20 @@ https://tvpi.travny.workers.dev/tvpsport.m3u8
 https://7nyaler.streamhostingcdn.top/stream/28/index.m3u8
 #EXTINF:-1 tvg-id="TVRSport.ro" group-title="General, Sports",TVR Sport
 https://tvr-sport.lg.mncdn.com/tvrsport/smil:tvrsport.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVSBowlingNetwork.us" group-title="Sports",TVS Bowling Network
+https://rpn.bozztv.com/gusa/gusa-tvsbowling/index.m3u8
+#EXTINF:-1 tvg-id="TVSBoxing.us" group-title="Sports",TVS Boxing
+https://rpn.bozztv.com/gusa/gusa-tvsboxing/index.m3u8
+#EXTINF:-1 tvg-id="TVSClassicSports.us" group-title="Sports",TVS Classic Sports
+https://rpn.bozztv.com/gusa/gusa-tvs/index.m3u8
+#EXTINF:-1 tvg-id="TVSSports.us" group-title="Sports",TVS Sports
+https://rpn.bozztv.com/gusa/gusa-tvssports/index.m3u8
+#EXTINF:-1 tvg-id="TVSSportsBureau.us" group-title="Sports",TVS Sports Bureau
+https://rpn.bozztv.com/gusa/gusa-tvssportsbureau/index.m3u8
+#EXTINF:-1 tvg-id="TVSTurbo.us" group-title="Sports",TVS Turbo
+https://rpn.bozztv.com/gusa/gusa-tvsturbo/index.m3u8
+#EXTINF:-1 tvg-id="TVSWomenSports.us" group-title="Sports",TVS Women Sports
+https://rpn.bozztv.com/gusa/gusa-tvswsn/index.m3u8
 #EXTINF:-1 tvg-id="TyCSports.ar" group-title="Sports",TyC Sports
 http://45.181.87.106/TYCSPORTSHD/index.m3u8
 #EXTINF:-1 tvg-id="TyCSports.ar" group-title="Sports",TyC Sports
