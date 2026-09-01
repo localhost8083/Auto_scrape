@@ -442,6 +442,8 @@ https://5bf8041cb3fed.streamlock.net/PuertoTV/PuertoTV/playlist.m3u8
 #EXTINF:-1 tvg-id="ElSembradorNuevaEvangelizacionESNE.us" group-title="Religious",El Sembrador Nueva Evangelizacion ESNE
 http://190.61.90.17:40000/play/a025/index.m3u8
 #EXTINF:-1 tvg-id="Enlace.cr" group-title="Religious",Enlace
+https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Enlace.cr" group-title="Religious",Enlace
 http://177.234.247.66:9975/Enlace/index.m3u8
 #EXTINF:-1 tvg-id="ErfanHalghehTV.ca" group-title="Religious",Erfan Halgheh TV
 https://hls.erfanhalgheh.live/hls/stream.m3u8
@@ -665,8 +667,6 @@ https://cloud37.ecuatel.com/iglesia2020/Stream1/playlist.m3u8
 http://streamingcontrol.com:1935/ectv/ectv/playlist.m3u8
 #EXTINF:-1 tvg-id="IIPCTV.ca" group-title="Religious",IIPC TV
 https://rpn.bozztv.com/dvrfl03/iipctv/index.m3u8
-#EXTINF:-1 tvg-id="IIPCTV.ca" group-title="Religious",IIPC TV
-https://uni10rtmp.tulix.tv/iipctv/iipctv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ImamHusseinTV1.iq" group-title="Religious",Imam Hussein TV 1
 https://live.imamhossaintv.com/live/ih1.m3u8
 #EXTINF:-1 tvg-id="ImamHusseinTV1.iq" group-title="Religious",Imam Hussein TV 1
@@ -1169,8 +1169,6 @@ https://www.rtvpendimi.com:19360/tvpendimi/tvpendimi.m3u8
 http://d26sxnc75smwvh.cloudfront.net/livehttporigin/rutclive_720p2.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Sadhna.in" group-title="Religious",Sadhna
 https://6n3yow8pl9ok-hls-live.5centscdn.com/sadhanalivetv/live.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="SadhnaTV.in" group-title="Religious",Sadhna TV
-https://mumt05.tangotv.in/87NeALx2SADHNATV/index.m3u8
 #EXTINF:-1 tvg-id="SafeerTV.uk" group-title="Religious",Safeer TV
 https://cdn3.wowza.com/1/YStGZlJRdktzZkdK/VXROZWNW/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-id="SairamTV.in" group-title="Religious",Sairam TV
@@ -1249,6 +1247,8 @@ https://cdn-2.pishow.tv/live/457/master.m3u8
 https://mumt03.tangotv.in/Dsly5z3HSHUBHSANDESH/index.m3u8
 #EXTINF:-1 tvg-id="SivanTV.ch" group-title="Religious",Sivan TV
 http://sivantv.livebox.co.in/sivantvhls/sivan.m3u8
+#EXTINF:-1 tvg-id="SohamTV.in" group-title="Religious",Soham TV
+https://mumt03.tangotv.in/Dsly5z3HSOHAMTV/index.m3u8
 #EXTINF:-1 tvg-id="SophiaTV.de" group-title="Religious",Sophia TV
 https://bild-und-ton.stream/sophiatv-en/smil:sophia-tv-en.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="SophiaTVFrancais.de" group-title="Religious",Sophia TV Francais
@@ -1385,8 +1385,6 @@ http://168.197.104.22/TV_APARECIDA/index.m3u8
 http://170.83.16.50/TV_APARECIDA/index.m3u8
 #EXTINF:-1 tvg-id="TVAparecida.br" group-title="Religious",TV Aparecida
 http://170.83.49.66:8083/TVAPARECIDAHD/index.m3u8
-#EXTINF:-1 tvg-id="TVCa.sv" group-title="Religious",TVCa
-https://live20.bozztv.com/akamaissh101/ssh101/tvcaelsalvador/playlist.m3u8
 #EXTINF:-1 tvg-id="TVCARiBGospel.sx" group-title="Religious",TVCARiB Gospel
 https://cdn.mycloudstream.io/hls/live/broadcast/wokrhjkd/index.m3u8
 #EXTINF:-1 tvg-id="TVCRET.sv" group-title="Religious",TV CRET
@@ -1395,6 +1393,8 @@ https://radiocret.net:8082/hls/tvcret.m3u8
 https://s.emisoras.tv:8081/tve/index.m3u8
 #EXTINF:-1 tvg-id="TVEvangelizar.br" group-title="Religious",TV Evangelizar
 http://45.162.64.114/EVANGELIZAR/index.m3u8
+#EXTINF:-1 tvg-id="TVEvangelizar.br" group-title="Religious",TV Evangelizar
+http://45.190.28.50/TV_EVANGELIZAR/index.m3u8
 #EXTINF:-1 tvg-id="TVEvangelizar.br" group-title="Religious",TV Evangelizar
 http://168.197.104.22/EVANGELIZAR/index.m3u8
 #EXTINF:-1 tvg-id="TVEvangelizar.br" group-title="Religious",TV Evangelizar
