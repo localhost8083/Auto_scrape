@@ -41,6 +41,8 @@ https://30a-tv.com/feeds/vidaa/luxelife.m3u8
 https://30a-tv.com/music.m3u8
 #EXTINF:-1 tvg-id="30AMusic.us" group-title="Music",30A Music
 https://30a-tv.com/feeds/ceftech/30atvmusic.m3u8
+#EXTINF:-1 tvg-id="30ARidiculousTV.us" group-title="Comedy",30A Ridiculous TV
+https://30a-tv.com/feeds/720p/63.m3u8
 #EXTINF:-1 tvg-id="30ASidewalks.us" group-title="Entertainment",30A Sidewalks
 https://30a-tv.com/sidewalks.m3u8
 #EXTINF:-1 tvg-id="30ATelevisionChannel.us" group-title="Entertainment",30A Television Channel
@@ -446,6 +448,8 @@ http://88.212.15.19/live/test_white/playlist.m3u8
 #EXTINF:-1 tvg-id="AXNWhite.us" group-title="Entertainment",AXN White
 http://185.227.34.179:8080/axn-white/index.m3u8
 #EXTINF:-1 tvg-id="AXNWhite.us" group-title="Entertainment",AXN White
+http://50.7.120.34:8080/AXN_WHITE/index.m3u8
+#EXTINF:-1 tvg-id="AXNWhite.us" group-title="Entertainment",AXN White
 http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/6950/index.m3u8
 #EXTINF:-1 tvg-id="AXSTV.us" group-title="Music",AXS TV
 http://23.239.31.26:8989/axstv/index.m3u8
@@ -459,6 +463,8 @@ http://168.228.44.241:9997/play/a07u/index.m3u8
 https://jmp2.uk/plu-5ebac49ce4dc8b00078b23bc.m3u8
 #EXTINF:-1 tvg-id="BabyFirst.us" group-title="Kids",BabyFirst
 https://cdn.fast.jwp.services/v1/channel/1_jB6940Ei_TvhvIHDL/manifest.m3u8
+#EXTINF:-1 tvg-id="BabyFirst.us" group-title="Kids",BabyFirst
+http://181.78.106.127:5000/play/a0sa/index.m3u8
 #EXTINF:-1 tvg-id="BabySharkTV.us" group-title="Kids",Baby Shark TV
 https://c0c65b821b3542c3a4dca92702f59944.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BabySharkTV/playlist.m3u8
 #EXTINF:-1 tvg-id="BabySharkTV.us" group-title="Kids",Baby Shark TV
@@ -897,8 +903,6 @@ https://propee33f9c2.airspace-cdn.cbsivideo.com/index.m3u8
 https://jmp2.uk/plu-5e9f2c05172a0f0007db4786.m3u8
 #EXTINF:-1 tvg-id="CCTV.us" group-title="Uncategorized",CC-TV
 https://cdn3.wowza.com/5/cHYzekYzM2kvTVFH/charlotte/G0055_009/playlist.m3u8
-#EXTINF:-1 tvg-id="CCX1.us" group-title="General",CCX1
-http://reflect-ccx.cablecast.tv/live-9/live/stream-1/live.m3u8
 #EXTINF:-1 tvg-id="CelebrityNameGame.us" group-title="Series",Celebrity Name Game
 https://amg00353-amg00353c19-xumo-us-2608.playouts.now.amagi.tv/lionsgate-clbng/playlist.m3u8
 #EXTINF:-1 tvg-id="CelebritySceneTV.us" group-title="Uncategorized",Celebrity Scene TV
@@ -935,8 +939,6 @@ https://linear-11.frequency.stream/dist/glewedtv/11/hls/master/playlist.m3u8
 https://linear-11.frequency.stream/dist/plex/11/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="ChristianYouthChannelCYC.us" group-title="Religious, Kids",Christian Youth Channel CYC
 http://media3.smc-host.com:1935/cycnow.com/smil:cyc.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ChristianYouthChannelCYC.us" group-title="Religious, Kids",Christian Youth Channel CYC
-http://media.smc-host.com:1935/cycnow.com/cyc2/playlist.m3u8
 #EXTINF:-1 tvg-id="CineAdrenalina.us" group-title="Movies",Cine Adrenalina
 https://jmp2.uk/plu-5d8d164d92e97a5e107638d2.m3u8
 #EXTINF:-1 tvg-id="CineAmor.us" group-title="Movies",Cine Amor
@@ -1001,8 +1003,6 @@ https://edge-f.swagit.com/live/fortpiercefl/live-1-a/playlist.m3u8
 https://reflect-monroe-mi-ci.cablecast.tv/live-1/live/live.m3u8
 #EXTINF:-1 tvg-id="CityofPompanoBeach.us" group-title="Legislative",City of Pompano Beach
 https://cdn3.wowza.com/5/M0lyamVmM2JWcjhQ/pompano/G0765_005/playlist.m3u8
-#EXTINF:-1 tvg-id="CityTV20SantaMonica.us" group-title="Legislative",CityTV 20 Santa Monica
-https://cdn3.wowza.com/5/bGZUOHp2TnhudnM2/santamonica/G0039_002/playlist.m3u8
 #EXTINF:-1 tvg-id="CityTVCarlsbad.us" group-title="General",City TV Carlsbad
 https://edge-f.swagit.com/live/carlsbadca/live-3-a-1/playlist.m3u8
 #EXTINF:-1 tvg-id="CityTVChannel341.us" group-title="Legislative",City TV Channel 3/41
@@ -1395,6 +1395,8 @@ https://na.linear.zype.com/e0bd0e23-a958-4e43-8164-4f2fef8876a8/fd3614bd-90bf-45
 https://d2obyvq5go60aw.cloudfront.net/DraftKings_Network.m3u8
 #EXTINF:-1 tvg-id="DreamWorksChannelAsia.us" group-title="Animation",DreamWorks Channel Asia
 https://cdn12.178.indevs.in/163189/dreamworks
+#EXTINF:-1 tvg-id="DreamWorksChannelAsia.us" group-title="Animation",DreamWorks Channel Asia
+http://nmk.ioapk.com:5050/4gtv-live017/index.m3u8
 #EXTINF:-1 tvg-id="DreamWorksChannelLatinAmerica.us" group-title="Animation",DreamWorks Channel Latin America
 http://138.121.15.230:9002/DREAMWORKS/index.m3u8
 #EXTINF:-1 tvg-id="DrGeneScott.us" group-title="Religious",Dr. Gene Scott
@@ -1411,6 +1413,8 @@ https://drybar-drybarcomedy-1-ca.samsung.wurl.tv/playlist.m3u8
 https://drybar-drybarcomedy-1-nz.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="DryBarComedyPlus.us" group-title="Comedy",Dry Bar Comedy+
 https://drybar-drybarcomedy-1-us.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="DSports2.us" group-title="Sports",DSports 2
+http://138.121.113.175:8000/play/a0ca/index.m3u8
 #EXTINF:-1 tvg-id="DSports.us" group-title="Sports",DSports
 http://138.121.113.175:8000/play/a0cj/index.m3u8
 #EXTINF:-1 tvg-id="DuckDynasty.us" group-title="Series",Duck Dynasty
@@ -1455,6 +1459,8 @@ https://rpn.bozztv.com/ebstv/ebscinema/index.m3u8
 https://rpn.bozztv.com/ebstv/ebsmusika/index.m3u8
 #EXTINF:-1 tvg-id="EKeepingUp.us" group-title="Entertainment",E! Keeping Up
 https://xumo-xumoent-vc-117-a3ga4.fast.nbcuni.com/live/master.m3u8
+#EXTINF:-1 tvg-id="ELatinAmerica.us" group-title="Entertainment, News",E! Latin America
+http://72.1.184.5:8089/play/a05d/index.m3u8
 #EXTINF:-1 tvg-id="ELatinAmerica.us" group-title="Entertainment, News",E! Latin America
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/entertainment.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="ElbesharaGTV.us" group-title="Religious",Elbeshara GTV
@@ -1689,6 +1695,8 @@ https://jmp2.uk/plu-5bb1af6a268cae539bcedb0a.m3u8
 https://jmp2.uk/plu-56171fafada51f8004c4b40f.m3u8
 #EXTINF:-1 tvg-id="Fox.us" group-title="General",Fox
 http://stream.cammonitorplus.net/1752/index.m3u8
+#EXTINF:-1 tvg-id="Fox.us" group-title="General",Fox
+http://stream.cammonitorplus.net/1799/index.m3u8
 #EXTINF:-1 tvg-id="FoxBusinessNetwork.us" group-title="Business",Fox Business Network
 https://247preview.foxbusiness.com/hls/live/2020026/fbnv3preview/primary.m3u8
 #EXTINF:-1 tvg-id="FoxDeportes.us" group-title="Sports",Fox Deportes
@@ -1769,6 +1777,8 @@ http://45.162.193.35/FX/index.m3u8
 http://181.119.66.28:8081/FX-HD/index.m3u8
 #EXTINF:-1 tvg-id="FXLatinAmerica.us" group-title="Entertainment",FX Latin America
 http://190.93.224.42/FX/index.m3u8
+#EXTINF:-1 tvg-id="FXLatinAmerica.us" group-title="Entertainment",FX Latin America
+http://72.1.184.5:8089/play/a05i/index.m3u8
 #EXTINF:-1 tvg-id="FXMovieChannel.us" group-title="Movies",FX Movie Channel
 http://misterich.megatv.fun/iptv/CVHTUN2FGZ4TTVYBXGA5MRPN/1106/index.m3u8
 #EXTINF:-1 tvg-id="FXX.us" group-title="Entertainment",FXX
@@ -1841,6 +1851,8 @@ https://6f972d29.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdX
 https://jmp2.uk/plu-63a0e33a45264d000850ed7e.m3u8
 #EXTINF:-1 tvg-id="GolfChannelLatinAmerica.us" group-title="Sports",Golf Channel Latin America
 http://15.204.246.24:8080/GolfChannelHD/index.m3u8
+#EXTINF:-1 tvg-id="GolfChannelLatinAmerica.us" group-title="Sports",Golf Channel Latin America
+http://72.1.184.5:8089/play/a0cw/index.m3u8
 #EXTINF:-1 tvg-id="GolTVLatinAmerica.us" group-title="Sports",GolTV Latin America
 http://177.234.249.178:8888/GOLTV/index.m3u8
 #EXTINF:-1 tvg-id="GoodLife45.us" group-title="Religious",GoodLife 45
@@ -2275,8 +2287,6 @@ https://tvsen3.aynaott.com/UC6a8nsf/index.m3u8
 https://cdn3.wowza.com/5/cHYzekYzM2kvTVFH/lakehavasucity/G0643_003/playlist.m3u8
 #EXTINF:-1 tvg-id="LaoThaiTV.us" group-title="Shop",Lao-Thai TV
 https://livefta.malimarcdn.com/ftaedge00/laothaius.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="LaQueBuenaAtlanta.us" group-title="Music",La Que Buena Atlanta
-https://streamyes.alsolnet.com/quebuenaatlanta/live/index.m3u8
 #EXTINF:-1 tvg-id="LaRosadeGuadalupe.us" group-title="Series",La Rosa de Guadalupe
 https://app.viloud.tv/hls/channel/9c88161fe675b59d4b008c776f033960.m3u8
 #EXTINF:-1 tvg-id="LasTortugasNinja.us" group-title="Animation",Las Tortugas Ninja
@@ -2325,6 +2335,8 @@ http://170.83.16.50/LIFETIME/index.m3u8
 http://138.121.15.230:9002/LIFETIME/index.m3u8
 #EXTINF:-1 tvg-id="LifetimeLatinAmerica.us" group-title="Entertainment",Lifetime Latin America
 http://181.119.66.28:8081/Lifetime-HD/index.m3u8
+#EXTINF:-1 tvg-id="LifetimeLatinAmerica.us" group-title="Entertainment",Lifetime Latin America
+http://181.209.105.115:2525/play/lifetime/index.m3u8
 #EXTINF:-1 tvg-id="LifetimeMovies.us" group-title="Movies",Lifetime Movies
 http://23.237.104.106:8080/USA_LMN/index.m3u8
 #EXTINF:-1 tvg-id="LifevisionTV.us" group-title="Religious",LifevisionTV
@@ -2821,12 +2833,16 @@ https://ads.its-newid.net/api/manifest.m3u8?ads.service_id=GB1700007PK&channel_i
 https://ads.its-newid.net/api/manifest.m3u8?ads.service_id=GB17000088V&channel_id=newid_086&tp=samsung_tvplus
 #EXTINF:-1 tvg-id="News12Brooklyn.us" group-title="News",News12 Brooklyn
 https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12KH_A1/index_new.m3u8?omap=https
+#EXTINF:-1 tvg-id="News12Conneticut.us" group-title="News",News12 Conneticut
+https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12CH_FFLD_MILF_A1/index_new.m3u8?omap=https
+#EXTINF:-1 tvg-id="News12LongIsland.us" group-title="News",News12 Long Island
+https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12LH_WEST_A1/index_new.m3u8?omap=https
 #EXTINF:-1 tvg-id="News12NewYork.us" group-title="News",News12 New York
 https://jmp2.uk/plu-5fff49cfb5cd4f0007c2b0dc.m3u8
 #EXTINF:-1 tvg-id="News12NewYork.us" group-title="News",News12 New York
 https://aegis-cloudfront-1.tubi.video/97fbb992-c212-4164-8406-abb6f731e517/playlist.m3u8
-#EXTINF:-1 tvg-id="News12PlusLongIsland.us" group-title="News",News12+ Long Island
-https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_LI_A1/index_new.m3u8
+#EXTINF:-1 tvg-id="News12Westchester.us" group-title="News",News12 Westchester
+https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12WH_A1/index_new.m3u8?omap=https
 #EXTINF:-1 tvg-id="Newsmax2.us" group-title="News",Newsmax 2
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 #EXTINF:-1 tvg-id="Newsmax2.us" group-title="News",Newsmax 2
@@ -3823,8 +3839,6 @@ https://pb-syzbb4sicfx4g.akamaized.net/ScrippsNews_US.m3u8
 https://aegis-cloudfront-1.tubi.video/7e1c26b7-7975-4240-9a4f-480eaa8f3ea4/playlist.m3u8
 #EXTINF:-1 tvg-id="ScrippsNews.us" group-title="News",Scripps News
 https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8
-#EXTINF:-1 tvg-id="SCVTV.us" group-title="General",SCVTV
-https://reflect-scvtv.cablecast.tv/live-2/live/live.m3u8
 #EXTINF:-1 tvg-id="SECNetwork.us" group-title="Uncategorized",SEC Network
 http://23.237.104.106:8080/USA_SEC_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="SemillitasTV.us" group-title="Uncategorized",Semillitas TV
