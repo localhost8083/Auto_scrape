@@ -164,6 +164,8 @@ https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1 tvg-id="ChannelOne.ru" group-title="General",Channel One
 https://stream8.cinerama.uz/1214/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ChannelOne.ru" group-title="General",Channel One
+http://45.153.24.78/1TV/index.m3u8
+#EXTINF:-1 tvg-id="ChannelOne.ru" group-title="General",Channel One
 http://178.217.49.7/1/index.m3u8
 #EXTINF:-1 tvg-id="ChannelOne.ru" group-title="General",Channel One
 http://45.145.32.13:20440/pervyj_kanal/index.m3u8?token=test
@@ -273,8 +275,6 @@ https://fs.uplink.kz/dorama/mono.m3u8?token=onlinetv
 https://stream8.cinerama.uz/1421/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="DumaTV.ru" group-title="Legislative",Duma TV
 http://185.23.80.23:8080/DumaTV/index.m3u8
-#EXTINF:-1 tvg-id="DumaTV.ru" group-title="Legislative",Duma TV
-https://dumatv.iptv2022.com/playlist.m3u8
 #EXTINF:-1 tvg-id="Dushevnoe.ru" group-title="Uncategorized",Dushevnoe
 http://stream.mcquack.net/213/index.m3u8
 #EXTINF:-1 tvg-id="Enisey.ru" group-title="General",Enisey
@@ -416,6 +416,8 @@ http://hls127.freeott.top:8080/Kinoseriya_HD/video.m3u8
 #EXTINF:-1 tvg-id="Kinoseriya.ru" group-title="Movies",Kinoseriya
 https://fs.uplink.kz/kinoseria/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="Kinosvidanie.ru" group-title="Movies",Kinosvidanie
+http://5.188.159.128:8070/kinosvidanie/index.m3u8
+#EXTINF:-1 tvg-id="Kinosvidanie.ru" group-title="Movies",Kinosvidanie
 http://stream.mcquack.net/171/index.m3u8
 #EXTINF:-1 tvg-id="Kinosvidanie.ru" group-title="Movies",Kinosvidanie
 https://stream8.cinerama.uz/1203/tracks-v1a1/mono.m3u8
@@ -503,6 +505,8 @@ http://stream.mcquack.net/169/index.m3u8
 http://flussonic.linkintel.ru/match/index.m3u8
 #EXTINF:-1 tvg-id="MatchUltra.ru" group-title="Sports",Match! Ultra
 https://fs.uplink.kz/match/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="MatchUltra.ru" group-title="Sports",Match! Ultra
+http://45.132.87.69:8080/match/index.m3u8
 #EXTINF:-1 tvg-id="MatchUltra.ru" group-title="Sports",Match! Ultra
 http://tv.tuva.ru/machtv/index.m3u8
 #EXTINF:-1 tvg-id="Mir24.ru" group-title="News",Mir 24
@@ -636,8 +640,6 @@ http://hls127.freeott.top:8080/Lubimoe_Kino/video.m3u8
 #EXTINF:-1 tvg-id="Nashemuzhskoe.ru" group-title="Movies",Nashe muzhskoe
 http://stream.mcquack.net/362/index.m3u8
 #EXTINF:-1 tvg-id="NasheNovoeKino.ru" group-title="Movies",Nashe Novoe Kino
-http://hls127.freeott.top:8080/Nashe_Novoe_Kino_HD/video.m3u8
-#EXTINF:-1 tvg-id="NasheNovoeKino.ru" group-title="Movies",Nashe Novoe Kino
 https://stream8.cinerama.uz/1051/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="NasheNovoeKino.ru" group-title="Movies",Nashe Novoe Kino
 https://fs.uplink.kz/nashe_novoe_kino/mono.m3u8?token=onlinetv
@@ -645,8 +647,6 @@ https://fs.uplink.kz/nashe_novoe_kino/mono.m3u8?token=onlinetv
 http://stream.mcquack.net/116/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographic.ru" group-title="Documentary",National Geographic
 https://fs.uplink.kz/nat_geo/mono.m3u8?token=onlinetv
-#EXTINF:-1 tvg-id="NationalGeographicWild.ru" group-title="Documentary",National Geographic Wild
-http://hls127.freeott.top:8080/Nat_Geo_Wild_SD/video.m3u8
 #EXTINF:-1 tvg-id="NationalGeographicWild.ru" group-title="Documentary",National Geographic Wild
 https://fs.uplink.kz/nat_geo_wild/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="Nauka.ru" group-title="Documentary",Nauka
@@ -872,8 +872,6 @@ https://live.chechensoft.ru/vainahtv/ngrp:vaynahtv_all/playlist.m3u8
 #EXTINF:-1 tvg-id="RT.ru" group-title="News",RT
 https://wisewatchoott.wiseplayout.com/RT/master.m3u8
 #EXTINF:-1 tvg-id="RT.ru" group-title="News",RT
-http://212.5.144.156:8080/rt/index.m3u8
-#EXTINF:-1 tvg-id="RT.ru" group-title="News",RT
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 #EXTINF:-1 tvg-id="RT.ru" group-title="News",RT
 https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
@@ -893,8 +891,6 @@ https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
 https://rt-doc.rttv.com/dvr/rtdru/playlist.m3u8
 #EXTINF:-1 tvg-id="RTDocumentary.ru" group-title="Documentary",RT Documentary
 https://streaming.thestream.cyou/live/554.m3u8
-#EXTINF:-1 tvg-id="RTenEspanol.ru" group-title="News",RT en Espanol
-http://15.204.246.24:8080/RTHD/index.m3u8
 #EXTINF:-1 tvg-id="RTenEspanol.ru" group-title="News",RT en Espanol
 https://live-evg10.tv360.bitel.com.pe/bitel/rt/playlist.m3u8
 #EXTINF:-1 tvg-id="RTenEspanol.ru" group-title="News",RT en Espanol
@@ -1014,7 +1010,11 @@ http://hls127.freeott.top:8080/Shanson_Tv/video.m3u8
 #EXTINF:-1 tvg-id="ShansonTV.ru" group-title="Music",Shanson TV
 https://uiptv.do.am/1ufc/602079679/playlist.m3u8
 #EXTINF:-1 tvg-id="ShansonTV.ru" group-title="Music",Shanson TV
+http://hls.shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="ShansonTV.ru" group-title="Music",Shanson TV
 https://fs.uplink.kz/shanson/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="ShansonTV.ru" group-title="Music",Shanson TV
+https://hls-shansontv.cdnvideo.ru/shansontv/smil:shansontv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ShchyolkovskoeTV.ru" group-title="Uncategorized",Shchyolkovskoe TV
 http://stream0.tv41.ru/live.m3u8
 #EXTINF:-1 tvg-id="Shef.ru" group-title="Series",Shef
@@ -1063,8 +1063,6 @@ http://tv.mediacdn.ru/live/solntse/playlist.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/variant.m3u8
 #EXTINF:-1 tvg-id="SolovyovLive.ru" group-title="Uncategorized",Solovyov Live
 https://stream.smotrim.ru/hls2/solovievlive/playlist_6.m3u8
-#EXTINF:-1 tvg-id="SONGTVRussia.ru" group-title="Music",SONGTV Russia
-https://songtv.hls.iptvdc.com/web-russia/playlist.m3u8
 #EXTINF:-1 tvg-id="Soyuz.ru" group-title="Religious",Soyuz
 https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
 #EXTINF:-1 tvg-id="Soyuzny.ru" group-title="General",Soyuzny
