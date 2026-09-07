@@ -23,6 +23,10 @@ https://fs.uplink.kz/24KZ/mono.m3u8?token=onlinetv
 http://stream.mcquack.net/388/index.m3u8
 #EXTINF:-1 tvg-id="86.ru" group-title="General",86
 https://sitv.ru/hls/s86.m3u8
+#EXTINF:-1 tvg-id="312Kino.kg" group-title="Movies",312 Kino
+http://176.126.166.43:1935/live/312kino/playlist.m3u8
+#EXTINF:-1 tvg-id="312TV.kg" group-title="Entertainment",312 TV
+http://176.126.166.43:1935/live/312musik/playlist.m3u8
 #EXTINF:-1 tvg-id="360News.ru" group-title="News",360° News
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="360.ru" group-title="General",360°
@@ -41,8 +45,6 @@ https://fs.uplink.kz/365_dney/mono.m3u8?token=onlinetv
 https://abaitv-stream.qazcdn.com/abaitv/abaitv/playlist.m3u8
 #EXTINF:-1 tvg-id="AbaiTV.kz" group-title="Culture",Abai TV
 https://fs.uplink.kz/abai_tv/mono.m3u8?token=onlinetv
-#EXTINF:-1 tvg-id="AbazaTV.ru" group-title="General",Abaza TV
-https://public.apsny.camera/tv_abaza_tv_to_site/index.m3u8
 #EXTINF:-1 tvg-id="AISTTV.ru" group-title="General",AIST TV
 http://live2-aisttv.cdnvideo.ru/aisttv2/aisttv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="AISTTV.ru" group-title="General",AIST TV
@@ -375,8 +377,6 @@ https://fs.uplink.kz/dorama/mono.m3u8?token=onlinetv
 https://stream8.cinerama.uz/1421/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="DumaTV.ru" group-title="Legislative",Duma TV
 http://185.23.80.23:8080/DumaTV/index.m3u8
-#EXTINF:-1 tvg-id="DumaTV.ru" group-title="Legislative",Duma TV
-https://dumatv.iptv2022.com/playlist.m3u8
 #EXTINF:-1 tvg-id="Dunyoboylab.uz" group-title="General",Dunyo bo'ylab
 https://stream8.cinerama.uz/1006/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-id="Dushevnoe.ru" group-title="Uncategorized",Dushevnoe
@@ -391,8 +391,6 @@ https://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
 https://infochh.trkeurasia.ru/hlsinfoch/infochhd.m3u8
 #EXTINF:-1 tvg-id="EuropaPlusTV.ru" group-title="Music",Europa Plus TV
 http://stream.mcquack.net/184/index.m3u8
-#EXTINF:-1 tvg-id="EuropaPlusTV.ru" group-title="Music",Europa Plus TV
-https://fs.uplink.kz/europa_plus/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="Evrokino.ru" group-title="Movies",Evrokino
 http://stream.mcquack.net/385/index.m3u8
 #EXTINF:-1 tvg-id="Evrokino.ru" group-title="Movies",Evrokino
@@ -483,6 +481,8 @@ http://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
 https://stream.qazcdn.net/ex6r514/jjtv/playlist.m3u8
 #EXTINF:-1 tvg-id="Kanal35.az" group-title="General",Kanal 35
 https://str2.yodacdn.net/kanal35/index.m3u8
+#EXTINF:-1 tvg-id="KanalS.az" group-title="General",Kanal S
+https://lives.atv.az:5443/KANAL-S/streams/kanals.m3u8
 #EXTINF:-1 tvg-id="KapazTV.az" group-title="News",Kapaz TV
 http://85.132.78.122:8050/hls/stream/index.m3u8
 #EXTINF:-1 tvg-id="KapitanFantastika.ru" group-title="Kids",Kapitan Fantastika
@@ -885,6 +885,8 @@ https://stream8.cinerama.uz/1023/tracks-v1a1/mono.m3u8
 http://45.153.24.78/NTV/index.m3u8
 #EXTINF:-1 tvg-id="NTV.ru" group-title="General",NTV
 https://cdn.ntv.ru/ntv-spb/index.m3u8
+#EXTINF:-1 tvg-id="NTV.ru" group-title="General",NTV
+https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8
 #EXTINF:-1 tvg-id="NTVHit.ru" group-title="Series",NTV-Hit
 http://178.134.1.158:8081/ntvhit/index.m3u8
 #EXTINF:-1 tvg-id="NTVHit.ru" group-title="Series",NTV-Hit
@@ -1277,8 +1279,6 @@ http://tv.mediacdn.ru/live/solntse/playlist.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/variant.m3u8
 #EXTINF:-1 tvg-id="SolovyovLive.ru" group-title="Uncategorized",Solovyov Live
 https://stream.smotrim.ru/hls2/solovievlive/playlist_6.m3u8
-#EXTINF:-1 tvg-id="SONGTVRussia.ru" group-title="Music",SONGTV Russia
-https://songtv.hls.iptvdc.com/web-russia/playlist.m3u8
 #EXTINF:-1 tvg-id="Soyuz.ru" group-title="Religious",Soyuz
 https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
 #EXTINF:-1 tvg-id="Soyuzny.ru" group-title="General",Soyuzny
@@ -1375,8 +1375,6 @@ https://bsttv.bonus-tv.ru/cdn/tamyr/playlist.m3u8
 https://stream8.cinerama.uz/1204/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Tavriya.ru" group-title="General",Tavriya
 https://streaming.televizor-24-tochka.ru/live/24.m3u8
-#EXTINF:-1 tvg-id="TDK42.kz" group-title="Uncategorized",TDK 42
-https://live-tdk42kz.cdnvideo.ru/tdk42kz/tdk42kz_720.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Teatr.ru" group-title="Culture",Teatr
 http://hls127.freeott.top:8080/Teatr/video.m3u8
 #EXTINF:-1 tvg-id="Telecafe.ru" group-title="Cooking",Telecafe
