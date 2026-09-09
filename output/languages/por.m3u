@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1001Noites.br" group-title="Shop",1001 Noites
-https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/playlist.m3u8
 #EXTINF:-1 tvg-id="AdessoTV.br" group-title="General",Adesso TV
 https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8
 #EXTINF:-1 tvg-id="AgroCanal.br" group-title="Education, Outdoor",AgroCanal
@@ -41,6 +39,8 @@ http://45.177.114.115/ARTE1/index.m3u8
 http://45.190.28.50/ARTE_1/index.m3u8
 #EXTINF:-1 tvg-id="Arte1.br" group-title="Culture",Arte 1
 http://168.197.104.22/ARTE1/index.m3u8
+#EXTINF:-1 tvg-id="Arte1.br" group-title="Culture",Arte 1
+http://170.83.16.50/ARTE_1/index.m3u8
 #EXTINF:-1 tvg-id="ARTV.pt" group-title="Legislative",ARTV
 https://playout172.livextend.cloud/liveiframe/_definst_/liveartvabr/playlist.m3u8
 #EXTINF:-1 tvg-id="AWTV.br" group-title="Classic, Series",AWTV
@@ -85,14 +85,14 @@ https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8
 http://45.190.28.50/BOX_KIDS_HD/index.m3u8
 #EXTINF:-1 tvg-id="BoxKidsTV.br" group-title="Kids",Box Kids TV
 http://170.83.49.66:8083/BOXKIDSHD/index.m3u8
+#EXTINF:-1 tvg-id="BR8TV.br" group-title="News",BR8 TV
+https://cdn.live.br1.jmvstream.com/w/LVW-11668/ngrp:LVW11668_wiJpjbMrks_all/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal25Jundiai.br" group-title="Uncategorized",Canal 25 Jundiai
 https://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8
 #EXTINF:-1 tvg-id="Canal38.br" group-title="News",Canal 38
 https://cdn.jmvstream.com/w/LVW-8503/LVW8503_d0V5oduFlK/playlist.m3u8
 #EXTINF:-1 tvg-id="CanaldoBoi.br" group-title="Uncategorized",Canal do Boi
 http://45.162.64.114/CANAL_DO_BOI/index.m3u8
-#EXTINF:-1 tvg-id="CanaldoBoi.br" group-title="Uncategorized",Canal do Boi
-http://45.190.28.50/CANAL_DO_BOI/index.m3u8
 #EXTINF:-1 tvg-id="CanaldoBoi.br" group-title="Uncategorized",Canal do Boi
 http://168.197.104.22/CANAL_DO_BOI/index.m3u8
 #EXTINF:-1 tvg-id="CanaldoBoi.br" group-title="Uncategorized",Canal do Boi
@@ -134,8 +134,6 @@ http://play.canalsete.com.br:1935/canalsete/xpl-c7_source/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalUOL.br" group-title="General",Canal UOL
 https://video24.mais.uol.com.br/live/6146.m3u8
 #EXTINF:-1 tvg-id="ChefTV.br" group-title="Cooking",Chef TV
-http://45.190.28.50/CHEF_TV/index.m3u8
-#EXTINF:-1 tvg-id="ChefTV.br" group-title="Cooking",Chef TV
 http://168.197.104.22/CHEF_TV/index.m3u8
 #EXTINF:-1 tvg-id="ChromaTV.br" group-title="Entertainment",Chroma TV
 https://5c483b9d1019c.streamlock.net/8054/8054/playlist.m3u8
@@ -167,6 +165,8 @@ http://168.197.104.22/ZOOMOO/index.m3u8
 http://186.219.52.187/zoomoo/index.m3u8
 #EXTINF:-1 tvg-id="ElementalChannel.br" group-title="Entertainment",Elemental Channel
 https://stmv1.samcast.com.br/ricardo2194/ricardo2194/playlist.m3u8
+#EXTINF:-1 tvg-id="ElyTV.br" group-title="Entertainment",ElyTV
+https://stmv1.srvsite.com/ely/ely/playlist.m3u8
 #EXTINF:-1 tvg-id="ESPN3.br" group-title="Sports",ESPN 3
 http://181.78.197.59:8000/play/a081/index.m3u8
 #EXTINF:-1 tvg-id="ESPN4.br" group-title="Sports",ESPN 4
@@ -237,6 +237,8 @@ http://186.219.52.187/jp_news/index.m3u8
 https://jmp2.uk/plu-6317ba014d4d040007227f72.m3u8
 #EXTINF:-1 tvg-id="KKTV.ao" group-title="Religious",KK TV
 https://w1.manasat.com/ktv-angola/smil:ktv-angola.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="KpopTVPlay.br" group-title="Music",KpopTV Play
+https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8
 #EXTINF:-1 tvg-id="KuriakosCine.pt" group-title="Movies",Kuriakos Cine
 https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="KuriakosKids.pt" group-title="Animation, Kids, Religious",Kuriakos Kids
@@ -311,12 +313,16 @@ http://168.197.104.22/PLAY_TV/index.m3u8
 https://isaocorp.cloudecast.com/playtv/index.m3u8
 #EXTINF:-1 tvg-id="PlenaTV.br" group-title="News",Plena TV
 https://cdn.jmvstream.com/w/LVW-9591/LVW9591_PmXtgATnaS/playlist.m3u8
+#EXTINF:-1 tvg-id="PlenitudeTV.br" group-title="Religious",Plenitude TV
+https://strv.painelvox.top/plenitude/plenitude/playlist.m3u8
 #EXTINF:-1 tvg-id="PortoCanal.pt" group-title="General",Porto Canal
 https://pull-live-156-1.global.ssl.fastly.net/pc5865dc25400thmb-ea6bf03b14fa318f7133/smil:pc1-jhrgyuoqe5865db-68tkgb14fa318f7133f03.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="PrimerTV.br" group-title="General",Primer TV
 http://200.194.238.229:8383/live/primer/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioSines.pt" group-title="General",Radio Sines
 https://load-balancer.azotosolutions.com/cdnedge19/smil:live19.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RBATV.br" group-title="General",RBATV
+https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8
 #EXTINF:-1 tvg-id="Record.br" group-title="General",Record
 http://45.190.28.50/RECORD/index.m3u8
 #EXTINF:-1 tvg-id="Record.br" group-title="General",Record
@@ -413,16 +419,10 @@ http://45.190.28.50/RIT/index.m3u8
 http://170.83.49.66:8083/RITHD/index.m3u8
 #EXTINF:-1 tvg-id="RTP1.pt" group-title="General",RTP 1
 https://streaming-live.rtp.pt/liverepeater/rtp1HD.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RTPAcores.pt" group-title="General",RTP Acores
-https://streaming-live.rtp.pt/liverepeater/smil:rtpacoresHD.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RTPAcores.pt" group-title="General",RTP Acores
-https://streaming-live.rtp.pt/liverepeater/smil:rtpacores.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="RTPAfrica.pt" group-title="General",RTP Africa
 https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="RTPMadeira.pt" group-title="General",RTP Madeira
 https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RTPMemoria.pt" group-title="General",RTP Memoria
-https://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="RTPMundo.pt" group-title="General",RTP Mundo
 https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="RTPNoticias.pt" group-title="News",RTP Noticias
@@ -463,8 +463,6 @@ http://170.83.16.50/SONY_CHANNEL/index.m3u8
 http://45.162.64.114/SONY_MOVIES/index.m3u8
 #EXTINF:-1 tvg-id="SonyMovies.br" group-title="Movies",Sony Movies
 http://45.177.114.115/SONY_MOVIES/index.m3u8
-#EXTINF:-1 tvg-id="SonyMovies.br" group-title="Movies",Sony Movies
-http://45.190.28.50/SONY_MOVIES/index.m3u8
 #EXTINF:-1 tvg-id="SonyMovies.br" group-title="Movies",Sony Movies
 http://168.197.104.22/SONY_MOVIES/index.m3u8
 #EXTINF:-1 tvg-id="SonyMovies.br" group-title="Movies",Sony Movies
@@ -545,8 +543,6 @@ http://170.83.49.66:8083/TVBRASILHD/index.m3u8
 http://186.219.52.187/tv_brasil/index.m3u8
 #EXTINF:-1 tvg-id="TVBrasil.br" group-title="Uncategorized",TV Brasil
 https://tvbrasil-stream.ebc.com.br/index.m3u8
-#EXTINF:-1 tvg-id="TVBrasilOeste.br" group-title="General",TV Brasil Oeste
-https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8
 #EXTINF:-1 tvg-id="TVBRICSPortuguese.br" group-title="General",TV BRICS Portuguese
 https://porbrics.mediacdn.ru/cdn/brics/portuguese/playlist.m3u8
 #EXTINF:-1 tvg-id="TVBrusque.br" group-title="News",TV Brusque
@@ -629,6 +625,8 @@ http://170.83.49.66:8083/EVANGELIZARHD/index.m3u8
 http://186.219.52.187/tv_evangelizar/index.m3u8
 #EXTINF:-1 tvg-id="TVFronteira.br" group-title="Uncategorized",TV Fronteira
 https://tvfronteira.brasilstream.com.br/hls/tvfronteira/index.m3u8
+#EXTINF:-1 tvg-id="TVFuturo.br" group-title="General",TV Futuro
+https://tv02.zas.media:1936/tvfuturo/tvfuturo/playlist.m3u8
 #EXTINF:-1 tvg-id="TVGazeta.br" group-title="Uncategorized",TV Gazeta
 http://45.162.64.114/GAZETA/index.m3u8
 #EXTINF:-1 tvg-id="TVGazeta.br" group-title="Uncategorized",TV Gazeta
