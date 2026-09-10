@@ -59,10 +59,10 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=5616
 https://live.alawla.tv/hls/stream.m3u8
 #EXTINF:-1 tvg-id="AlEkhbariya.sa" group-title="News",Al Ekhbariya
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-al-ekhbaria/297b3ef1cd0633ad9cfba7473a686a06/index.m3u8
+#EXTINF:-1 tvg-id="AlEkhbariya.sa" group-title="News",Al Ekhbariya
+https://cdn-globecast.akamaized.net/live/eds/al_ekhbariya/hls_roku/index.m3u8
 #EXTINF:-1 tvg-id="AlerthAlnabawiChannel.jo" group-title="Religious",Alerth Alnabawi Channel
 http://82.212.74.2:8000/live/7307.m3u8
-#EXTINF:-1 tvg-id="AlghadeerTV.iq" group-title="News",Alghadeer TV
-https://sd343444.vodu.store:3356/live/Alghadeer/index.m3u8
 #EXTINF:-1 tvg-id="AlGhadTV.eg" group-title="News",Al Ghad TV
 https://eazyvwqssi.erbvr.com/alghadtv/alghadtv.m3u8
 #EXTINF:-1 tvg-id="AlHadath.sa" group-title="News",Al Hadath
@@ -240,6 +240,8 @@ https://live-news.asharq.com/asharq.m3u8
 #EXTINF:-1 tvg-id="AsharqNews.sa" group-title="Business, News",Asharq News
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-asharq/10ae30c64e21402c8116a7fb1e5aa789/index.m3u8
 #EXTINF:-1 tvg-id="AsharqNews.sa" group-title="Business, News",Asharq News
+https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/manifest.mpd
+#EXTINF:-1 tvg-id="AsharqNews.sa" group-title="Business, News",Asharq News
 https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="AsharqRadio.sa" group-title="Business, News",Asharq Radio
 https://svs.itworkscdn.net/asharqradiovlive/asharqradiov/playlist.m3u8
@@ -311,8 +313,6 @@ https://sw1.tanitweb.net/TunisiaTV/_definst_/watania1/chunklist.m3u8
 https://sw1.tanitweb.net/TunisiaTV/_definst_/watania1/playlist.m3u8?DVR
 #EXTINF:-1 tvg-id="ElWatania1.tn" group-title="General",El Watania 1
 https://sw1.tanitweb.net/TunisiaTV/_definst_/watania2/chunklist.m3u8
-#EXTINF:-1 tvg-id="ElWatania2.tn" group-title="General",El Watania 2
-https://sw1.tanitweb.net/TunisiaTV/_definst_/watania2/playlist.m3u8?DVR
 #EXTINF:-1 tvg-id="EmanTv.iq" group-title="Family",EmanTv
 https://avr.host247.net/live/emantv/playlist.m3u8
 #EXTINF:-1 tvg-id="ERiTV1.er" group-title="General",ERi-TV 1
@@ -475,8 +475,6 @@ https://cdn-globecast.akamaized.net/live/eds/libya_al_watanya/hls_roku/index.m3u
 https://htvmada.mada.ps:4443/maannews/index.m3u8
 #EXTINF:-1 tvg-id="MajidAlMohandis.sa" group-title="Music",Majid Al Mohandis
 https://shd-amg-fast.edgenextcdn.net/tx019/playlist.m3u8
-#EXTINF:-1 tvg-id="Makan33.il" group-title="News",Makan 33
-https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/makan/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="MakkahTV.sa" group-title="Religious",Makkah TV
 https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
 #EXTINF:-1 tvg-id="ManuChat.iq" group-title="Uncategorized",Manu Chat
@@ -599,8 +597,6 @@ https://d6izdil55uftn.cloudfront.net/out/v1/0a06d1d6377c47edbd48721ed724bd08/ind
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-panorama-fm/ea22f3856a1b772f793c43eb5d1c0636/index.m3u8
 #EXTINF:-1 tvg-id="PayamTV.iq" group-title="News",Payam TV
 https://hlspackager.akamaized.net/live/DB/PAYAM_TV/HLS/PAYAM_TV.m3u8
-#EXTINF:-1 tvg-id="PayamTV.iq" group-title="News",Payam TV
-https://media2.streambrothers.com:1936/8218/8218/playlist.m3u8
 #EXTINF:-1 tvg-id="PeaceTVBangla.ae" group-title="Religious",Peace TV Bangla
 https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8
 #EXTINF:-1 tvg-id="PeaceTVChinese.ae" group-title="Religious",Peace TV Chinese
@@ -635,6 +631,10 @@ https://googlecdn1.alkassdigital.net/livestream/qbc4/main.m3u8
 https://live.kwikmotion.com/qbusinesslive/qbusiness.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="RabehSaqer.sa" group-title="Music",Rabeh Saqer
 https://shd-amg-fast.edgenextcdn.net/tx004/playlist.m3u8
+#EXTINF:-1 tvg-id="RadioAlbaladTV.ps" group-title="General",Radio Albalad TV
+http://streaming.zaytonatube.com:8080/radioalbalad/radioalbalad/playlist.m3u8
+#EXTINF:-1 tvg-id="RadioAlbaladTV.ps" group-title="General",Radio Albalad TV
+https://streaming.zaytonatube.com:8081/radioalbalad/radioalbalad/index.m3u8
 #EXTINF:-1 tvg-id="RadioFannJordanStudio.jo" group-title="Uncategorized",Radio Fann Jordan Studio
 http://45.63.116.205/hls2/stream1.m3u8
 #EXTINF:-1 tvg-id="RadioYaqeenJordanCityView.jo" group-title="Uncategorized",Radio Yaqeen Jordan City View
@@ -673,6 +673,8 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-sbc/90e09c0c28db26435799b4a14
 http://31.14.41.69:8080/hls/sensesonline/index.m3u8
 #EXTINF:-1 tvg-id="SerajTV.ps" group-title="News, General",Seraj TV
 https://43869de4e1a0d641.servers.dvcloud.tv/hls/al_aqsa_channel/6udfi7v8a3eof6nlps6e9ovfrs65c7l7.m3u8
+#EXTINF:-1 tvg-id="ShababFM.ps" group-title="Uncategorized",Shabab FM
+https://streaming.zaytonatube.com:8081/ShababFM/shabab/index.m3u8
 #EXTINF:-1 tvg-id="ShamsTV.iq" group-title="News",Shams TV
 https://stream.shams.tv/hls/stream.m3u8
 #EXTINF:-1 tvg-id="Sharjah2.ae" group-title="Religious",Sharjah 2
@@ -707,8 +709,6 @@ https://cdn-globecast.akamaized.net/live/eds/sudan_tv/hls_roku/index.m3u8
 https://live.kwikmotion.com/syriatvlive/syriatv.smil/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="SyriaTV.sy" group-title="News",Syria TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6017
-#EXTINF:-1 tvg-id="SyriaTV.sy" group-title="News",Syria TV
-https://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="TahaTV.lb" group-title="Kids",Taha TV
 https://stream.starmenajo.com/hls/app/live/ts:fhd.m3u8
 #EXTINF:-1 tvg-id="TanasuhTV.ly" group-title="General",Tanasuh TV
