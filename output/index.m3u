@@ -5444,6 +5444,8 @@ http://212.70.131.37:8000/play/a05k
 #EXTINF:-1 tvg-id="AMCEurope.uk" group-title="Movies",AMC Europe
 http://213.91.179.28:8000/play/a0by
 #EXTINF:-1 tvg-id="AMCEurope.uk" group-title="Movies",AMC Europe
+http://hls127.freeott.top:8080/BG_AMC/video.m3u8
+#EXTINF:-1 tvg-id="AMCEurope.uk" group-title="Movies",AMC Europe
 http://88.212.15.19/live/test_amc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="AMCEurope.uk" group-title="Movies",AMC Europe
 http://88.212.15.19/live/amc_hun/index.m3u8
@@ -5891,18 +5893,12 @@ https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8
 https://ardbtv.ardb.com.kh:8443/tv-live/tv-online.m3u8
 #EXTINF:-1 tvg-id="ArenaFight.rs" group-title="Sports",Arena Fight
 https://nl1.nghk.ai/ArenaFight/index.m3u8
-#EXTINF:-1 tvg-id="ArenaSport1.ba" group-title="Sports",Arena Sport 1
-https://nl1.nghk.ai/ArenaSport1BH/index.m3u8
 #EXTINF:-1 tvg-id="ArenaSport1.hr" group-title="Sports",Arena Sport 1
 https://nl1.nghk.ai/AS1HRHD/index.m3u8
-#EXTINF:-1 tvg-id="ArenaSport1.rs" group-title="Sports",Arena Sport 1
-https://nl1.nghk.ai/ArenaSport1HD/index.m3u8
 #EXTINF:-1 tvg-id="ArenaSport1.sk" group-title="Sports",Arena Sport 1
 http://88.212.15.19/live/test_arenasport/playlist.m3u8
 #EXTINF:-1 tvg-id="ArenaSport1Premium.rs" group-title="Sports",Arena Sport 1 Premium
 https://nl1.nghk.ai/ArenaPremium1HD/index.m3u8
-#EXTINF:-1 tvg-id="ArenaSport2.ba" group-title="Sports",Arena Sport 2
-https://nl1.nghk.ai/ArenaSport2BH/index.m3u8
 #EXTINF:-1 tvg-id="ArenaSport2.hr" group-title="Sports",Arena Sport 2
 https://nl1.nghk.ai/AS2HRHD/index.m3u8
 #EXTINF:-1 tvg-id="ArenaSport2.rs" group-title="Sports",Arena Sport 2
@@ -5913,8 +5909,6 @@ http://88.212.15.19/live/test_arenasport_dva/playlist.m3u8
 https://nl1.nghk.ai/ArenaPremium2HD/index.m3u8
 #EXTINF:-1 tvg-id="ArenaSport2Premium.rs" group-title="Sports",Arena Sport 2 Premium
 https://7nyaler.streamhostingcdn.top/stream/78/index.m3u8
-#EXTINF:-1 tvg-id="ArenaSport3.ba" group-title="Sports",Arena Sport 3
-https://nl1.nghk.ai/ArenaSport3BH/index.m3u8
 #EXTINF:-1 tvg-id="ArenaSport3.hr" group-title="Sports",Arena Sport 3
 https://nl1.nghk.ai/AS3HRHD/index.m3u8
 #EXTINF:-1 tvg-id="ArenaSport3.rs" group-title="Sports",Arena Sport 3
@@ -5923,8 +5917,6 @@ https://nl1.nghk.ai/ArenaSport3HD/index.m3u8
 https://nl1.nghk.ai/ArenaPremium3HD/index.m3u8
 #EXTINF:-1 tvg-id="ArenaSport4.ba" group-title="Sports",Arena Sport 4
 https://7nyaler.streamhostingcdn.top/stream/67/index.m3u8
-#EXTINF:-1 tvg-id="ArenaSport4.ba" group-title="Sports",Arena Sport 4
-https://nl1.nghk.ai/ArenaSport4BH/index.m3u8
 #EXTINF:-1 tvg-id="ArenaSport4.hr" group-title="Sports",Arena Sport 4
 https://nl1.nghk.ai/AS4HRHD/index.m3u8
 #EXTINF:-1 tvg-id="ArenaSport4.rs" group-title="Sports",Arena Sport 4
@@ -5935,8 +5927,6 @@ https://nl1.nghk.ai/SK1SRHD/index.m3u8
 https://nl1.nghk.ai/AS5HRHD/index.m3u8
 #EXTINF:-1 tvg-id="ArenaSport5.rs" group-title="Sports",Arena Sport 5
 https://nl1.nghk.ai/ArenaSport5HD/index.m3u8
-#EXTINF:-1 tvg-id="ArenaSport5BH.ba" group-title="Sports",Arena Sport 5 BH
-https://nl1.nghk.ai/ArenaSport5BH/index.m3u8
 #EXTINF:-1 tvg-id="ArenaSport5Premium.rs" group-title="Sports",Arena Sport 5 Premium
 https://nl1.nghk.ai/SK2SRHD/index.m3u8
 #EXTINF:-1 tvg-id="ArenaSport6.hr" group-title="Sports",Arena Sport 6
@@ -5963,8 +5953,6 @@ https://nl1.nghk.ai/ArenaSport10HD/index.m3u8
 https://nl1.nghk.ai/SK3SRHD/index.m3u8
 #EXTINF:-1 tvg-id="ArenaSportPremium1BH.ba" group-title="Sports",Arena Sport Premium 1 BH
 https://7nyaler.streamhostingcdn.top/stream/33/index.m3u8
-#EXTINF:-1 tvg-id="ArenaSportPremium1BH.ba" group-title="Sports",Arena Sport Premium 1 BH
-https://nl1.nghk.ai/ArenaPremium1BH/index.m3u8
 #EXTINF:-1 tvg-id="ArenaSportPremium2BH.ba" group-title="Sports",Arena Sport Premium 2 BH
 https://7nyaler.streamhostingcdn.top/stream/48/index.m3u8
 #EXTINF:-1 tvg-id="ArenaSportPremium2BH.ba" group-title="Sports",Arena Sport Premium 2 BH
@@ -7767,18 +7755,26 @@ https://bnr-cache-cdp.triple-it.nl/studio/index.m3u8
 https://shift03.isp.bg/BNT1_HD/index.m3u8
 #EXTINF:-1 tvg-id="BNT1.bg" group-title="General",BNT 1
 http://213.91.179.28:8000/play/a046
+#EXTINF:-1 tvg-id="BNT1.bg" group-title="General",BNT 1
+http://hls127.freeott.top:8080/BG_BNT_1/video.m3u8
 #EXTINF:-1 tvg-id="BNT2.bg" group-title="General",BNT 2
 https://shift03.isp.bg/BNT2_HD/index.m3u8
 #EXTINF:-1 tvg-id="BNT2.bg" group-title="General",BNT 2
 http://213.91.179.28:8000/play/a049
+#EXTINF:-1 tvg-id="BNT2.bg" group-title="General",BNT 2
+http://hls127.freeott.top:8080/BG_BNT_2_HD/video.m3u8
 #EXTINF:-1 tvg-id="BNT3.bg" group-title="General",BNT 3
 https://shift03.isp.bg/BNT3_HD/index.m3u8
 #EXTINF:-1 tvg-id="BNT3.bg" group-title="General",BNT 3
 http://213.91.179.28:8000/play/a03x
+#EXTINF:-1 tvg-id="BNT3.bg" group-title="General",BNT 3
+http://hls127.freeott.top:8080/BG_BNT_3_HD/video.m3u8
 #EXTINF:-1 tvg-id="BNT4.bg" group-title="General",BNT 4
 https://shift03.isp.bg/BNT4_HD/index.m3u8
 #EXTINF:-1 tvg-id="BNT4.bg" group-title="General",BNT 4
 http://213.91.179.28:8000/play/a04u
+#EXTINF:-1 tvg-id="BNT4.bg" group-title="General",BNT 4
+http://hls127.freeott.top:8080/BG_BNT_4_HD/video.m3u8
 #EXTINF:-1 tvg-id="BoasNovas.br" group-title="Uncategorized",Boas Novas
 https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8
 #EXTINF:-1 tvg-id="Bober.ru" group-title="Uncategorized",Bober
@@ -8247,6 +8243,8 @@ https://stmv1.voxtvhd.com.br/alpavision/alpavision/playlist.m3u8
 https://nd106.republicaservers.com:4433/hls/c6611/index.m3u8
 #EXTINF:-1 tvg-id="Canal2Gualeguay.ar" group-title="General",Canal 2 Gualeguay
 https://stream.arcast.net:4443/gualeguay/gualeguay/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal2MardelPlata.ar" group-title="General",Canal 2 Mar del Plata
+https://tv.streamcasthd.com:3641/live/canal2mdplive.m3u8
 #EXTINF:-1 tvg-id="Canal2Misiones.ar" group-title="Uncategorized",Canal 2 Misiones
 https://nd106.republicaservers.com:4433/hls/canal2misioness/index.m3u8
 #EXTINF:-1 tvg-id="Canal2NexTVRafaela.ar" group-title="General",Canal 2 NexTV Rafaela
@@ -10737,9 +10735,9 @@ https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8
 https://aegis-cloudfront-1.tubi.video/54b357b4-bf4b-4356-97b4-b1acb6ab62f7/playlist.m3u8
 #EXTINF:-1 tvg-id="CypressChannel36.us" group-title="Legislative",Cypress Channel 36
 https://livestream-us-east-edge-2.granicusops.com/live/cypressca/live-1-a/playlist.m3u8
-#EXTINF:-1 tvg-id="D3TV.ml" group-title="Music",D3 TV
+#EXTINF:-1 tvg-id="D3TV.ml" group-title="Entertainment",D3 TV
 https://lbgo.bozztv.com/ssh101/ssh101/d3tvnet/playlist.m3u8
-#EXTINF:-1 tvg-id="D3TV.ml" group-title="Music",D3 TV
+#EXTINF:-1 tvg-id="D3TV.ml" group-title="Entertainment",D3 TV
 https://live20.bozztv.com/akamaissh101/ssh101/d3tvnet/playlist.m3u8
 #EXTINF:-1 tvg-id="DaAi1.tw" group-title="General",DaAi 1
 https://pulltv1.wanfudaluye.com/live/tv1.m3u8
@@ -13149,6 +13147,8 @@ http://170.83.16.50/FISH_TV/index.m3u8
 https://a-cdn.klowdtv.com/live2/fite247_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="FITE247.us" group-title="Sports",FITE 24/7
 https://d3d85c7qkywguj.cloudfront.net/scheduler/scheduleMaster/263.m3u8
+#EXTINF:-1 tvg-id="FixFoxi.de" group-title="Kids",Fix & Foxi
+https://live.omni3.pl/fixfoxide/index.m3u8?token=ebnk.xyz
 #EXTINF:-1 tvg-id="FIXTV.hu" group-title="Uncategorized",FIX TV
 https://fixhd.tv:8082/fix/1080i/playlist.m3u8
 #EXTINF:-1 tvg-id="FlameTV.ng" group-title="Religious",Flame TV
@@ -13337,8 +13337,6 @@ http://45.190.28.50/FOX_NEWS/index.m3u8
 http://138.121.15.230:9002/FOX-NEWS/index.m3u8
 #EXTINF:-1 tvg-id="FoxNewsChannel.us" group-title="News",Fox News Channel
 http://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
-#EXTINF:-1 tvg-id="FoxNewsChannel.us" group-title="News",Fox News Channel
-http://4.30.180.36:8420/foxnews/index.m3u8?token=test
 #EXTINF:-1 tvg-id="FoxNewsChannel.us" group-title="News",Fox News Channel
 https://tvsen6.aynaott.com/foxnews/index.m3u8
 #EXTINF:-1 tvg-id="FoxNewsRadio.us" group-title="News",Fox News Radio
@@ -13983,6 +13981,8 @@ https://online.godstands.tv:5443/WebRTCApp/streams/Tagalog.m3u8
 https://online.godstands.tv:5443/WebRTCApp/streams/UrduStreaming.m3u8
 #EXTINF:-1 tvg-id="GODTV.uk" group-title="Religious",GOD TV
 https://d1msejlow1t3l4.cloudfront.net/211125/godtv/chunks.m3u8
+#EXTINF:-1 tvg-id="GODTV.uk" group-title="Religious",GOD TV
+https://fl-dvr.iptvcdn.tv/chid_1/playlist.m3u8
 #EXTINF:-1 tvg-id="GoienaEus.es" group-title="Uncategorized",Goiena Eus
 https://zuzenean.goienamedia.eus/goiena-telebista.m3u8
 #EXTINF:-1 tvg-id="GolazoNetwork.us" group-title="Sports",Golazo Network
@@ -18443,8 +18443,6 @@ http://88.212.15.19/live/minimax_hun/index.m3u8
 https://vodzong.mjunoon.tv:8087/streamtest/disckids-157-1/playlist.m3u8
 #EXTINF:-1 tvg-id="Minimax.ro" group-title="Animation, Kids",Minimax
 https://atlantida1.aquax1.cfd/minimaxy/usergendxny9zrnd.m3u8
-#EXTINF:-1 tvg-id="Minimax.si" group-title="Kids",Minimax
-https://live.omni3.pl/minimaxsi/index.m3u8
 #EXTINF:-1 tvg-id="MinimaxCEE.cz" group-title="Kids",Minimax CEE
 http://88.212.15.19/live/test_minimax/playlist.m3u8
 #EXTINF:-1 tvg-id="MinisterioLaVozDeUnRemanenteTV.us" group-title="Religious",Ministerio La Voz De Un Remanente TV
@@ -20263,6 +20261,8 @@ http://nonghyup.flive.skcdn.com/nonghyup/_definst_/nhlive/playlist.m3u8
 https://goliveafrica.media:9998/live/64ada04aa7678/index.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon.bg" group-title="Kids",Nickelodeon
 http://213.91.179.28:8000/play/a056
+#EXTINF:-1 tvg-id="Nickelodeon.bg" group-title="Kids",Nickelodeon
+http://hls127.freeott.top:8080/BG_Nickelodeon/video.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon.br" group-title="Kids",Nickelodeon
 https://stmv2.srvif.com/gafeab/gafeab/playlist.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon.cz" group-title="Kids",Nickelodeon
@@ -20793,6 +20793,8 @@ https://tvsen5.aynaott.com/xV4jEKf3D9zc/index.m3u8
 https://cdn.livespanel.com/nossatv/nossatv/playlist.m3u8
 #EXTINF:-1 tvg-id="NTV.ca" group-title="General",NTV
 https://2-fss-1.streamhoster.com/pl_122/201748-1431018-1/playlist.m3u8
+#EXTINF:-1 tvg-id="NTV.ca" group-title="General",NTV
+https://live.omni3.pl/cjon-dt/index.m3u8?token=ebnk.xyz
 #EXTINF:-1 tvg-id="NTV.ci" group-title="General",NTV
 https://strhlslb01.streamakaci.tv/str_ntv_ntv/str_ntv_ntv_multi/playlist.m3u8
 #EXTINF:-1 tvg-id="NTV.cl" group-title="Culture, Education",NTV
@@ -22053,8 +22055,6 @@ https://vcp.myplaytv.com/glowtv/glowtv/playlist.m3u8
 http://78.130.149.196:1935/live/pptv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="PLUSPLUS.ua" group-title="Kids",PLUSPLUS
 http://stream.mcquack.net/339/index.m3u8
-#EXTINF:-1 tvg-id="PlusSBTNovelas.br" group-title="Series",+SBT Novelas
-https://novelas.maissbt.com/v1/master/215c0da80606fed29372070168106400a6ca7e1a/Novelas_cmaf/index.m3u8
 #EXTINF:-1 tvg-id="PLUSTelevision.bo" group-title="General",PLUS Television
 https://twitch-m3u8.bastypro112.workers.dev/plustelevisionbolivia/index.m3u8
 #EXTINF:-1 tvg-id="PlusTLT.bo" group-title="Uncategorized",Plus TLT
@@ -23217,6 +23217,8 @@ http://88.212.15.19/live/test_prima_plus_25p/playlist.m3u8
 http://88.212.15.19/live/test_prima_star_hevc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="PrimaTV.it" group-title="General",Prima TV
 https://5db313b643fd8.streamlock.net/PrimaTV/PrimaTV/playlist.m3u8
+#EXTINF:-1 tvg-id="PrimaTV.ro" group-title="General",Prima TV
+http://eb4b8dcf.kablakaka.ru/iptv/AE8BY6FHF5ZGAG/6995/index.m3u8
 #EXTINF:-1 tvg-id="Primavera15.pe" group-title="General",Primavera 15
 https://mc.servidor.stream:19360/8244/8244.m3u8
 #EXTINF:-1 tvg-id="PrimaZoom.cz" group-title="Uncategorized",Prima Zoom
@@ -23285,6 +23287,8 @@ https://dash4.antik.sk/live/test_pro_sieben_tizen/playlist.m3u8
 http://cdn-01.bonus-tv.ru/prosveschenie_edge/index.m3u8
 #EXTINF:-1 tvg-id="Prosveshchenie.ru" group-title="Uncategorized",Prosveshchenie
 https://cdn-01.bonus-tv.ru/prosveschenie_edge/playlist.m3u8
+#EXTINF:-1 tvg-id="PROTV.ro" group-title="Uncategorized",PRO TV
+http://eb4b8dcf.kablakaka.ru/iptv/3KZ2W9GEEY49ZV/6997/index.m3u8
 #EXTINF:-1 tvg-id="PROTVChisinau.md" group-title="General, News",PRO TV Chisinau
 https://stream.protv.md/live/sursa-1/index.m3u8
 #EXTINF:-1 tvg-id="PROTVNews.ro" group-title="News",PROTV News
@@ -25127,6 +25131,8 @@ https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S27134503/0f9AhuwKlhnZ/p
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S38122967/2lyQRIAAGgRR/playlist_video.m3u8
 #EXTINF:-1 tvg-id="RTL1025TV.it" group-title="Music",RTL 102.5 TV
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8
+#EXTINF:-1 tvg-id="RTL.de" group-title="Uncategorized",RTL
+https://live.omni3.pl/rtlde/index.m3u8?token=ebnk.xyz
 #EXTINF:-1 tvg-id="RTL.hu" group-title="Uncategorized",RTL
 http://88.212.15.19/live/test_rtl_klub_hungary_1200_atk/playlist.m3u8
 #EXTINF:-1 tvg-id="RTLClub.be" group-title="General",RTL Club
@@ -25151,6 +25157,8 @@ https://tvi-live-hls.akamaized.net/hls/live/2038650/TVI-Live-HLS/master.m3u8
 https://rtlradio-streaming.rtl.lu/rtlradiowebtv/smil:rtlradiowebtv/playlist.m3u8
 #EXTINF:-1 tvg-id="RTLZwee.lu" group-title="General",RTL Zwee
 https://live-edge.rtl.lu/channel2/smil:channel2/playlist.m3u8
+#EXTINF:-1 tvg-id="RTLZwei.de" group-title="Uncategorized",RTL Zwei
+https://live.omni3.pl/rtl2de/index.m3u8?token=ebnk.xyz
 #EXTINF:-1 tvg-id="RTMASEAN.my" group-title="News",RTM ASEAN
 https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/chunklist_b2596000_slENG.m3u8
 #EXTINF:-1 tvg-id="RTMParlimenDewanNegara.my" group-title="Legislative",RTM Parlimen Dewan Negara
@@ -29801,6 +29809,8 @@ https://jmp2.uk/plu-63dac32bda711800088a2ba3.m3u8
 https://jmp2.uk/plu-69256bd7db5cc2f81d8a1a08.m3u8
 #EXTINF:-1 tvg-id="TilMiddagHos.se" group-title="Cooking, Lifestyle",Til Middag Hos
 https://jmp2.uk/plu-61c1a05ef30f5d0007e562f3.m3u8
+#EXTINF:-1 tvg-id="TimelessDiziChannel.pl" group-title="Uncategorized",Timeless Dizi Channel
+http://hls127.freeott.top:8080/BG_Dizi_HD/video.m3u8
 #EXTINF:-1 tvg-id="TimelessDiziChannel.ro" group-title="Uncategorized",Timeless Dizi Channel
 https://atlantida1.aquax1.cfd/dizy/usergendlk0tas9c.m3u8
 #EXTINF:-1 tvg-id="TimelessTV.us" group-title="Classic, Shop",Timeless TV
