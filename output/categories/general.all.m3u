@@ -756,10 +756,6 @@ http://194.50.51.34/playlist.m3u8
 #EXTINF:-1 tvg-id="BaltiTV.md" group-title="General",Balti TV
 http://77.89.199.174:8000/play/1024/index.m3u8
 #EXTINF:-1 tvg-id="Band.br" group-title="General",Band
-http://45.190.28.50/BAND_HD/index.m3u8
-#EXTINF:-1 tvg-id="Band.br" group-title="General",Band
-http://138.255.2.6:8084/BAND/index.m3u8
-#EXTINF:-1 tvg-id="Band.br" group-title="General",Band
 http://170.84.165.204/BAND_HD/index.m3u8
 #EXTINF:-1 tvg-id="Band.br" group-title="General",Band
 https://media.cdntvms.com.br/band_sat/index.m3u8
@@ -3353,6 +3349,8 @@ http://15.204.246.24:8080/LasEstrellasHD/index.m3u8
 http://190.93.224.42/CANAL-LAS-ESTRELLAS/index.m3u8
 #EXTINF:-1 tvg-id="LasEstrellasLatinAmerica.mx" group-title="General",Las Estrellas Latin America
 http://209.14.115.253:8081/LAS-ESTRELLAS/index.m3u8
+#EXTINF:-1 tvg-id="LasEstrellasLatinAmerica.mx" group-title="General",Las Estrellas Latin America
+http://138.121.15.230:9002/LAS-ESTRELLAS/index.m3u8
 #EXTINF:-1 tvg-id="LaSultanadelEsteTV.do" group-title="General",La Sultana del Este TV
 https://micanal.ovh/livestreams/544.EP3QGO4KPL66.m3u8
 #EXTINF:-1 tvg-id="LasVegasTonightwithDaleDavidson.us" group-title="General",Las Vegas Tonight with Dale Davidson
@@ -3671,6 +3669,8 @@ https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
 https://cloudfront44.lexanetwork.com:1344/freerelay/mezokovesdvtv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="MGSTV.id" group-title="General",MGSTV
 https://mgstv.siar.us/live/mgstv.m3u8
+#EXTINF:-1 tvg-id="Mh1Prime.in" group-title="General",Mh 1 Prime
+https://streams.tangotv.in/MHONE/ORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="MiavisionTV.do" group-title="General",Miavision TV
 https://edge.essastream.com/miavisiontv/playlist.m3u8
 #EXTINF:-1 tvg-id="Microvision10.do" group-title="General",Microvision 10
@@ -4886,10 +4886,6 @@ https://streaming.telecablecentral.com.do/ReadyTV/ReadyHD/playlist.m3u8
 #EXTINF:-1 tvg-id="RealTelevision.pe" group-title="General",Real Television
 https://live-evg10.tv360.bitel.com.pe/bitel/realtv/playlist.m3u8
 #EXTINF:-1 tvg-id="Record.br" group-title="General",Record
-http://45.190.28.50/RECORD/index.m3u8
-#EXTINF:-1 tvg-id="Record.br" group-title="General",Record
-http://138.255.2.6:8084/RECORD/index.m3u8
-#EXTINF:-1 tvg-id="Record.br" group-title="General",Record
 http://170.84.165.204/Record_HD/index.m3u8
 #EXTINF:-1 tvg-id="Record.br" group-title="General",Record
 https://media.cdntvms.com.br/record_nacional_sat/index.m3u8
@@ -4920,10 +4916,6 @@ http://15.204.246.24:8080/DTVHD/index.m3u8
 #EXTINF:-1 tvg-id="RedeBrasil.br" group-title="General",Rede Brasil
 https://redebrasil.nuvemplay.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="RedeBrasil.br" group-title="General",Rede Brasil
-http://45.190.28.50/REDE_BRASIL_HD/index.m3u8
-#EXTINF:-1 tvg-id="RedeBrasil.br" group-title="General",Rede Brasil
-http://138.255.2.6:8084/REDEBRASIL/index.m3u8
-#EXTINF:-1 tvg-id="RedeBrasil.br" group-title="General",Rede Brasil
 http://170.84.165.204/REDEBRASIL/index.m3u8
 #EXTINF:-1 tvg-id="RedeBrasil.br" group-title="General",Rede Brasil
 https://cdn-tiva-video09-logicahost-com-br.smartbit.co/redebrasiloficial/redebrasiloficial/playlist.m3u8
@@ -4933,8 +4925,6 @@ http://168.205.87.198:8555/live/1368/123456/150.m3u8
 https://cdn-tiva-isaocorp-cloudecast-com.smartbit.co/metropole/index.m3u8
 #EXTINF:-1 tvg-id="RedeSPTV.br" group-title="General",Rede SPTV
 https://video01.logicahost.com.br/websptv/websptv/playlist.m3u8
-#EXTINF:-1 tvg-id="RedeTV.br" group-title="General",Rede TV!
-http://45.190.28.50/REDE_TV_HD/index.m3u8
 #EXTINF:-1 tvg-id="RedeTV.br" group-title="General",Rede TV!
 http://45.162.64.114/REDE_TV/index.m3u8
 #EXTINF:-1 tvg-id="RedeTV.br" group-title="General",Rede TV!
@@ -5875,12 +5865,16 @@ https://59ef525c24caa.streamlock.net/telebrunca/telebrunca/playlist.m3u8
 http://45.167.2.101:8000/play/a07n/index.m3u8
 #EXTINF:-1 tvg-id="Telecafe.co" group-title="General",Telecafe
 https://liveingesta318.cdnmedia.tv/telecafelive/smil:rtmp01.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Telecafe.co" group-title="General",Telecafe
+http://138.121.15.230:9002/TELECAFE/index.m3u8
 #EXTINF:-1 tvg-id="Telecanal12.do" group-title="General",Telecanal 12
 https://edge.essastream.com/telecanal12/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Telecanal28.do" group-title="General",Telecanal 28
 https://edge.essastream.com/telecanal28/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Telecaribe.co" group-title="General",Telecaribe
 https://liveingesta118.cdnmedia.tv/telecaribetvlive/smil:rtmp01.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Telecaribe.co" group-title="General",Telecaribe
+http://138.121.15.230:9002/TELECARIBE/index.m3u8
 #EXTINF:-1 tvg-id="TelecaribePlus.co" group-title="General",Telecaribe Plus
 https://liveingesta118.cdnmedia.tv/telecaribetvlive/smil:rtmp02.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Telecentro.do" group-title="General",Telecentro

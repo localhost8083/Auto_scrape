@@ -9,6 +9,8 @@ https://canal.aupurtv.co/live/stream/index.m3u8
 https://s1.abntelevision.com/avivamientoabr/stream/avivamientohd/avivamientohd/playlist.m3u8
 #EXTINF:-1 tvg-id="BendicionChannel.co" group-title="Religious",Bendicion Channel
 https://s.emisoras.tv:8081/bendicionchannel/index.m3u8
+#EXTINF:-1 tvg-id="BethelColombia.co" group-title="Religious",Bethel Colombia
+http://138.121.15.230:9002/BETHEL/index.m3u8
 #EXTINF:-1 tvg-id="BluRadio.co" group-title="General",Blu Radio
 https://mdstrm.com/live-stream-playlist/58d1921a72e2b22e2905e493.m3u8
 #EXTINF:-1 tvg-id="BuenisimaRadioTV.co" group-title="Music",Buenisima Radio TV
@@ -27,6 +29,8 @@ https://eu1.servers10.com:8081/8056/index.m3u8
 https://movil.ejeserver.com/live/calimatv.m3u8
 #EXTINF:-1 tvg-id="CanalCapital.co" group-title="General",Canal Capital
 http://138.121.15.230:9002/CANAL-CAPITAL/index.m3u8
+#EXTINF:-1 tvg-id="CanalCHD.co" group-title="General",Canal CHD
+https://vs20.live.opencaster.com/canalchd2025_8d99626c/index.m3u8
 #EXTINF:-1 tvg-id="CanalCineDios.co" group-title="Movies",Canal Cine Dios
 https://canal.mediaserver.com.co/live/cinedios.m3u8
 #EXTINF:-1 tvg-id="CanalCongreso.co" group-title="Legislative",Canal Congreso
@@ -43,10 +47,6 @@ http://138.121.15.230:9002/CANAL-INSTITUCIONAL/index.m3u8
 https://movil.ejeserver.com/live/teledoradahd.m3u8
 #EXTINF:-1 tvg-id="CanalMasTelevision.co" group-title="General",Canal Mas Television
 https://video.ejeserver.com/live/teledoradahd.m3u8
-#EXTINF:-1 tvg-id="CanalNets.co" group-title="Entertainment",Canal Nets
-https://movil.ejeserver.com/live/nets.m3u8
-#EXTINF:-1 tvg-id="CanalNets.co" group-title="Entertainment",Canal Nets
-https://video.ejeserver.com/live/nets.m3u8
 #EXTINF:-1 tvg-id="CanalOracionConSon.co" group-title="Religious",Canal Oracion Con Son
 https://canal.mediaserver.com.co/live/oracionconson.m3u8
 #EXTINF:-1 tvg-id="CanalPyC.co" group-title="News",Canal PyC
@@ -93,8 +93,6 @@ https://5fc584f3f19c9.streamlock.net/cristovision/videocristovision/playlist.m3u
 https://stmv3.voxtvhd.com.br/conex2/conex2/playlist.m3u8
 #EXTINF:-1 tvg-id="ElMundodelCampo.co" group-title="Outdoor",El Mundo del Campo
 https://movil.ejeserver.com/live/elmundodelcampo.m3u8
-#EXTINF:-1 tvg-id="EmisoraComunitaria1041FM.co" group-title="General",Emisora Comunitaria 104.1 FM
-https://104florencia.co/wp-admin/admin-ajax.php?action=frp_hls_proxy&url=https://streamyes.alsolnet.com/comunitariafm/live/playlist.m3u8
 #EXTINF:-1 tvg-id="FiestaTV.co" group-title="Music",Fiesta TV
 https://panelvideo1.intermediahost.co:3286/live/ruzfpkqklive.m3u8
 #EXTINF:-1 tvg-id="FrecuenciaFTV.co" group-title="Religious",Frecuencia F TV
@@ -161,8 +159,6 @@ https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWE
 https://eu1.servers10.com:8081/8090/index.m3u8
 #EXTINF:-1 tvg-id="RumbaTV.co" group-title="Music",Rumba TV
 http://45.162.193.35/RUMBATV/index.m3u8
-#EXTINF:-1 tvg-id="SalsaGordaTelevision.co" group-title="Music",Salsa Gorda Television
-https://live20.bozztv.com/akamaissh101/ssh101/qMUAZEy/playlist.m3u8
 #EXTINF:-1 tvg-id="SantelTV.co" group-title="Religious",Santel TV
 https://tv3.bitstreaming.net:3540/live/santeltvlive.m3u8
 #EXTINF:-1 tvg-id="SenalColombia.co" group-title="General",Senal Colombia
@@ -177,6 +173,10 @@ https://sistemastr.tropicalmoonmedia.com:443/live/9E495C5FDA503D7F71037F2D2C5D3F
 https://backupmaxmedia.hvmultiplay.com/hls/stream4/supermusica.m3u8
 #EXTINF:-1 tvg-id="SuramTV.co" group-title="General",Suram TV
 https://us.streaminghd.cl/suramtv/index.m3u8
+#EXTINF:-1 tvg-id="Telecafe.co" group-title="General",Telecafe
+http://138.121.15.230:9002/TELECAFE/index.m3u8
+#EXTINF:-1 tvg-id="Telecaribe.co" group-title="General",Telecaribe
+http://138.121.15.230:9002/TELECARIBE/index.m3u8
 #EXTINF:-1 tvg-id="Teleislas.co" group-title="General",Teleislas
 https://5ab772334c39c.streamlock.net/live-teleislas/teleislas/playlist.m3u8
 #EXTINF:-1 tvg-id="TeleMocoaCanal10.co" group-title="General",Tele Mocoa Canal 10
@@ -199,5 +199,5 @@ https://eu1.servers10.com:8081/8072/index.m3u8
 https://streaming5.globalhostla.com/rtplive/unamirad/playlist.m3u8
 #EXTINF:-1 tvg-id="ViveTV.co" group-title="General",Vive TV
 http://192.144.113.132:1935/live/ViveTV/playlist.m3u8
-#EXTINF:-1 tvg-id="WinSports.co" group-title="Sports",Win Sports
-http://138.121.15.230:9002/WIN-SPORT/index.m3u8
+#EXTINF:-1 tvg-id="Zoom.co" group-title="Education",Zoom
+http://138.121.15.230:9002/ZOOM/index.m3u8
