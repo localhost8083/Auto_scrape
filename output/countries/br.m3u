@@ -261,8 +261,6 @@ http://170.83.49.66:8083/RECORDNEWSHD/index.m3u8
 http://186.219.52.187/record_news/index.m3u8
 #EXTINF:-1 tvg-id="RecordNews.br" group-title="News",Record News
 https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8
-#EXTINF:-1 tvg-id="RedeBrasil.br" group-title="General",Rede Brasil
-https://redebrasil.nuvemplay.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="RedeCNTRiodeJaneiro.br" group-title="Uncategorized",Rede CNT Rio de Janeiro
 http://45.162.64.114/CNT/index.m3u8
 #EXTINF:-1 tvg-id="RedeCNTRiodeJaneiro.br" group-title="Uncategorized",Rede CNT Rio de Janeiro
@@ -295,6 +293,8 @@ https://isaocorp.cloudecast.com/ngt/index.m3u8
 http://45.162.64.114/REDE_SECULO_21/index.m3u8
 #EXTINF:-1 tvg-id="RedeSeculo21.br" group-title="Religious",Rede Seculo 21
 http://186.219.52.187/seculo21/index.m3u8
+#EXTINF:-1 tvg-id="RedeSPTV.br" group-title="General",Rede SPTV
+https://video01.logicahost.com.br/websptv/websptv/playlist.m3u8
 #EXTINF:-1 tvg-id="RedeTV.br" group-title="General",Rede TV!
 http://45.162.64.114/REDE_TV/index.m3u8
 #EXTINF:-1 tvg-id="RedeTV.br" group-title="General",Rede TV!
@@ -369,8 +369,6 @@ https://9ada494d.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYn
 https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992529
 #EXTINF:-1 tvg-id="TikTokRadioBrasil.br" group-title="Music",TikTok Radio Brasil
 https://jmp2.uk/plu-63dac32bda711800088a2ba3.m3u8
-#EXTINF:-1 tvg-id="TimesBrasil.br" group-title="News",Times Brasil
-https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/21fdb6dd7491406bba86497a24390a25/playlist.m3u8
 #EXTINF:-1 tvg-id="TravelBoxBrazil.br" group-title="Travel",Travel Box Brazil
 http://168.197.104.22/TRAVEL_BOX_BRASIL/index.m3u8
 #EXTINF:-1 tvg-id="TravelBoxBrazil.br" group-title="Travel",Travel Box Brazil
@@ -413,6 +411,8 @@ http://170.83.49.66:8083/TVBRASILHD/index.m3u8
 http://186.219.52.187/tv_brasil/index.m3u8
 #EXTINF:-1 tvg-id="TVBrasil.br" group-title="Uncategorized",TV Brasil
 https://tvbrasil-stream.ebc.com.br/index.m3u8
+#EXTINF:-1 tvg-id="TVBrasilOeste.br" group-title="General",TV Brasil Oeste
+https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8
 #EXTINF:-1 tvg-id="TVBRICSPortuguese.br" group-title="General",TV BRICS Portuguese
 https://porbrics.mediacdn.ru/cdn/brics/portuguese/playlist.m3u8
 #EXTINF:-1 tvg-id="TVBrusque.br" group-title="News",TV Brusque
@@ -529,14 +529,16 @@ http://45.162.64.114/TV_PAI_ETERNO/index.m3u8
 http://168.197.104.22/TV_PAI_ETERNO/index.m3u8
 #EXTINF:-1 tvg-id="TVPaiEterno.br" group-title="Religious",TV Pai Eterno
 http://186.219.52.187/pai_eterno/index.m3u8
+#EXTINF:-1 tvg-id="TVPaiEterno.br" group-title="Religious",TV Pai Eterno
+https://video09.logicahost.com.br/paieterno/paieterno/playlist.m3u8
 #EXTINF:-1 tvg-id="TVPantanalMS.br" group-title="Uncategorized",TV Pantanal MS
 https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="TVParaense.br" group-title="General, Family, Entertainment, News",TV Paraense
+https://video09.logicahost.com.br/tvparaense/tvparaense/playlist.m3u
 #EXTINF:-1 tvg-id="TVParanaTurismo.br" group-title="Travel",TV Parana Turismo
 http://200.189.113.201/hls/tve.m3u8
 #EXTINF:-1 tvg-id="TVPassoFundo.br" group-title="General",TV Passo Fundo
 https://5a57bda70564a.streamlock.net/tvpasso/tvpasso.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="TVPetropolis.br" group-title="General",TV Petropolis
-https://video02.logicahost.com.br/tvpetropolis/tvpetropolis/playlist.m3u8
 #EXTINF:-1 tvg-id="TVPlusPet.br" group-title="Entertainment",TV+Pet
 https://stmv5.samcast.com.br/tvmaispet6354/tvmaispet6354/playlist.m3u8
 #EXTINF:-1 tvg-id="TVRaTimBum.br" group-title="Uncategorized",TV Ra Tim Bum
@@ -567,8 +569,6 @@ https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
 https://stmv8.samcast.com.br/raimundoanselmolimamororo1908/raimundoanselmolimamororo1908/playlist.m3u8
 #EXTINF:-1 tvg-id="TVSimCachoeiro.br" group-title="News",TV Sim Cachoeiro
 https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist.m3u8
-#EXTINF:-1 tvg-id="TVSimSaoMateus.br" group-title="News",TV Sim Sao Mateus
-https://5cf4a2c2512a2.streamlock.net/8236/8236/playlist.m3u8
 #EXTINF:-1 tvg-id="TVSulBahia.br" group-title="Uncategorized",TV Sul Bahia
 https://live.cdn.upx.com/00046/myStream.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="TVTerceiroAnjo.br" group-title="Religious",TV Terceiro Anjo
@@ -577,8 +577,6 @@ https://streamer1.streamhost.org/salive/GMI3anjoh/playlist.m3u8
 https://app.tvufop.com.br/hls/tvufop.m3u8
 #EXTINF:-1 tvg-id="TVUniversal.br" group-title="Religious",TV Universal
 https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="TVVicosa.br" group-title="Entertainment",TV Vicosa
-http://wz4.dnip.com.br/fratevitv/fratevitv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="TVVilaReal.br" group-title="Uncategorized",TV Vila Real
 https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
 #EXTINF:-1 tvg-id="TVZoom.br" group-title="Entertainment, News",TV Zoom
