@@ -36,8 +36,6 @@ http://190.11.225.124:5000/live/amc_hd/playlist.m3u8
 #EXTINF:-1 tvg-id="AMC.us" group-title="Movies",AMC
 http://23.239.31.26:8989/amc/index.m3u8
 #EXTINF:-1 tvg-id="AMC.us" group-title="Movies",AMC
-http://41.205.93.154/AMC/index.m3u8
-#EXTINF:-1 tvg-id="AMC.us" group-title="Movies",AMC
 http://4.30.180.36:8420/amc/index.m3u8?token=test
 #EXTINF:-1 tvg-id="AMCEurope.uk" group-title="Movies",AMC Europe
 http://hls127.freeott.top:8080/BG_AMC/video.m3u8
@@ -118,7 +116,9 @@ https://streams.tangotv.in/B4UBHOJPURI/ORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="B4UKadak.in" group-title="Movies",B4U Kadak
 https://cdn.pishow.tv/ott/live/227/master.m3u8
 #EXTINF:-1 tvg-id="B4UKadak.in" group-title="Movies",B4U Kadak
-https://tvsen3.aynaott.com/X9E6bxg3/index.m3u8
+https://streams.tangotv.in/B4UKADAK/ORIGIN/index.m3u8
+#EXTINF:-1 tvg-id="B4UKadak.in" group-title="Movies",B4U Kadak
+http://107.167.16.138/b4ukadak/index.m3u8?token=test
 #EXTINF:-1 tvg-id="B4UMovies.in" group-title="Movies",B4U Movies
 https://cdn.pishow.tv/ott/live/419/master.m3u8
 #EXTINF:-1 tvg-id="B4UMovies.in" group-title="Movies",B4U Movies
@@ -293,8 +293,6 @@ https://jmp2.uk/plu-561c5b0dada51f8004c4d855.m3u8
 https://jmp2.uk/plu-61f33318210549000806a530.m3u8
 #EXTINF:-1 tvg-id="ClassiqueTV.br" group-title="Movies",Classique TV
 https://stmv1.srvif.com/classique/classique/playlist.m3u8
-#EXTINF:-1 tvg-id="CNDFilmMiddleSchoolChannel.cn" group-title="Movies",CND Film Middle School Channel
-http://live-play.zxstv.com.cn/zhongxuesheng/zhongxuesheng.m3u8
 #EXTINF:-1 tvg-id="ColorsCineplexBollywood.in" group-title="Movies",Colors Cineplex Bollywood
 http://202.70.146.135:8000/play/a058/index.m3u8
 #EXTINF:-1 tvg-id="CosmosTv.ar" group-title="Movies, News",Cosmos Tv
@@ -434,8 +432,6 @@ https://jmp2.uk/plu-66ba1e4446762a000855cd87.m3u8
 #EXTINF:-1 tvg-id="Goldmines.in" group-title="Movies",Goldmines
 https://streams.tangotv.in/GOLDMINES/ORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="Goldmines.in" group-title="Movies",Goldmines
-https://tvsen3.aynaott.com/VamXuQH8/index.m3u8
-#EXTINF:-1 tvg-id="Goldmines.in" group-title="Movies",Goldmines
 https://cdn.pishow.tv/ott/live/1459/master.m3u8
 #EXTINF:-1 tvg-id="GoldminesAction.in" group-title="Movies",Goldmines Action
 https://mumt03.tangotv.in/Dsly5z3HGOLDMINESACTION/index.m3u8
@@ -445,10 +441,10 @@ https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/index.m3u8
 https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-id="GoldminesBollywood.in" group-title="Movies",Goldmines Bollywood
 https://streams.tangotv.in/GOLDMINESBOLLYWOOD/ORIGIN/index.m3u8
+#EXTINF:-1 tvg-id="GoldminesBollywood.in" group-title="Movies",Goldmines Bollywood
+https://tvsen6.aynaott.com/55xNrLdf/index.m3u8
 #EXTINF:-1 tvg-id="GoldminesMovies.in" group-title="Movies",Goldmines Movies
 https://streams.tangotv.in/GOLDMINEMOVIES/ORIGIN/index.m3u8
-#EXTINF:-1 tvg-id="GoldminesMovies.in" group-title="Movies",Goldmines Movies
-https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8
 #EXTINF:-1 tvg-id="GoldminesMovies.in" group-title="Movies",Goldmines Movies
 https://cdn.pishow.tv/ott/live/1461/master.m3u8
 #EXTINF:-1 tvg-id="GoldStar.ir" group-title="Movies",Gold Star
@@ -489,8 +485,6 @@ https://jmp2.uk/plu-628e685ba3811100070551a8.m3u8
 https://pb-clwlfvkqpn19r.akamaized.net/Hallmark_Movies_&_More.m3u8
 #EXTINF:-1 tvg-id="HarbinMovieChannel.cn" group-title="Movies",Harbin Movie Channel
 https://stream.hrbtv.net/yspd/playlist.m3u8
-#EXTINF:-1 tvg-id="HBOHits.us" group-title="Movies, Series",HBO Hits
-http://tvsen7.aynascope.net/hbo2/index.m3u8
 #EXTINF:-1 tvg-id="HBOHits.us" group-title="Movies, Series",HBO Hits
 http://4.30.180.36:8420/hbo2/index.m3u8?token=test
 #EXTINF:-1 tvg-id="HBOMovies.us" group-title="Movies, Series",HBO Movies
@@ -1360,8 +1354,6 @@ https://hlslive.olidigital.in/suriyantv/suriyantv/index.m3u8
 #EXTINF:-1 tvg-id="SYFY.us" group-title="Movies, Series",SYFY
 http://23.237.104.106:8080/USA_SYFY/index.m3u8
 #EXTINF:-1 tvg-id="SYFY.us" group-title="Movies, Series",SYFY
-http://tvsen7.aynascope.net/syfy/index.m3u8
-#EXTINF:-1 tvg-id="SYFY.us" group-title="Movies, Series",SYFY
 http://4.30.180.36:8420/syfy/index.m3u8?token=test
 #EXTINF:-1 tvg-id="Tamasha.ir" group-title="Movies",Tamasha
 https://ncdn.telewebion.ir/hdtest/live/playlist.m3u8
@@ -1401,8 +1393,6 @@ https://rpn.bozztv.com/gusa/gusa-tvsdriveinmovie/index.m3u8
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/universalcomedy/playlist.m3u8
 #EXTINF:-1 tvg-id="USANetwork.us" group-title="Movies, Series, Sports, Comedy",USA Network
 http://190.11.225.124:5000/live/usa_hd/playlist.m3u8
-#EXTINF:-1 tvg-id="USANetwork.us" group-title="Movies, Series, Sports, Comedy",USA Network
-https://tvsen3.aynaott.com/dbbcY6NG/index.m3u8
 #EXTINF:-1 tvg-id="USANetwork.us" group-title="Movies, Series, Sports, Comedy",USA Network
 http://4.30.180.36:8420/usa/index.m3u8?token=test
 #EXTINF:-1 tvg-id="ViafreeMovies.se" group-title="Movies",Viafree Movies
