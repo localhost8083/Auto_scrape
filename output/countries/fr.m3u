@@ -45,6 +45,8 @@ https://vdo2.pro-fhi.net:3628/live/uppodsfqlive.m3u8
 https://zylo-cinenanar-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="CinePlusClassic.fr" group-title="Movies",Cine+ Classic
 http://99.27.51.147/CineClassic/index.m3u8
+#EXTINF:-1 tvg-id="CinePlusFrisson.fr" group-title="Movies",Cine+ Frisson
+http://99.27.51.147:8080/CineFrisson/index.m3u8
 #EXTINF:-1 tvg-id="CineWestern.fr" group-title="Movies",Cine Western
 https://amg00711-zylo-amg00711c8-rakuten-uk-2686.playouts.now.amagi.tv/playlist/amg00711-zylofast-cinewestern-rakutenuk/playlist.m3u8
 #EXTINF:-1 tvg-id="CNews.fr" group-title="News",CNews
@@ -172,8 +174,6 @@ https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_500.m3u8
 #EXTINF:-1 tvg-id="France24.fr" group-title="News",France 24
 https://mumbai-edge.smartplaytv.in/france24/index.m3u8
 #EXTINF:-1 tvg-id="France24.fr" group-title="News",France 24
-https://amg00106-amg00106c1-samsung-nz-4151.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="France24.fr" group-title="News",France 24
 https://dash3.antik.sk/live/test_france24_eng/playlist.m3u8
 #EXTINF:-1 tvg-id="France24.fr" group-title="News",France 24
 https://amg00106-france24-france24-samsunguk-qvpp8.amagi.tv/playlist/amg00106-france24-france24-samsunguk/playlist.m3u8
@@ -225,12 +225,12 @@ https://5421175365ea3.streamlock.net/live/smil:switch.smil/playlist.m3u8
 https://d20oth1416y9a1.cloudfront.net/playlist/amg00711-zylofast-frequencenovelas-rakutenus/playlist.m3u8
 #EXTINF:-1 tvg-id="GenerationsTV.fr" group-title="Uncategorized",Generations TV
 https://event.vedge.infomaniak.com/livecast/ik:generation-tv/manifest.m3u8
-#EXTINF:-1 tvg-id="Gong.fr" group-title="Animation",Gong
-https://amg01596-gongnetworks-gong-ono-vh5f2.amagi.tv/1080p-vtt/index.m3u8
 #EXTINF:-1 tvg-id="Gulli.fr" group-title="Kids",Gulli
 http://99.27.51.147:8080/Gulli/index.m3u8
 #EXTINF:-1 tvg-id="HANDICAPTV.fr" group-title="Lifestyle",HANDICAP TV
 https://srv.webtvmanager.fr:3697/stream/play.m3u8
+#EXTINF:-1 tvg-id="ILTV.fr" group-title="Uncategorized",ILTV
+https://live.creacast.com/iltv/smil:iltv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="IntoCrime.fr" group-title="Documentary",Into Crime
 https://amg00711-zylo-amg00711c10-rakuten-fr-6731.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="KozoomTV.fr" group-title="Sports",Kozoom TV
@@ -241,6 +241,8 @@ https://figarotv-live.freecaster.com/live/freecaster/figarotv.m3u8
 https://static.lefigaro.fr/secom/tnt.m3u8
 #EXTINF:-1 tvg-id="LittoralFMTV.fr" group-title="Music",Littoral FM TV
 https://live.creacast.com/littoralfm-ch1/stream/playlist.m3u8
+#EXTINF:-1 tvg-id="M6.fr" group-title="Entertainment",M6
+http://99.27.51.147:8080/M6/index.m3u8
 #EXTINF:-1 tvg-id="MDL.fr" group-title="Uncategorized",MDL
 http://tv.mondeduloisir.fr:1935/tixtv/smil:web.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Mezzo.fr" group-title="Music",Mezzo
@@ -333,6 +335,8 @@ https://d1tvu4639eiqii.cloudfront.net/playlist.m3u8
 https://7aa9671895264ec9a384dfed1b992171.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-818-FR-SONYONEHITSCOMDIE-LG_FR/playlist.m3u8
 #EXTINF:-1 tvg-id="SonyOneHitsComedie.fr" group-title="Movies",Sony One Hits Comedie
 https://d3nvxupr08boay.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="Syfy.fr" group-title="Uncategorized",Syfy
+http://99.27.51.147:8080/SYFY/index.m3u8
 #EXTINF:-1 tvg-id="T18.fr" group-title="General",T18
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/t18/t18-dm.m3u8
 #EXTINF:-1 tvg-id="TF1.fr" group-title="Entertainment",TF1
@@ -343,22 +347,16 @@ http://str2.iptvhd.ru:8080/TF1/index.m3u8
 http://151.80.18.177:86/TMC/index.m3u8
 #EXTINF:-1 tvg-id="TraceAfrica.fr" group-title="Music",Trace Africa
 https://channels.trace.plus/Traceprod/AFRICA_FR_hd/index.m3u8
-#EXTINF:-1 tvg-id="TraceAfrikora.fr" group-title="Music",Trace Afrikora
-https://channels.trace.plus/Traceprod/TERANGA_hd/index.m3u8
 #EXTINF:-1 tvg-id="TraceAyiti.fr" group-title="Music",Trace Ayiti
 https://channels.trace.plus/Traceprod/AYITI_hd/index.m3u8
 #EXTINF:-1 tvg-id="TraceBrazuca.fr" group-title="Music",Trace Brazuca
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-samsungbr/playlist.m3u8
 #EXTINF:-1 tvg-id="TraceBrazuca.fr" group-title="Music",Trace Brazuca
 https://channels.trace.plus/Traceprod/BRAZIL_hd/index.m3u8
-#EXTINF:-1 tvg-id="TraceBrazuca.fr" group-title="Music",Trace Brazuca
-https://amg01131-tracetv-amg01131c4-stirr-us-4390.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TraceCaribbean.fr" group-title="Music",Trace Caribbean
 https://channels.trace.plus/Traceprod/CARIBBEAN_hd/index.m3u8
 #EXTINF:-1 tvg-id="TraceGospel.fr" group-title="Music, Religious",Trace Gospel
 https://channels.trace.plus/Traceprod/GOSPEL_ROA_hd/index.m3u8
-#EXTINF:-1 tvg-id="TraceGospel.fr" group-title="Music, Religious",Trace Gospel
-https://channels.trace.plus/Traceprod/GOSPEL_FR_hd/index.m3u8
 #EXTINF:-1 tvg-id="TraceGospel.fr" group-title="Music, Religious",Trace Gospel
 https://channels.trace.plus/Traceprod/GOSPEL_SA_hd/index.m3u8
 #EXTINF:-1 tvg-id="TraceIvoire.fr" group-title="Music",Trace Ivoire
@@ -375,16 +373,10 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracelatinait-samsung
 https://amg01131-tracetv-tracelatina-glewed-vtnk7.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TraceLatina.fr" group-title="Music",Trace Latina
 https://amg01131-tracetv-tracelatina-klowdtv-v10em.amagi.tv/playlist/amg01131-tracetv-tracelatina-klowdtv/playlist.m3u8
-#EXTINF:-1 tvg-id="TraceLatina.fr" group-title="Music",Trace Latina
-https://amg01131-tracetv-amg01131c3-stirr-us-4391.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="TraceMboa.fr" group-title="Music",Trace Mboa
-https://channels.trace.plus/Traceprod/MBOA_hd/index.m3u8
 #EXTINF:-1 tvg-id="TraceMuzika.fr" group-title="Music",Trace Muzika
 https://channels.trace.plus/Traceprod/MUZIKA_hd/index.m3u8
 #EXTINF:-1 tvg-id="TraceMziki.fr" group-title="Music",Trace Mziki
 https://channels.trace.plus/Traceprod/MZIKI_hd/index.m3u8
-#EXTINF:-1 tvg-id="TraceNaija.fr" group-title="Music",Trace Naija
-https://channels.trace.plus/Traceprod/NAIJA_hd/index.m3u8
 #EXTINF:-1 tvg-id="TraceNgoma.fr" group-title="Music",Trace Ngoma
 https://channels.trace.plus/Traceprod/AFRICA_EN_hd/index.m3u8
 #EXTINF:-1 tvg-id="TraceSportStars.fr" group-title="Sports",Trace Sport Stars
@@ -400,11 +392,7 @@ https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TraceSportStars.fr" group-title="Sports",Trace Sport Stars
 https://tracesportstars-klowdtv.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TraceSportStars.fr" group-title="Sports",Trace Sport Stars
-https://amg01131-tracetv-amg01131c2-stirr-us-4392.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="TraceSportStars.fr" group-title="Sports",Trace Sport Stars
 https://stream8.cinerama.uz/1274/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="TraceSportStars.fr" group-title="Sports",Trace Sport Stars
-https://channels.trace.plus/Traceprod/TRACE_SPORT_STARS_sd/index.m3u8
 #EXTINF:-1 tvg-id="TraceToca.fr" group-title="Music",Trace Toca
 https://channels.trace.plus/Traceprod/TOCA_hd/index.m3u8
 #EXTINF:-1 tvg-id="TraceUrban.fr" group-title="Music",Trace Urban
@@ -432,8 +420,6 @@ https://amg01131-tracetv-traceurban-glewed-g705j.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TraceUrban.fr" group-title="Music",Trace Urban
 https://amg01131-tracetv-traceurban-klowdtv-utiqd.amagi.tv/playlist/amg01131-tracetv-traceurban-klowdtv/playlist.m3u8
 #EXTINF:-1 tvg-id="TraceUrban.fr" group-title="Music",Trace Urban
-https://amg01131-tracetv-amg01131c1-stirr-us-4393.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="TraceUrban.fr" group-title="Music",Trace Urban
 https://channels.trace.plus/Traceprod/URBAN_SA_hd/index.m3u8
 #EXTINF:-1 tvg-id="TraceVanillaIslands.fr" group-title="Music",Trace Vanilla Islands
 https://channels.trace.plus/Traceprod/VANILLA_hd/index.m3u8
@@ -451,8 +437,8 @@ https://tvf-tv5ch.otteravision.com/tvf/tv5ch/tv5ch.m3u8
 http://5.180.164.197:8080/TV5MONDE/index.m3u8
 #EXTINF:-1 tvg-id="TV5MondeEurope.fr" group-title="General",TV5Monde Europe
 https://ert-ucdn.broadpeak-aas.com/bpk-tv/TV5/default/index.m3u8
-#EXTINF:-1 tvg-id="TV5MondeStyle.fr" group-title="Lifestyle",TV5Monde Style
-https://ott.tv5monde.com/Content/HLS/Live/channel(style1)/variant.m3u8
+#EXTINF:-1 tvg-id="TV5MondeInfo.fr" group-title="News",TV5Monde Info
+https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
 #EXTINF:-1 tvg-id="TV7Colmar.fr" group-title="General",TV7 Colmar
 https://tv7.live-kd.com/live/tv7/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="TVAlsace.fr" group-title="General",TV Alsace
