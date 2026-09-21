@@ -27,6 +27,8 @@ http://htvmada.mada.ps:8888/ajyal/index.m3u8
 https://cdn.live.easybroadcast.io/abr_corp/66_al24_u4yga6h/corp/66_al24_u4yga6h_240p/chunks.m3u8
 #EXTINF:-1 tvg-id="AlabbassiaTV.iq" group-title="Religious",Alabbassia TV
 https://stream.alabbassia.com/live/alabbassia/index.m3u8
+#EXTINF:-1 tvg-id="AlAimmaTV.iq" group-title="Religious",Al-Aimma TV
+https://alaimma.tv/live/index.m3u8
 #EXTINF:-1 tvg-id="AlAlamAlYawm.sa" group-title="News",Al Alam Al Yawm
 https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/chunklist_b928000.m3u8
 #EXTINF:-1 tvg-id="AlAlamiya2.sd" group-title="Education",Al Alamiya 2
@@ -91,8 +93,6 @@ http://185.105.4.151:8080/_defapp_/ittihad/index.m3u8
 http://185.9.2.18/chid_391/mono.m3u8
 #EXTINF:-1 tvg-id="AlJanoubTV.iq" group-title="News",Al Janoub TV
 https://live.alissahost.net/hls/test.m3u8
-#EXTINF:-1 tvg-id="AlJawadainTV.iq" group-title="Religious",Al-Jawadain TV
-https://live.aljawadain.org/live/aljawadaintv/playlist.m3u8
 #EXTINF:-1 tvg-id="AlJazeera2.qa" group-title="News",Al Jazeera 2
 https://live-hls-web-aja2-gcp.thehlive.com/AJA2/index.m3u8
 #EXTINF:-1 tvg-id="AlJazeera.qa" group-title="News",Al Jazeera
@@ -174,10 +174,6 @@ https://streamer3.premio.link/alqamar/playlist.m3u8
 #EXTINF:-1 tvg-id="Alquran.iq" group-title="Religious",Alquran
 https://ktvlive.online/stream/hls/ch1.m3u8
 #EXTINF:-1 tvg-id="AlQuranAlKareemTV.sa" group-title="Religious",Al Quran Al Kareem TV
-http://m.live.net.sa:1935/live/quran/gmswf.m3u8
-#EXTINF:-1 tvg-id="AlQuranAlKareemTV.sa" group-title="Religious",Al Quran Al Kareem TV
-http://m.live.net.sa:1935/live/quran/playlist.m3u8
-#EXTINF:-1 tvg-id="AlQuranAlKareemTV.sa" group-title="Religious",Al Quran Al Kareem TV
 https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8
 #EXTINF:-1 tvg-id="AlRasheedTV.iq" group-title="General",Al Rasheed TV
 https://media1.livaat.com/static/AL-RASHEED-HD/playlist.m3u8
@@ -209,10 +205,6 @@ https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8
 https://5d94523502c2d.streamlock.net/alsharqiyalive/mystream/playlist.m3u8
 #EXTINF:-1 tvg-id="AlSouriyaTV.sy" group-title="Family",Al-Souriya TV
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-al-souriya-tv/e3150760fa5fd62776225433b8c3d406/index.m3u8
-#EXTINF:-1 tvg-id="AlSunnahAlNabawiyahTV.sa" group-title="Religious",Al Sunnah Al Nabawiyah TV
-http://m.live.net.sa:1935/live/sunnah/gmswf.m3u8
-#EXTINF:-1 tvg-id="AlSunnahAlNabawiyahTV.sa" group-title="Religious",Al Sunnah Al Nabawiyah TV
-http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
 #EXTINF:-1 tvg-id="AlSunnahAlNabawiyahTV.sa" group-title="Religious",Al Sunnah Al Nabawiyah TV
 https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/index.m3u8
 #EXTINF:-1 tvg-id="AltaghierTV.jo" group-title="News",Altaghier TV
@@ -247,8 +239,6 @@ https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/playlist
 https://live-news.asharq.com/asharq.m3u8
 #EXTINF:-1 tvg-id="AsharqNews.sa" group-title="Business, News",Asharq News
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-asharq/10ae30c64e21402c8116a7fb1e5aa789/index.m3u8
-#EXTINF:-1 tvg-id="AsharqNews.sa" group-title="Business, News",Asharq News
-https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/manifest.mpd
 #EXTINF:-1 tvg-id="AsharqNews.sa" group-title="Business, News",Asharq News
 https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="AsharqRadio.sa" group-title="Business, News",Asharq Radio
@@ -419,14 +409,16 @@ https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Drama/playlist.m3u8
 https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/cooking/playlist.m3u8
 #EXTINF:-1 tvg-id="JordanSongs.jo" group-title="Music",Jordan Songs
 https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Song/playlist.m3u8
+#EXTINF:-1 tvg-id="JordanSport.jo" group-title="Sports",Jordan Sport
+https://jrtv-live.ercdn.net/jordansporthd/jordansporthd.m3u8
 #EXTINF:-1 tvg-id="JordanTourism.jo" group-title="Uncategorized",Jordan Tourism
 https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Tourism/playlist.m3u8
 #EXTINF:-1 tvg-id="JordanTV.jo" group-title="General",Jordan TV
 https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8
+#EXTINF:-1 tvg-id="KabbalahforthePeopleIsrael.il" group-title="Religious",Kabbalah for the People Israel
+https://edge3.uk.kab.tv/live/tv66-heb-high/playlist.m3u8
 #EXTINF:-1 tvg-id="KaifaTV.jo" group-title="General",Kaifa TV
 http://82.212.74.2:8000/live/7311.m3u8
-#EXTINF:-1 tvg-id="Kan11.il" group-title="General",Kan 11
-https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="KanEducational.il" group-title="Education",Kan Educational
 http://stream.mcquack.net/378/index.m3u8
 #EXTINF:-1 tvg-id="KarbalaDocumentary.iq" group-title="Religious, Documentary",Karbala Documentary
@@ -483,8 +475,6 @@ https://cdn-globecast.akamaized.net/live/eds/libya_al_watanya/hls_roku/index.m3u
 https://htvmada.mada.ps:4443/maannews/index.m3u8
 #EXTINF:-1 tvg-id="MajidAlMohandis.sa" group-title="Music",Majid Al Mohandis
 https://shd-amg-fast.edgenextcdn.net/tx019/playlist.m3u8
-#EXTINF:-1 tvg-id="Makan33.il" group-title="News",Makan 33
-https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/makan/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="MakkahTV.sa" group-title="Religious",Makkah TV
 https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
 #EXTINF:-1 tvg-id="ManuChat.iq" group-title="Uncategorized",Manu Chat
@@ -597,8 +587,12 @@ https://hms.pfs.gdn/v1/broadcast/onefm/playlist.m3u8
 https://hms.pfs.gdn/v1/broadcast/one/playlist.m3u8
 #EXTINF:-1 tvg-id="OTV.lb" group-title="General",OTV
 https://otv.hibridcdn.net/otv/tv_abr/playlist.m3u8
+#EXTINF:-1 tvg-id="PalestineAlYawm.lb" group-title="News",Palestine Al Yawm
+https://live.paltodaytv.com/paltv/live/playlist_sfm4s.m3u8
 #EXTINF:-1 tvg-id="PalestineSatelliteChannel.ps" group-title="General",Palestine Satellite Channel
 https://cdn-globecast.akamaized.net/live/eds/palestinian_satellite_channel/hls_roku/palestinian_satellite_channel.m3u8
+#EXTINF:-1 tvg-id="PalestineToday.ps" group-title="News",Palestine Today
+https://live.paltodaytv.com/paltv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="PanoramaFM.sa" group-title="Music",Panorama FM
 https://d6izdil55uftn.cloudfront.net/out/v1/0a06d1d6377c47edbd48721ed724bd08/index.m3u8
 #EXTINF:-1 tvg-id="PanoramaFM.sa" group-title="Music",Panorama FM
