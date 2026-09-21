@@ -21,6 +21,8 @@ https://v2.tustreaming.cl/enlacebpbtv/index.m3u8
 https://live-evg10.tv360.bitel.com.pe/bitel/alasdeaguilaSRT/playlist.m3u8
 #EXTINF:-1 tvg-id="ADATV.cl" group-title="Religious",ADA TV
 https://v4.tustreaming.cl/adatvchile/index.m3u8
+#EXTINF:-1 tvg-id="ADNTV.cl" group-title="News",ADN TV
+https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/adntv/adntv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AERadioTV.cl" group-title="Music",AE Radio TV
 https://tls-cl.cdnz.cl/aeradio/live/playlist.m3u8
 #EXTINF:-1 tvg-id="AgriculturaTV.cl" group-title="Outdoor",Agricultura TV
@@ -29,8 +31,6 @@ https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274
 https://live20.bozztv.com/giatv/giatv-alternativatv/alternativatv/playlist.m3u8
 #EXTINF:-1 tvg-id="AntofagastaTV.cl" group-title="General",Antofagasta TV
 https://unlimited6-cl.dps.live/atv/atv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="AricaTV.cl" group-title="General",Arica TV
-https://envivo.arica.tv/hls/Live2025AricaTV.m3u8
 #EXTINF:-1 tvg-id="AtacamaNoticias.cl" group-title="News",Atacama Noticias
 https://v2.tustreaming.cl/atacamanoticias/index.m3u8
 #EXTINF:-1 tvg-id="AtacamaTV.cl" group-title="Uncategorized",Atacama TV
@@ -97,6 +97,8 @@ https://v2.tustreaming.cl/chinachannel/index.m3u8
 https://5eaccbab48461.streamlock.net:1936/8180/8180/playlist.m3u8
 #EXTINF:-1 tvg-id="CiudadanoRadio.cl" group-title="General",Ciudadano Radio
 https://oracle.streaminghd.cl/ciudadanoradiotv/ciudadanoradiotv/playlist.m3u8
+#EXTINF:-1 tvg-id="ClickTVChile.cl" group-title="Documentary",ClickTV Chile
+https://v2.tustreaming.cl/clicktv/playlist.m3u8
 #EXTINF:-1 tvg-id="ClubTV.cl" group-title="Uncategorized",Club TV
 https://tv.arkeo.cl:1936/clubtv/clubtv/playlist.m3u8
 #EXTINF:-1 tvg-id="ConcepcionTV.cl" group-title="General",Concepcion TV
@@ -113,8 +115,6 @@ https://stmv2.voxtvhd.com.br/crtvchile/crtvchile/playlist.m3u8
 https://5eaccbab48461.streamlock.net:1936/dancefm_1/dancefm_1/playlist.m3u8
 #EXTINF:-1 tvg-id="DCHTV.cl" group-title="General",DCH TV
 https://v2.tustreaming.cl/dchtv/index.m3u8
-#EXTINF:-1 tvg-id="DecimaTV.cl" group-title="General",Decima TV
-https://unlimited2-cl-isp.dps.live/decimatv/decimatv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Docevision.cl" group-title="General",Docevision
 https://live20.bozztv.com/giatvplayout7/giatv-208729/playlist.m3u8
 #EXTINF:-1 tvg-id="El3deConce.cl" group-title="General",El 3 de Conce
@@ -387,10 +387,6 @@ https://unlimited1-cl-isp.dps.live/tvu/tvu.smil/playlist.m3u8
 https://unlimited1-us.dps.live/uct/uct.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TVUsach.cl" group-title="Education",TV Usach
 https://stv4.janus.cl/playlist/stream.m3u8
-#EXTINF:-1 tvg-id="UATV.cl" group-title="Uncategorized",UATV
-https://unlimited1-us.dps.live/uatv/uatv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="UATV.cl" group-title="Uncategorized",UATV
-https://unlimited6-cl.dps.live/uatv/uatv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="UCVTV.cl" group-title="Culture",UCV TV
 https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ULosLagosTV.cl" group-title="Uncategorized",U Los Lagos TV
@@ -407,8 +403,6 @@ https://v2.tustreaming.cl/utv/index.m3u8
 https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8
 #EXTINF:-1 tvg-id="VersoTV.cl" group-title="Culture",Verso TV
 https://verso.coopcom.cl/live/SHf6GLCpn4hDSpWdzaDzgX0ciU82/index.m3u8
-#EXTINF:-1 tvg-id="ViaX.cl" group-title="Uncategorized",Via X
-http://45.170.130.224:8000/play/a025/index.m3u8
 #EXTINF:-1 tvg-id="VisionPlusTV.cl" group-title="Uncategorized",Vision Plus TV
 https://5ff3d9babae13.streamlock.net/jwagpqxehu/jwagpqxehu/playlist.m3u8
 #EXTINF:-1 tvg-id="VivoTV.cl" group-title="Uncategorized",Vivo TV
@@ -419,8 +413,6 @@ https://unlimited1-us.dps.live/vtv/vtv.smil/playlist.m3u8
 https://unlimited6-cl.dps.live/vtv/vtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Wapp.cl" group-title="Lifestyle",Wapp
 https://stream.wapptv.cl/video/index.m3u8
-#EXTINF:-1 tvg-id="ZonaLatina.cl" group-title="Uncategorized",Zona Latina
-http://45.170.130.224:8000/play/a00x/index.m3u8
 #EXTINF:-1 tvg-id="ZonaPlayTV.cl" group-title="Entertainment",Zona Play TV
 https://tv1.mediacp.eu:3131/live/dilxbgxylive.m3u8
 #EXTINF:-1 tvg-id="ZoomTecnologicoPlus.cl" group-title="General",Zoom Tecnologico Plus
