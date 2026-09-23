@@ -126,6 +126,8 @@ http://194.143.148.28:8080/RT_DOC/index.m3u8
 #EXTINF:-1 tvg-id="BRIDGEClassic.ru" group-title="Classic, Music",BRIDGE Classic
 http://stream.mcquack.net/272/index.m3u8
 #EXTINF:-1 tvg-id="BRIDGEClassic.ru" group-title="Classic, Music",BRIDGE Classic
+http://5.188.159.128:8070/Bridge_TV_Classic/index.m3u8
+#EXTINF:-1 tvg-id="BRIDGEClassic.ru" group-title="Classic, Music",BRIDGE Classic
 https://fs.uplink.kz/bridge_classic/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="BRIDGEClassic.ru" group-title="Classic, Music",BRIDGE Classic
 http://str2.iptvhd.ru:8080/Bridge_TV_Classic/index.m3u8
@@ -333,8 +335,6 @@ https://stream8.cinerama.uz/1421/tracks-v1a1/mono.m3u8
 http://str2.iptvhd.ru:8080/Drayv/index.m3u8
 #EXTINF:-1 tvg-id="DumaTV.ru" group-title="Legislative",Duma TV
 http://185.23.80.23:8080/DumaTV/index.m3u8
-#EXTINF:-1 tvg-id="DumaTV.ru" group-title="Legislative",Duma TV
-https://dumatv.iptv2022.com/playlist.m3u8
 #EXTINF:-1 tvg-id="Dushevnoe.ru" group-title="Uncategorized",Dushevnoe
 http://stream.mcquack.net/213/index.m3u8
 #EXTINF:-1 tvg-id="Enisey.ru" group-title="General",Enisey
@@ -1012,6 +1012,8 @@ http://178.134.1.158:8081/red/index.m3u8
 #EXTINF:-1 tvg-id="red.ru" group-title="Entertainment",.red
 http://str2.iptvhd.ru:8080/SET/index.m3u8
 #EXTINF:-1 tvg-id="red.ru" group-title="Entertainment",.red
+http://5.188.159.128:8070/RED/index.m3u8
+#EXTINF:-1 tvg-id="red.ru" group-title="Entertainment",.red
 http://stream.mcquack.net/69/index.m3u8
 #EXTINF:-1 tvg-id="RedLine.ru" group-title="Uncategorized",Red Line
 http://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/index.m3u8
@@ -1519,8 +1521,6 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_U/variant.m3u8
 http://5.188.159.128:8070/udar/index.m3u8
 #EXTINF:-1 tvg-id="UDAR.ru" group-title="Sports",UDAR
 http://stream.mcquack.net/279/index.m3u8
-#EXTINF:-1 tvg-id="UDAR.ru" group-title="Sports",UDAR
-http://str2.iptvhd.ru:8080/UFC_HD/index.m3u8
 #EXTINF:-1 tvg-id="UgraTV.ru" group-title="Uncategorized",Ugra-TV
 https://live-ugratv.cdnvideo.ru/ugratv/ugratv/playlist.m3u8
 #EXTINF:-1 tvg-id="UniverTV.ru" group-title="Uncategorized",Univer TV
@@ -1553,8 +1553,6 @@ http://str2.iptvhd.ru:8080/v_gostyax_u_skaski/index.m3u8
 http://stream.mcquack.net/239/index.m3u8
 #EXTINF:-1 tvg-id="vijuExplore.ru" group-title="Documentary",viju Explore
 https://fs.uplink.kz/viju_explore/mono.m3u8?token=onlinetv
-#EXTINF:-1 tvg-id="vijuExplore.ru" group-title="Documentary",viju Explore
-http://str2.iptvhd.ru:8080/Viasat_Explorer/index.m3u8
 #EXTINF:-1 tvg-id="vijuHistory.ru" group-title="Documentary",viju History
 http://178.124.179.122:8080/HistoryHD/index.m3u8
 #EXTINF:-1 tvg-id="vijuHistory.ru" group-title="Documentary",viju History
@@ -1569,18 +1567,12 @@ https://stream8.cinerama.uz/1228/tracks-v1a1/mono.m3u8
 https://fs.uplink.kz/viju_nature/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="vijuPlusComedy.ru" group-title="Comedy",viju+ Comedy
 http://stream.mcquack.net/201/index.m3u8
-#EXTINF:-1 tvg-id="vijuPlusComedy.ru" group-title="Comedy",viju+ Comedy
-http://str2.iptvhd.ru:8080/TV1000_Comedy_HD/index.m3u8
 #EXTINF:-1 tvg-id="vijuPlusMegahit.ru" group-title="Movies",viju+ Megahit
 http://stream.mcquack.net/200/index.m3u8
-#EXTINF:-1 tvg-id="vijuPlusMegahit.ru" group-title="Movies",viju+ Megahit
-http://str2.iptvhd.ru:8080/TV1000_Megahit_HD/index.m3u8
 #EXTINF:-1 tvg-id="vijuPlusPlanet.ru" group-title="Documentary",viju+ Planet
 http://stream.mcquack.net/240/index.m3u8
 #EXTINF:-1 tvg-id="vijuPlusPremiere.ru" group-title="Movies",viju+ Premiere
 http://stream.mcquack.net/202/index.m3u8
-#EXTINF:-1 tvg-id="vijuPlusPremiere.ru" group-title="Movies",viju+ Premiere
-http://str2.iptvhd.ru:8080/TV1000_Premium_HD/index.m3u8
 #EXTINF:-1 tvg-id="vijuPlusSerial.ru" group-title="Series",viju+ Serial
 http://stream.mcquack.net/311/index.m3u8
 #EXTINF:-1 tvg-id="vijuPlusSerial.ru" group-title="Series",viju+ Serial
@@ -1605,8 +1597,6 @@ http://stream.mcquack.net/100/index.m3u8
 https://stream8.cinerama.uz/1225/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="vijuTV1000action.ru" group-title="Movies",viju TV1000 action
 https://fs.uplink.kz/viju_tv1000_action/mono.m3u8?token=onlinetv
-#EXTINF:-1 tvg-id="vijuTV1000action.ru" group-title="Movies",viju TV1000 action
-http://str2.iptvhd.ru:8080/TV1000_Action/index.m3u8
 #EXTINF:-1 tvg-id="vijuTV1000russkoe.ru" group-title="Movies",viju TV1000 russkoe
 https://stream8.cinerama.uz/1058/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="vijuTV1000russkoe.ru" group-title="Movies",viju TV1000 russkoe
@@ -1638,8 +1628,6 @@ http://stream.mcquack.net/237/index.m3u8
 #EXTINF:-1 tvg-id="Vremya.ru" group-title="Uncategorized",Vremya
 https://fs.uplink.kz/vremya/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="Vremya.ru" group-title="Uncategorized",Vremya
-http://str2.iptvhd.ru:8080/Vremya/index.m3u8
-#EXTINF:-1 tvg-id="Vremya.ru" group-title="Uncategorized",Vremya
 http://88.212.15.19/live/test_vremya/playlist.m3u8
 #EXTINF:-1 tvg-id="YaPervyy.ru" group-title="General",YaPervyy
 https://yaroslavl.mediacdn.ru/cdn/pervyaroslavsk/playlist.m3u8
@@ -1653,8 +1641,6 @@ https://stream8.cinerama.uz/1044/tracks-v1a1/mono.m3u8
 https://streaming.televizor-24-tochka.ru/live/25.m3u8
 #EXTINF:-1 tvg-id="ZdorovoeTV.ru" group-title="Lifestyle",Zdorovoe TV
 https://stream8.cinerama.uz/1428/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="ZdorovoeTV.ru" group-title="Lifestyle",Zdorovoe TV
-http://str2.iptvhd.ru:8080/zdorovoe_tv/index.m3u8
 #EXTINF:-1 tvg-id="ZhivayaPlaneta.ru" group-title="Uncategorized",Zhivaya Planeta
 https://stream8.cinerama.uz/1250/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ZhivayaPlaneta.ru" group-title="Uncategorized",Zhivaya Planeta
@@ -1665,16 +1651,12 @@ http://stream.mcquack.net/225/index.m3u8
 http://stream.mcquack.net/83/index.m3u8
 #EXTINF:-1 tvg-id="Zhivi.ru" group-title="Lifestyle",Zhivi!
 https://fs.uplink.kz/zhivi/mono.m3u8?token=onlinetv
-#EXTINF:-1 tvg-id="Zhivi.ru" group-title="Lifestyle",Zhivi!
-http://str2.iptvhd.ru:8080/Zhivi/index.m3u8
 #EXTINF:-1 tvg-id="Zoopark.ru" group-title="Uncategorized",Zoopark
 https://stream8.cinerama.uz/1417/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Zoopark.ru" group-title="Uncategorized",Zoopark
 https://fs.uplink.kz/zoopark/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="Zvezda.ru" group-title="General",Zvezda
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
-#EXTINF:-1 tvg-id="Zvezda.ru" group-title="General",Zvezda
-http://str2.iptvhd.ru:8080/Zvezda/index.m3u8
 #EXTINF:-1 tvg-id="Zvezda.ru" group-title="General",Zvezda
 https://tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist.m3u8
 #EXTINF:-1 tvg-id="Zvezda.ru" group-title="General",Zvezda
