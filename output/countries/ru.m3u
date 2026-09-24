@@ -132,8 +132,6 @@ http://194.143.148.28:8080/RT_DOC/index.m3u8
 #EXTINF:-1 tvg-id="BRIDGEClassic.ru" group-title="Classic, Music",BRIDGE Classic
 http://stream.mcquack.net/272/index.m3u8
 #EXTINF:-1 tvg-id="BRIDGEClassic.ru" group-title="Classic, Music",BRIDGE Classic
-http://5.188.159.128:8070/Bridge_TV_Classic/index.m3u8
-#EXTINF:-1 tvg-id="BRIDGEClassic.ru" group-title="Classic, Music",BRIDGE Classic
 https://fs.uplink.kz/bridge_classic/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="BRIDGEClassic.ru" group-title="Classic, Music",BRIDGE Classic
 http://str2.iptvhd.ru:8080/Bridge_TV_Classic/index.m3u8
@@ -345,6 +343,8 @@ https://stream8.cinerama.uz/1421/tracks-v1a1/mono.m3u8
 http://str2.iptvhd.ru:8080/Drayv/index.m3u8
 #EXTINF:-1 tvg-id="DumaTV.ru" group-title="Legislative",Duma TV
 http://185.23.80.23:8080/DumaTV/index.m3u8
+#EXTINF:-1 tvg-id="DumaTV.ru" group-title="Legislative",Duma TV
+https://dumatv.iptv2022.com/playlist.m3u8
 #EXTINF:-1 tvg-id="Dushevnoe.ru" group-title="Uncategorized",Dushevnoe
 http://stream.mcquack.net/213/index.m3u8
 #EXTINF:-1 tvg-id="Enisey.ru" group-title="General",Enisey
@@ -389,8 +389,6 @@ http://str2.iptvhd.ru:8080/TNT_Music/index.m3u8
 http://str2.iptvhd.ru:8080/Eda/index.m3u8
 #EXTINF:-1 tvg-id="FoodTime.ru" group-title="Cooking",FoodTime
 http://stream.mcquack.net/216/index.m3u8
-#EXTINF:-1 tvg-id="Football.ru" group-title="Sports",Football
-http://str2.iptvhd.ru:8080/Futbol/index.m3u8
 #EXTINF:-1 tvg-id="Fox.ru" group-title="Entertainment",Fox
 http://stream.mcquack.net/182/index.m3u8
 #EXTINF:-1 tvg-id="FoxLife.ru" group-title="Series",Fox Life
@@ -461,6 +459,8 @@ http://str2.iptvhd.ru:8080/Indiya_TV/index.m3u8
 https://ingushetia.mediacdn.ru/cdn/ingushetia/playlist.m3u8
 #EXTINF:-1 tvg-id="InsaytTV.ru" group-title="Uncategorized",Insayt TV
 https://stream8.cinerama.uz/1416/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="InsaytTV.ru" group-title="Uncategorized",Insayt TV
+http://stream.mcquack.net/361/index.m3u8
 #EXTINF:-1 tvg-id="Istoki.ru" group-title="General",Istoki
 https://istoki.tv/live/stream1/playlist.m3u8
 #EXTINF:-1 tvg-id="Istoriya.ru" group-title="Documentary",Istoriya
@@ -528,8 +528,6 @@ https://fs.uplink.kz/kinopremiera_hd/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="Kinopremyera.ru" group-title="Movies",Kinopremyera
 http://str2.iptvhd.ru:8080/HD_Kino/index.m3u8
 #EXTINF:-1 tvg-id="Kinopremyera.ru" group-title="Movies",Kinopremyera
-http://5.188.159.128:8070/KINOPREMIERA/index.m3u8
-#EXTINF:-1 tvg-id="Kinopremyera.ru" group-title="Movies",Kinopremyera
 https://stream8.cinerama.uz/1207/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Kinosemja.ru" group-title="Movies",Kinosemja
 http://stream.mcquack.net/170/index.m3u8
@@ -539,6 +537,8 @@ https://fs.uplink.kz/kinosemya/mono.m3u8?token=onlinetv
 https://fs.uplink.kz/kinoseria/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="Kinoseriya.ru" group-title="Movies",Kinoseriya
 http://str2.iptvhd.ru:8080/Mnogo_TV/index.m3u8
+#EXTINF:-1 tvg-id="Kinosvidanie.ru" group-title="Movies",Kinosvidanie
+http://5.188.159.128:8070/kinosvidanie/index.m3u8
 #EXTINF:-1 tvg-id="Kinosvidanie.ru" group-title="Movies",Kinosvidanie
 http://stream.mcquack.net/171/index.m3u8
 #EXTINF:-1 tvg-id="Kinosvidanie.ru" group-title="Movies",Kinosvidanie
@@ -569,6 +569,8 @@ http://176.118.197.101/Komediya/index.m3u8
 http://str2.iptvhd.ru:8080/russkaya_komedia/index.m3u8
 #EXTINF:-1 tvg-id="Komediynoe.ru" group-title="Comedy",Komediynoe
 http://stream.mcquack.net/74/index.m3u8
+#EXTINF:-1 tvg-id="KongressTV.ru" group-title="General",Kongress TV
+https://live-3.otcnet.ru/congresstv/index.m3u8
 #EXTINF:-1 tvg-id="KongressTV.ru" group-title="General",Kongress TV
 https://stitch.teletarget.ru/api/v1/hls/504/158/index.m3u8
 #EXTINF:-1 tvg-id="KrikTV.ru" group-title="News",Krik-TV
@@ -697,6 +699,8 @@ http://stream.mcquack.net/369/index.m3u8
 https://fs.uplink.kz/mosfilm/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="Moskva24.ru" group-title="General",Moskva 24
 https://stream.smotrim.ru/hls/givc8/playlist.m3u8?entity=channel&id=798&sign=37881ef2e289f062ceff0dca6c24dc58
+#EXTINF:-1 tvg-id="Moskva24.ru" group-title="General",Moskva 24
+https://stream.smotrim.ru/hls2/givc9/playlist_4.m3u8
 #EXTINF:-1 tvg-id="Moskva24.ru" group-title="General",Moskva 24
 https://stream.smotrim.ru/hls2/moscow_24/playlist_3.m3u8
 #EXTINF:-1 tvg-id="Moskva24.ru" group-title="General",Moskva 24
@@ -827,8 +831,6 @@ https://stream8.cinerama.uz/1501/playlist.m3u8
 https://stream8.cinerama.uz/1502/playlist.m3u8
 #EXTINF:-1 tvg-id="NikaTV.ru" group-title="General",Nika TV
 https://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="NizhniyNovgorod24.ru" group-title="General",Nizhniy Novgorod 24
-https://live-vestinn.cdnvideo.ru/vestinn/nn24-khl/playlist.m3u8
 #EXTINF:-1 tvg-id="Nostalgia.ru" group-title="Classic",Nostalgia
 https://fs.uplink.kz/nostalgia/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="Nostalgia.ru" group-title="Classic",Nostalgia
@@ -1034,8 +1036,6 @@ http://178.134.1.158:8081/red/index.m3u8
 #EXTINF:-1 tvg-id="red.ru" group-title="Entertainment",.red
 http://str2.iptvhd.ru:8080/SET/index.m3u8
 #EXTINF:-1 tvg-id="red.ru" group-title="Entertainment",.red
-http://5.188.159.128:8070/RED/index.m3u8
-#EXTINF:-1 tvg-id="red.ru" group-title="Entertainment",.red
 http://stream.mcquack.net/69/index.m3u8
 #EXTINF:-1 tvg-id="RedLine.ru" group-title="Uncategorized",Red Line
 http://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/index.m3u8
@@ -1137,6 +1137,8 @@ http://176.118.197.101/RossiyaHD/index.m3u8
 http://str2.iptvhd.ru:8080/Rossiya_HD/index.m3u8
 #EXTINF:-1 tvg-id="Russia1.ru" group-title="General",Russia-1
 https://stream8.cinerama.uz/1020/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Russia1.ru" group-title="General",Russia-1
+http://109.207.243.18/2/index.m3u8
 #EXTINF:-1 tvg-id="Russia1.ru" group-title="General",Russia-1
 http://str2.iptvhd.ru:8080/Rossiya_1/index.m3u8
 #EXTINF:-1 tvg-id="Russia1.ru" group-title="General",Russia-1
