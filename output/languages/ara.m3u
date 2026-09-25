@@ -39,6 +39,8 @@ http://htvmada.mada.ps:8888/ajyal/index.m3u8
 https://cdn.live.easybroadcast.io/abr_corp/66_al24_u4yga6h/corp/66_al24_u4yga6h_240p/chunks.m3u8
 #EXTINF:-1 tvg-id="AlabbassiaTV.iq" group-title="Religious",Alabbassia TV
 https://stream.alabbassia.com/live/alabbassia/index.m3u8
+#EXTINF:-1 tvg-id="AlAimmaTV.iq" group-title="Religious",Al-Aimma TV
+https://alaimma.tv/live/index.m3u8
 #EXTINF:-1 tvg-id="AlAlamAlYawm.sa" group-title="News",Al Alam Al Yawm
 https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/chunklist_b928000.m3u8
 #EXTINF:-1 tvg-id="AlAlamiya2.sd" group-title="Education",Al Alamiya 2
@@ -91,6 +93,8 @@ https://live.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
 https://ghaasiflu.online/alhqeqa/index.m3u8
 #EXTINF:-1 tvg-id="AlikhbariaSyria.sy" group-title="News",Alikhbaria Syria
 http://185.9.2.18/chid_423/index.m3u8
+#EXTINF:-1 tvg-id="AlImanTV.lb" group-title="Religious",Al-Iman TV
+https://svs.itworkscdn.net/alimanlive/imantv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AlIraqia.iq" group-title="General",Al Iraqia
 https://imn-live.esite-lab.com/hls/iraqia-general.m3u8
 #EXTINF:-1 tvg-id="AlIraqiaKurdish.iq" group-title="Uncategorized",Al Iraqia Kurdish
@@ -250,6 +254,8 @@ https://live-news.asharq.com/asharq.m3u8
 #EXTINF:-1 tvg-id="AsharqNews.sa" group-title="Business, News",Asharq News
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-asharq/10ae30c64e21402c8116a7fb1e5aa789/index.m3u8
 #EXTINF:-1 tvg-id="AsharqNews.sa" group-title="Business, News",Asharq News
+https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/manifest.mpd
+#EXTINF:-1 tvg-id="AsharqNews.sa" group-title="Business, News",Asharq News
 https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="AsharqRadio.sa" group-title="Business, News",Asharq Radio
 https://svs.itworkscdn.net/asharqradiovlive/asharqradiov/playlist.m3u8
@@ -295,10 +301,6 @@ http://stream.mcquack.net/42/index.m3u8
 https://652930de05533.streamlock.net/live/ngrp:livestream_all/playlist.m3u8
 #EXTINF:-1 tvg-id="CharityTV.lb" group-title="Religious",Charity TV
 http://185.105.4.236:1935/live/ngrp:livestream_all/live.m3u8
-#EXTINF:-1 tvg-id="CNA.dz" group-title="Religious",CNA
-https://live.creacast.com/cna/stream/playlist.m3u8
-#EXTINF:-1 tvg-id="CNA.dz" group-title="Religious",CNA
-https://live.creacast.com/cna/smil:cna.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="CNBCArabiya.ae" group-title="Business",CNBC Arabiya
 https://cnbc-live.akamaized.net/cnbc/master.m3u8
 #EXTINF:-1 tvg-id="CopticTV.eg" group-title="Religious",Coptic TV
@@ -351,6 +353,8 @@ http://89.33.29.115:8080/Health/index.m3u8
 https://cdn.cybercdn.live/HidabrootIL/Live97/playlist.m3u8
 #EXTINF:-1 tvg-id="HolyQuranRadio.sa" group-title="Religious, General",Holy Quran Radio
 https://live.kwikmotion.com/sbrksaquranradiolive/srpksaquranradio/playlist.m3u8
+#EXTINF:-1 tvg-id="HolyQuranRadioNablus.ps" group-title="Religious",Holy Quran Radio Nablus
+http://streaming.zaytonatube.com:8080/holyquran/holyquran/video.m3u8
 #EXTINF:-1 tvg-id="HomePlus.il" group-title="Uncategorized",Home +
 http://str2.iptvhd.ru:8080/home_plus/index.m3u8
 #EXTINF:-1 tvg-id="Hop.il" group-title="Kids",Hop!
@@ -441,8 +445,6 @@ http://str2.iptvhd.ru:8080/junior/index.m3u8
 https://edge3.uk.kab.tv/live/tv66-heb-high/playlist.m3u8
 #EXTINF:-1 tvg-id="KaifaTV.jo" group-title="General",Kaifa TV
 http://82.212.74.2:8000/live/7311.m3u8
-#EXTINF:-1 tvg-id="Kan11.il" group-title="General",Kan 11
-https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="KanEducational.il" group-title="Education",Kan Educational
 http://stream.mcquack.net/378/index.m3u8
 #EXTINF:-1 tvg-id="KarbalaDocumentary.iq" group-title="Religious, Documentary",Karbala Documentary
@@ -761,8 +763,6 @@ https://kilolink.pulsarstarsolutions.com/live/smil:tanasuhtv.smil/manifest.mpd
 http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/2334/index.m3u8
 #EXTINF:-1 tvg-id="TeenNick.il" group-title="Kids",TeenNick
 http://89.33.29.115:8080/TeenNick/index.m3u8
-#EXTINF:-1 tvg-id="TeleLiban.lb" group-title="General",Tele Liban
-https://cdn.catiacast.video/abr/ed8f807e2548db4507d2a6f4ba0c4a06/playlist.m3u8
 #EXTINF:-1 tvg-id="TeleTchad.td" group-title="General",Tele Tchad
 https://strhlslb01.streamakaci.tv/str_tchad_tchad/str_tchad_multi/playlist.m3u8
 #EXTINF:-1 tvg-id="TeleTchad.td" group-title="General",Tele Tchad
@@ -773,6 +773,8 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-thikrayat/8cfa8fe0c9627573574
 http://185.9.2.18/chid_347/index.m3u8
 #EXTINF:-1 tvg-id="TV7.dz" group-title="Education",TV7
 http://185.9.2.18/chid_352/index.m3u8
+#EXTINF:-1 tvg-id="UNews.lb" group-title="News",UNews
+https://cdn.catiacast.video/abr/9436b5ab3c1171ab04a59af11951292f/playlist.m3u8
 #EXTINF:-1 tvg-id="VacationChannel.il" group-title="Entertainment",Vacation Channel
 https://d1yd8hohnldm33.cloudfront.net/out/v1/19dee23c2cc24f689bd4e1288661ee0c/index_2.m3u8
 #EXTINF:-1 tvg-id="VivaIstanbul.il" group-title="General",Viva Istanbul
