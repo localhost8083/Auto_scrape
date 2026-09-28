@@ -70,6 +70,8 @@ https://aegis-cloudfront-1.tubi.video/bb1fc6ad-9948-42ea-aaf3-20acfcdeecac/playl
 #EXTINF:-1 tvg-id="BBCEarth.uk" group-title="Documentary",BBC Earth
 https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
 #EXTINF:-1 tvg-id="BBCFour.uk" group-title="Documentary, Culture",BBC Four
+https://cdn.stmify.com/bbc/stream/BBC_FOUR/hevc_iptv_mse_v0.mpd
+#EXTINF:-1 tvg-id="BBCFour.uk" group-title="Documentary, Culture",BBC Four
 https://vs-cmaf-pushb-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_four_hd/iptv_hd_abr_v1.mpd
 #EXTINF:-1 tvg-id="BBCFour.uk" group-title="Documentary, Culture",BBC Four
 https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_four_hd/mobile_wifi_main_hd_abr_v2.m3u8
@@ -257,6 +259,8 @@ http://213.91.179.28:8000/play/a03r
 https://lb.dstvmultimedia.com/HistoryChannel2/index.m3u8
 #EXTINF:-1 tvg-id="HistoriaYVida.es" group-title="Documentary",Historia Y Vida
 https://jmp2.uk/plu-67517f923a61d40008c451f0.m3u8
+#EXTINF:-1 tvg-id="History2.pl" group-title="Documentary",History 2
+https://racitonsen.s.gy/H2_PL
 #EXTINF:-1 tvg-id="History2.ru" group-title="Documentary",History 2
 http://str2.iptvhd.ru:8080/H2_HD/index.m3u8
 #EXTINF:-1 tvg-id="History2LatinAmerica.us" group-title="Documentary",History 2 Latin America
@@ -283,18 +287,14 @@ http://177.52.24.163/HISTORY-HD/index.m3u8
 http://88.212.15.19/live/test_history/playlist.m3u8
 #EXTINF:-1 tvg-id="History.hu" group-title="Documentary",History
 http://88.212.15.19/live/history_hun/index.m3u8
+#EXTINF:-1 tvg-id="History.pl" group-title="Documentary",History
+https://racitonsen.s.gy/HISTORY_PL
 #EXTINF:-1 tvg-id="History.si" group-title="Documentary",History
 https://lb.dstvmultimedia.com/HistoryChannel/index.m3u8
 #EXTINF:-1 tvg-id="History.si" group-title="Documentary",History
 https://streamer12.xploretv.si/__cl/cg:prod/__c/A1_SI_HISTORYHD_ott/__op/dash-default/__dci/__f/index.m3u8?admin=xploreTv_test_user&redirect=true
 #EXTINF:-1 tvg-id="History.us" group-title="Documentary",History
 http://212.5.144.156:8080/history/index.m3u8
-#EXTINF:-1 tvg-id="History.us" group-title="Documentary",History
-https://tvsen3.aynaott.com/np3JstRE/index.m3u8
-#EXTINF:-1 tvg-id="History.us" group-title="Documentary",History
-http://4.30.180.36:8420/history/index.m3u8?token=test
-#EXTINF:-1 tvg-id="History.us" group-title="Documentary",History
-http://107.167.16.138/history/index.m3u8?token=test
 #EXTINF:-1 tvg-id="HistoryAsia.us" group-title="Documentary",History Asia
 https://freem3u.xyz/api/live/play.m3u8?vid=9856
 #EXTINF:-1 tvg-id="HistoryAsia.us" group-title="Documentary",History Asia
@@ -439,8 +439,6 @@ https://saran-live.ercdn.net/natgeohd/index.m3u8
 https://nord.ayakkabiparti.lol/natgeo/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographic.us" group-title="Documentary",National Geographic
 http://212.5.144.156:8080/natgeo/index.m3u8
-#EXTINF:-1 tvg-id="NationalGeographic.us" group-title="Documentary",National Geographic
-https://tvsen3.aynaott.com/7mm4pwCy/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographic.us" group-title="Documentary",National Geographic
 http://198.58.104.90:8989/natgeo/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographicLatinAmerica.us" group-title="Documentary",National Geographic Latin America
