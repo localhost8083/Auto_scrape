@@ -131,14 +131,14 @@ https://cdn-dvr.ntv.ru/Balabol/index.m3u8
 https://balapantv-stream.qazcdn.com/balapantv/balapantv/playlist.m3u8
 #EXTINF:-1 tvg-id="Balapan.kz" group-title="Kids",Balapan
 https://fs.uplink.kz/balapan/mono.m3u8?token=onlinetv
-#EXTINF:-1 tvg-id="BalapanInternational.kz" group-title="Kids",Balapan International
-https://live-3.otcnet.ru/Balapan/index.m3u8
 #EXTINF:-1 tvg-id="Belarus1.by" group-title="General",Belarus-1
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Belarus1.by" group-title="General",Belarus-1
 https://ngtrk.dc.beltelecom.by/ngtrk/_definst_/smil:belarus1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Belarus1.by" group-title="General",Belarus-1
 http://82.209.232.129:10102/0.ts
+#EXTINF:-1 tvg-id="Belarus4.by" group-title="General",Belarus-4
+https://live.dc.beltelecom.by/trkgomel/trkgomel.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Belarus4.by" group-title="General",Belarus-4
 https://ngtrk.dc.beltelecom.by/vtv/bt4.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Belarus5.by" group-title="Sports",Belarus-5
@@ -560,8 +560,6 @@ https://stream8.cinerama.uz/1057/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Kinopremyera.ru" group-title="Movies",Kinopremyera
 https://fs.uplink.kz/kinopremiera_hd/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="Kinopremyera.ru" group-title="Movies",Kinopremyera
-http://5.188.159.128:8070/KINOPREMIERA/index.m3u8
-#EXTINF:-1 tvg-id="Kinopremyera.ru" group-title="Movies",Kinopremyera
 https://stream8.cinerama.uz/1207/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Kinosemja.ru" group-title="Movies",Kinosemja
 http://stream.mcquack.net/170/index.m3u8
@@ -581,6 +579,8 @@ https://stream8.cinerama.uz/1009/tracks-v1a1/playlist.m3u8
 http://176.118.197.101/KinoTvHD/playlist.m3u8
 #EXTINF:-1 tvg-id="KinoTV.ru" group-title="Movies",Kino TV
 http://stream.mcquack.net/221/index.m3u8
+#EXTINF:-1 tvg-id="KinoTV.ru" group-title="Movies",Kino TV
+https://vod.tuva.ru/kinotv/index.m3u8
 #EXTINF:-1 tvg-id="KinoTV.ru" group-title="Movies",Kino TV
 http://flussonic.linkintel.ru/kino-tv/index.m3u8
 #EXTINF:-1 tvg-id="Kinouzhas.ru" group-title="Movies",Kinouzhas
@@ -639,6 +639,8 @@ https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_LENTVSD/variant.m3u8
 https://tvshops.bonus-tv.ru/cdn/shop24/playlist.m3u8
 #EXTINF:-1 tvg-id="Madaniyatvamarifat.uz" group-title="General",Madaniyat va ma'rifat
 https://stream8.cinerama.uz/1005/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 tvg-id="Magnat.ru" group-title="Shop",Magnat
+https://s1.tv-nano.com/Magnat_HD_5119705/video.m3u8
 #EXTINF:-1 tvg-id="Mahalla.uz" group-title="Uncategorized",Mahalla
 https://stream8.cinerama.uz/1013/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-id="Maidan.ru" group-title="Music",Maidan
@@ -845,8 +847,6 @@ https://stream8.cinerama.uz/1501/playlist.m3u8
 https://stream8.cinerama.uz/1502/playlist.m3u8
 #EXTINF:-1 tvg-id="NikaTV.ru" group-title="General",Nika TV
 https://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="NizhniyNovgorod24.ru" group-title="General",Nizhniy Novgorod 24
-https://live-vestinn.cdnvideo.ru/vestinn/nn24-khl/playlist.m3u8
 #EXTINF:-1 tvg-id="Nostalgia.ru" group-title="Classic",Nostalgia
 https://fs.uplink.kz/nostalgia/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="Nostalgia.ru" group-title="Classic",Nostalgia
@@ -863,6 +863,8 @@ https://fs.uplink.kz/novoe_tv/mono.m3u8?token=onlinetv
 http://31.131.139.253:9002/novoros/index.m3u8
 #EXTINF:-1 tvg-id="NST.ru" group-title="Uncategorized",NST
 http://stream.mcquack.net/207/index.m3u8
+#EXTINF:-1 tvg-id="NST.ru" group-title="Uncategorized",NST
+https://vod.tuva.ru/nst/index.m3u8
 #EXTINF:-1 tvg-id="NTK21.ru" group-title="General",NTK 21
 https://s97982.cdn.ngenix.net/hls/CH_R79_OTT_DV_HVSK_NTK/variant.m3u8
 #EXTINF:-1 tvg-id="NTK.kz" group-title="General",NTK
@@ -1027,8 +1029,6 @@ https://qazsporttv-stream.qazcdn.com/qazsporttv/qazsporttv/playlist.m3u8
 https://fs.uplink.kz/qazsport_hd/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="Radio1.ru" group-title="General",Radio 1
 https://stream.radio1.ru/memfs/49dee7fe-77ba-4e6b-8cdc-fa840535b242.m3u8
-#EXTINF:-1 tvg-id="RadioMir.by" group-title="General",Radio Mir
-https://stream1.dc.beltelecom.by/radiomir/studio.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioRossii.ru" group-title="General",Radio Rossii
 https://stream.smotrim.ru/hls2/radio_rus/playlist_4.m3u8
 #EXTINF:-1 tvg-id="RadioShanson.ru" group-title="Music",Radio Shanson
@@ -1049,8 +1049,6 @@ http://online-video.rbc.ru/online2/rbctv.m3u8
 http://176.118.197.101/RBK/index.m3u8
 #EXTINF:-1 tvg-id="red.ru" group-title="Entertainment",.red
 http://178.134.1.158:8081/red/index.m3u8
-#EXTINF:-1 tvg-id="red.ru" group-title="Entertainment",.red
-http://5.188.159.128:8070/RED/index.m3u8
 #EXTINF:-1 tvg-id="red.ru" group-title="Entertainment",.red
 http://stream.mcquack.net/69/index.m3u8
 #EXTINF:-1 tvg-id="RedLine.ru" group-title="Uncategorized",Red Line
@@ -1291,8 +1289,6 @@ http://tv.mediacdn.ru/live/solntse/playlist.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/variant.m3u8
 #EXTINF:-1 tvg-id="SolovyovLive.ru" group-title="Uncategorized",Solovyov Live
 https://stream.smotrim.ru/hls2/solovievlive/playlist_6.m3u8
-#EXTINF:-1 tvg-id="SONGTVRussia.ru" group-title="Music",SONGTV Russia
-https://songtv.hls.iptvdc.com/web-russia/playlist.m3u8
 #EXTINF:-1 tvg-id="Soyuz.ru" group-title="Religious",Soyuz
 https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
 #EXTINF:-1 tvg-id="Soyuzny.ru" group-title="General",Soyuzny
