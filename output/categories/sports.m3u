@@ -74,6 +74,8 @@ http://stream.mcquack.net/33/index.m3u8
 #EXTINF:-1 tvg-id="Belarus5.by" group-title="Sports",Belarus-5
 https://edge59.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Belarus5.by" group-title="Sports",Belarus-5
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Belarus5.by" group-title="Sports",Belarus-5
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Belarus5.by" group-title="Sports",Belarus-5
 https://streaming.thestream.cyou/live/7001.m3u8
@@ -101,8 +103,6 @@ http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub
 http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="CCTVStormFootball.cn" group-title="Sports",CCTV-Storm Football
 http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="CDNDeportes.do" group-title="Sports",CDN Deportes
-https://hls.tvabierta.net/hls/036.m3u8
 #EXTINF:-1 tvg-id="ClaroSports.mx" group-title="Sports",Claro Sports
 http://168.196.127.137:6001/play/a08r/index.m3u8
 #EXTINF:-1 tvg-id="ColimdoTV.do" group-title="Sports",Colimdo TV
@@ -239,6 +239,8 @@ https://cffda8ff.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3
 https://nosignal1.antenaplay.ro/hls/fightbox-hd/index.m3u8
 #EXTINF:-1 tvg-id="FightBox.nl" group-title="Sports",FightBox
 https://webtvstream.bhtelecom.ba/fightbox.m3u8
+#EXTINF:-1 tvg-id="FightNetwork.ca" group-title="Sports",Fight Network
+https://a-cdn.klowdtv.com/live2/fight_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="FITE247.us" group-title="Sports",FITE 24/7
 https://a-cdn.klowdtv.com/live2/fite247_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="FITE247.us" group-title="Sports",FITE 24/7
@@ -377,6 +379,8 @@ https://fs.uplink.kz/match/mono.m3u8?token=onlinetv
 http://45.132.87.69:8080/match/index.m3u8
 #EXTINF:-1 tvg-id="MatchUltra.ru" group-title="Sports",Match! Ultra
 http://tv.tuva.ru/machtv/index.m3u8
+#EXTINF:-1 tvg-id="MatchUltra.ru" group-title="Sports",Match! Ultra
+http://31.148.5.241/kanal_3/index.m3u8
 #EXTINF:-1 tvg-id="MeridianoTV.ve" group-title="Sports",Meridiano TV
 http://181.78.8.199:8000/play/a0fr/index.m3u8
 #EXTINF:-1 tvg-id="MLB.us" group-title="Sports",MLB
@@ -671,14 +675,8 @@ https://cloudplay-sonyliv.pages.dev/ten2hd.m3u8
 https://cloudplay-sonyliv.pages.dev/ten2.m3u8
 #EXTINF:-1 tvg-id="SonySportsTen3Hindi.in" group-title="Sports",Sony Sports Ten 3 Hindi
 https://cloudplay-sonyliv.pages.dev/ten3hd.m3u8
-#EXTINF:-1 tvg-id="SonySportsTen3Hindi.in" group-title="Sports",Sony Sports Ten 3 Hindi
-https://cloudplay-sonyliv.pages.dev/ten3.m3u8
 #EXTINF:-1 tvg-id="SonySportsTen4.in" group-title="Sports",Sony Sports Ten 4
 https://cloudplay-sonyliv.pages.dev/ten4.m3u8
-#EXTINF:-1 tvg-id="SonySportsTen4.in" group-title="Sports",Sony Sports Ten 4
-https://cloudplay-sonyliv.pages.dev/ten4hd.m3u8
-#EXTINF:-1 tvg-id="SonySportsTen5.in" group-title="Sports",Sony Sports Ten 5
-https://cloudplay-sonyliv.pages.dev/ten5.m3u8
 #EXTINF:-1 tvg-id="Spiler1.hu" group-title="Sports",Spiler 1
 http://88.212.15.19/live/spiler1/index.m3u8
 #EXTINF:-1 tvg-id="Spiler2.hu" group-title="Sports",Spiler 2
@@ -893,6 +891,8 @@ https://rpn.bozztv.com/gusa/gusa-tvsturbo/index.m3u8
 https://rpn.bozztv.com/gusa/gusa-tvswsn/index.m3u8
 #EXTINF:-1 tvg-id="TyCSports.ar" group-title="Sports",TyC Sports
 https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
+#EXTINF:-1 tvg-id="TyCSports.ar" group-title="Sports",TyC Sports
+http://38.44.109.41:8003/play/a02l/index.m3u8
 #EXTINF:-1 tvg-id="TyCSportsUSA.ar" group-title="Sports",TyC Sports USA
 http://45.170.130.224:8000/play/a020/index.m3u8
 #EXTINF:-1 tvg-id="UDAR.ru" group-title="Sports",UDAR
@@ -905,8 +905,6 @@ https://lukentvlive.vgcdn.net/v1/master/cef183924f24adfa3d5d7601c3a17769082c0c2b
 https://d1t5afz6qed3xk.cloudfront.net/Unbeaten.m3u8
 #EXTINF:-1 tvg-id="Unbeaten.us" group-title="Sports",Unbeaten
 https://unbeaten-tcl.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="Unite8Sports2.in" group-title="Sports",Unite8 Sports 2
-http://59.103.38.46:8000/play/a126/index.m3u8
 #EXTINF:-1 tvg-id="VarzeshTV.ir" group-title="Sports",Varzesh TV
 https://ncdn.telewebion.ir/varzesh/live/playlist.m3u8
 #EXTINF:-1 tvg-id="vijuPlusSport.ru" group-title="Sports",viju+ Sport
@@ -917,8 +915,12 @@ https://stream8.cinerama.uz/1229/tracks-v1a1/mono.m3u8
 https://fs.uplink.kz/viju_sport/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="vijuPlusSport.ru" group-title="Sports",viju+ Sport
 http://31.148.5.241/Viasat_Sport/index.m3u8
+#EXTINF:-1 tvg-id="VinhLongTV4.vn" group-title="Culture, Travel, Sports, Entertainment",Vinh Long TV 4
+https://dethich.pw/thvl4/index.m3u8
 #EXTINF:-1 tvg-id="VSportGolf.se" group-title="Sports",V Sport Golf
 http://315e5a5d.ottrast.com/iptv/8XFKA8883W9M5K/12077/index.m3u8
+#EXTINF:-1 tvg-id="VTV6.vn" group-title="Sports",VTV6
+https://dethich.pw/vtv6/index.m3u8
 #EXTINF:-1 tvg-id="WeSportTV.md" group-title="Sports",We Sport TV
 http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/2471/index.m3u8
 #EXTINF:-1 tvg-id="WillowSports.us" group-title="Sports",Willow Sports
