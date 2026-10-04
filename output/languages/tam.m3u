@@ -55,6 +55,8 @@ https://mumbai-edge.smartplaytv.in/10TV/index.m3u8
 https://cdn.pishow.tv/ott/live/391/master.m3u8
 #EXTINF:-1 tvg-id="22ScopeNews.in" group-title="News",22Scope News
 https://thelegitpro.in/HDlive/22scope/index.fmp4.m3u8
+#EXTINF:-1 tvg-id="24HrsTV.in" group-title="News",24Hrs TV
+http://51.75.127.199:3141/24hrstv/index.m3u8
 #EXTINF:-1 tvg-id="24News.in" group-title="News",24 News
 https://mumt07.tangotv.in/zHjX9OFlTWENTYFOURNEWS/index.m3u8
 #EXTINF:-1 tvg-id="24News.in" group-title="News",24 News
@@ -206,8 +208,6 @@ https://janya-digimix.akamaized.net/vglive-sk-394914/india/ngrp:angelindia_all/p
 #EXTINF:-1 tvg-id="AngelTV.in" group-title="Religious",Angel TV
 https://mumt01.tangotv.in/O5aw8Zn3ANGELTVHD/index.m3u8
 #EXTINF:-1 tvg-id="AngelTV.in" group-title="Religious",Angel TV
-https://mumbai-edge.smartplaytv.in/AngelTV/index.m3u8
-#EXTINF:-1 tvg-id="AngelTV.in" group-title="Religious",Angel TV
 https://janya-digimix.akamaized.net/vglive-sk-703035/indochina/ngrp:angelindochina_all/playlist.m3u8
 #EXTINF:-1 tvg-id="AngelTV.in" group-title="Religious",Angel TV
 https://janya-digimix.akamaized.net/vglive-sk-234616/indonesia/ngrp:angelindonesia_all/playlist.m3u8
@@ -243,6 +243,10 @@ https://stream.ottlive.co.in/argus/index.m3u8
 https://account33.livebox.co.in/jesushelpshls/live.m3u8
 #EXTINF:-1 tvg-id="Asianet.in" group-title="Entertainment",Asianet
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/AsianetHD.m3u8
+#EXTINF:-1 tvg-id="Asianet.in" group-title="Entertainment",Asianet
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starasianet.smil/chunklist_b696000.m3u8
+#EXTINF:-1 tvg-id="Asianet.in" group-title="Entertainment",Asianet
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starasianet.smil/chunklist_b1928000.m3u8
 #EXTINF:-1 tvg-id="AsianetMiddleEast.in" group-title="Entertainment",Asianet Middle East
 https://mumt03.tangotv.in/Dsly5z3HASIANETMIDDLEEAST/index.m3u8
 #EXTINF:-1 tvg-id="AsianetMovies.in" group-title="Movies",Asianet Movies
@@ -295,8 +299,6 @@ https://mumt05.tangotv.in/87NeALx2B4UBHOJPURI/index.m3u8
 https://cdn.pishow.tv/ott/live/227/master.m3u8
 #EXTINF:-1 tvg-id="B4UKadak.in" group-title="Movies",B4U Kadak
 https://streams.tangotv.in/B4UKADAK/ORIGIN/index.m3u8
-#EXTINF:-1 tvg-id="B4UKadak.in" group-title="Movies",B4U Kadak
-https://tvsen3.aynaott.com/X9E6bxg3/index.m3u8
 #EXTINF:-1 tvg-id="B4UKadak.in" group-title="Movies",B4U Kadak
 http://107.167.16.138/b4ukadak/index.m3u8?token=test
 #EXTINF:-1 tvg-id="B4UKadak.in" group-title="Movies",B4U Kadak
@@ -367,8 +369,6 @@ https://idvd.multitvsolution.com/idvo/bharatsamachar.m3u8
 https://d1msejlow1t3l4.cloudfront.net/fta/bharatsamachar/playlist.m3u8
 #EXTINF:-1 tvg-id="BharatSamachar.in" group-title="News",Bharat Samachar
 https://mumt03.tangotv.in/Dsly5z3HBHARATSAMACHAR/index.m3u8
-#EXTINF:-1 tvg-id="BharatSamachar.in" group-title="News",Bharat Samachar
-https://tvsen3.aynaott.com/m94BZDYb/index.m3u8
 #EXTINF:-1 tvg-id="BharatUpdate.in" group-title="News",Bharat Update
 https://cdn.pishow.tv/ott/live/339/master.m3u8
 #EXTINF:-1 tvg-id="BhojpuriCinema.in" group-title="Movies",Bhojpuri Cinema
@@ -483,12 +483,20 @@ https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main
 http://51.75.127.199:3141/colorsgujaraticinema/index.m3u8
 #EXTINF:-1 tvg-id="ColorsInfinity.in" group-title="Entertainment",Colors Infinity
 http://51.75.127.199:3141/colorsinfinityhd/index.m3u8
+#EXTINF:-1 tvg-id="ColorsKannada.in" group-title="Entertainment",Colors Kannada
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorskannadahd1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ColorsKannadaCinema.in" group-title="Movies",Colors Kannada Cinema
 http://51.75.127.199:3141/colorskannadacinema/index.m3u8
+#EXTINF:-1 tvg-id="ColorsMarathi.in" group-title="Entertainment",Colors Marathi
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorsmarathihd.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ColorsMENA.in" group-title="Entertainment",Colors MENA
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorsme.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ColorsRishteyAmericas.in" group-title="General",Colors Rishtey Americas
 https://manatv.akamaized.net/090823/smil:ristheyamerica.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ColorsSuper.in" group-title="Entertainment",Colors Super
 https://d1rc86nwwc9fag.cloudfront.net/260723/smil:colorssuper1.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+#EXTINF:-1 tvg-id="ColorsTamil.in" group-title="Entertainment",Colors Tamil
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorstamilhd11.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="CTVNAKDPlus.in" group-title="News",CTVN AKD Plus
 https://live.legitpro.co.in/ctvnakdplus/index.m3u8
 #EXTINF:-1 tvg-id="CVREnglish.in" group-title="News",CVR English
@@ -521,8 +529,6 @@ https://mumt03.tangotv.in/Dsly5z3HDANGAL2/index.m3u8
 https://live-dangal.akamaized.net/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-id="DangalTV.in" group-title="General",Dangal TV
 https://streams.tangotv.in/DANGAL/ORIGIN/index.m3u8
-#EXTINF:-1 tvg-id="DangalTV.in" group-title="General",Dangal TV
-https://tvsen3.aynaott.com/qPNg4LJK/index.m3u8
 #EXTINF:-1 tvg-id="DangalTV.in" group-title="General",Dangal TV
 http://107.167.16.138/dangal/index.m3u8?token=test
 #EXTINF:-1 tvg-id="DangalTV.in" group-title="General",Dangal TV
@@ -781,8 +787,6 @@ https://cdn.pishow.tv/ott/live/349/master.m3u8
 https://xlbor37ydvaj-hls-live.wmncdn.net/firstindianewstv1/live.stream/index.m3u8
 #EXTINF:-1 tvg-id="FirstIndiaNews.in" group-title="News",First India News
 https://mumt03.tangotv.in/Dsly5z3H1STINDIANEWS/index.m3u8
-#EXTINF:-1 tvg-id="FMNews.in" group-title="News",FM News
-http://51.75.127.199:3141/fmnews/index.m3u8
 #EXTINF:-1 tvg-id="FoodFood.in" group-title="Cooking, Lifestyle",Food Food
 https://mumt03.tangotv.in/Dsly5z3HFOODFOOD/index.m3u8
 #EXTINF:-1 tvg-id="FoodFood.in" group-title="Cooking, Lifestyle",Food Food
@@ -800,8 +804,6 @@ https://mumt03.tangotv.in/Dsly5z3HGOLDMINES2/index.m3u8
 #EXTINF:-1 tvg-id="Goldmines.in" group-title="Movies",Goldmines
 https://streams.tangotv.in/GOLDMINES/ORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="Goldmines.in" group-title="Movies",Goldmines
-https://tvsen3.aynaott.com/VamXuQH8/index.m3u8
-#EXTINF:-1 tvg-id="Goldmines.in" group-title="Movies",Goldmines
 https://mumt04.tangotv.in/m18aqlK4GOLDMINES/index.m3u8
 #EXTINF:-1 tvg-id="Goldmines.in" group-title="Movies",Goldmines
 https://cdn.pishow.tv/ott/live/1459/master.m3u8
@@ -813,12 +815,8 @@ https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/index.m3u8
 https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-id="GoldminesBollywood.in" group-title="Movies",Goldmines Bollywood
 https://streams.tangotv.in/GOLDMINESBOLLYWOOD/ORIGIN/index.m3u8
-#EXTINF:-1 tvg-id="GoldminesBollywood.in" group-title="Movies",Goldmines Bollywood
-https://tvsen6.aynaott.com/55xNrLdf/index.m3u8
 #EXTINF:-1 tvg-id="GoldminesMovies.in" group-title="Movies",Goldmines Movies
 https://streams.tangotv.in/GOLDMINEMOVIES/ORIGIN/index.m3u8
-#EXTINF:-1 tvg-id="GoldminesMovies.in" group-title="Movies",Goldmines Movies
-https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8
 #EXTINF:-1 tvg-id="GoldminesMovies.in" group-title="Movies",Goldmines Movies
 https://mumt04.tangotv.in/m18aqlK4GOLDMINEMOVIES/index.m3u8
 #EXTINF:-1 tvg-id="GoldminesMovies.in" group-title="Movies",Goldmines Movies
@@ -910,6 +908,8 @@ https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/ts-ap-s1-n1/p
 #EXTINF:-1 tvg-id="HistoryTV18.in" group-title="Documentary",History TV18
 http://51.75.127.199:3141/historytv18/index.m3u8
 #EXTINF:-1 tvg-id="HMTV.in" group-title="News",HMTV
+https://mumbai-edge.smartplaytv.in/HMTV/index.m3u8
+#EXTINF:-1 tvg-id="HMTV.in" group-title="News",HMTV
 https://yuppnimresmum.akamaized.net/28072023/smil:hmtv.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 #EXTINF:-1 tvg-id="HMTV.in" group-title="News",HMTV
 https://cdn.pishow.tv/ott/live/280/master.m3u8
@@ -931,6 +931,8 @@ https://ktismaservers.in:3349/live/hosannatvlive.m3u8
 https://ktismaservers.in:3466/live/hosannattvhindhilive.m3u8
 #EXTINF:-1 tvg-id="HosannaTV.in" group-title="Religious",Hosanna TV
 https://asia.mslivestream.net/mslive/bfba54c5c96a6359e2da0ca35f4998af.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="HSTV.in" group-title="Uncategorized",HSTV
+https://live.castmaxcloud.com/live/hstv.m3u8
 #EXTINF:-1 tvg-id="HungamaTV.in" group-title="Kids",Hungama TV
 http://103.185.24.134:3001/HUNGAMA/index.m3u8
 #EXTINF:-1 tvg-id="HungamaTV.in" group-title="Kids",Hungama TV
@@ -941,8 +943,6 @@ https://mumt05.tangotv.in/87NeALx2IBC24/index.m3u8
 https://mumt03.tangotv.in/Dsly5z3HC10/index.m3u8
 #EXTINF:-1 tvg-id="ImaiTV.lk" group-title="Culture",Imai TV
 https://live20.bozztv.com/akamaissh101/ssh101/imaitv/playlist.m3u8
-#EXTINF:-1 tvg-id="IN24News.in" group-title="News",IN 24 News
-http://51.75.127.199:3141/in24news/index.m3u8
 #EXTINF:-1 tvg-id="India24x7.in" group-title="News",India 24x7
 http://51.75.127.199:3141/india24x7/index.m3u8
 #EXTINF:-1 tvg-id="IndiaAhead.in" group-title="News",India Ahead
@@ -974,6 +974,8 @@ https://d1msejlow1t3l4.cloudfront.net/fta/indiavoice/playlist.m3u8
 #EXTINF:-1 tvg-id="IndywoodTV.in" group-title="Movies, News",Indywood TV
 https://43wrzjnpqoxe-hls-live.wmncdn.net/indywood/indywoodtv/index.m3u8
 #EXTINF:-1 tvg-id="INews.in" group-title="News",INews
+https://yuppnimresmum.akamaized.net/28072023/smil:inews.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+#EXTINF:-1 tvg-id="INews.in" group-title="News",INews
 https://mumt03.tangotv.in/Dsly5z3HINEWS/index.m3u8
 #EXTINF:-1 tvg-id="INews.in" group-title="News",INews
 https://cdn.pishow.tv/ott/live/411/master.m3u8
@@ -999,6 +1001,8 @@ https://mumt03.tangotv.in/Dsly5z3HJAIHIND/index.m3u8
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/JaihindTV.m3u8
 #EXTINF:-1 tvg-id="JaiMaharashtra.in" group-title="News",Jai Maharashtra
 https://d1msejlow1t3l4.cloudfront.net/fta/jaimaharashtra/playlist.m3u8
+#EXTINF:-1 tvg-id="JalshaMovies.in" group-title="Movies",Jalsha Movies
+http://51.75.127.199:3141/jalshamovies/index.m3u8
 #EXTINF:-1 tvg-id="JanamTV.in" group-title="News",Janam TV
 https://mumt03.tangotv.in/Dsly5z3HJANAMTV/index.m3u8
 #EXTINF:-1 tvg-id="JanamTV.in" group-title="News",Janam TV
@@ -1085,6 +1089,8 @@ https://cdn.pishow.tv/ott/live/1237/master.m3u8
 https://stream.ottlive.co.in/kbcnews/index.m3u8
 #EXTINF:-1 tvg-id="KBPTimes.in" group-title="News",KBP Times
 https://kbpnews.cloud/Kbptimes/Kbptimeslive/video.m3u8
+#EXTINF:-1 tvg-id="KCLTV.in" group-title="Entertainment",KCL TV
+https://kcltv.livebox.co.in/kclhls/live.m3u8
 #EXTINF:-1 tvg-id="KCM.sg" group-title="Movies, Entertainment",KCM
 https://amg02159-amg02159c7-samsung-in-4001.playouts.now.amagi.tv/playlist/amg02159-kcglobal-kcm-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-id="KeralaVision.in" group-title="Entertainment",Kerala Vision
@@ -1263,8 +1269,6 @@ https://mumt03.tangotv.in/Dsly5z3HMERCYTV/index.m3u8
 https://mumbai-edge.smartplaytv.in/MercyTV/index.m3u8
 #EXTINF:-1 tvg-id="MetroTV.in" group-title="General",Metro TV
 https://mercury.streambridge.link:8042/telugu/metrotv/index.m3u8
-#EXTINF:-1 tvg-id="meWATCHLIVE1.sg" group-title="Entertainment",meWATCH LIVE 1
-https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.mpd
 #EXTINF:-1 tvg-id="Mh1Music.in" group-title="Music",Mh 1 Music
 https://livestream.jswk.online/playlisttest/live/playlist.m3u8
 #EXTINF:-1 tvg-id="Mh1News.in" group-title="News",Mh 1 News
@@ -1289,8 +1293,6 @@ http://51.75.127.199:3141/mh1dilse/index.m3u8
 https://mumt03.tangotv.in/Dsly5z3HMHONEMOVIE/index.m3u8
 #EXTINF:-1 tvg-id="MHOneShraddha.in" group-title="Religious",MH One Shraddha
 https://mumt01.tangotv.in/O5aw8Zn3MHONESHRADDHA/index.m3u8
-#EXTINF:-1 tvg-id="MHOneShraddha.in" group-title="Religious",MH One Shraddha
-https://livestream.jswk.online/mhoneshraddha/live/index.m3u8
 #EXTINF:-1 tvg-id="MirrorNow.in" group-title="News",Mirror Now
 https://dai.google.com/linear/hls/event/ClPOullTQky5vGPf7fMZ8g/master.m3u8
 #EXTINF:-1 tvg-id="MirrorNow.in" group-title="News",Mirror Now
@@ -1313,6 +1315,8 @@ https://cdn.pishow.tv/ott/live/1121/master.m3u8
 https://d1msejlow1t3l4.cloudfront.net/fta/moontv/playlist.m3u8
 #EXTINF:-1 tvg-id="MTV.in" group-title="Entertainment",MTV
 http://51.75.127.199:3141/mtvhd/index.m3u8
+#EXTINF:-1 tvg-id="MTV.in" group-title="Entertainment",MTV
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:mtvindia.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="MunsifTV.in" group-title="News",Munsif TV
 https://live1.ottlive.co.in/munsiftv/munsiftv/index.m3u8
 #EXTINF:-1 tvg-id="MunsifTV.in" group-title="News",Munsif TV
@@ -1325,8 +1329,6 @@ https://streams.tangotv.in/MUSICINDIA/ORIGIN/index.m3u8
 https://mumt05.tangotv.in/87NeALx2MUSICINDIA/index.m3u8
 #EXTINF:-1 tvg-id="MusicIndia.in" group-title="Music",Music India
 https://cdn.pishow.tv/ott/live/226/master.m3u8
-#EXTINF:-1 tvg-id="NagalandTV.in" group-title="News",Nagaland TV
-https://mumt06.tangotv.in/qYyB8fXVNAGALANDTV/index.m3u8
 #EXTINF:-1 tvg-id="NagalandTV.in" group-title="News",Nagaland TV
 http://51.75.127.199:3141/nltv/index.m3u8
 #EXTINF:-1 tvg-id="NambikkaiTV.in" group-title="Religious",Nambikkai TV
@@ -1397,8 +1399,6 @@ https://mumbai-edge.smartplaytv.in/Network10/index.m3u8
 https://d1msejlow1t3l4.cloudfront.net/fta/news1india/playlist.m3u8
 #EXTINF:-1 tvg-id="News1India.in" group-title="News",News 1 India
 https://mumt07.tangotv.in/zHjX9OFlNEWS1INDIA/index.m3u8
-#EXTINF:-1 tvg-id="News1India.in" group-title="News",News 1 India
-https://tvsen6.aynaott.com/TaVfw58T/index.m3u8
 #EXTINF:-1 tvg-id="News1st.in" group-title="News",News 1st
 https://d1msejlow1t3l4.cloudfront.net/fta/News1st/playlist.m3u8
 #EXTINF:-1 tvg-id="News1st.in" group-title="News",News 1st
@@ -1441,8 +1441,6 @@ https://n18syndication.akamaized.net/bpk-tv/News18_Gujarati_NW18_MOB/output01/ma
 https://n18syndication.akamaized.net/bpk-tv/News18_India_NW18_MOB/output01/master.m3u8
 #EXTINF:-1 tvg-id="News18Kannada.in" group-title="News",News18 Kannada
 https://n18syndication.akamaized.net/bpk-tv/News18_Kannada_NW18_MOB/output01/master.m3u8
-#EXTINF:-1 tvg-id="News18Kannada.in" group-title="News",News18 Kannada
-https://mumbai-edge.smartplaytv.in/news18kannada/index.m3u8
 #EXTINF:-1 tvg-id="News18Kerala.in" group-title="News",News18 Kerala
 https://n18syndication.akamaized.net/bpk-tv/News18_Kerala_NW18_MOB/output01/master.m3u8
 #EXTINF:-1 tvg-id="News18MadhyaPradeshChhattisgarh.in" group-title="News",News18 Madhya Pradesh/Chhattisgarh
@@ -1674,6 +1672,8 @@ https://mumbai-edge.smartplaytv.in/Prime9News/index.m3u8
 #EXTINF:-1 tvg-id="PrimeNews.in" group-title="News",Prime News
 https://mumt07.tangotv.in/zHjX9OFlPRIMENEWS/index.m3u8
 #EXTINF:-1 tvg-id="PrimeNews.in" group-title="News",Prime News
+https://stream.ottlive.co.in/primenews/index.m3u8
+#EXTINF:-1 tvg-id="PrimeNews.in" group-title="News",Prime News
 https://cdn.pishow.tv/ott/live/1027/master.m3u8
 #EXTINF:-1 tvg-id="PrudentMedia.in" group-title="News",Prudent Media
 https://prudentmcdn.rixcast.com/prudentm.m3u8
@@ -1757,8 +1757,6 @@ https://mumbai-edge.smartplaytv.in/Puthiyathalaimurai/index.m3u8
 https://mumt07.tangotv.in/zHjX9OFlPUTHIYATHALAIMURAI/index.m3u8
 #EXTINF:-1 tvg-id="PuthuyugamTV.in" group-title="Uncategorized",Puthuyugam TV
 https://mumt04.tangotv.in/m18aqlK4PUTHUYUGAMTV/index.m3u8
-#EXTINF:-1 tvg-id="QTV.in" group-title="Entertainment",Q TV
-https://tvsen6.aynaott.com/3PjZZahm/index.m3u8
 #EXTINF:-1 tvg-id="QTV.in" group-title="Entertainment",Q TV
 https://mumt05.tangotv.in/87NeALx2THEQ/index.m3u8
 #EXTINF:-1 tvg-id="RaatdinBangla.in" group-title="News",Raatdin Bangla
@@ -1879,6 +1877,8 @@ https://rt-india.rttv.com/dvr/rtindia/playlist.m3u8
 https://mumbai-edge.smartplaytv.in/RTIndia/index.m3u8
 #EXTINF:-1 tvg-id="RupasiBangla.in" group-title="Entertainment",Rupasi Bangla
 https://mumt05.tangotv.in/87NeALx2RUPASIBANGLA/index.m3u8
+#EXTINF:-1 tvg-id="RupasiBangla.in" group-title="Entertainment",Rupasi Bangla
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:rupashibangla.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="RupasiBangla.in" group-title="Entertainment",Rupasi Bangla
 https://cdn.pishow.tv/ott/live/1039/master.m3u8
 #EXTINF:-1 tvg-id="SaamTV.in" group-title="Uncategorized",Saam TV
@@ -2016,8 +2016,6 @@ https://mumt03.tangotv.in/Dsly5z3HSHEKINAHTV/index.m3u8
 #EXTINF:-1 tvg-id="ShekinahTV.in" group-title="Uncategorized",Shekinah TV
 https://cdn.pishow.tv/ott/live/447/master.m3u8
 #EXTINF:-1 tvg-id="ShemarooJosh.in" group-title="Movies",Shemaroo Josh
-https://mumt04.tangotv.in/m18aqlK4SHEMAROOJOSH/index.m3u8
-#EXTINF:-1 tvg-id="ShemarooJosh.in" group-title="Movies",Shemaroo Josh
 https://cdn.pishow.tv/ott/live/337/master.m3u8
 #EXTINF:-1 tvg-id="ShemarooMarathiBana.in" group-title="Uncategorized",Shemaroo Marathi Bana
 https://mumt07.tangotv.in/zHjX9OFlSHEMAROOMARATHIBANA/index.m3u8
@@ -2029,8 +2027,6 @@ http://51.75.127.199:3141/shemaroomarathibana/index.m3u8
 https://airtelapp.shemaroo.com/shemarootv/smil:shemarootvadp.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ShemarooTV.in" group-title="Entertainment",Shemaroo TV
 https://streams.tangotv.in/SHEMAROOTV/ORIGIN/index.m3u8
-#EXTINF:-1 tvg-id="ShemarooTV.in" group-title="Entertainment",Shemaroo TV
-https://tvsen3.aynaott.com/27jCLCUX/index.m3u8
 #EXTINF:-1 tvg-id="ShemarooTV.in" group-title="Entertainment",Shemaroo TV
 http://107.167.16.138/ShemarooTV/index.m3u8?token=test
 #EXTINF:-1 tvg-id="ShemarooTV.in" group-title="Entertainment",Shemaroo TV
@@ -2085,8 +2081,6 @@ https://yuppnimrestreammum.akamaized.net/181224/smil:songdewtv.smil/playlist.m3u
 http://103.185.24.134:3001/SONIC/index.m3u8
 #EXTINF:-1 tvg-id="SonyAath.in" group-title="Entertainment",Sony Aath
 https://cloudplay-sonyliv.pages.dev/aath.m3u8
-#EXTINF:-1 tvg-id="SonyBBCEarth.in" group-title="Documentary",Sony BBC Earth
-https://cloudplay-sonyliv.pages.dev/bbcearthhd.m3u8
 #EXTINF:-1 tvg-id="SonyEntertainmentTelevision.in" group-title="Entertainment",Sony Entertainment Television
 http://38.96.178.205/SONYHD/index.m3u8
 #EXTINF:-1 tvg-id="SonyEntertainmentTelevision.in" group-title="Entertainment",Sony Entertainment Television
@@ -2139,6 +2133,14 @@ http://51.75.127.199:3141/starbharat/index.m3u8
 http://51.75.127.199:3141/stargold/index.m3u8
 #EXTINF:-1 tvg-id="StarGoldSelect.in" group-title="Movies",Star Gold Select
 http://51.75.127.199:3141/stargoldselecthd/index.m3u8
+#EXTINF:-1 tvg-id="StarJalsha.in" group-title="Entertainment",Star Jalsha
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist_b1928000.m3u8
+#EXTINF:-1 tvg-id="StarMaa.in" group-title="Entertainment",Star Maa
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starmaa1.smil/chunklist_b2628000.m3u8
+#EXTINF:-1 tvg-id="StarMaaGold.in" group-title="Entertainment",Star Maa Gold
+http://51.75.127.199:3141/starmaagold/index.m3u8
+#EXTINF:-1 tvg-id="StarMaaMovies.in" group-title="Movies",Star Maa Movies
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:maamovies.smil/chunklist_b2628000.m3u8
 #EXTINF:-1 tvg-id="StarMovies.in" group-title="Movies",Star Movies
 http://51.75.127.199:3141/starmovieshd/index.m3u8
 #EXTINF:-1 tvg-id="StarMovies.in" group-title="Movies",Star Movies
@@ -2169,6 +2171,8 @@ http://51.75.127.199:3141/starsuvarnaplus/index.m3u8
 http://51.75.127.199:3141/starutsav/index.m3u8
 #EXTINF:-1 tvg-id="StarUtsavMovies.in" group-title="Movies",Star Utsav Movies
 http://51.75.127.199:3141/starutsavmovies/index.m3u8
+#EXTINF:-1 tvg-id="StarVijay.in" group-title="Entertainment",Star Vijay
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starvijayuk.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="SteelbirdMusic.in" group-title="Music",Steelbird Music
 https://cdn2.in/SteelbirdMusicTVhls/live.m3u8
 #EXTINF:-1 tvg-id="StudioOnePlus.in" group-title="Movies",Studio One +
@@ -2205,8 +2209,6 @@ https://cdn.pishow.tv/ott/live/1516/master.m3u8
 https://streams.tangotv.in/SUDARSHANNEWS/ORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="SunGemini.in" group-title="General",Sun Gemini
 http://ptuf.ridsys.in/riptv/live/GEMINI_TV/index.m3u8
-#EXTINF:-1 tvg-id="Superhitz.in" group-title="Uncategorized",Superhitz
-http://51.75.127.199:3141/sunbangla/index.m3u8
 #EXTINF:-1 tvg-id="SuperHungama.in" group-title="Animation, Kids",Super Hungama
 http://103.185.24.134:3001/SUPER-HUNGAMA/index.m3u8
 #EXTINF:-1 tvg-id="SuperHungama.in" group-title="Animation, Kids",Super Hungama
@@ -2251,6 +2253,8 @@ https://d1msejlow1t3l4.cloudfront.net/fta/swarajexpresssmbc/playlist.m3u8
 https://cdn.pishow.tv/ott/live/477/master.m3u8
 #EXTINF:-1 tvg-id="Swarnavahini.lk" group-title="Uncategorized",Swarnavahini
 https://teledrama.ebc.lk/TTT/proxy.php
+#EXTINF:-1 tvg-id="SwastikTV.in" group-title="Religious",Swastik TV
+https://server.playontv.in/swastiktv/index.m3u8
 #EXTINF:-1 tvg-id="SwatantraTV.in" group-title="News",Swatantra TV
 https://mumbai-edge.smartplaytv.in/SwatantraTV/index.m3u8
 #EXTINF:-1 tvg-id="TaazaTV.in" group-title="Uncategorized",Taaza TV
@@ -2301,8 +2305,6 @@ https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-mp2ar4ca425xo.m3u8
 https://mumbai-edge.smartplaytv.in/TheMovieClub/index.m3u8
 #EXTINF:-1 tvg-id="TheMovieClub.in" group-title="Movies",The Movie Club
 https://d3gnyty2vddhsg.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-ytipwjqub3kf8/TMC2_IN.m3u8?ads.ads_cdn=cf&ads.cdn=cf
-#EXTINF:-1 tvg-id="ThendralTV.in" group-title="Uncategorized",Thendral TV
-https://hls.thendraltv.in/thendraltv_1210b43d/index.m3u8
 #EXTINF:-1 tvg-id="TheVoiceTV.in" group-title="News",The Voice TV
 https://legitpro.co.in/thevoicetv/thevoicetv/index.m3u8
 #EXTINF:-1 tvg-id="TimesNowNavbharat.in" group-title="News",Times Now Navbharat
@@ -2401,6 +2403,8 @@ https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9telcmjhcs/liveabr/playlist.m3u8
 https://streams.tangotv.in/TV9TELUGU/ORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="TV13Gujarati.in" group-title="News",TV13 Gujarati
 https://live.wrencdn.in/wrencdn/hls/tv13_web/index.m3u8
+#EXTINF:-1 tvg-id="TV24.in" group-title="News",TV 24
+http://51.75.127.199:3141/tv24/index.m3u8
 #EXTINF:-1 tvg-id="TV27News.in" group-title="News",TV27 News
 https://mumt04.tangotv.in/m18aqlK4TV27/index.m3u8
 #EXTINF:-1 tvg-id="TV27News.in" group-title="News",TV27 News
@@ -2437,8 +2441,6 @@ https://mumt05.tangotv.in/87NeALx2V6NEWS/index.m3u8
 https://d1rc86nwwc9fag.cloudfront.net/140622/v6newsdev/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 #EXTINF:-1 tvg-id="V6News.in" group-title="News",V6 News
 https://mumbai-edge.smartplaytv.in/V6News/index.m3u8
-#EXTINF:-1 tvg-id="V6News.in" group-title="News",V6 News
-https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/V6News.m3u8
 #EXTINF:-1 tvg-id="V6News.in" group-title="News",V6 News
 https://cdn.pishow.tv/ott/live/389/master.m3u8
 #EXTINF:-1 tvg-id="VaanavilTV.in" group-title="Music",Vaanavil TV
@@ -2477,6 +2479,8 @@ https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main
 https://cdn.pishow.tv/ott/live/1271/master.m3u8
 #EXTINF:-1 tvg-id="VijaySuper.in" group-title="Movies",Vijay Super
 http://51.75.127.199:3141/vijaysuper/index.m3u8
+#EXTINF:-1 tvg-id="VijayTakkar.in" group-title="Music",Vijay Takkar
+https://tglmp01.akamaized.net/out/v1/c1071012b73f4f189b202e1529e8f802/manifest.mpd
 #EXTINF:-1 tvg-id="VillageTV.in" group-title="Religious",Village TV
 https://villagetv.applelive.in/villagetv/villagetv/index.m3u8
 #EXTINF:-1 tvg-id="VillageTV.in" group-title="Religious",Village TV
@@ -2529,6 +2533,10 @@ https://yuppparoriglin.akamaized.net/181224/smil:wowkidztam.smil/playlist.m3u8?h
 https://yuppparoriglin.akamaized.net/181224/smil:wowkidztelgu.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 #EXTINF:-1 tvg-id="ZainabiaChannel.in" group-title="Religious",Zainabia Channel
 https://zainabia.livebox.co.in/ZainabiaChannelhls/channel.m3u8
+#EXTINF:-1 tvg-id="ZBBhakti.in" group-title="Religious",ZB Bhakti
+https://server.zillarbarta.com/zbbhakti/index.m3u8
+#EXTINF:-1 tvg-id="ZBCartoon.in" group-title="Kids",ZB Cartoon
+https://server.zillarbarta.com/zbcatun/video.m3u8
 #EXTINF:-1 tvg-id="ZBMusic.in" group-title="Music",ZB Music
 https://server.zillarbarta.com/zbmusic/index.m3u8
 #EXTINF:-1 tvg-id="Zee24Ghanta.in" group-title="News",Zee 24 Ghanta
@@ -2579,8 +2587,6 @@ https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeedelhincr/v1/master/611d79b1
 https://yuppnimresmum.akamaized.net/28072023/smil:zeekannadahd.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 #EXTINF:-1 tvg-id="ZeeKannadaNews.in" group-title="News",Zee Kannada News
 https://d3vzwoqcbpfm8p.cloudfront.net/index_4.m3u8
-#EXTINF:-1 tvg-id="ZeeKeralam.in" group-title="Entertainment",Zee Keralam
-http://51.75.127.199:3141/zeekeralamhd/index.m3u8
 #EXTINF:-1 tvg-id="ZeeMadhyaPradeshChhattisgarh.in" group-title="News",Zee Madhya Pradesh Chhattisgarh
 https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeemadhyachhattisgarh/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2ab17056-6187-4f0e-a34d-f436ac479d6c/main.m3u8
 #EXTINF:-1 tvg-id="ZeeMarathi.in" group-title="Entertainment",Zee Marathi
@@ -2605,6 +2611,8 @@ https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeerajashthannews/v1/master/61
 http://51.75.127.199:3141/zeetalkieshd/index.m3u8
 #EXTINF:-1 tvg-id="ZeeTalkies.in" group-title="Movies",Zee Talkies
 http://107.167.16.138/zeetalkies/index.m3u8?token=test
+#EXTINF:-1 tvg-id="ZeeTamil.in" group-title="Entertainment",Zee Tamil
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:zeetamil1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ZeeTamilNews.in" group-title="News",Zee Tamil News
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/ZMCL/ZeeTamilNews.m3u8
 #EXTINF:-1 tvg-id="ZeeTelugu.in" group-title="Entertainment",Zee Telugu
@@ -2613,12 +2621,16 @@ https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main
 https://d116gfrn8orazi.cloudfront.net/index.m3u8?akes=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NjcxOTc5NzJ9.O4qmdMPbHwKrCg6hFXvD70vjSPWKQd0a7NrjmFdeMB8
 #EXTINF:-1 tvg-id="ZeeTV.in" group-title="Entertainment",Zee TV
 http://41.205.93.154/ZEE-TV/index.m3u8
+#EXTINF:-1 tvg-id="ZeeTV.in" group-title="Entertainment",Zee TV
+http://51.75.127.199:3141/zeetv/index.m3u8
 #EXTINF:-1 tvg-id="ZeeTVAsiaPacific.sg" group-title="Uncategorized",Zee TV Asia Pacific
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/sg/YuppTV/ZeeTVHDAPAC.m3u8
 #EXTINF:-1 tvg-id="ZeeUttarPradeshUttarakhand.in" group-title="News",Zee Uttar Pradesh/Uttarakhand
 https://duw35ict5q7th.cloudfront.net/index_3.m3u8
 #EXTINF:-1 tvg-id="ZeeUttarPradeshUttarakhand.in" group-title="News",Zee Uttar Pradesh/Uttarakhand
 https://mumt07.tangotv.in/zHjX9OFlZEEUPUK/index.m3u8
+#EXTINF:-1 tvg-id="ZillarBartaNews.in" group-title="News, Classic",ZillarBarta News
+https://server.zillarbarta.com/zillarbarta/index.m3u8
 #EXTINF:-1 tvg-id="Zing.in" group-title="Music",Zing!
 http://107.167.16.138/zing/index.m3u8?token=test
 #EXTINF:-1 tvg-id="ZodiakTV.in" group-title="Entertainment",Zodiak TV
@@ -2627,8 +2639,6 @@ https://ranacable.duckdns.org/ZodiakTv/index.m3u8
 https://dai.google.com/linear/hls/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
 #EXTINF:-1 tvg-id="Zoom.in" group-title="Music",Zoom
 https://d2esfk1pb9cdob.cloudfront.net/master.m3u8
-#EXTINF:-1 tvg-id="Zoom.in" group-title="Music",Zoom
-https://mumbai-edge.smartplaytv.in/Zoom/index.m3u8
 #EXTINF:-1 tvg-id="ZooMoo.sg" group-title="Kids",ZooMoo
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ZooMoo.sg" group-title="Kids",ZooMoo
