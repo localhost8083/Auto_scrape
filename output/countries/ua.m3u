@@ -38,6 +38,8 @@ http://stream.mcquack.net/283/index.m3u8
 #EXTINF:-1 tvg-id="Bolt.ua" group-title="Movies, Series",Bolt
 http://stream.mcquack.net/73/index.m3u8
 #EXTINF:-1 tvg-id="Channel5.ua" group-title="News",Channel 5
+http://stream.mcquack.net/291/index.m3u8
+#EXTINF:-1 tvg-id="Channel5.ua" group-title="News",Channel 5
 https://api-tv.ipnet.ua/api/v1/manifest/2118742539.m3u8
 #EXTINF:-1 tvg-id="Channel7Ukraine.ua" group-title="General",Channel 7 Ukraine
 https://cdn15.live-tv.cloud/ua_infinitas_tv/7tvod-abr/playlist.m3u8
@@ -109,8 +111,6 @@ http://stream.mcquack.net/158/index.m3u8
 http://stream.mcquack.net/147/index.m3u8
 #EXTINF:-1 tvg-id="Inter.ua" group-title="General",Inter
 http://stream.mcquack.net/174/index.m3u8
-#EXTINF:-1 tvg-id="InterPlus.ua" group-title="General",Inter+
-https://cdn15.live-tv.cloud/ua_infinitas_tv/inter-abr/playlist.m3u8
 #EXTINF:-1 tvg-id="IRT.ua" group-title="General",IRT
 https://stream.irt.ua/memfs/8fac7cbb-3356-4a03-bb77-4439b727ebd2.m3u8
 #EXTINF:-1 tvg-id="Islandia.ua" group-title="Uncategorized",Islandia
@@ -263,6 +263,8 @@ http://stream.mcquack.net/435/index.m3u8
 http://stream.mcquack.net/444/index.m3u8
 #EXTINF:-1 tvg-id="Svarozhychy.ua" group-title="Entertainment",Svarozhychy
 http://svarozhichi.cdn-03.cosmonova.net.ua/mobile-app/main/svarozhichi/master.m3u8
+#EXTINF:-1 tvg-id="SvitPlus.ua" group-title="General",Svit+
+http://stream.mcquack.net/358/index.m3u8
 #EXTINF:-1 tvg-id="TelekanalRAI.ua" group-title="General",Telekanal RAI
 https://stream.rai.ua/rai/stream.m3u8
 #EXTINF:-1 tvg-id="TelekanalRAI.ua" group-title="General",Telekanal RAI
@@ -277,6 +279,14 @@ http://stream.mcquack.net/338/index.m3u8
 https://cdn10.live-tv.cloud/riood/tisod-abr/riood/tisod720/playlist.m3u8
 #EXTINF:-1 tvg-id="Trofei.ua" group-title="Outdoor",Trofei
 http://stream.mcquack.net/357/index.m3u8
+#EXTINF:-1 tvg-id="TVA.ua" group-title="Uncategorized",TVA
+http://hls.cdn.ua/tva.ua_live/livestream/chunklist_w396178779.m3u8
+#EXTINF:-1 tvg-id="TVA.ua" group-title="Uncategorized",TVA
+https://rtsp.cdn.ua/tva.ua_live/_definst_/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="TVA.ua" group-title="Uncategorized",TVA
+http://hls.cdn.ua/tva.ua_live/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="TVA.ua" group-title="Uncategorized",TVA
+http://rtsp.cdn.ua/tva.ua_live/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="Tviyserial.ua" group-title="Series",Tviy serial
 http://stream.mcquack.net/466/index.m3u8
 #EXTINF:-1 tvg-id="UAMusic.ua" group-title="Music",UA Music
