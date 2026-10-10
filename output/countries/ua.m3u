@@ -19,8 +19,6 @@ http://stream.mcquack.net/259/index.m3u8
 http://stream.mcquack.net/405/index.m3u8
 #EXTINF:-1 tvg-id="24Kanal.ua" group-title="News",24 Kanal
 https://cdn15.live-tv.cloud/ua_infinitas_tv/news24-abr/playlist.m3u8
-#EXTINF:-1 tvg-id="100NEWS.ua" group-title="News, Business",100% NEWS
-http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
 #EXTINF:-1 tvg-id="366TV.ua" group-title="Lifestyle",36.6 TV
 https://dash2.antik.sk/live/test_tridsatsest_hd_atktv/playlist.m3u8
 #EXTINF:-1 tvg-id="ArmyTV.ua" group-title="News",Army TV
@@ -31,18 +29,20 @@ http://195.54.52.40/test/index.m3u8
 http://stream.mcquack.net/244/index.m3u8
 #EXTINF:-1 tvg-id="Avers.ua" group-title="General",Avers
 https://avers.pp.ua/hls/efir.m3u8
-#EXTINF:-1 tvg-id="Bigudi.ua" group-title="Uncategorized",Bigudi
-http://stream.mcquack.net/340/index.m3u8
 #EXTINF:-1 tvg-id="Black.ua" group-title="Music",Black
 http://stream.mcquack.net/283/index.m3u8
 #EXTINF:-1 tvg-id="Bolt.ua" group-title="Movies, Series",Bolt
 http://stream.mcquack.net/73/index.m3u8
+#EXTINF:-1 tvg-id="Channel5.ua" group-title="News",Channel 5
+http://stream.mcquack.net/291/index.m3u8
 #EXTINF:-1 tvg-id="Channel5.ua" group-title="News",Channel 5
 https://api-tv.ipnet.ua/api/v1/manifest/2118742539.m3u8
 #EXTINF:-1 tvg-id="Channel7Ukraine.ua" group-title="General",Channel 7 Ukraine
 https://cdn15.live-tv.cloud/ua_infinitas_tv/7tvod-abr/playlist.m3u8
 #EXTINF:-1 tvg-id="Channel24.ua" group-title="News",Channel 24
 https://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ChemodanTV.ua" group-title="Education, Documentary",Chemodan TV
+http://stream.mcquack.net/399/index.m3u8
 #EXTINF:-1 tvg-id="CinePlus.ua" group-title="Movies",Cine+
 http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjUxOjcwMDAvY2gzMy90cmFja3MtdjJhMS9tb25vLm0zdTg%2FbGl2ZT0xJmlwPTE3OC4xMzYuNDIuMjIwJmlkPTk0ODg2NSZzZWNyZXQ9bjF1N3VpMDYmc3NsPTEmMjF5bz0wJmU9MTc5MDc1MjM2MiZzdD12bmp2elZKY2JtUndKMkFzY1l0UWpR&master=567
 #EXTINF:-1 tvg-id="CinePlusHit.ua" group-title="Movies",Cine+ Hit
@@ -81,6 +81,8 @@ http://stream.mcquack.net/261/index.m3u8
 https://cdn3.wowza.com/1/WjduMm1tYnlwNXQx/M01NV3Uz/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-id="Fashion.ua" group-title="Uncategorized",Fashion
 http://stream.mcquack.net/288/index.m3u8
+#EXTINF:-1 tvg-id="FashionTV.ua" group-title="Lifestyle",Fashion TV
+http://stream.mcquack.net/287/index.m3u8
 #EXTINF:-1 tvg-id="Fauna.ua" group-title="Education",Fauna
 http://stream.mcquack.net/401/index.m3u8
 #EXTINF:-1 tvg-id="FilmUADrama.ua" group-title="Movies, Series",FilmUADrama
@@ -93,8 +95,6 @@ https://dash2.antik.sk/live/test_film_life_atktv/playlist.m3u8
 https://dash2.antik.sk/live/test_uatv/playlist.m3u8
 #EXTINF:-1 tvg-id="FREEDOM.ua" group-title="News",FREEDOM
 https://dash4.antik.sk/live/test_uatv/playlist.m3u8
-#EXTINF:-1 tvg-id="Glas.ua" group-title="Religious",Glas
-http://85.238.112.69:8811/hls_sec/239.0.4.18-.m3u8
 #EXTINF:-1 tvg-id="HappyRadioTV.ua" group-title="Music",Happy Radio TV
 https://tv.mediacp.eu:8081/happyradio/index.m3u8
 #EXTINF:-1 tvg-id="ICTV2.ua" group-title="Entertainment",ICTV2
@@ -179,8 +179,6 @@ https://stream.ntktv.ua/s/ntk/ntk.m3u8
 https://cdn15.live-tv.cloud/ua_infinitas_tv/ntn-abr/playlist.m3u8
 #EXTINF:-1 tvg-id="NTN.ua" group-title="General",NTN
 http://stream.mcquack.net/326/index.m3u8
-#EXTINF:-1 tvg-id="ObshchestvennoeNezavisimoeTelevidenie.ua" group-title="News",Obshchestvennoe Nezavisimoe Televidenie
-http://85.238.112.40:8810/hls_sec/239.33.75.33-.m3u8
 #EXTINF:-1 tvg-id="OnePlanet.ua" group-title="General",One Planet
 http://stream.mcquack.net/448/index.m3u8
 #EXTINF:-1 tvg-id="OrbitaTV.ua" group-title="General",Orbita TV
@@ -195,18 +193,12 @@ https://api-tv.ipnet.ua/api/v1/manifest/2118742505.m3u8
 http://stream.mcquack.net/404/index.m3u8
 #EXTINF:-1 tvg-id="PershyiZahidnyi.ua" group-title="Legislative",Pershyi Zahidnyi
 http://stream.mcquack.net/246/index.m3u8
-#EXTINF:-1 tvg-id="PervyygorodskoyOdessa.ua" group-title="General",Pervyy gorodskoy. Odessa
-http://91.194.79.46:8081/stream1/channel1/playlist.m3u8
-#EXTINF:-1 tvg-id="PervyygorodskoyOdessa.ua" group-title="General",Pervyy gorodskoy. Odessa
-http://91.194.79.46:8081/stream2/channel2/playlist.m3u8
 #EXTINF:-1 tvg-id="PixelTV.ua" group-title="Kids",Pixel TV
 https://cdn15.live-tv.cloud/ua_infinitas_tv/pixel-abr/playlist.m3u8
 #EXTINF:-1 tvg-id="PixelTV.ua" group-title="Kids",Pixel TV
 http://stream.mcquack.net/323/index.m3u8
 #EXTINF:-1 tvg-id="PLUSPLUS.ua" group-title="Kids",PLUSPLUS
 http://stream.mcquack.net/339/index.m3u8
-#EXTINF:-1 tvg-id="PTV.ua" group-title="News",PTV
-https://cdn15.live-tv.cloud/ua_infinitas_tv/hrpl-abr/playlist.m3u8
 #EXTINF:-1 tvg-id="QuizTV.ua" group-title="Entertainment",Quiz TV
 http://stream.mcquack.net/397/index.m3u8
 #EXTINF:-1 tvg-id="RadaTV.ua" group-title="Legislative",Rada TV
@@ -219,8 +211,6 @@ http://stream.mcquack.net/464/index.m3u8
 http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjUxOjcwMDAvY2g2NS90cmFja3MtdjJhMS9tb25vLm0zdTg%2FbGl2ZT0xJmlwPTE3OC4xMzYuNDIuMjIwJmlkPTk0ODg2NSZzZWNyZXQ9bjF1N3VpMDYmc3NsPTEmMjF5bz0wJmU9MTc5MDcxMDcwMCZzdD1MXzZYc2M4elNra3RCaWYyVzU1dWF3&master=180
 #EXTINF:-1 tvg-id="RAZ3International.ua" group-title="Uncategorized",RAZ 3 International
 https://dash2.antik.sk/live/kvartal_tv/playlist.m3u8
-#EXTINF:-1 tvg-id="RenomeTV.ua" group-title="General",Renome TV
-http://85.238.112.40:8810/hls_sec/online/list-renome.m3u8
 #EXTINF:-1 tvg-id="Reporter.ua" group-title="News",Reporter
 http://cdn1.live-tv.od.ua:8081/31chod/31chod-abr/31chod/31chod/playlist.m3u8
 #EXTINF:-1 tvg-id="Rivne1.ua" group-title="General",Rivne 1
@@ -255,10 +245,6 @@ http://stream.mcquack.net/394/index.m3u8
 http://stream.mcquack.net/212/index.m3u8
 #EXTINF:-1 tvg-id="STB.ua" group-title="Uncategorized",STB
 http://stream.mcquack.net/156/index.m3u8
-#EXTINF:-1 tvg-id="SuspilneKrym.ua" group-title="General",Suspilne. Krym
-http://stream.mcquack.net/436/index.m3u8
-#EXTINF:-1 tvg-id="SuspilneKultura.ua" group-title="Culture",Suspilne. Kultura
-http://stream.mcquack.net/435/index.m3u8
 #EXTINF:-1 tvg-id="SuspilneSport.ua" group-title="Sports",Suspilne. Sport
 http://stream.mcquack.net/444/index.m3u8
 #EXTINF:-1 tvg-id="Svarozhychy.ua" group-title="Entertainment",Svarozhychy
@@ -309,5 +295,7 @@ http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI
 http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoODQvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA3NTMxMTAmc3Q9dTZrbUNadl9LWlpqMllkWVJRbDVBdw%3D%3D&master=77
 #EXTINF:-1 tvg-id="ViasatSerial.ua" group-title="Movies, Series",Viasat Serial
 http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoNDUvdHJhY2tzLXYyYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA2MDExNzAmc3Q9VS12czVHQmhOdF9WQXJ4bHVYVzR2dw%3D%3D&master=599
+#EXTINF:-1 tvg-id="VivaLatino.ua" group-title="Music",¡Viva Latino!
+http://stream.mcquack.net/285/index.m3u8
 #EXTINF:-1 tvg-id="Zoom.ua" group-title="Entertainment",Zoom
 http://stream.mcquack.net/327/index.m3u8
