@@ -27,6 +27,8 @@ https://drk6xq0vhn.gpcdn.net/live/cn_sd_abr/index.m3u8
 http://tvsen7.aynascope.net/cartoonnetwork/index.m3u8
 #EXTINF:-1 tvg-id="CartoonNetwork.us" group-title="Animation, Kids",Cartoon Network
 https://turnerlive.warnermediacdn.com/hls/live/2023160/tooneast/noslate/VIDEO_3_1928000.m3u8
+#EXTINF:-1 tvg-id="CartoonNetwork.us" group-title="Animation, Kids",Cartoon Network
+http://212.5.144.156:8080/cartoon/index.m3u8
 #EXTINF:-1 tvg-id="CartoonNetworkAsia.sg" group-title="Animation, Kids",Cartoon Network Asia
 https://cdn4.skygo.mn/live/disk1/Cartoon_Network/HLSv3-FTA/Cartoon_Network.m3u8
 #EXTINF:-1 tvg-id="CartoonNetworkCEE.uk" group-title="Animation, Kids",Cartoon Network CEE
@@ -37,6 +39,8 @@ http://57.128.231.171:8080/293/index.m3u8
 http://45.132.87.69:8080/cartoon_network/index.m3u8
 #EXTINF:-1 tvg-id="CartoonNetworkHDPlus.in" group-title="Animation, Kids",Cartoon Network HD+
 https://drk6xq0vhn.gpcdn.net/live/cn_hd_abr/index.m3u8
+#EXTINF:-1 tvg-id="CartoonNetworkLatinAmerica.us" group-title="Animation, Kids",Cartoon Network Latin America
+http://15.204.246.24:8080/CartoonNetworkHD/index.m3u8
 #EXTINF:-1 tvg-id="CartoonNetworkLatinAmerica.us" group-title="Animation, Kids",Cartoon Network Latin America
 http://45.162.64.114/CARTOON_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="CartoonNetworkLatinAmerica.us" group-title="Animation, Kids",Cartoon Network Latin America
@@ -60,6 +64,8 @@ http://45.166.93.156:9999/play/a0f3/index.m3u8
 #EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar" group-title="Animation, Kids",Disney Channel Latin America
 http://138.121.15.230:9002/DISNEY-CHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar" group-title="Animation, Kids",Disney Channel Latin America
+http://15.204.246.24:8080/DisneyHD/index.m3u8
+#EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar" group-title="Animation, Kids",Disney Channel Latin America
 http://45.171.108.253:8888/DISNEY_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar" group-title="Animation, Kids",Disney Channel Latin America
 http://45.185.163.75:8000/play/a02j/index.m3u8
@@ -69,8 +75,6 @@ https://barinaslive1.boldmss.com/DISNEY/DISNEY.isml/DISNEY.m3u8
 http://190.14.10.19:16000/play/a06z/index.m3u8
 #EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar" group-title="Animation, Kids",Disney Channel Latin America
 http://45.134.141.161:2200/ARG/Disney_Channel/index.m3u8
-#EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar" group-title="Animation, Kids",Disney Channel Latin America
-http://138.59.227.20:8000/play/a06w/index.m3u8
 #EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar" group-title="Animation, Kids",Disney Channel Latin America
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/disney-channel-key/chunks.m3u8
 #EXTINF:-1 tvg-id="DisneyJrLatinAmerica.ar" group-title="Animation, Kids",Disney Jr. Latin America
@@ -253,8 +257,6 @@ https://jmp2.uk/plu-65df4934f7f0af0008c32545.m3u8
 https://jmp2.uk/plu-65df71008b24c80008f04281.m3u8
 #EXTINF:-1 tvg-id="SouthParkColecaoKenny.us" group-title="Animation, Comedy",South Park: Colecao Kenny
 https://jmp2.uk/plu-65df704366eec8000898e32f.m3u8
-#EXTINF:-1 tvg-id="SouthParkColecaoKyle.us" group-title="Animation, Comedy",South Park: Colecao Kyle
-https://jmp2.uk/plu-65df713dec9fda0008b7a81d.m3u8
 #EXTINF:-1 tvg-id="SouthParkColecaoStan.us" group-title="Animation, Comedy",South Park: Colecao Stan
 https://jmp2.uk/plu-65df70b0f7f0af0008c3b316.m3u8
 #EXTINF:-1 tvg-id="SouthParkColeccionCartman.us" group-title="Animation, Comedy",South Park: Coleccion Cartman
@@ -317,8 +319,6 @@ https://jmp2.uk/plu-63d7a8e5a9957100086bfc23.m3u8
 https://jmp2.uk/plu-663115d923e24f000843b49c.m3u8
 #EXTINF:-1 tvg-id="SpacetoonTurkey.tr" group-title="Animation, Kids",Spacetoon Turkey
 https://live-tr-next.spacetoongo.com/ST_TR_NEXT/hls/h7qefeiwfbjn1.m3u8
-#EXTINF:-1 tvg-id="SuperHungama.in" group-title="Animation, Kids",Super Hungama
-http://103.185.24.134:3001/SUPER-HUNGAMA/index.m3u8
 #EXTINF:-1 tvg-id="TeenageMutantNinjaTurtles.de" group-title="Animation, Kids",Teenage Mutant Ninja Turtles
 https://jmp2.uk/plu-62619405c733e8000732d1fe.m3u8
 #EXTINF:-1 tvg-id="TeletoonPlus.pl" group-title="Animation, Kids",Teletoon+
@@ -333,6 +333,8 @@ https://jmp2.uk/plu-5ff608e60e2996000768c366.m3u8
 http://live-saha.cdnvideo.ru/saha/tooky/playlist.m3u8
 #EXTINF:-1 tvg-id="ToonamiAftermath.us" group-title="Animation",Toonami Aftermath
 http://api.toonamiaftermath.com:3000/est/playlist.m3u8
+#EXTINF:-1 tvg-id="ToonamiAftermath.us" group-title="Animation",Toonami Aftermath
+http://api.toonamiaftermath.com:3000/pst/playlist.m3u8
 #EXTINF:-1 tvg-id="Tooncast.us" group-title="Animation, Kids",Tooncast
 http://38.134.250.110:8000/play/a01t/index.m3u8
 #EXTINF:-1 tvg-id="Tooncast.us" group-title="Animation, Kids",Tooncast
