@@ -15,6 +15,8 @@ http://122.248.43.242:1935/BALIKPAPANTV/_definst_/myStream/playlist.m3u8
 http://202.150.153.254:65500/bandungtvWEBSITE.m3u8
 #EXTINF:-1 tvg-id="BantenTV.id" group-title="Uncategorized",Banten TV
 https://5bf7b725107e5.streamlock.net/bantentv/bantentv/playlist.m3u8
+#EXTINF:-1 tvg-id="BatamTV.id" group-title="General",Batam TV
+http://122.248.43.242:1935/BATAMTV/_definst_/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="BMSTV.id" group-title="Uncategorized",BMS TV
 https://5bf7b725107e5.streamlock.net/bmstv/bmstv/playlist.m3u8
 #EXTINF:-1 tvg-id="BNChannel.id" group-title="News",BN Channel
@@ -27,8 +29,6 @@ https://lnd0t3b922.tenbytecdn.com/ta-sg1/90369cf5-6ac2-411d-b3d0-15fae10a2e2c/ma
 https://stream.carubantv.id/hls/0/stream.m3u8
 #EXTINF:-1 tvg-id="CNBCIndonesia.id" group-title="Business",CNBC Indonesia
 https://video.detik.com/livecnbc/smil:cnbctv/chunklist_w1279679883_b384000_sleng.m3u8
-#EXTINF:-1 tvg-id="CNNIndonesia.id" group-title="News",CNN Indonesia
-https://video.detik.com/livecnn/smil:cnntv/chunklist_w268557525_b384000_sleng.m3u8
 #EXTINF:-1 tvg-id="DAAITV.id" group-title="Religious",DAAI TV
 https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8
 #EXTINF:-1 tvg-id="DavikaTV.id" group-title="Uncategorized",Davika TV
@@ -39,6 +39,8 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h221/02.m3u8
 https://b.webcache.maxindo.net.id/dhamma/dhamma.m3u8
 #EXTINF:-1 tvg-id="DMITV.id" group-title="Religious",DMI TV
 https://tvstreamcast.com/tawaftv.m3u8
+#EXTINF:-1 tvg-id="DutaTV.id" group-title="General",Duta TV
+https://dutatv.siar.us/dutatv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="EfarinaTV.id" group-title="General",Efarina TV
 https://live.efarinatv.com/hls/bgtaufikganteng.m3u8
 #EXTINF:-1 tvg-id="EInternational.id" group-title="General",E International
@@ -68,8 +70,6 @@ http://27.124.81.245:1935/jektv/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="JogjaIstimewaTV.id" group-title="General",Jogja Istimewa TV
 http://103.255.15.222:1935/tv/jitv_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="JTV.id" group-title="General",JTV
-http://122.248.43.242:1935/JTVKEDIRI/_definst_/myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="JTV.id" group-title="General",JTV
 http://122.248.43.242:1935/JTVMADIUN/_definst_/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="JTV.id" group-title="General",JTV
 http://122.248.43.242:1935/JTVMALANG/_definst_/myStream/playlist.m3u8
@@ -83,6 +83,8 @@ https://5bf7b725107e5.streamlock.net/kstv/kstv/playlist.m3u8
 https://lingkartv.my.id/hls/lingkartv.m3u8
 #EXTINF:-1 tvg-id="MadaniTV.id" group-title="Religious",Madani TV
 https://stream.asianastream.com/madani/madanitv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="MaduTV.id" group-title="General",Madu TV
+https://re1.siar.us/madutv/hd720/playlist.m3u8
 #EXTINF:-1 tvg-id="MagnaChannel.id" group-title="General",Magna Channel
 https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="MBGTV.id" group-title="Legislative",MBG TV
@@ -91,14 +93,22 @@ https://stream.convergen.co/mbg_stream/smil:mbStream.smil/playlist.m3u8
 https://op-flashcon-digdayahd-1.dens.tv/h/h223/index.m3u8
 #EXTINF:-1 tvg-id="MetroTV.id" group-title="News",Metro TV
 https://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="MGSTV.id" group-title="General",MGSTV
+https://mgstv.siar.us/live/mgstv.m3u8
 #EXTINF:-1 tvg-id="MQTV.id" group-title="Religious",MQTV
 https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
+#EXTINF:-1 tvg-id="NusantaraTV.id" group-title="General",Nusantara TV
+https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="PadangTV.id" group-title="General",Padang TV
 http://122.248.43.242:1935/PADANGTV/_definst_/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="PKTV.id" group-title="Uncategorized",PKTV
 https://streaming.id18.tunnel.my.id/hls/stream.m3u8
 #EXTINF:-1 tvg-id="PONTV.id" group-title="Uncategorized",PONTV
 http://122.248.43.242:1935/PONTV/_definst_/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="PujaTVAceh.id" group-title="Uncategorized",Puja TV Aceh
+https://pujatv.siar.us/live/pujatv.m3u8
+#EXTINF:-1 tvg-id="RadarLampungTV.id" group-title="Uncategorized",Radar Lampung TV
+https://www.streaming.radartv.co.id/hls/test.m3u8
 #EXTINF:-1 tvg-id="RBTVJogja.id" group-title="General",RBTV Jogja
 https://official.rbtvjogja.tv/live/mychannel.m3u8
 #EXTINF:-1 tvg-id="RCTV.id" group-title="Uncategorized",RCTV
@@ -115,10 +125,14 @@ https://live.salamtelevisi.com/hls/0/stream.m3u8
 https://live.salira.tv/p/3870/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="SaliraTV.id" group-title="Culture, Lifestyle",Salira TV
 https://live.salira.tv:3870/stream/play.m3u8
+#EXTINF:-1 tvg-id="SampitTV.id" group-title="General",Sampit TV
+https://sampit-tv.siar.us/live/sampit-tv.m3u8
 #EXTINF:-1 tvg-id="SangajiTV.id" group-title="Uncategorized",Sangaji TV
 https://cdn.adyadigitalteknologi.com:8090/vod/relay.m3u8
 #EXTINF:-1 tvg-id="SMTV.id" group-title="Uncategorized",SMTV
 http://122.248.43.242:1935/SMTV/_definst_/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="SriwijayaTV.id" group-title="Uncategorized",Sriwijaya TV
+https://sriwijayatv.siar.us/live/sriwijayatv.m3u8
 #EXTINF:-1 tvg-id="StaraTV.id" group-title="Uncategorized",Stara TV
 https://bandung.staratv.id/hls/0/stream.m3u8
 #EXTINF:-1 tvg-id="StaraTV.id" group-title="Uncategorized",Stara TV
