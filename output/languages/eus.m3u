@@ -47,6 +47,10 @@ https://cls.alcarria.tv/alcarriatv/livestream/playlist.m3u8
 https://fastly.live.brightcove.com/1846756479408303045/eu-central-1/6057955885001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiZWFxNWh4LmVncmVzcy53YzQ3bTEiLCJhY2NvdW50X2lkIjoiNjA1Nzk1NTg4NTAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDU3OTU1ODg1MDAxIl0sImp0aSI6IjE4NDY3NTY0Nzk0MDgzMDMwNDUifQ.o6wb_VA-TVxl3ERgr7FKLlaTjY7smErmsf73QAydySE/playlist-hls-dvr.m3u8
 #EXTINF:-1 tvg-id="ArabiTV.es" group-title="General",Arabi TV
 https://streamtv2.elitecomunicacion.cloud:3628/live/arabitv2025live.m3u8
+#EXTINF:-1 tvg-id="AXNCEE.es" group-title="Movies",AXN CEE
+http://88.212.15.50/live/test_axn/playlist.m3u8
+#EXTINF:-1 tvg-id="AXNCEE.es" group-title="Movies",AXN CEE
+http://88.212.15.50/live/axn_hun/index.m3u8
 #EXTINF:-1 tvg-id="BCNGospelTV.es" group-title="General",BCN Gospel TV
 https://live1.ovalcast.com:3916/live/bcngospeltvlive.m3u8
 #EXTINF:-1 tvg-id="BonDiaTV.es" group-title="General, Public",Bon Dia TV
@@ -59,8 +63,6 @@ https://cloudvideo.servers10.com:8081/8004/index.m3u8
 https://avantstreaming.es/hls/canal3.m3u8
 #EXTINF:-1 tvg-id="Canal4ManchaCentro.es" group-title="Uncategorized",Canal 4 Mancha Centro
 https://5924d3ad0efcf.streamlock.net/canal4/canal4live/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal7TeleValencia.es" group-title="General",Canal 7 TeleValencia
-https://play.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/028/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal10Emporda.es" group-title="Uncategorized",Canal 10 Emporda
 https://ventdelnord.tv:8080/escala/directe.m3u8
 #EXTINF:-1 tvg-id="Canal33Madrid.es" group-title="Uncategorized",Canal 33 Madrid
@@ -123,8 +125,6 @@ https://congresodirecto.akamaized.net/hls/live/2038276/canal3/master.m3u8
 https://congresodirecto.akamaized.net/hls/live/2038277/canal4/master.m3u8
 #EXTINF:-1 tvg-id="CongresodelosDiputados5.es" group-title="Legislative",Congreso de los Diputados 5
 https://congresodirecto.akamaized.net/hls/live/2038278/canal5/master.m3u8
-#EXTINF:-1 tvg-id="CostaNoroesteTV.es" group-title="General",Costa Noroeste TV
-https://limited31.todostreaming.es/live/noroestetv-livestream.m3u8
 #EXTINF:-1 tvg-id="CrimenHistoria.es" group-title="Documentary",Crimen & Historia
 https://jmp2.uk/plu-64ddcbb14c5ed80008fad416.m3u8
 #EXTINF:-1 tvg-id="DiezTVLasVillas.es" group-title="General",Diez TV Las Villas
@@ -309,6 +309,8 @@ https://0145451975a64b35866170fd2e8fa486.mediatailor.eu-west-1.amazonaws.com/v1/
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
 #EXTINF:-1 tvg-id="RealMadridTVEnglish.es" group-title="Sports",Real Madrid TV English
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
+#EXTINF:-1 tvg-id="RealMadridTVEnglish.es" group-title="Sports",Real Madrid TV English
+http://88.212.15.50/live/real_madrid_tv/index.m3u8
 #EXTINF:-1 tvg-id="RiberaTV.es" group-title="General",Ribera TV
 https://common01.todostreaming.es/live/ribera-livestream.m3u8
 #EXTINF:-1 tvg-id="RNEparatodos.es" group-title="General",RNE para todos
