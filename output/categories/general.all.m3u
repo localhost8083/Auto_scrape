@@ -1037,26 +1037,18 @@ https://live-evg8.tv360.bitel.com.pe/bitel/bnbSRT/playlist.m3u8
 https://shift03.isp.bg/BNT1_HD/index.m3u8
 #EXTINF:-1 tvg-id="BNT1.bg" group-title="General",BNT 1
 http://213.91.179.28:8000/play/a046
-#EXTINF:-1 tvg-id="BNT1.bg" group-title="General",BNT 1
-http://hls127.freeott.top:8080/BG_BNT_1/video.m3u8
 #EXTINF:-1 tvg-id="BNT2.bg" group-title="General",BNT 2
 https://shift03.isp.bg/BNT2_HD/index.m3u8
 #EXTINF:-1 tvg-id="BNT2.bg" group-title="General",BNT 2
 http://213.91.179.28:8000/play/a049
-#EXTINF:-1 tvg-id="BNT2.bg" group-title="General",BNT 2
-http://hls127.freeott.top:8080/BG_BNT_2_HD/video.m3u8
 #EXTINF:-1 tvg-id="BNT3.bg" group-title="General",BNT 3
 https://shift03.isp.bg/BNT3_HD/index.m3u8
 #EXTINF:-1 tvg-id="BNT3.bg" group-title="General",BNT 3
 http://213.91.179.28:8000/play/a03x
-#EXTINF:-1 tvg-id="BNT3.bg" group-title="General",BNT 3
-http://hls127.freeott.top:8080/BG_BNT_3_HD/video.m3u8
 #EXTINF:-1 tvg-id="BNT4.bg" group-title="General",BNT 4
 https://shift03.isp.bg/BNT4_HD/index.m3u8
 #EXTINF:-1 tvg-id="BNT4.bg" group-title="General",BNT 4
 http://213.91.179.28:8000/play/a04u
-#EXTINF:-1 tvg-id="BNT4.bg" group-title="General",BNT 4
-http://hls127.freeott.top:8080/BG_BNT_4_HD/video.m3u8
 #EXTINF:-1 tvg-id="BocaChicaTV.do" group-title="General",Boca Chica TV
 https://fox.hostlagarto.com:8081/bocachicatv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="BoishakhiTV.bd" group-title="General",Boishakhi TV
@@ -1335,6 +1327,8 @@ https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223
 http://190.11.225.124:5000/live/canal11_hd/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal11TuTV.sv" group-title="General",Canal 11 TuTV
 https://stream.giostreaming.app/canal11/canal11.m3u8
+#EXTINF:-1 tvg-id="Canal12.ni" group-title="General",Canal 12
+http://45.228.234.9:8000/play/a06s/index.m3u8
 #EXTINF:-1 tvg-id="Canal12.sv" group-title="General",Canal 12
 https://d2b5h5wyivfnfl.cloudfront.net/live/53108ffe-0b7e-46ab-bc14-3a9c30010939/ts:abr.m3u8
 #EXTINF:-1 tvg-id="Canal12.sv" group-title="General",Canal 12
@@ -2309,8 +2303,6 @@ https://dhohotv.siar.us/dhohotv/live/playlist.m3u8
 https://diadoratv.stream/live/diadora/playlist.m3u8
 #EXTINF:-1 tvg-id="DienBienTV.vn" group-title="General",Dien Bien TV
 https://stream.langsontv.vn/live/2855dfeccb7f49a41a2b0441b3bfeda413c/playlist.m3u8
-#EXTINF:-1 tvg-id="DienBienTV.vn" group-title="General",Dien Bien TV
-https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv362&deviceId=&deviceType=&gcId=1532&location=NA&pkg=pkg11.hni&q=high&requestTime=1586309420781&time=1586395820&token=LX-ibJYRUq9pflRtYAxfYQ&type=tv&userId=
 #EXTINF:-1 tvg-id="DiezTVLasVillas.es" group-title="General",Diez TV Las Villas
 https://streaming.cloud.innovasur.es/mmj2/index.m3u8
 #EXTINF:-1 tvg-id="DiezTVUbeda.es" group-title="General",Diez TV Ubeda
@@ -3166,6 +3158,8 @@ https://stream.kaztrk.kz/regional/taraztv/index.m3u8
 #EXTINF:-1 tvg-id="JanTV.in" group-title="General",Jan TV
 https://d1msejlow1t3l4.cloudfront.net/fta/jantv/playlist.m3u8
 #EXTINF:-1 tvg-id="JanTV.in" group-title="General",Jan TV
+https://mumt03.tangotv.in/Dsly5z3HJANTV/index.m3u8
+#EXTINF:-1 tvg-id="JanTV.in" group-title="General",Jan TV
 https://cdn.pishow.tv/ott/live/10004/master.m3u8
 #EXTINF:-1 tvg-id="JaszsagiTersegiTV.hu" group-title="General",Jaszsagi Tersegi TV
 https://cloudfront44.lexanetwork.com:1344/relay01/broadcast007.sdp/playlist.m3u8
@@ -3413,8 +3407,6 @@ https://stitch.teletarget.ru/api/v1/hls/504/158/index.m3u8
 http://775065.live.tvstitch.com/playlist.m3u8?source=aHR0cHM6Ly9obHMtY2RuMi5keXZ5YXBwLmNvbS9rb25rdXJlbnQtdWtyYWluYS90cmFja3MtdjFhMS9tb25vLnRzLm0zdTg/dG9rZW49ZXlKaGJHY2lPaUpJVXpJMU5pSXNJblI1Y0NJNklrcFhWQ0o5LmV5SmphR0Z1Ym1Wc1gybGtJam96TVRFc0ltTm9ZVzV1Wld4ZmJtRnRaU0k2SWx4MU1EUXhZVngxTURRelpWeDFNRFF6WkZ4MU1EUXpZVngxTURRME0xeDFNRFEwTUZ4MU1EUXpOVngxTURRelpGeDFNRFEwTWlCY2RUQTBNak5jZFRBME0yRmNkVEEwTkRCY2RUQTBNekJjZFRBME5UZGNkVEEwTTJSY2RUQTBNekFpTENKcGNDSTZJakUzT0M0eE16WXVOREl1TWpJd0lpd2lZMjkxYm5SeWVTSTZJbFZyY21GcGJtVWlMQ0oxYzJWeVgybGtJam8zTkRBM0xDSjFjMlZ5WDNCb2IyNWxJam9pS3pNNE1Ea3pNRGsyTnpReU15SXNJblZ6WlhKZmNtOXNaWE1pT2xzaVkyeHBaVzUwSWwwc0luQnliMlpwYkdWZmFXUWlPalkwTnpFc0luTmxjM05wYjI1ZmFXUWlPaUprTURBNU5tSm1PQzB5TTJVMUxUUmxaVFl0WW1Vek5TMW1PREE0TXpsbFpqbGtPRFFpTENKbGJuWnBjbTl1YldWdWRDSTZJbkJ5YjJSMVkzUnBiMjRpTENKd2JHRjBabTl5YlNJNklrUmxjMnQwYjNBaUxDSjFjMlZ5WDJGblpXNTBJam9pVFc5NmFXeHNZVnd2TlM0d0lDaFhhVzVrYjNkeklFNVVJREV3TGpBN0lGZHBialkwT3lCNE5qUXBJRUZ3Y0d4bFYyVmlTMmwwWEM4MU16Y3VNellnS0V0SVZFMU1MQ0JzYVd0bElFZGxZMnR2S1NCRGFISnZiV1ZjTHpFMU1pNHdMakF1TUNCVFlXWmhjbWxjTHpVek55NHpOaUlzSW1WNGNDSTZNVGM0T0RNek5qTXdOSDAuOGgzdDlhSkFPUjh0djhvX0NZWjlDbHVuaTVvZ2NiRVFVcC1SbThlcUMwNA==&master=311
 #EXTINF:-1 tvg-id="KontraChannel.gr" group-title="General",Kontra Channel
 https://kontralive.siliconweb.com/live/kontratv/playlist.m3u8
-#EXTINF:-1 tvg-id="KonTumTV.vn" group-title="General",Kon Tum TV
-https://247.dpdns.org/module/IPTV/?id=QNgTV2&accKenh=vuminhthanh1
 #EXTINF:-1 tvg-id="KonyaOlayTV.tr" group-title="General",Konya Olay TV
 https://live.artidijitalmedya.com/artidijital_konyaolaytv/konyaolaytv/playlist.m3u8
 #EXTINF:-1 tvg-id="KordestanTV.ir" group-title="General",Kordestan TV
@@ -3577,8 +3569,6 @@ https://5790d294af2dc.streamlock.net/latinatv/latinatv/chunklist.m3u8
 https://cdn.vegasplus.us/vegas/latch/playlist.m3u8
 #EXTINF:-1 tvg-id="LaTR3Marsala.it" group-title="General",La TR3 Marsala
 https://tsw.streamingwebtv24.it:1936/eslife1/eslife1/playlist.m3u8
-#EXTINF:-1 tvg-id="LaTrois.be" group-title="General",La Trois
-http://193.111.198.85:8589/stream/mstv/rtbflatroislive26/master.m3u8?p=967e33767f592e1aaf3d4019f38f380bf784e113b193d89c412d047059d6300d&u=Oleg
 #EXTINF:-1 tvg-id="LauraDaveMediaTV.cm" group-title="General",Laura Dave Media TV
 https://streaming.lauradavemedia.com/ldm/index.m3u8
 #EXTINF:-1 tvg-id="LawTV.ru" group-title="General",Law TV
@@ -3973,6 +3963,8 @@ https://linear-700.frequency.stream/dist/stirr/700/hls/master/playlist.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-wfld-lgus/playlist.m3u8
 #EXTINF:-1 tvg-id="MNT.us" group-title="General",MNT
 https://aegis-cloudfront-1.tubi.video/3600d45a-dfbf-4878-9ca1-2e2bc9077fed/index.m3u8
+#EXTINF:-1 tvg-id="MNT.us" group-title="General",MNT
+https://live-streaming-mcdn.api.graylive.quickplay.com/woio-xos1-input-1/woio-xos1-input-1.isml/woio-xos1-input-1-audio_eng=96000-video=388000.m3u8
 #EXTINF:-1 tvg-id="MocaVisionCanal48.do" group-title="General",Moca Vision Canal 48
 https://stream.castr.com/5da89a909db964293ad13301/live_aa3888e0926511f1af7f414b985a2475/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="Moji.id" group-title="General",Moji
@@ -4305,6 +4297,8 @@ https://live.mediatech.vn/live/2859591eef2e92249b682db021f4247c364/chunklist.m3u
 https://67tz1gnwrvxic.cmccdn.net/hls/NGHEANTV/03.m3u8
 #EXTINF:-1 tvg-id="NH.nl" group-title="General, News",NH
 https://takeoff.jetstre.am/?account=nhnieuws&file=live&output=playlist.m3u8&protocol=https&service=wowza&type=live
+#EXTINF:-1 tvg-id="NHKGeneralTV.jp" group-title="General",NHK General TV
+https://tv-stream-test.daydreamer-json.cc/fe8bf835820fb530467f75a9cb761504/master.m3u8
 #EXTINF:-1 tvg-id="NiceTVKenya.ke" group-title="General",Nice TV Kenya
 https://goliveafrica.media:9998/live/64ada04aa7678/index.m3u8
 #EXTINF:-1 tvg-id="NicoyaTV.cr" group-title="General",NicoyaTV
@@ -5413,6 +5407,8 @@ http://51.254.199.122:8080/RTVS1/index.m3u8
 http://ms7.mx-cd.net/tv/212-1299944/RTV-Zulthe.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="RumboMineroTV.pe" group-title="General",Rumbo Minero TV
 http://45.70.201.81:8000/play/a018/index.m3u8
+#EXTINF:-1 tvg-id="RumboMineroTV.pe" group-title="General",Rumbo Minero TV
+https://live-evg8.tv360.bitel.com.pe/bitel/minero/playlist.m3u8
 #EXTINF:-1 tvg-id="Russia1.ru" group-title="General",Russia-1
 https://stream.smotrim.ru/hls2/russia_hd/playlist_6.m3u8
 #EXTINF:-1 tvg-id="Russia1.ru" group-title="General",Russia-1
@@ -6595,8 +6591,6 @@ http://45.14.84.37/tv5monde/index.m3u8
 https://ert-ucdn.broadpeak-aas.com/bpk-tv/TV5/default/index.m3u8
 #EXTINF:-1 tvg-id="TV5MondeFranceBelgiumSwitzerlandMonaco.fr" group-title="General",TV5Monde France Belgium Switzerland Monaco
 https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/variant.m3u8
-#EXTINF:-1 tvg-id="TV5MondeFranceBelgiumSwitzerlandMonaco.fr" group-title="General",TV5Monde France Belgium Switzerland Monaco
-http://5.78.65.164/TV5Monde/index.m3u8
 #EXTINF:-1 tvg-id="TV5MondeLatinAmerica.fr" group-title="General",TV5Monde Latin America
 http://45.162.231.38:7779/TV5_Monde/index.m3u8
 #EXTINF:-1 tvg-id="TV5MondeLatinAmerica.fr" group-title="General",TV5Monde Latin America
