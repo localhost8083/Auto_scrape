@@ -53,8 +53,6 @@ http://185.105.4.151:8080/_defapp_/ittihad/index.m3u8
 http://185.9.2.18/chid_391/mono.m3u8
 #EXTINF:-1 tvg-id="AlloCine.cm" group-title="Movies",Allo Cine
 https://d1yl6bf4hrzbr0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5km3zs4zs9sp0/allo.m3u8
-#EXTINF:-1 tvg-id="AlManar.lb" group-title="News",Al-Manar
-https://edge.fastpublish.me/live/index.m3u8
 #EXTINF:-1 tvg-id="AlMayadeenTV.lb" group-title="News",Al Mayadeen TV
 https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AlpedHuezTV.fr" group-title="General",Alpe d'Huez TV
@@ -89,8 +87,6 @@ https://live.livestreamtv.ca/azstar/ngrp:azstar/playlist.m3u8
 https://tv.voozmedia.fun/benietv/index.m3u8
 #EXTINF:-1 tvg-id="BFM2.fr" group-title="News",BFM2
 https://d1ib1gsg71oarf.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-scp7wda722jph/BFM2_FR.m3u8
-#EXTINF:-1 tvg-id="BFMBusiness.fr" group-title="Business, News",BFM Business
-https://live-cdn-stream-euw1.bfmb.bct.nextradiotv.com/master.m3u8
 #EXTINF:-1 tvg-id="BFMLyon.fr" group-title="News",BFM Lyon
 https://live-cdn-bfmtvlyo-euw1.bfmtv.bct.nextradiotv.com/master.m3u8
 #EXTINF:-1 tvg-id="BFMTV.fr" group-title="News",BFM TV
@@ -289,6 +285,8 @@ http://45.134.141.161:2200/ARG/Eurosport_2_HD/index.m3u8
 https://evandis.streamakaci.tv/str_evandis_evandis/str_evandis_multi/playlist.m3u8
 #EXTINF:-1 tvg-id="EVITV.cd" group-title="Entertainment",EVI TV
 https://mistserver.evi-tv.com/hls/evi_tv_live/index.m3u8
+#EXTINF:-1 tvg-id="Evtele.cg" group-title="Culture",Ev-tele
+https://playtv4k.live/live/EVTELE/index.m3u8
 #EXTINF:-1 tvg-id="FashionTVParisLOriginal.fr" group-title="Lifestyle",FashionTV Paris L'Original
 https://edge-fast3.evrideo.tv/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/manifest.m3u8
 #EXTINF:-1 tvg-id="FashionTVSecrets.fr" group-title="Lifestyle",FashionTV Secrets
@@ -491,6 +489,8 @@ https://vdo2.pro-fhi.net:3769/stream/play.m3u8
 https://rpn.bozztv.com/dvrfl03/iipctv/index.m3u8
 #EXTINF:-1 tvg-id="IIPCTV.ca" group-title="Religious",IIPC TV
 https://uni10rtmp.tulix.tv/iipctv/iipctv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ILTV.fr" group-title="Uncategorized",ILTV
+https://live.creacast.com/iltv/smil:iltv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ImmaculataTV.ch" group-title="Religious",Immaculata TV
 https://g5nl63z8lpq6-hls-live.5centscdn.com/tvistream/a5586d8ea3b7b021120a05c60dc59876.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="IntoCrime.fr" group-title="Documentary",Into Crime
@@ -579,6 +579,8 @@ https://cdn.katapy.io/cache/stream/katapytv/dieu/playlist.m3u8
 http://tv.mondeduloisir.fr:1935/tixtv/smil:web.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Meteonews.ch" group-title="Weather",Meteonews
 https://streaming.meteonews.net/hls/stream.m3u8
+#EXTINF:-1 tvg-id="MezzoLive.fr" group-title="Music",Mezzo Live
+http://stream.mcquack.net/276/index.m3u8
 #EXTINF:-1 tvg-id="mfm.lb" group-title="Music",mfm
 https://hms.pfs.gdn/hms/v1/broadcast/hlmvmp2hfriode891/playlist.m3u8
 #EXTINF:-1 tvg-id="MHZ.ca" group-title="Entertainment",MHZ
@@ -755,8 +757,6 @@ https://f-tx-edge-87.christianworldmedia.com/EJCFG/mp4:EJCFG/playlist.m3u8
 http://teleginen.srfms.com:1935/teleginen/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioTeleHit.ht" group-title="Music",Radio Tele Hit
 https://59d39900ebfb8.streamlock.net/RadioTelehit/RadioTelehit/playlist.m3u8
-#EXTINF:-1 tvg-id="RadioTelePlanetCompas.ht" group-title="General",Radio Tele Planet Compas
-https://5dcab9aed5331.streamlock.net/mrcompas1/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioTVBasseTerre.gp" group-title="General",Radio TV Basse-Terre
 https://vdo.ssl-stream.com:3412/stream/play.m3u8
 #EXTINF:-1 tvg-id="RedTVLebanon.lb" group-title="News",Red TV Lebanon
@@ -1111,8 +1111,6 @@ https://cdn.mycloudstream.io/hls/live/broadcast/xn44vdc5/index.m3u8
 https://live.tvcbenin.com/direct/729c37a1d3319ee21991227b1f84c687.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="TVFamille.mq" group-title="Family, Religious",TV Famille
 https://streamer1.streamhost.org/salive/GMItvfh/playlist.m3u8
-#EXTINF:-1 tvg-id="TVLux.be" group-title="Uncategorized",TV Lux
-https://dlgt0tdl2hpq3.cloudfront.net/rtbf/clr-rtbf/764748cd/index.m3u8
 #EXTINF:-1 tvg-id="TVM3.ch" group-title="Uncategorized",TVM 3
 https://livevideo.infomaniak.com/streaming/livecast/tvm3/playlist.m3u8
 #EXTINF:-1 tvg-id="TVMonaco.mc" group-title="General",TV Monaco
