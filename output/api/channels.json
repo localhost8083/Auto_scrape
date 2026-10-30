@@ -1432,6 +1432,10 @@
    "https://a-cdn.klowdtv.com/live3/bigstories_720p/playlist.m3u8",
    "https://a-cdn.klowdtv.com/live3/cars_720p/playlist.m3u8",
    "https://a-cdn.klowdtv.com/live3/wildtv_720p/playlist.m3u8",
+   "https://a-cdn.klowdtv.com/live3/westernbound_720p/playlist.m3u8",
+   "https://a-cdn.klowdtv.com/live3/onpatrol_720p/playlist.m3u8",
+   "https://a-cdn.klowdtv.com/live3/famousandinfamous_720p/playlist.m3u8",
+   "https://a-cdn.klowdtv.com/live3/cowboy_720p/playlist.m3u8",
    "http://applevalley.coxctv.com/live-1/live/live.m3u8",
    "https://reflect-jacksonville.cablecast.tv/live-7/live/live.m3u8",
    "https://livestream.telvue.com/soundviewcmt3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8",
@@ -3806,7 +3810,7 @@
   "urls": [
    "https://load-balancer.azotosolutions.com/cdnedge37/canale50/playlist.m3u8"
   ],
-  "online": true
+  "online": false
  },
  {
   "name": "50 Cent Action",
@@ -4280,9 +4284,10 @@
   "group": "Shop",
   "guide": "",
   "urls": [
-   "https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/playlist.m3u8"
+   "https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/playlist.m3u8",
+   "https://cpbr.appflux.com.br:2000/hls/1001noites/1001noites.m3u8"
   ],
-  "online": false
+  "online": true
  },
  {
   "name": "2900 Happiness",
@@ -4610,7 +4615,7 @@
   "urls": [
    "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/amarbanglatv.stream/playlist.m3u8"
   ],
-  "online": false
+  "online": true
  },
  {
   "name": "Aaryaa TV",
@@ -7908,7 +7913,7 @@
   "urls": [
    "https://live.aljawadain.org/live/aljawadaintv/playlist.m3u8"
   ],
-  "online": true
+  "online": false
  },
  {
   "name": "Al Jazeera 2",
@@ -8930,19 +8935,6 @@
    "https://qmcconnect.qa/api/StreamServices/arabictvsyria2/master.m3u8"
   ],
   "online": true
- },
- {
-  "name": "Althingi",
-  "logo": "",
-  "country": "IS",
-  "country_name": "Iceland",
-  "category": "Legislative",
-  "group": "Legislative",
-  "guide": "",
-  "urls": [
-   "https://althingi-live.secure.footprint.net/althingi/live/index.m3u8"
-  ],
-  "online": false
  },
  {
   "name": "Alt Media TV",
@@ -10472,32 +10464,6 @@
   "online": true
  },
  {
-  "name": "Anmol Cinema 2",
-  "logo": "",
-  "country": "IN",
-  "country_name": "India",
-  "category": "Movies",
-  "group": "Movies",
-  "guide": "zee5.com",
-  "urls": [
-   "https://fta.ektv.in/live/257/master.m3u8"
-  ],
-  "online": false
- },
- {
-  "name": "Anmol Cinema",
-  "logo": "",
-  "country": "IN",
-  "country_name": "India",
-  "category": "Movies",
-  "group": "Movies",
-  "guide": "zee5.com",
-  "urls": [
-   "https://fta.ektv.in/live/271/master.m3u8"
-  ],
-  "online": false
- },
- {
   "name": "Anmol TV",
   "logo": "",
   "country": "IN",
@@ -10737,7 +10703,7 @@
   "urls": [
    "https://video1.azulstream.com:8081/antenaseistv/index.m3u8"
   ],
-  "online": false
+  "online": true
  },
  {
   "name": "Antena SUR",
@@ -12069,7 +12035,7 @@
   "urls": [
    "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8"
   ],
-  "online": true
+  "online": false
  },
  {
   "name": "Aryen TV",
@@ -12835,7 +12801,7 @@
   "urls": [
    "https://live-evg8.tv360.bitel.com.pe/bitel/atlantisSRT/playlist.m3u8"
   ],
-  "online": true
+  "online": false
  },
  {
   "name": "Atlas",
@@ -15210,7 +15176,7 @@
   "urls": [
    "https://cdn.streamhispanatv.net:3549/live/barbetvlive.m3u8"
   ],
-  "online": false
+  "online": true
  },
  {
   "name": "Barca TV",
@@ -15302,7 +15268,7 @@
   "urls": [
    "http://122.248.43.242:1935/BATAMTV/_definst_/myStream/playlist.m3u8"
   ],
-  "online": false
+  "online": true
  },
  {
   "name": "Battlestar Galactica",
@@ -18504,7 +18470,7 @@
   "urls": [
    "https://5bf7b725107e5.streamlock.net/bmstv/bmstv/playlist.m3u8"
   ],
-  "online": false
+  "online": true
  },
  {
   "name": "BNB Digital",
@@ -19918,20 +19884,7 @@
    "https://emisja2.btb.j00r.us/iptv/session/4/hls.m3u8",
    "https://panel.btb.j00r.us/memfs/928cfb64-fed7-4c27-9937-f5ad72d9d73c.m3u8"
   ],
-  "online": false
- },
- {
-  "name": "BTB Music",
-  "logo": "",
-  "country": "PL",
-  "country_name": "Poland",
-  "category": "Music",
-  "group": "Music",
-  "guide": "",
-  "urls": [
-   "https://panel.btb.j00r.us/memfs/ebaffae6-0086-49d7-843d-57f2c561de86.m3u8"
-  ],
-  "online": false
+  "online": true
  },
  {
   "name": "BTL TV",
@@ -19945,6 +19898,19 @@
    "https://goliveafrica.media:9998/live/638da5440743c/index.m3u8"
   ],
   "online": false
+ },
+ {
+  "name": "BTL TV",
+  "logo": "",
+  "country": "NL",
+  "country_name": "Netherlands",
+  "category": "Religious",
+  "group": "Religious",
+  "guide": "",
+  "urls": [
+   "https://livecdn.live247stream.com/btl/tv/playlist.m3u8"
+  ],
+  "online": true
  },
  {
   "name": "BTM TV",
@@ -21246,7 +21212,7 @@
   "urls": [
    "https://stream.arcast.com.ar/c3lapampa/ngrp:c3lapampa_all/playlist.m3u8"
   ],
-  "online": false
+  "online": true
  },
  {
   "name": "Canal 3 Las Heras",
@@ -21756,7 +21722,7 @@
   "urls": [
    "https://play.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/028/playlist.m3u8"
   ],
-  "online": true
+  "online": false
  },
  {
   "name": "Canal 7 TV",
@@ -21849,7 +21815,7 @@
    "https://movil.ejeserver.com/live/canal8tv.m3u8",
    "https://video.ejeserver.com/live/canal8tv.m3u8"
   ],
-  "online": false
+  "online": true
  },
  {
   "name": "Canal 8 Vision TV",
@@ -21875,7 +21841,7 @@
   "urls": [
    "https://livehd.vedge.infomaniak.com/livecast/livehd/master.m3u8"
   ],
-  "online": true
+  "online": false
  },
  {
   "name": "Canal 9 Bio-Bio Television",
@@ -22034,7 +22000,7 @@
   "urls": [
    "https://5e50264bd6766.streamlock.net/canal10durango/videocanal10durango/playlist.m3u8"
   ],
-  "online": true
+  "online": false
  },
  {
   "name": "Canal 10 Emporda",
@@ -22790,7 +22756,7 @@
   "urls": [
    "https://183.bozztv.com/giatv/giatv-cnal70tv/cnal70tv/playlist.m3u8"
   ],
-  "online": true
+  "online": false
  },
  {
   "name": "Canal 74 San Antonio",
@@ -24421,7 +24387,7 @@
   "urls": [
    "https://stream.ontvmx.com/ontv/CNMLXR0Z6FPtGdjcI4/playlist.m3u8"
   ],
-  "online": true
+  "online": false
  },
  {
   "name": "Canal TV3",
@@ -27108,7 +27074,7 @@
   "urls": [
    "https://wowzasrv.chaco.gov.ar/Streamtv/chacotv/playlist.m3u8"
   ],
-  "online": true
+  "online": false
  },
  {
   "name": "Chacra TV",
@@ -27929,7 +27895,7 @@
   "urls": [
    "https://live-evg10.tv360.bitel.com.pe/bitel/charapatvSRT/playlist.m3u8"
   ],
-  "online": true
+  "online": false
  },
  {
   "name": "Chardikla Gurbaani TV",
@@ -28316,7 +28282,7 @@
   "urls": [
    "http://15.204.246.24:8080/CHVHD/index.m3u8"
   ],
-  "online": true
+  "online": false
  },
  {
   "name": "Chiloe Red 25",
@@ -28422,7 +28388,7 @@
   "urls": [
    "https://5eaccbab48461.streamlock.net:1936/8180/8180/playlist.m3u8"
   ],
-  "online": true
+  "online": false
  },
  {
   "name": "Cholusat Sur 36",
@@ -30814,7 +30780,7 @@
   "urls": [
    "https://video.detik.com/livecnbc/smil:cnbctv/chunklist_w1279679883_b384000_sleng.m3u8"
   ],
-  "online": true
+  "online": false
  },
  {
   "name": "CNBC Mongolia",
@@ -30947,7 +30913,7 @@
   "urls": [
    "https://live20.bozztv.com/akamaissh101/ssh101/cncvalledupar1/playlist.m3u8"
   ],
-  "online": false
+  "online": true
  },
  {
   "name": "CND Film Discovery Channel",
@@ -30974,7 +30940,7 @@
    "http://live2.rxip.sc96655.com/live/zxs_4000.m3u8?A=&E=&K=&P=&S=&U=",
    "http://live-play.zxstv.com.cn/zhongxuesheng/zhongxuesheng.m3u8"
   ],
-  "online": false
+  "online": true
  },
  {
   "name": "CNews",
@@ -32784,7 +32750,7 @@
   "urls": [
    "http://92.114.85.87:8015/play/a00d/index.m3u8"
   ],
-  "online": true
+  "online": false
  },
  {
   "name": "Cristo TV",
@@ -33968,7 +33934,7 @@
   "urls": [
    "https://cdn.drt.vn/live/285a27750861b964c27af22091662a74f2f/chunklist.m3u8"
   ],
-  "online": false
+  "online": true
  },
  {
   "name": "Dali TV",
@@ -34009,7 +33975,7 @@
   "urls": [
    "https://live.mediatech.vn/live/285b59a111d76974225a8e3004bfc31a509/chunklist.m3u8"
   ],
-  "online": true
+  "online": false
  },
  {
   "name": "Da Nang TV2",
@@ -35384,7 +35350,7 @@
   "urls": [
    "https://vdopanel.jlahozconsulting.com:3869/hybrid/play.m3u8"
   ],
-  "online": true
+  "online": false
  },
  {
   "name": "Del Rey TV",
@@ -36138,7 +36104,7 @@
    "https://cablered.iptvperu.tv:1936/cablered/dhe_new/playlist.m3u8",
    "http://38.252.238.18:8000/play/a01f/index.m3u8"
   ],
-  "online": true
+  "online": false
  },
  {
   "name": "Dheeran TV",
@@ -38520,7 +38486,7 @@
   "urls": [
    "https://vps122407.serveur-vps.net/hls/drtv.m3u8"
   ],
-  "online": true
+  "online": false
  },
  {
   "name": "Dry Bar Comedy+",
@@ -40445,7 +40411,7 @@
   "urls": [
    "http://15.204.246.24:8080/elnueveHD/index.m3u8"
   ],
-  "online": true
+  "online": false
  },
  {
   "name": "El Nuevo Diario TV",
@@ -43995,7 +43961,7 @@
   "urls": [
    "https://584097344c1f0.streamlock.net/29/stream/playlist.m3u8"
   ],
-  "online": true
+  "online": false
  },
  {
   "name": "Familien fra Bryggen",
@@ -44574,7 +44540,7 @@
   "urls": [
    "https://cloudfront44.lexanetwork.com:1344/freerelay/fehervartv.sdp/playlist.m3u8"
   ],
-  "online": false
+  "online": true
  },
  {
   "name": "FEM3",
@@ -45968,7 +45934,7 @@
   "urls": [
    "https://fort.co-works.org/memfs/87017643-274a-4bc0-a786-7767a0d159c2.m3u8"
   ],
-  "online": true
+  "online": false
  },
  {
   "name": "Fortuna TV",
@@ -47089,7 +47055,7 @@
   "urls": [
    "https://tvsen7.aynascope.net/fx/index.m3u8"
   ],
-  "online": false
+  "online": true
  },
  {
   "name": "FX Latin America",
@@ -47147,7 +47113,7 @@
   "urls": [
    "https://stream.neux.site/memfs/e3f59eec-6b93-45e1-a2ab-c82381c2a9ec.m3u8"
   ],
-  "online": true
+  "online": false
  },
  {
   "name": "Galavision",
@@ -47504,6 +47470,7 @@
    "https://hlspackager.akamaized.net/live/DB/GB_NEWS/HLS/GB_NEWS.m3u8",
    "https://rakutenaa-lightning-gbnews-rakuten-ccoa9.amagi.tv/playlist/rakutenAA-lightning-gbnews-rakuten/playlist.m3u8",
    "https://amg01076-lightningintern-gbnews-samsunguk-0lu52.amagi.tv/playlist.m3u8",
+   "https://a-cdn.klowdtv.com/live3/gbnews_720p/playlist.m3u8",
    "https://amg01076-lightning-amg01076c7-klowdtv-us-2128.playouts.now.amagi.tv/playlist/amg01076-lightning-gbnews-klowdtvus/playlist.m3u8"
   ],
   "online": true
@@ -48496,7 +48463,7 @@
   "urls": [
    "https://vtm1.msinteractiva.com./globaltv/globaltv/playlist.m3u8"
   ],
-  "online": false
+  "online": true
  },
  {
   "name": "Global TV",
@@ -48633,7 +48600,7 @@
   "urls": [
    "http://181.78.8.199:8000/play/a09k/index.m3u8"
   ],
-  "online": true
+  "online": false
  },
  {
   "name": "Gloob",
@@ -51072,6 +51039,19 @@
   "online": true
  },
  {
+  "name": "HBCU-GO Sports",
+  "logo": "",
+  "country": "US",
+  "country_name": "United States",
+  "category": "Sports",
+  "group": "Sports",
+  "guide": "plex.tv",
+  "urls": [
+   "https://a-cdn.klowdtv.com/live3/hbcugo_720p/playlist.m3u8"
+  ],
+  "online": true
+ },
+ {
   "name": "HBO 2",
   "logo": "",
   "country": "CZ",
@@ -51721,7 +51701,7 @@
   "urls": [
    "https://cdn-us-east-prod-ingest-infra-dacast-com.akamaized.net/8424fb7f-99a9-87ae-3861-f0620849d11c/source/index.m3u8"
   ],
-  "online": true
+  "online": false
  },
  {
   "name": "HGTV",
@@ -52737,7 +52717,7 @@
   "urls": [
    "https://mrtvott.com/cache/MRTV-HLUTTAW/master.m3u8"
   ],
-  "online": true
+  "online": false
  },
  {
   "name": "HMI PROMZ NEWS",
@@ -52989,7 +52969,20 @@
   "urls": [
    "http://streaming.zaytonatube.com:8080/holyquran/holyquran/video.m3u8"
   ],
-  "online": false
+  "online": true
+ },
+ {
+  "name": "Home 4K",
+  "logo": "",
+  "country": "RU",
+  "country_name": "Russia",
+  "category": "Relax",
+  "group": "Relax",
+  "guide": "tv.mail.ru",
+  "urls": [
+   "http://88.212.7.14/live/test_home_uhd_tizen/playlist.m3u8"
+  ],
+  "online": true
  },
  {
   "name": "Homebase TV",
@@ -54019,7 +54012,7 @@
   "urls": [
    "https://p8.vzan.com/slowlive/415983998730568937/live.m3u8"
   ],
-  "online": false
+  "online": true
  },
  {
   "name": "Hunan News Channel",
@@ -58312,7 +58305,7 @@
   "urls": [
    "https://live-fi.tvkaista.net/jim/live.m3u8?hd=true"
   ],
-  "online": true
+  "online": false
  },
  {
   "name": "Jimani TV",
@@ -58352,6 +58345,19 @@
    "http://212.5.144.156:8080/jimjam/index.m3u8",
    "http://158.160.149.81:8080/269/index.m3u8",
    "http://stream.mcquack.net/150/index.m3u8"
+  ],
+  "online": true
+ },
+ {
+  "name": "Jingmen Comprehensive News Channel",
+  "logo": "",
+  "country": "CN",
+  "country_name": "China",
+  "category": "News",
+  "group": "News",
+  "guide": "",
+  "urls": [
+   "https://stream.jmtv.com.cn/xwzh/sd/live.m3u8?_upt=341f4b8e1791883036"
   ],
   "online": true
  },
@@ -58513,7 +58519,7 @@
   "urls": [
    "https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8"
   ],
-  "online": false
+  "online": true
  },
  {
   "name": "Johnny Carson TV",
@@ -59455,7 +59461,7 @@
   "urls": [
    "https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8"
   ],
-  "online": true
+  "online": false
  },
  {
   "name": "Kanaal Z",
@@ -60265,7 +60271,7 @@
   "urls": [
    "http://66.242.170.53/hls/live/temp/index.m3u8"
   ],
-  "online": false
+  "online": true
  },
  {
   "name": "KBS World",
@@ -60822,7 +60828,7 @@
   "urls": [
    "http://origin5.mediacdn.ru/live/kidstv/index.m3u8"
   ],
-  "online": false
+  "online": true
  },
  {
   "name": "Kids Zone",
@@ -60874,7 +60880,7 @@
   "urls": [
    "https://streamer1.connectto.com/AABC_WEB_1201/index.m3u8"
   ],
-  "online": false
+  "online": true
  },
  {
   "name": "KiKA",
@@ -61927,7 +61933,7 @@
   "urls": [
    "https://s3.tvdatta.com:3700/live/jjrtvlive.m3u8"
   ],
-  "online": true
+  "online": false
  },
  {
   "name": "Kordestan TV",
@@ -62022,7 +62028,7 @@
   "urls": [
    "https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8"
   ],
-  "online": false
+  "online": true
  },
  {
   "name": "KPVM-LD 25.1",
@@ -67344,7 +67350,7 @@
   "urls": [
    "https://vdopanel.jlahozconsulting.com:3303/live/makinalive.m3u8"
   ],
-  "online": true
+  "online": false
  },
  {
   "name": "Makkah TV",
@@ -67899,7 +67905,7 @@
   "urls": [
    "https://v1.tustreaming.cl/margamargatv/index.m3u8"
   ],
-  "online": true
+  "online": false
  },
  {
   "name": "Maria+Vision Medjugorje",
@@ -70222,7 +70228,7 @@
   "urls": [
    "https://vs20.live.opencaster.com/metaleitortv_423d3342/index.m3u8"
   ],
-  "online": false
+  "online": true
  },
  {
   "name": "Meteonews",
@@ -70287,7 +70293,7 @@
   "urls": [
    "https://video1.earthcam.com/myearthcam/075ff02f78c35af55564cf3af3b3f750.flv/playlist.m3u8"
   ],
-  "online": true
+  "online": false
  },
  {
   "name": "Metro TV",
@@ -70344,19 +70350,6 @@
   "online": true
  },
  {
-  "name": "MeTV",
-  "logo": "",
-  "country": "US",
-  "country_name": "United States",
-  "category": "Entertainment",
-  "group": "Entertainment",
-  "guide": "tvtv.us",
-  "urls": [
-   "https://82934cf9c8696bd2.mediapackage.us-east-1.amazonaws.com/out/v1/23685237ffbb4047a8143ac2166ead44/index.m3u8"
-  ],
-  "online": false
- },
- {
   "name": "meWATCH LIVE 1",
   "logo": "",
   "country": "SG",
@@ -70367,7 +70360,7 @@
   "urls": [
    "https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.mpd"
   ],
-  "online": true
+  "online": false
  },
  {
   "name": "Mexiquense TV",
@@ -70461,7 +70454,7 @@
   "urls": [
    "https://mgstv.siar.us/live/mgstv.m3u8"
   ],
-  "online": false
+  "online": true
  },
  {
   "name": "Mh 1 Music",
@@ -70589,7 +70582,7 @@
   "urls": [
    "https://edge.essastream.com/miavisiontv/playlist.m3u8"
   ],
-  "online": false
+  "online": true
  },
  {
   "name": "Microvision 10",
@@ -72278,7 +72271,7 @@
   "urls": [
    "https://lbgo.bozztv.com/ssh101/ssh101/montonestv1/playlist.m3u8"
   ],
-  "online": false
+  "online": true
  },
  {
   "name": "Montreal Greek TV",
@@ -72545,7 +72538,7 @@
   "urls": [
    "https://fox.hostlagarto.com:8081/morrotv/playlist.m3u8"
   ],
-  "online": false
+  "online": true
  },
  {
   "name": "Mosaique FM",
@@ -73038,7 +73031,7 @@
    "https://asia.sipradius.net/cache/SEAGames4/master.m3u8",
    "https://mrtvott.com/cache/MRTV-HD/master.m3u8"
   ],
-  "online": false
+  "online": true
  },
  {
   "name": "MRTV Entertainment",
@@ -73090,7 +73083,7 @@
   "urls": [
    "https://mrtvott.com/cache/MRTV-NRC-HD/master.m3u8"
   ],
-  "online": true
+  "online": false
  },
  {
   "name": "MRTV Sports",
@@ -73103,7 +73096,7 @@
   "urls": [
    "https://mrtvott.com/cache/MRTV-SPORT/master.m3u8"
   ],
-  "online": false
+  "online": true
  },
  {
   "name": "MRVTV Channel 44",
@@ -74077,7 +74070,7 @@
   "urls": [
    "https://live-fi.tvkaista.net/sub/live.m3u8"
   ],
-  "online": true
+  "online": false
  },
  {
   "name": "MTVTeenMom.de",
@@ -75908,7 +75901,7 @@
   "urls": [
    "http://176.61.157.250/NationalGeographic/index.m3u8"
   ],
-  "online": false
+  "online": true
  },
  {
   "name": "National Geographic",
@@ -77505,7 +77498,7 @@
   "urls": [
    "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12JH_CENT_A1/index_new.m3u8?omap=https"
   ],
-  "online": true
+  "online": false
  },
  {
   "name": "News12 New York",
@@ -77532,7 +77525,7 @@
   "urls": [
    "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_CT_A1/index_new.m3u8"
   ],
-  "online": false
+  "online": true
  },
  {
   "name": "News12+ Hudson Valley",
@@ -77572,7 +77565,7 @@
   "urls": [
    "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_NJ_A1/index_new.m3u8"
   ],
-  "online": true
+  "online": false
  },
  {
   "name": "News12+ New York",
@@ -77585,7 +77578,7 @@
   "urls": [
    "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_NYC_A1/index_new.m3u8"
   ],
-  "online": true
+  "online": false
  },
  {
   "name": "News12 Westchester",
@@ -78747,7 +78740,7 @@
   "urls": [
    "http://176.61.157.250/Nickelodeon/index.m3u8"
   ],
-  "online": false
+  "online": true
  },
  {
   "name": "Nickelodeon",
@@ -79055,7 +79048,7 @@
   "urls": [
    "http://176.61.157.250/NickJr/index.m3u8"
   ],
-  "online": false
+  "online": true
  },
  {
   "name": "Nick Jr.",
@@ -80178,7 +80171,7 @@
   "urls": [
    "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/nouvelle-caledonie-1ere.m3u8"
   ],
-  "online": true
+  "online": false
  },
  {
   "name": "Nova",
@@ -80243,7 +80236,7 @@
   "urls": [
    "http://176.61.157.250/NovaTV/index.m3u8"
   ],
-  "online": false
+  "online": true
  },
  {
   "name": "Nova TV Brasov",
@@ -82040,7 +82033,7 @@
   "urls": [
    "https://cnn.hostlagarto.com/oepmtelevision/tracks-v1a1/mono.m3u8"
   ],
-  "online": false
+  "online": true
  },
  {
   "name": "Ofogh TV",
@@ -82584,7 +82577,7 @@
   "urls": [
    "https://live.olidigital.in/olitv/olitv/index.m3u8"
   ],
-  "online": true
+  "online": false
  },
  {
   "name": "Olot TV",
@@ -82667,19 +82660,6 @@
    "https://partwota.cdn.mgmlcdn.com/omlive/smil:omlive.stream.smil/chunklist.m3u8"
   ],
   "online": true
- },
- {
-  "name": "Omega",
-  "logo": "",
-  "country": "IS",
-  "country_name": "Iceland",
-  "category": "Religious",
-  "group": "Religious",
-  "guide": "",
-  "urls": [
-   "https://customer-gllhkkbamkskdl1p.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6ImI3YmIwODNmMDhkNmQ5NWExZjIzZWE3ZWRhOWY4NTZhIn0.eyJzdWIiOiJkM2NlZTBhY2RmYTlkNWUzMTQ1MzMyMjk4Y2FlNGQ1YiIsImtpZCI6ImI3YmIwODNmMDhkNmQ5NWExZjIzZWE3ZWRhOWY4NTZhIiwiZXhwIjoxNzg1NTYxNzEyLCJhY2Nlc3NSdWxlcyI6W3sidHlwZSI6ImlwLmdlb2lwLmNvdW50cnkiLCJhY3Rpb24iOiJibG9jayIsImNvdW50cnkiOlsiUlUiLCJCWSJdfV19.mbhyruuIdBBCY-HxJTyLdG3OH1nvFFuzwhBGEainaCV5EkRv20p22JUd-x8yzyghm_X-soPuxO_h_lf6aSsxQz1qMCQ8ZGcN_GVRW8j2Tv3hRJTj_DQnxk0s5LXmrQCkUo1szfCNjkOaa062r3x5qL1-kZ5fKDRnSBpGJyx_H6G1SHOTzlTd9mGggrZ3aH7Omuu1vKDHvxE-C0oN0KpgjO0oht5DM9ClTtXB1Wabu0mqfYRGXBpuBHhAn7hvDOxHTlWrtTUMcUXv5uQ-oXyfLCqHHFk_CV2TUUq6lmO6sIC93EeZrBWFQJr_t32xGMJpgOhfxjaL39B5XeUYypzAGQ/manifest/video.m3u8"
-  ],
-  "online": false
  },
  {
   "name": "Omega Channel",
@@ -83807,7 +83787,7 @@
   "urls": [
    "http://ftp.orbita.dn.ua/hls/orbita.m3u8"
   ],
-  "online": true
+  "online": false
  },
  {
   "name": "ORBIT TV",
@@ -84665,7 +84645,7 @@
   "urls": [
    "http://122.248.43.242:1935/PADANGTV/_definst_/myStream/playlist.m3u8"
   ],
-  "online": false
+  "online": true
  },
  {
   "name": "Padharo SA",
@@ -94168,7 +94148,7 @@
   "urls": [
    "https://pujatv.siar.us/live/pujatv.m3u8"
   ],
-  "online": false
+  "online": true
  },
  {
   "name": "Pulari TV",
@@ -94620,7 +94600,7 @@
   "urls": [
    "https://acasmedia3.acangroup.org/qausaintv/qausaintv_output/playlist.m3u8"
   ],
-  "online": true
+  "online": false
  },
  {
   "name": "Qazaqstan",
@@ -94734,7 +94714,7 @@
    "http://39.134.115.163:8080/PLTV/88888910/224/3221225727/index.m3u8",
    "http://112.25.48.68/live/program/live/qhws/1300000/mnf.m3u8"
   ],
-  "online": true
+  "online": false
  },
  {
   "name": "Q-Music",
@@ -95056,7 +95036,7 @@
   "urls": [
    "http://158.172.155.130:8000/play/a00a/index.m3u8"
   ],
-  "online": true
+  "online": false
  },
  {
   "name": "Quince UCR",
@@ -95388,7 +95368,7 @@
   "urls": [
    "https://server.playontv.in/raatdinbangla/index.m3u8"
   ],
-  "online": true
+  "online": false
  },
  {
   "name": "Raavi TV",
@@ -95880,7 +95860,7 @@
   "urls": [
    "https://videostream.chileservidores.com:8081/chiloe1/index.m3u8"
   ],
-  "online": true
+  "online": false
  },
  {
   "name": "Radio Chisinau",
@@ -96519,7 +96499,7 @@
   "urls": [
    "https://tv.telselec.cl:3376/live/nublefmlive.m3u8"
   ],
-  "online": true
+  "online": false
  },
  {
   "name": "Radio Number One",
@@ -96674,6 +96654,19 @@
   "guide": "",
   "urls": [
    "https://media.3netmedia.ro/hls/stream.m3u8"
+  ],
+  "online": false
+ },
+ {
+  "name": "Radio Romania Antena Satelor",
+  "logo": "",
+  "country": "RO",
+  "country_name": "Romania",
+  "category": "Music",
+  "group": "Music",
+  "guide": "",
+  "urls": [
+   "https://stream3.srr.ro/live/antenasatelor/chunklist_w1642210843.m3u8"
   ],
   "online": false
  },
@@ -97188,6 +97181,19 @@
   "online": true
  },
  {
+  "name": "Radio TV Serie A",
+  "logo": "",
+  "country": "IT",
+  "country_name": "Italy",
+  "category": "Sports",
+  "group": "Sports",
+  "guide": "",
+  "urls": [
+   "https://legaseriea-live-prd.cdn.netrw.it/out/v1/s-prd/ch-01-prd-s-v2/hls-ch-01-prd-s-hd/index%2Em3u8"
+  ],
+  "online": false
+ },
+ {
   "name": "Radio UC",
   "logo": "",
   "country": "CL",
@@ -97250,7 +97256,7 @@
   "urls": [
    "https://live-evg7.tv360.bitel.com.pe/bitel/radiounotv/playlist.m3u8"
   ],
-  "online": true
+  "online": false
  },
  {
   "name": "Radio UP",
@@ -100388,7 +100394,7 @@
   "urls": [
    "https://edge14.vedge.infomaniak.com/livecast/ik:rhonetv/manifest.m3u8"
   ],
-  "online": true
+  "online": false
  },
  {
   "name": "RHT Guadeloupe",
@@ -100896,7 +100902,7 @@
   "urls": [
    "https://videoserver.tmcreativos.com:19360/rnyurimaguas/rnyurimaguas.m3u8"
   ],
-  "online": false
+  "online": true
  },
  {
   "name": "Roar",
@@ -101612,7 +101618,7 @@
   "urls": [
    "https://edge12.vedge.infomaniak.com/livecast/ik:rtblive1_8/manifest.m3u8"
   ],
-  "online": true
+  "online": false
  },
  {
   "name": "RT Balkan",
@@ -102374,7 +102380,7 @@
   "urls": [
    "https://streaming-live.rtp.pt/liverepeater/rtp1HD.smil/playlist.m3u8"
   ],
-  "online": true
+  "online": false
  },
  {
   "name": "RTP 2",
@@ -102387,7 +102393,7 @@
   "urls": [
    "https://streaming-live.rtp.pt/liverepeater/rtp2HD.smil/playlist.m3u8"
   ],
-  "online": false
+  "online": true
  },
  {
   "name": "RTP",
@@ -102567,7 +102573,7 @@
   "urls": [
    "https://uzivo.rtrs.tv/tv/live/index.m3u8"
   ],
-  "online": false
+  "online": true
  },
  {
   "name": "RTRTV",
@@ -102580,7 +102586,7 @@
   "urls": [
    "https://tv3ecuador.site/hls/stream/index.m3u8"
   ],
-  "online": false
+  "online": true
  },
  {
   "name": "RTS 1",
@@ -103632,7 +103638,7 @@
   "urls": [
    "https://rpn.bozztv.com/slrclive/slrc/slrclive/index.m3u8"
   ],
-  "online": false
+  "online": true
  },
  {
   "name": "Rus",
@@ -104598,7 +104604,7 @@
   "urls": [
    "https://chemnitz.iptv-playoutcenter.de/chemnitz/chemnitzfernsehen.stream_1/playlist.m3u8"
   ],
-  "online": false
+  "online": true
  },
  {
   "name": "Sachsen Fernsehen Dresden",
@@ -104611,7 +104617,7 @@
   "urls": [
    "https://dresden.iptv-playoutcenter.de/dresden/dresdenfernsehen.stream_1/playlist.m3u8"
   ],
-  "online": false
+  "online": true
  },
  {
   "name": "Sachsen Fernsehen Leipzig",
@@ -104624,7 +104630,7 @@
   "urls": [
    "https://leipzig.iptv-playoutcenter.de/leipzig/leipzigfernsehen.stream_1/playlist.m3u8"
   ],
-  "online": false
+  "online": true
  },
  {
   "name": "SADA TV",
@@ -109381,19 +109387,6 @@
   "online": true
  },
  {
-  "name": "S Metro TV",
-  "logo": "",
-  "country": "US",
-  "country_name": "United States",
-  "category": "General",
-  "group": "General",
-  "guide": "",
-  "urls": [
-   "https://vodcdn.bamboo-cloud.com/livehls/6a9f8b4606304461c50dfe93/master.m3u8"
-  ],
-  "online": false
- },
- {
   "name": "Smile TV",
   "logo": "",
   "country": "RU",
@@ -109920,7 +109913,7 @@
   "urls": [
    "https://live20.bozztv.com/akamaissh101/ssh101/somosentrerios/playlist.m3u8"
   ],
-  "online": false
+  "online": true
  },
  {
   "name": "Somos TV",
@@ -110221,6 +110214,19 @@
   "online": true
  },
  {
+  "name": "Sony Movies",
+  "logo": "",
+  "country": "US",
+  "country_name": "United States",
+  "category": "Movies",
+  "group": "Movies",
+  "guide": "tvtv.us",
+  "urls": [
+   "https://a-cdn.klowdtv.com/live1/smc_720p/playlist.m3u8"
+  ],
+  "online": true
+ },
+ {
   "name": "Sony Movies Latin America",
   "logo": "",
   "country": "US",
@@ -110233,7 +110239,7 @@
    "https://cdn-5.nxplay.com.br/SONY_MOVIES/index.m3u8",
    "http://38.252.238.18:8000/play/a01e/index.m3u8"
   ],
-  "online": true
+  "online": false
  },
  {
   "name": "Sony One Blacklist",
@@ -111066,7 +111072,7 @@
   "urls": [
    "https://video10.logicahost.com.br/soutv/soutv/playlist.m3u8"
   ],
-  "online": false
+  "online": true
  },
  {
   "name": "Soweto TV",
@@ -111235,7 +111241,7 @@
   "urls": [
    "https://tv.centaurychile.com/magicatv/streams/22AdscM3Y6Un17Zo4747081346569358.m3u8"
   ],
-  "online": true
+  "online": false
  },
  {
   "name": "Speedline TV",
@@ -111911,7 +111917,7 @@
   "urls": [
    "http://highvolume155.streampartner.nl/adminsrc/adminsrc/playlist.m3u8"
   ],
-  "online": true
+  "online": false
  },
  {
   "name": "SRF",
@@ -111950,7 +111956,7 @@
   "urls": [
    "https://sriwijayatv.siar.us/live/sriwijayatv.m3u8"
   ],
-  "online": false
+  "online": true
  },
  {
   "name": "S Sport 2",
@@ -112169,7 +112175,7 @@
    "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/StarChannel.stream/playlist.m3u8",
    "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/StarChannel.stream/chunks.m3u8"
   ],
-  "online": true
+  "online": false
  },
  {
   "name": "Star Cinema",
@@ -113501,7 +113507,7 @@
    "http://cdn22.streampartner.nl/streektv/streektv/playlist.m3u8",
    "https://61ae39677a1ab.streamlock.net/streektv/streektv/playlist.m3u8"
   ],
-  "online": true
+  "online": false
  },
  {
   "name": "Strongman",
@@ -116198,7 +116204,7 @@
   "urls": [
    "https://v2.siar.us/tatv/live.sdp/playlist.m3u8"
   ],
-  "online": false
+  "online": true
  },
  {
   "name": "Taurianova TV",
@@ -116332,7 +116338,7 @@
   "urls": [
    "https://164475.gvideo.io/mpegts/164475_650646/master_mpegts.m3u8"
   ],
-  "online": true
+  "online": false
  },
  {
   "name": "TBN Baltia",
@@ -116904,7 +116910,7 @@
   "urls": [
    "https://tele1-live.ercdn.net/tele1/tele1.m3u8"
   ],
-  "online": false
+  "online": true
  },
  {
   "name": "TELE 4 Ojocaliente",
@@ -118749,7 +118755,7 @@
   "urls": [
    "https://jk3lz2bwlw79-hls-live.mariatvcdn.it/teleradiopace1/efcc8fc46cab26315ce3f5845d76008f.sdp/playlist.m3u8"
   ],
-  "online": true
+  "online": false
  },
  {
   "name": "Telepace 2",
@@ -118762,7 +118768,7 @@
   "urls": [
    "https://zkpywrbgdbeg-hls-live.mariatvcdn.it/teleradiopace2/254c9b5c52a73a94ef0f6169cbd05dc2.sdp/playlist.m3u8"
   ],
-  "online": true
+  "online": false
  },
  {
   "name": "Telepace 3",
@@ -118775,7 +118781,7 @@
   "urls": [
    "https://932y4273djv8-hls-live.mariatvcdn.it/teleradiopace3/d2274c22e9ee09eb2eda01ed0496f8f5.sdp/playlist.m3u8"
   ],
-  "online": true
+  "online": false
  },
  {
   "name": "Telepace 4",
@@ -118990,7 +118996,7 @@
   "urls": [
    "https://angelistic.live:3785/live/tvoficiallive.m3u8"
   ],
-  "online": true
+  "online": false
  },
  {
   "name": "Tele Radio Sciacca",
@@ -119068,7 +119074,7 @@
   "urls": [
    "https://streams.playtv.com.ng/Tele-Regency_TRTV/index.m3u8"
   ],
-  "online": true
+  "online": false
  },
  {
   "name": "TeleRibera",
@@ -119512,7 +119518,7 @@
   "urls": [
    "https://58fe359775f31.streamlock.net/tvuv/myStream/playlist.m3u8"
   ],
-  "online": true
+  "online": false
  },
  {
   "name": "Televallo",
@@ -119539,7 +119545,7 @@
    "http://181.78.8.199:8000/play/a09j/index.m3u8",
    "http://38.134.250.110:8000/play/a02i/index.m3u8"
   ],
-  "online": true
+  "online": false
  },
  {
   "name": "TeleVenezia",
@@ -121233,7 +121239,7 @@
   "urls": [
    "https://jmp2.uk/plu-68d2759a59fd82da3226492d.m3u8"
   ],
-  "online": true
+  "online": false
  },
  {
   "name": "Thema Television",
@@ -121262,7 +121268,7 @@
    "https://jmp2.uk/plu-69afef233bd16a4ed07108e9.m3u8",
    "https://jmp2.uk/plu-69afef4b0306b277744de1e4.m3u8"
   ],
-  "online": true
+  "online": false
  },
  {
   "name": "The Monterey Channel",
@@ -121343,7 +121349,7 @@
   "urls": [
    "https://jmp2.uk/plu-5e393d5c696b3b0009775c8b.m3u8"
   ],
-  "online": true
+  "online": false
  },
  {
   "name": "The New Detectives",
@@ -121616,7 +121622,8 @@
   "group": "Weather",
   "guide": "tvtv.us",
   "urls": [
-   "https://twcprod-live.twc-tv.com/v1/manifest/b4d4d63a49309cc5140171fb2e92485c31be1e9e/DSP_6228e4760505741a116f1ba2_twcprod-live/6bf09ce5-366b-463c-b67e-c4b799f73c3f/4.m3u8"
+   "https://twcprod-live.twc-tv.com/v1/manifest/b4d4d63a49309cc5140171fb2e92485c31be1e9e/DSP_6228e4760505741a116f1ba2_twcprod-live/6bf09ce5-366b-463c-b67e-c4b799f73c3f/4.m3u8",
+   "https://a-cdn.klowdtv.com/live2/theweatherchannel_720p/playlist.m3u8"
   ],
   "online": true
  },
@@ -122194,6 +122201,19 @@
   "online": true
  },
  {
+  "name": "Tipik",
+  "logo": "",
+  "country": "BE",
+  "country_name": "Belgium",
+  "category": "",
+  "group": "Uncategorized",
+  "guide": "webtv.delta.nl",
+  "urls": [
+   "http://41.205.93.154/TIPIK/index.m3u8"
+  ],
+  "online": true
+ },
+ {
   "name": "Tirol TV",
   "logo": "",
   "country": "AT",
@@ -122681,7 +122701,7 @@
   "urls": [
    "http://158.172.155.130:8000/play/a0dp/index.m3u8"
   ],
-  "online": true
+  "online": false
  },
  {
   "name": "TNA Wrestling Channel",
@@ -123757,7 +123777,7 @@
   "urls": [
    "https://jmp2.uk/plu-65c69bf23ef47d0008583967.m3u8"
   ],
-  "online": true
+  "online": false
  },
  {
   "name": "Tour Spot TV",
@@ -124206,7 +124226,7 @@
    "http://streamingcws20.com:1935/tmtv/videotmtv/playlist.m3u8",
    "https://5ca3e84a76d30.streamlock.net/tmtv/videotmtv/playlist.m3u8"
   ],
-  "online": false
+  "online": true
  },
  {
   "name": "Travel Box Brazil",
@@ -124526,7 +124546,7 @@
   "urls": [
    "https://59825a54e4454.streamlock.net:8443/william652/william652/playlist.m3u8"
   ],
-  "online": false
+  "online": true
  },
  {
   "name": "Trivision 36",
@@ -124736,7 +124756,7 @@
   "urls": [
    "https://vcp12.myplaytv.com/trt/trt/playlist.m3u8"
   ],
-  "online": false
+  "online": true
  },
  {
   "name": "TRT Arabi",
@@ -124990,7 +125010,7 @@
   "urls": [
    "https://jmp2.uk/plu-5f914f4b36d67d0007a91a04.m3u8"
   ],
-  "online": true
+  "online": false
  },
  {
   "name": "True crime fran Viaplay",
@@ -125248,6 +125268,19 @@
    "http://162.19.247.76:22222/live/taishi/index.m3u8"
   ],
   "online": false
+ },
+ {
+  "name": "TTV News",
+  "logo": "",
+  "country": "TW",
+  "country_name": "Taiwan",
+  "category": "News",
+  "group": "News",
+  "guide": "",
+  "urls": [
+   "https://live.wcetv.com/hls/master-ttvnews.m3u8"
+  ],
+  "online": true
  },
  {
   "name": "TUDN",
@@ -127352,7 +127385,7 @@
   "urls": [
    "https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8"
   ],
-  "online": true
+  "online": false
  },
  {
   "name": "TV Brezova",
@@ -127616,7 +127649,7 @@
   "urls": [
    "https://live20.bozztv.com/akamaissh101/ssh101/tvcaelsalvador/playlist.m3u8"
   ],
-  "online": true
+  "online": false
  },
  {
   "name": "TV Camara 2",
@@ -128194,7 +128227,7 @@
   "urls": [
    "https://live20.bozztv.com/akamaissh101/ssh101/tvcotui/playlist.m3u8"
   ],
-  "online": false
+  "online": true
  },
  {
   "name": "TV CRET",
@@ -128970,7 +129003,7 @@
   "urls": [
    "http://tvgrandenatalhd.duckdns.org:8080/hls/live.m3u8"
   ],
-  "online": true
+  "online": false
  },
  {
   "name": "TV Grao Para",
@@ -129339,7 +129372,7 @@
   "urls": [
    "https://lbgo.bozztv.com/ssh101/ssh101/kalientecusco/playlist.m3u8"
   ],
-  "online": true
+  "online": false
  },
  {
   "name": "TV Kanal M",
@@ -129574,7 +129607,7 @@
   "urls": [
    "http://95.105.255.137:1935/tvturiec/tvliptov.stream/playlist.m3u8"
   ],
-  "online": true
+  "online": false
  },
  {
   "name": "TV Litoral RN",
@@ -131227,7 +131260,7 @@
   "urls": [
    "https://ss2.tvrdomi.com:1936/tvplata/tvplata/playlist.m3u8"
   ],
-  "online": false
+  "online": true
  },
  {
   "name": "TVP Los Mochis",
@@ -132595,7 +132628,7 @@
   "urls": [
    "https://rpn.bozztv.com/gusa/gusa-tvsmainst/index.m3u8"
   ],
-  "online": true
+  "online": false
  },
  {
   "name": "TVS Music Network",
@@ -132855,7 +132888,7 @@
   "urls": [
    "https://rpn.bozztv.com/gusa/gusa-tvstn/index.m3u8"
   ],
-  "online": true
+  "online": false
  },
  {
   "name": "TV Storbyen",
@@ -133258,7 +133291,7 @@
   "urls": [
    "https://app.tvufop.com.br/hls/tvufop.m3u8"
   ],
-  "online": true
+  "online": false
  },
  {
   "name": "TV UG",
@@ -137380,7 +137413,7 @@
    "http://125hvt.ddns.net:21585/thvl1/playlist.m3u8",
    "https://dethich.pw/thvl1/index.m3u8"
   ],
-  "online": false
+  "online": true
  },
  {
   "name": "Vinh Long TV 2",
@@ -137394,7 +137427,7 @@
    "https://1011154949.vnns.net/CDN-FPT02/THVL2-HD-1080p/playlist.m3u8",
    "https://dethich.pw/thvl2/index.m3u8"
   ],
-  "online": false
+  "online": true
  },
  {
   "name": "Vinh Long TV 3",
@@ -137407,7 +137440,7 @@
   "urls": [
    "https://dethich.pw/thvl3/index.m3u8"
   ],
-  "online": false
+  "online": true
  },
  {
   "name": "Vinh Long TV 4",
@@ -137420,7 +137453,7 @@
   "urls": [
    "https://dethich.pw/thvl4/index.m3u8"
   ],
-  "online": false
+  "online": true
  },
  {
   "name": "Vintage Music",
@@ -137433,7 +137466,7 @@
   "urls": [
    "https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8"
   ],
-  "online": false
+  "online": true
  },
  {
   "name": "VIO TV",
@@ -137564,7 +137597,7 @@
   "urls": [
    "https://cdn-cloudfront.us-east-1.prod.ingest.aws-infra.dacast.com/live/c1804a4c-ccbf-46e5-87c3-0f8d4a94d9e3/master.m3u8"
   ],
-  "online": false
+  "online": true
  },
  {
   "name": "Vision NDV",
@@ -137829,7 +137862,7 @@
   "urls": [
    "https://live20.bozztv.com/akamaissh101/ssh101/vivarussia/playlist.m3u8"
   ],
-  "online": false
+  "online": true
  },
  {
   "name": "Viva TV",
@@ -138278,7 +138311,7 @@
   "urls": [
    "https://cloud37.ecuatel.com/vostv/live/manifest.m3u8"
   ],
-  "online": true
+  "online": false
  },
  {
   "name": "VOTV",
@@ -138570,7 +138603,7 @@
    "https://dethich.pw/vtv1/index.m3u8",
    "https://livesct.vtvprime.vn/Live_DASHDRM1/VTV1_HD/manifest.mpd"
   ],
-  "online": false
+  "online": true
  },
  {
   "name": "VTV2",
@@ -138599,7 +138632,7 @@
    "https://vips-livecdn.fptplay.net/live/media/vtv3/live247-hls-avc/index.m3u8",
    "https://dethich.pw/vtv3/index.m3u8"
   ],
-  "online": false
+  "online": true
  },
  {
   "name": "VTV4",
@@ -138613,7 +138646,7 @@
    "https://vips-livecdn.fptplay.net/live/media/vtv4/live247-hls-avc/index.m3u8",
    "https://dethich.pw/vtv4/index.m3u8"
   ],
-  "online": false
+  "online": true
  },
  {
   "name": "VTV5",
@@ -138627,7 +138660,7 @@
    "https://vips-livecdn.fptplay.net/live/media/vtv5/live247-hls-avc/index.m3u8",
    "https://dethich.pw/vtv5/index.m3u8"
   ],
-  "online": false
+  "online": true
  },
  {
   "name": "VTV5 Tay Nam Bo",
@@ -138640,7 +138673,7 @@
   "urls": [
    "https://dethich.pw/vtv5tnb/index.m3u8"
   ],
-  "online": false
+  "online": true
  },
  {
   "name": "VTV5 Tay Nguyen",
@@ -138653,7 +138686,7 @@
   "urls": [
    "http://dethich.pw/vtv5tn/index.m3u8"
   ],
-  "online": false
+  "online": true
  },
  {
   "name": "VTV6",
@@ -138667,7 +138700,7 @@
    "https://vips-livecdn.fptplay.net/live/media/vtv6/live247-hls-avc/index.m3u8",
    "https://dethich.pw/vtv6/index.m3u8"
   ],
-  "online": false
+  "online": true
  },
  {
   "name": "VTV7",
@@ -138681,7 +138714,7 @@
    "https://vips-livecdn.fptplay.net/live/media/vtv7/live247-hls-avc/index.m3u8",
    "https://dethich.pw/vtv7/index.m3u8"
   ],
-  "online": false
+  "online": true
  },
  {
   "name": "VTV8",
@@ -138694,7 +138727,7 @@
   "urls": [
    "https://dethich.pw/vtv8/index.m3u8"
   ],
-  "online": false
+  "online": true
  },
  {
   "name": "VTV9",
@@ -138708,7 +138741,7 @@
    "https://vips-livecdn.fptplay.net/live/media/vtv9/live247-hls-avc/index.m3u8",
    "https://dethich.pw/vtv9/index.m3u8"
   ],
-  "online": false
+  "online": true
  },
  {
   "name": "VTV10",
@@ -138722,7 +138755,7 @@
    "https://vips-livecdn.fptplay.net/live/media/vtv10/live247-hls-avc/index.m3u8",
    "https://dethich.pw/vtv10/index.m3u8"
   ],
-  "online": false
+  "online": true
  },
  {
   "name": "VTV",
@@ -139928,7 +139961,7 @@
   "urls": [
    "https://jmp2.uk/plu-60817936fd2d70000763d2b2.m3u8"
   ],
-  "online": true
+  "online": false
  },
  {
   "name": "WildEarth",
