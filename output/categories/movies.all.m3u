@@ -54,8 +54,6 @@ http://212.70.131.37:8000/play/a05k
 #EXTINF:-1 tvg-id="AMCEurope.uk" group-title="Movies",AMC Europe
 http://213.91.179.28:8000/play/a0by
 #EXTINF:-1 tvg-id="AMCEurope.uk" group-title="Movies",AMC Europe
-http://hls127.freeott.top:8080/BG_AMC/video.m3u8
-#EXTINF:-1 tvg-id="AMCEurope.uk" group-title="Movies",AMC Europe
 http://88.212.7.14/live/test_amc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="AMCEurope.uk" group-title="Movies",AMC Europe
 http://88.212.7.14/live/amc_hun/index.m3u8
@@ -110,11 +108,11 @@ http://188.115.15.121:8000/play/a02z
 #EXTINF:-1 tvg-id="AXNAdria.us" group-title="Movies",AXN Adria
 http://5.57.74.130:8000/play/a0at/index.m3u8
 #EXTINF:-1 tvg-id="AXNAsia.sg" group-title="Movies, Series",AXN Asia
+http://202.150.165.66:8088/play/301-AXN/index.m3u8
+#EXTINF:-1 tvg-id="AXNAsia.sg" group-title="Movies, Series",AXN Asia
 http://125.227.210.55:4050/VideoInput/play.ts
 #EXTINF:-1 tvg-id="AXNBlack.us" group-title="Movies",AXN Black
 http://85.14.32.26:8800/udp/239.100.10.17:5000
-#EXTINF:-1 tvg-id="AXNBlack.us" group-title="Movies",AXN Black
-http://hls127.freeott.top:8080/BG_AXN_Black/video.m3u8
 #EXTINF:-1 tvg-id="AXNBlack.us" group-title="Movies",AXN Black
 http://88.212.15.50/live/test_black/playlist.m3u8
 #EXTINF:-1 tvg-id="AXNBlack.us" group-title="Movies",AXN Black
@@ -531,6 +529,8 @@ http://stream.mcquack.net/322/index.m3u8
 https://cc-8hy4a26pz2uos.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8hy4a26pz2uos/playlist.m3u8
 #EXTINF:-1 tvg-id="EpicBhojpuri.in" group-title="Movies",Epic Bhojpuri
 https://mumt01.tangotv.in/O5aw8Zn3EPICBHOJPURI/index.m3u8
+#EXTINF:-1 tvg-id="EpicBhojpuri.in" group-title="Movies",Epic Bhojpuri
+https://fta.ektv.in/live/467/master.m3u8
 #EXTINF:-1 tvg-id="ETVCinema.in" group-title="Movies",ETV Cinema
 https://d27zlkxhgwrfgo.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264_cloud_in/index.m3u8
 #EXTINF:-1 tvg-id="ETVCinema.in" group-title="Movies",ETV Cinema
@@ -721,6 +721,8 @@ https://fta.ektv.in/live/53/53_0.m3u8
 https://cdn.pishow.tv/ott/live/1459/master.m3u8
 #EXTINF:-1 tvg-id="GoldminesAction.in" group-title="Movies",Goldmines Action
 https://mumt03.tangotv.in/Dsly5z3HGOLDMINESACTION/index.m3u8
+#EXTINF:-1 tvg-id="GoldminesAction.in" group-title="Movies",Goldmines Action
+https://fta.ektv.in/live/584/master.m3u8
 #EXTINF:-1 tvg-id="GoldminesBollywood.in" group-title="Movies",Goldmines Bollywood
 https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/index.m3u8
 #EXTINF:-1 tvg-id="GoldminesBollywood.in" group-title="Movies",Goldmines Bollywood
@@ -1193,8 +1195,6 @@ https://a-cdn.klowdtv.com/live2/nost_720p/playlist.m3u8
 https://hls02ns.antenaplay.ro/hls/nostalgia-hd/index.m3u8
 #EXTINF:-1 tvg-id="ONMovies.vn" group-title="Movies",ON Movies
 https://freem3u.xyz/api/live/play.m3u8?vid=181
-#EXTINF:-1 tvg-id="OrbitaChileTV.cl" group-title="Movies, Music",Orbita Chile TV
-https://orbitachiletv.org/hls/0/stream.m3u8
 #EXTINF:-1 tvg-id="OscarMoviesBhojpuri.in" group-title="Movies",Oscar Movies Bhojpuri
 https://mumt05.tangotv.in/87NeALx2OSCARMOVIESBHOJPURI/index.m3u8
 #EXTINF:-1 tvg-id="OscarMoviesBhojpuri.in" group-title="Movies",Oscar Movies Bhojpuri
@@ -1623,8 +1623,6 @@ https://0145451975a64b35866170fd2e8fa486.mediatailor.eu-west-1.amazonaws.com/v1/
 https://jmp2.uk/plu-65660223635c3c00086c2578.m3u8
 #EXTINF:-1 tvg-id="Rawhide.us" group-title="Movies, Series",Rawhide
 https://jmp2.uk/plu-634f307c7a068e00072c9982.m3u8
-#EXTINF:-1 tvg-id="RetroPlus3.cl" group-title="Movies",Retro Plus 3
-http://181.119.97.124:8080/play/retroplus_3/index.m3u8
 #EXTINF:-1 tvg-id="RodnoeKino.ru" group-title="Movies",Rodnoe Kino
 http://stream.mcquack.net/242/index.m3u8
 #EXTINF:-1 tvg-id="RodnoeKino.ru" group-title="Movies",Rodnoe Kino
@@ -1917,8 +1915,6 @@ https://jmp2.uk/plu-62beb44e3afd120007915d1b.m3u8
 https://jmp2.uk/plu-62f64ec9eb1045000728cad6.m3u8
 #EXTINF:-1 tvg-id="ViasatKino.ua" group-title="Movies",Viasat Kino
 http://176.61.157.250/TV1000/index.m3u8
-#EXTINF:-1 tvg-id="ViasatKino.ua" group-title="Movies",Viasat Kino
-http://hls127.freeott.top:8080/BG_Viasat_Kino_HD/video.m3u8
 #EXTINF:-1 tvg-id="ViasatKino.ua" group-title="Movies",Viasat Kino
 https://flash1.bogulus1.cfd/tivi10/usergenrxs4f7zc.m3u8
 #EXTINF:-1 tvg-id="ViasatKino.ua" group-title="Movies",Viasat Kino
