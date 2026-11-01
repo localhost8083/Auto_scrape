@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="13C.cl" group-title="Culture",13C
 https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
-#EXTINF:-1 tvg-id="13E.cl" group-title="Entertainment",13E
-https://origin.dpsgo.com/ssai/event/BBp0VeP6QtOOlH8nu3bWTg/master.m3u8
 #EXTINF:-1 tvg-id="13Festival.cl" group-title="Music",13 Festival
 https://origin.dpsgo.com/ssai/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8
 #EXTINF:-1 tvg-id="13Humor.cl" group-title="Comedy",13 Humor
@@ -45,6 +43,8 @@ https://tv.arkeo.cl:1936/kymczwbrge/kymczwbrge/playlist.m3u8
 https://v2.tustreaming.cl/catvlive/index.m3u8
 #EXTINF:-1 tvg-id="CampusTV.cl" group-title="Uncategorized",CampusTV
 https://pantera1-100gb-cl-movistar.dps.live/campustv/campustv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal1Nuble.cl" group-title="General",Canal 1 Nuble
+https://tls-cl.cdnz.cl/canal21tv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal2Quellon.cl" group-title="Uncategorized",Canal 2 Quellon
 https://pantera1-100gb-cl-movistar.dps.live/tvquellon/tvquellon.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal5PuertoMontt.cl" group-title="General",Canal 5 Puerto Montt
@@ -52,13 +52,9 @@ https://5ff3d9babae13.streamlock.net/aufymdjpjf/aufymdjpjf/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal9BioBioTelevision.cl" group-title="Uncategorized",Canal 9 Bio-Bio Television
 https://unlimited6-cl.dps.live/c9/c9.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal13.cl" group-title="General",Canal 13
-http://15.204.246.24:8080/Canal13HD/index.m3u8
-#EXTINF:-1 tvg-id="Canal13.cl" group-title="General",Canal 13
 https://pantera1-100gb-cl-movistar.dps.live/t13radio/t13radio.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal30Loncomilla.cl" group-title="General",Canal 30 Loncomilla
 https://v1.tustreaming.cl/canal30loncomilla/index.m3u8
-#EXTINF:-1 tvg-id="CanalChilote.cl" group-title="Entertainment",Canal Chilote
-https://videostream.chileservidores.com:8081/chiloe2/index.m3u8
 #EXTINF:-1 tvg-id="CanalClaro.cl" group-title="Uncategorized",Canal Claro
 http://190.61.90.17:40000/play/a0fv/index.m3u8
 #EXTINF:-1 tvg-id="CanalClaro.cl" group-title="Uncategorized",Canal Claro
@@ -77,10 +73,6 @@ https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/chunks.m3u8
 https://freya.mivideo.pro/centraltv/video.m3u8
 #EXTINF:-1 tvg-id="ChileChannel.cl" group-title="Travel, Entertainment",Chile Channel
 https://v2.tustreaming.cl/chilechannel/index.m3u8
-#EXTINF:-1 tvg-id="ChileVision.cl" group-title="General",ChileVision
-http://15.204.246.24:8080/CHVHD/index.m3u8
-#EXTINF:-1 tvg-id="ChiloeRed25.cl" group-title="Culture",Chiloe Red 25
-https://v2.tustreaming.cl/chiloered/index.m3u8
 #EXTINF:-1 tvg-id="ChinaChannel.cl" group-title="General",China Channel
 https://v2.tustreaming.cl/chinachannel/index.m3u8
 #EXTINF:-1 tvg-id="ChocolateFM.cl" group-title="Music",Chocolate FM
@@ -117,6 +109,8 @@ https://redirector.dps.live/hls/pinguinotv/playlist.m3u8
 https://video.ipstream.cl:3459/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="EmocionTV.cl" group-title="Entertainment",Emocion TV
 https://v1.tustreaming.cl/emociontv/index.m3u8
+#EXTINF:-1 tvg-id="EnerGeek.cl" group-title="Animation",EnerGeek
+https://cl-2.backend.energeek.cl/bkp/egretroweb/index.m3u8?token=IPTVgh26
 #EXTINF:-1 tvg-id="EnerGeekFAN.cl" group-title="Animation",EnerGeek FAN
 https://cl-2.backend.energeek.cl/bkp/egfan/mobile/index.m3u8?token=IPTVgh26
 #EXTINF:-1 tvg-id="EnerGeekRadio.cl" group-title="Music",EnerGeek Radio
@@ -157,8 +151,8 @@ https://unlimited1-us.dps.live/itv/itv.smil/playlist.m3u8
 https://redirector.dps.live/hls/itv/playlist.m3u8
 #EXTINF:-1 tvg-id="LaChilenaTV.cl" group-title="General",La Chilena TV
 https://vdochile.com:3134/stream/play.m3u8
-#EXTINF:-1 tvg-id="LaComarcaTV.cl" group-title="General",La Comarca TV
-https://v2.tustreaming.cl/lcomarcatv/index.m3u8
+#EXTINF:-1 tvg-id="LaClave.cl" group-title="Music",La Clave
+https://unlimited1-cl-isp.dps.live/laclavetv/laclavetv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="LaMelinkanaTV.cl" group-title="Entertainment",La Melinkana TV
 https://v1.tustreaming.cl/melinkana/index.m3u8
 #EXTINF:-1 tvg-id="LaNuestra.cl" group-title="Entertainment",La Nuestra
@@ -172,8 +166,6 @@ https://5eaccbab48461.streamlock.net:1936/8242/ngrp:8242_all/playlist.m3u8
 #EXTINF:-1 tvg-id="MargaMargaTV.cl" group-title="General",Marga Marga TV
 https://v1.tustreaming.cl/margamargatv/index.m3u8
 #EXTINF:-1 tvg-id="Mega2.cl" group-title="Culture",Mega 2
-http://15.204.246.24:8080/Mega2HD/index.m3u8
-#EXTINF:-1 tvg-id="Mega2.cl" group-title="Culture",Mega 2
 http://15.204.196.147:22880/MEGA2-MEGAMEDIA-EE.UU-PROVEEDOR/index.m3u8
 #EXTINF:-1 tvg-id="Mega.cl" group-title="General",Mega
 http://tr.live.clarovtrcdn.vtrplay.com/megahdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
@@ -183,8 +175,6 @@ https://pantera1-100gb-cl-movistar.dps.live/mega/mega.smil/playlist.m3u8
 http://15.204.196.147:22880/MEGAFICCION-MEGAMEDIA-EE.UU-PROVEEDOR/index.m3u8
 #EXTINF:-1 tvg-id="MeganoticiasAhora.cl" group-title="News",Meganoticias Ahora
 http://15.204.196.147:22880/MEGANOTICIA-MEGAMEDIA-EE.UU-PROVEEDOR/video.m3u8
-#EXTINF:-1 tvg-id="MiRadioTV.cl" group-title="General",Mi Radio TV
-https://scl.edge.grupoz.cl/miradio2/live/playlist.m3u8
 #EXTINF:-1 tvg-id="MTNATV.cl" group-title="Religious",MTNA TV
 https://live.mtna.tv/hls/mtna/mtna.m3u8
 #EXTINF:-1 tvg-id="MundosLacustresTV.cl" group-title="General",Mundos Lacustres TV
@@ -235,8 +225,6 @@ https://vmix.dyndns.biz/Edelweiss/index.m3u8
 https://tv.arkeo.cl:1936/elsembrador/elsembrador/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioFantasiaTV.cl" group-title="General",Radio Fantasia TV
 https://v2.tustreaming.cl/fantasiatv/index.m3u8
-#EXTINF:-1 tvg-id="RadioFrecuenciaUno.cl" group-title="General",Radio Frecuencia Uno
-https://v1.tustreaming.cl/frecuencia1tv/index.m3u8
 #EXTINF:-1 tvg-id="RadioLaSerenaTV.cl" group-title="Music",Radio La Serena TV
 https://5ff3d9babae13.streamlock.net/chrgkqgkyb/chrgkqgkyb/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioNuble.cl" group-title="General",Radio Nuble
@@ -341,8 +329,6 @@ https://v1.tustreaming.cl/tv5linares/index.m3u8
 https://unlimited1-us.dps.live/inet2/inet2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TVN3.cl" group-title="Classic",TVN3
 https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8
-#EXTINF:-1 tvg-id="TVN.cl" group-title="General",TVN
-http://15.204.246.24:8080/TVNHD/index.m3u8
 #EXTINF:-1 tvg-id="TVN.cl" group-title="General",TVN
 http://138.121.15.230:9002/TVN/index.m3u8
 #EXTINF:-1 tvg-id="TVN.cl" group-title="General",TVN
