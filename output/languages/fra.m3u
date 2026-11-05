@@ -51,6 +51,8 @@ http://185.105.4.151:8080/_defapp_/ittihad/index.m3u8
 http://185.9.2.18/chid_391/mono.m3u8
 #EXTINF:-1 tvg-id="AlloCine.cm" group-title="Movies",Allo Cine
 https://d1yl6bf4hrzbr0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5km3zs4zs9sp0/allo.m3u8
+#EXTINF:-1 tvg-id="AlManar.lb" group-title="News",Al-Manar
+https://edge.fastpublish.me/live/index.m3u8
 #EXTINF:-1 tvg-id="AlMayadeenTV.lb" group-title="News",Al Mayadeen TV
 https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AlpedHuezTV.fr" group-title="General",Alpe d'Huez TV
@@ -77,8 +79,6 @@ http://live.azstartv.com/azstar/smil:azstar.smil/playlist.m3u8
 https://live.livestreamtv.ca/azstar/ngrp:azstar/playlist.m3u8
 #EXTINF:-1 tvg-id="BalafonTV.cm" group-title="News",Balafon TV
 https://broadcasting-channels.com:9044/hls/test.m3u8
-#EXTINF:-1 tvg-id="BarakaTelevision.cd" group-title="News",Baraka Television
-https://stream.berosat.live:19360/baraka-hd/baraka-hd.m3u8
 #EXTINF:-1 tvg-id="BenieTV.ci" group-title="Religious",Benie TV
 https://tv.voozmedia.fun/benietv/index.m3u8
 #EXTINF:-1 tvg-id="BFM2.fr" group-title="News",BFM2
@@ -93,8 +93,6 @@ https://live-cdn-stream-euw1.bfmtv.bct.nextradiotv.com/master.m3u8
 https://dlgt0tdl2hpq3.cloudfront.net/rtbf/clr-rtbf/e1ccc6aa/index.m3u8
 #EXTINF:-1 tvg-id="BrionnaisTV.fr" group-title="General",Brionnais TV
 https://stream2.mandarine.media/brionnaistv/brionnaistv/playlist.m3u8
-#EXTINF:-1 tvg-id="BTNTV.rw" group-title="General",BTN TV
-https://tv.btnrwanda.com:3973/live/btnv2live.m3u8
 #EXTINF:-1 tvg-id="BX1.be" group-title="Uncategorized",BX1
 https://59959724487e3.streamlock.net/stream/live/playlist.m3u8
 #EXTINF:-1 tvg-id="BX1.be" group-title="Uncategorized",BX1
@@ -354,8 +352,6 @@ https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_500.m3u8
 #EXTINF:-1 tvg-id="France24.fr" group-title="News",France 24
 https://mumbai-edge.smartplaytv.in/france24/index.m3u8
 #EXTINF:-1 tvg-id="France24.fr" group-title="News",France 24
-https://freem3u.xyz/api/live/play.m3u8?vid=96
-#EXTINF:-1 tvg-id="France24.fr" group-title="News",France 24
 https://amg00106-amg00106c1-samsung-nz-4151.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="France24.fr" group-title="News",France 24
 https://dash3.antik.sk/live/test_france24_eng/playlist.m3u8
@@ -379,8 +375,6 @@ https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_900.m3u8
 https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_500.m3u8
 #EXTINF:-1 tvg-id="France24.fr" group-title="News",France 24
 https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_500.m3u8
-#EXTINF:-1 tvg-id="France24.fr" group-title="News",France 24
-https://freem3u.xyz/api/live/play.m3u8?vid=10007
 #EXTINF:-1 tvg-id="France24.fr" group-title="News",France 24
 https://dash4.antik.sk/live/test_france24_france/playlist.m3u8
 #EXTINF:-1 tvg-id="France24.fr" group-title="News",France 24
@@ -761,6 +755,8 @@ https://live.vrtcdn.be/groupa/live/66a9668e-b37b-4de2-878e-0218563b2dd2/live.ism
 https://vstream-cdn.ch/hls/radio3i.m3u8
 #EXTINF:-1 tvg-id="RADIODISCOuntTV.ch" group-title="Music",RADIO DISCOunt TV
 https://585b674743bbb.streamlock.net/9030/9030/playlist.m3u8
+#EXTINF:-1 tvg-id="RadioTele4VEH.ht" group-title="Religious",Radio Tele 4VEH
+https://uni01rtmp.tulix.tv/4vehtv/4vehtv-firetv/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioTeleEvangileSansLimite.ca" group-title="Religious",Radio Tele Evangile Sans Limite
 https://5790d294af2dc.streamlock.net/8124/8124/chunklist.m3u8
 #EXTINF:-1 tvg-id="RadioTeleFullGospel.ht" group-title="Religious",Radio Tele Full Gospel
@@ -769,6 +765,8 @@ https://f-tx-edge-87.christianworldmedia.com/EJCFG/mp4:EJCFG/playlist.m3u8
 http://teleginen.srfms.com:1935/teleginen/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioTeleHit.ht" group-title="Music",Radio Tele Hit
 https://59d39900ebfb8.streamlock.net/RadioTelehit/RadioTelehit/playlist.m3u8
+#EXTINF:-1 tvg-id="RadioTelePlanetCompas.ht" group-title="General",Radio Tele Planet Compas
+https://5dcab9aed5331.streamlock.net/mrcompas1/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioTVBasseTerre.gp" group-title="General",Radio TV Basse-Terre
 https://vdo.ssl-stream.com:3412/stream/play.m3u8
 #EXTINF:-1 tvg-id="RedTVLebanon.lb" group-title="News",Red TV Lebanon
@@ -801,6 +799,8 @@ https://live-edge.rtl.lu/channel1/smil:channel1/playlist.m3u8
 https://rtlradio-streaming.rtl.lu/rtlradiowebtv/smil:rtlradiowebtv/playlist.m3u8
 #EXTINF:-1 tvg-id="RTLZwee.lu" group-title="General",RTL Zwee
 https://live-edge.rtl.lu/channel2/smil:channel2/playlist.m3u8
+#EXTINF:-1 tvg-id="RTNBTV.bi" group-title="General",RTNB TV
+https://tv1-stream.rtnb.bi/hls/master.m3u8
 #EXTINF:-1 tvg-id="RTVC.ci" group-title="Religious",RTVC
 https://cdn140m.panaccess.com/HLS/RTVC/index.m3u8
 #EXTINF:-1 tvg-id="RTVPendimi.ch" group-title="Religious",RTV Pendimi
@@ -819,8 +819,6 @@ https://hls.savoir.media/live/stream.m3u8
 https://rakutenaa-zylo-screamin-rakuten-p11ej.amagi.tv/playlist/rakutenAA-zylo-screamin-rakuten/playlist.m3u8
 #EXTINF:-1 tvg-id="SenewebTV.sn" group-title="General",Seneweb TV
 https://vdo2.pro-fhi.net:3297/stream/play.m3u8
-#EXTINF:-1 tvg-id="SenJeunesTV.sn" group-title="General",SenJeunes TV
-https://stream.sen-gt.com/senjeunestv/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="SensesTV.lb" group-title="Uncategorized",Senses TV
 http://31.14.41.69:8080/hls/sensesonline/index.m3u8
 #EXTINF:-1 tvg-id="SerieMax.ci" group-title="Series",Serie Max
@@ -983,10 +981,34 @@ https://stream.rtl.lu/data/live/tele/rtltodayradio/playlist.m3u8
 http://cdn3.toronto360.tv:8081/toronto360/hd/playlist.m3u8
 #EXTINF:-1 tvg-id="TotalCrime.ca" group-title="Documentary",Total Crime
 https://aegis-cloudfront-1.tubi.video/b062c287-a170-47df-99e4-f5dcd441ee59/playlist.m3u8
+#EXTINF:-1 tvg-id="TraceAfrica.fr" group-title="Music",Trace Africa
+https://channels.trace.plus/Traceprod/AFRICA_FR_hd/index.m3u8
+#EXTINF:-1 tvg-id="TraceAfrikora.fr" group-title="Music",Trace Afrikora
+https://channels.trace.plus/Traceprod/TERANGA_hd/index.m3u8
+#EXTINF:-1 tvg-id="TraceAyiti.fr" group-title="Music",Trace Ayiti
+https://channels.trace.plus/Traceprod/AYITI_hd/index.m3u8
 #EXTINF:-1 tvg-id="TraceBrazuca.fr" group-title="Music",Trace Brazuca
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-samsungbr/playlist.m3u8
 #EXTINF:-1 tvg-id="TraceBrazuca.fr" group-title="Music",Trace Brazuca
+https://channels.trace.plus/Traceprod/BRAZIL_hd/index.m3u8
+#EXTINF:-1 tvg-id="TraceBrazuca.fr" group-title="Music",Trace Brazuca
 https://amg01131-tracetv-amg01131c4-stirr-us-4390.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TraceCaribbean.fr" group-title="Music",Trace Caribbean
+https://channels.trace.plus/Traceprod/CARIBBEAN_hd/index.m3u8
+#EXTINF:-1 tvg-id="TraceGospel.fr" group-title="Music, Religious",Trace Gospel
+https://channels.trace.plus/Traceprod/GOSPEL_ROA_hd/index.m3u8
+#EXTINF:-1 tvg-id="TraceGospel.fr" group-title="Music, Religious",Trace Gospel
+https://channels.trace.plus/Traceprod/GOSPEL_FR_hd/index.m3u8
+#EXTINF:-1 tvg-id="TraceGospel.fr" group-title="Music, Religious",Trace Gospel
+https://channels.trace.plus/Traceprod/GOSPEL_SA_hd/index.m3u8
+#EXTINF:-1 tvg-id="TraceIvoire.fr" group-title="Music",Trace Ivoire
+https://channels.trace.plus/Traceprod/TRACE_IVOIRE_hd/index.m3u8
+#EXTINF:-1 tvg-id="TraceJama.fr" group-title="Music",Trace Jama
+https://channels.trace.plus/Traceprod/JAMA_hd/index.m3u8
+#EXTINF:-1 tvg-id="TraceKitoko.fr" group-title="Music",Trace Kitoko
+https://channels.trace.plus/Traceprod/KITOKO_hd/index.m3u8
+#EXTINF:-1 tvg-id="TraceLatina.fr" group-title="Music",Trace Latina
+https://channels.trace.plus/Traceprod/LATINA_hd/index.m3u8
 #EXTINF:-1 tvg-id="TraceLatina.fr" group-title="Music",Trace Latina
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracelatinait-samsungit/playlist.m3u8
 #EXTINF:-1 tvg-id="TraceLatina.fr" group-title="Music",Trace Latina
@@ -995,12 +1017,24 @@ https://amg01131-tracetv-tracelatina-glewed-vtnk7.amagi.tv/playlist.m3u8
 https://amg01131-tracetv-tracelatina-klowdtv-v10em.amagi.tv/playlist/amg01131-tracetv-tracelatina-klowdtv/playlist.m3u8
 #EXTINF:-1 tvg-id="TraceLatina.fr" group-title="Music",Trace Latina
 https://amg01131-tracetv-amg01131c3-stirr-us-4391.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TraceMboa.fr" group-title="Music",Trace Mboa
+https://channels.trace.plus/Traceprod/MBOA_hd/index.m3u8
+#EXTINF:-1 tvg-id="TraceMuzika.fr" group-title="Music",Trace Muzika
+https://channels.trace.plus/Traceprod/MUZIKA_hd/index.m3u8
+#EXTINF:-1 tvg-id="TraceMziki.fr" group-title="Music",Trace Mziki
+https://channels.trace.plus/Traceprod/MZIKI_hd/index.m3u8
+#EXTINF:-1 tvg-id="TraceNaija.fr" group-title="Music",Trace Naija
+https://channels.trace.plus/Traceprod/NAIJA_hd/index.m3u8
+#EXTINF:-1 tvg-id="TraceNgoma.fr" group-title="Music",Trace Ngoma
+https://channels.trace.plus/Traceprod/AFRICA_EN_hd/index.m3u8
 #EXTINF:-1 tvg-id="TraceSportStars.fr" group-title="Sports",Trace Sport Stars
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TraceSportStars.fr" group-title="Sports",Trace Sport Stars
 http://tracesportstars-samsunges.amagi.tv/hls/amagi_hls_data_samsunguk-tracesport-samsungspain/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="TraceSportStars.fr" group-title="Sports",Trace Sport Stars
 https://mumbai-edge.smartplaytv.in/TraceSport/index.m3u8
+#EXTINF:-1 tvg-id="TraceSportStars.fr" group-title="Sports",Trace Sport Stars
+https://channels.trace.plus/Traceprod/TRACE_SPORT_STARS_hd/index.m3u8
 #EXTINF:-1 tvg-id="TraceSportStars.fr" group-title="Sports",Trace Sport Stars
 https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TraceSportStars.fr" group-title="Sports",Trace Sport Stars
@@ -1009,6 +1043,18 @@ https://tracesportstars-klowdtv.amagi.tv/playlist.m3u8
 https://amg01131-tracetv-amg01131c2-stirr-us-4392.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TraceSportStars.fr" group-title="Sports",Trace Sport Stars
 https://stream8.cinerama.uz/1274/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="TraceSportStars.fr" group-title="Sports",Trace Sport Stars
+https://channels.trace.plus/Traceprod/TRACE_SPORT_STARS_sd/index.m3u8
+#EXTINF:-1 tvg-id="TraceToca.fr" group-title="Music",Trace Toca
+https://channels.trace.plus/Traceprod/TOCA_hd/index.m3u8
+#EXTINF:-1 tvg-id="TraceUrban.fr" group-title="Music",Trace Urban
+https://channels.trace.plus/Traceprod/URBAN_AFRIC_FR_hd/index.m3u8
+#EXTINF:-1 tvg-id="TraceUrban.fr" group-title="Music",Trace Urban
+https://channels.trace.plus/Traceprod/URBAN_DOM_hd/index.m3u8
+#EXTINF:-1 tvg-id="TraceUrban.fr" group-title="Music",Trace Urban
+https://channels.trace.plus/Traceprod/URBAN_FR_hd/index.m3u8
+#EXTINF:-1 tvg-id="TraceUrban.fr" group-title="Music",Trace Urban
+https://channels.trace.plus/Traceprod/URBAN_INTER_hd/index.m3u8
 #EXTINF:-1 tvg-id="TraceUrban.fr" group-title="Music",Trace Urban
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TraceUrban.fr" group-title="Music",Trace Urban
@@ -1027,6 +1073,10 @@ https://amg01131-tracetv-traceurban-glewed-g705j.amagi.tv/playlist.m3u8
 https://amg01131-tracetv-traceurban-klowdtv-utiqd.amagi.tv/playlist/amg01131-tracetv-traceurban-klowdtv/playlist.m3u8
 #EXTINF:-1 tvg-id="TraceUrban.fr" group-title="Music",Trace Urban
 https://amg01131-tracetv-amg01131c1-stirr-us-4393.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TraceUrban.fr" group-title="Music",Trace Urban
+https://channels.trace.plus/Traceprod/URBAN_SA_hd/index.m3u8
+#EXTINF:-1 tvg-id="TraceVanillaIslands.fr" group-title="Music",Trace Vanilla Islands
+https://channels.trace.plus/Traceprod/VANILLA_hd/index.m3u8
 #EXTINF:-1 tvg-id="TSC.ca" group-title="Shop",TSC
 https://tscamd.akamaized.net/hls/live/503340/TSCLive/master.m3u8
 #EXTINF:-1 tvg-id="TSC.ca" group-title="Shop",TSC
