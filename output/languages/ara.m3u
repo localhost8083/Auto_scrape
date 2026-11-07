@@ -87,6 +87,8 @@ https://svs.itworkscdn.net/alimanlive/imantv.smil/playlist.m3u8
 https://imn-live.esite-lab.com/hls/iraqia-general.m3u8
 #EXTINF:-1 tvg-id="AlIraqiaKurdish.iq" group-title="Uncategorized",Al Iraqia Kurdish
 https://imn-live.esite-lab.com/hls/iraqia-kurdish.m3u8
+#EXTINF:-1 tvg-id="AlIraqiaNews.iq" group-title="News",Al Iraqia News
+https://imn-live.esite-lab.com/hls/iraqia-news.m3u8
 #EXTINF:-1 tvg-id="AlistiqamaTV.om" group-title="Religious",Alistiqama TV
 https://jmc-live.ercdn.net/alistiqama/alistiqama.m3u8
 #EXTINF:-1 tvg-id="AlIttihadTV.lb" group-title="General",Al Ittihad TV
@@ -262,6 +264,8 @@ https://5aafcc5de91f1.streamlock.net/atfal1.com/atfal2/playlist.m3u8
 #EXTINF:-1 tvg-id="AtfalMawahebTV.sa" group-title="Kids",Atfal & Mawaheb TV
 https://5d658d7e9f562.streamlock.net/atfal1.com/atfal2/playlist.m3u8
 #EXTINF:-1 tvg-id="AVAMedia.iq" group-title="Uncategorized",AVA Media
+http://hlspackager.akamaized.net/live/DB/AVA_TV/HLS/AVA_TV-avc1_2500000=10002,mp4a_128000=20000.m3u8
+#EXTINF:-1 tvg-id="AVAMedia.iq" group-title="Uncategorized",AVA Media
 https://ava002.xyz/upload/images/1080.m3u8
 #EXTINF:-1 tvg-id="AvarTV.iq" group-title="Uncategorized",Avar TV
 https://avr.host247.net/live/AvarTv/playlist.m3u8
@@ -317,14 +321,6 @@ https://hls.dabangasudan.org/hls/stream.m3u8
 https://ghaasiflu.online/Dijlah/index.m3u8
 #EXTINF:-1 tvg-id="ElRadio9090FM.eg" group-title="Music",El Radio 9090 FM
 https://9090video.mobtada.com/hls/stream.m3u8
-#EXTINF:-1 tvg-id="ElWatania1.tn" group-title="General",El Watania 1
-https://sw1.tanitweb.net/TunisiaTV/_definst_/watania1/chunklist.m3u8
-#EXTINF:-1 tvg-id="ElWatania1.tn" group-title="General",El Watania 1
-https://sw1.tanitweb.net/TunisiaTV/_definst_/watania1/playlist.m3u8?DVR
-#EXTINF:-1 tvg-id="ElWatania1.tn" group-title="General",El Watania 1
-https://sw1.tanitweb.net/TunisiaTV/_definst_/watania2/chunklist.m3u8
-#EXTINF:-1 tvg-id="ElWatania2.tn" group-title="General",El Watania 2
-https://sw1.tanitweb.net/TunisiaTV/_definst_/watania2/playlist.m3u8?DVR
 #EXTINF:-1 tvg-id="ElyssaTV.tn" group-title="News",Elyssa TV
 https://tv.elyssatv.com/live/master.m3u8
 #EXTINF:-1 tvg-id="ERiTV1.er" group-title="General",ERi-TV 1
@@ -347,8 +343,6 @@ https://mn-nl.mncdn.com/halabtoday/livestream/index.m3u8
 https://stream.panet.com/edge/halaTV/playlist.m3u8
 #EXTINF:-1 tvg-id="Hidabroot.il" group-title="Religious",Hidabroot
 https://cdn.cybercdn.live/HidabrootIL/Live97/playlist.m3u8
-#EXTINF:-1 tvg-id="HolyQuranRadio.sa" group-title="Religious, General",Holy Quran Radio
-https://live.kwikmotion.com/sbrksaquranradiolive/srpksaquranradio/playlist.m3u8
 #EXTINF:-1 tvg-id="HolyQuranRadioNablus.ps" group-title="Religious",Holy Quran Radio Nablus
 http://streaming.zaytonatube.com:8080/holyquran/holyquran/video.m3u8
 #EXTINF:-1 tvg-id="Hop.il" group-title="Kids",Hop!
@@ -481,6 +475,8 @@ http://185.9.2.18/chid_327/index.m3u8
 http://185.9.2.18/chid_521/index.m3u8
 #EXTINF:-1 tvg-id="LibyaAlWataniya.ly" group-title="General",Libya Al Wataniya
 https://cdn-globecast.akamaized.net/live/eds/libya_al_watanya/hls_roku/index.m3u8
+#EXTINF:-1 tvg-id="MaanTV.ps" group-title="News",Ma'an TV
+https://htvmada.mada.ps:4443/maannews/index.m3u8
 #EXTINF:-1 tvg-id="MahdawiounTV.iq" group-title="Religious",MahdawiounTV
 https://live.mahdawioun.tv/stream/mahdawioun/playlist.m3u8
 #EXTINF:-1 tvg-id="MajidAlMohandis.sa" group-title="Music",Majid Al Mohandis
@@ -557,8 +553,6 @@ https://ml-pull-hwc.myco.io/MixTV/hls/index.m3u8
 https://avr.host247.net/live/Mix-kurdy/playlist.m3u8
 #EXTINF:-1 tvg-id="MohammedAbdo.sa" group-title="Music",Mohammed Abdo
 https://d2ow8h651gs7dx.cloudfront.net/out/v1/371fb663da604e659a2fb99bf89d92d4/index.m3u8
-#EXTINF:-1 tvg-id="MosaiqueFM.tn" group-title="Music",Mosaique FM
-https://webcam.mosaiquefm.net/mosatv/_definst_/studio/playlist.m3u8?DVR
 #EXTINF:-1 tvg-id="MoviesAction.sa" group-title="Movies",Movies Action
 https://shd-amg-fast.edgenextcdn.net/tx011/playlist.m3u8
 #EXTINF:-1 tvg-id="MoviesThriller.sa" group-title="Movies",Movies Thriller
