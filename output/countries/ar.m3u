@@ -11,8 +11,6 @@ http://138.59.227.20:8000/play/a05u/index.m3u8
 https://videostream.shockmedia.com.ar/hls/abtvbariloche/abtvbariloche.m3u8
 #EXTINF:-1 tvg-id="AiredeSantaFe.ar" group-title="General",Aire de Santa Fe
 https://mdstrm.com/live-stream-playlist/6931a0eb06778645348008e0.m3u8
-#EXTINF:-1 tvg-id="AllegroHD.ar" group-title="Music",Allegro HD
-http://158.172.155.130:8000/play/a0dn/index.m3u8
 #EXTINF:-1 tvg-id="AlternaTV.ar" group-title="Music, Culture, Entertainment, Documentary, Movies, General",AlternaTV
 https://tv.alterna.ar/stream/hls/live.m3u8
 #EXTINF:-1 tvg-id="AmericaTV.ar" group-title="General",America TV
@@ -51,6 +49,8 @@ https://stream.arcast.com.ar/c3lapampa/ngrp:c3lapampa_all/playlist.m3u8
 https://stream.arcast.com.ar/canal3/canal3/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal3Pinamar.ar" group-title="Uncategorized",Canal 3 Pinamar
 http://intelincloud01.com.ar/hls/cn3/index.m3u8
+#EXTINF:-1 tvg-id="Canal3Tacural.ar" group-title="General",Canal 3 Tacural
+http://vivo.canal3tacural.com.ar:8081/hls/stream.m3u8
 #EXTINF:-1 tvg-id="Canal4Esquel.ar" group-title="Uncategorized",Canal 4 Esquel
 https://stream.arcast.com.ar/canal4esquel/canal4esquel/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal4Jujuy.ar" group-title="Uncategorized",Canal 4 Jujuy
@@ -123,10 +123,10 @@ https://vivo.solumedia.com:19360/cardinal/cardinal.m3u8
 https://stream.arcast.net:4443/canal21/ngrp:canal21_all/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalProvincial.ar" group-title="General",Canal Provincial
 https://streaming.telered.com.ar/provincial/streaming/mystream.m3u8
-#EXTINF:-1 tvg-id="CanalPulpoTV.ar" group-title="Entertainment",Canal Pulpo TV
-https://vs20.live.opencaster.com/canalpulpotv_bdeee6e2/index.m3u8
 #EXTINF:-1 tvg-id="CanalSantaMaria.ar" group-title="Religious",Canal Santa Maria
 https://streaming.telered.com.ar/santa-maria/streaming/mystream.m3u8
+#EXTINF:-1 tvg-id="CanalShowsport.ar" group-title="Sports",Canal Showsport
+https://livestream.lumpentv.com.ar/hls/lumpen.m3u8
 #EXTINF:-1 tvg-id="CanalTDC.ar" group-title="News",Canal TDC
 https://tdcserver.com:19360/tdconlione-2/tdconlione-2.m3u8
 #EXTINF:-1 tvg-id="CanalUniversidad.ar" group-title="Education",Canal Universidad
@@ -149,8 +149,6 @@ https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 https://canaletaplus.com:3922/live/cosmoslive.m3u8
 #EXTINF:-1 tvg-id="CumbiaMix.ar" group-title="Music",Cumbia Mix
 https://cloud.tvomix.com/CUMBIAMIX/index.m3u8
-#EXTINF:-1 tvg-id="DeporTV.ar" group-title="Sports",DeporTV
-http://158.172.155.130:8000/play/a09y/index.m3u8
 #EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar" group-title="Animation, Kids",Disney Channel Latin America
 http://181.78.8.199:8000/play/a0dn/index.m3u8
 #EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar" group-title="Animation, Kids",Disney Channel Latin America
@@ -201,8 +199,6 @@ http://190.108.83.69:8000/play/a01d/index.m3u8
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/23.m3u8
 #EXTINF:-1 tvg-id="Encuentro.ar" group-title="Culture",Encuentro
 http://138.59.227.20:8000/play/a05s/index.m3u8
-#EXTINF:-1 tvg-id="ESPNPremium.ar" group-title="Sports",ESPN Premium
-http://158.172.155.130:8000/play/a0ao/index.m3u8
 #EXTINF:-1 tvg-id="ESPNPremium.ar" group-title="Sports",ESPN Premium
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/116.m3u8
 #EXTINF:-1 tvg-id="EuropaEuropa.ar" group-title="Series",Europa Europa
@@ -275,14 +271,16 @@ https://live2.tensila.com/1-1-1.power-tv/hls/master.m3u8
 https://videostream.shockmedia.com.ar:19360/radio1045/radio1045.m3u8
 #EXTINF:-1 tvg-id="QuanticaTV.ar" group-title="News",Quantica TV
 https://videostream.shockmedia.com.ar:19360/quanticatv/quanticatv.m3u8
-#EXTINF:-1 tvg-id="QuieroMusicaenmiIdioma.ar" group-title="Music",Quiero Musica en mi Idioma
-http://158.172.155.130:8000/play/a00a/index.m3u8
 #EXTINF:-1 tvg-id="Radiocanal.ar" group-title="General",Radiocanal
 http://204.199.3.2/.m3u8
 #EXTINF:-1 tvg-id="RadioConexionWebTV.ar" group-title="Music",Radio Conexion Web TV
 https://tuvideoonline.com.ar:3391/live/radioconexionlive.m3u8
+#EXTINF:-1 tvg-id="RadioRealpolitik.ar" group-title="Music",Radio Realpolitik
+https://vivo.solumedia.com:19360/realpolitik/realpolitik.m3u8
 #EXTINF:-1 tvg-id="RadioTVNeuquen.ar" group-title="Uncategorized",Radio TV Neuquen
 https://media.neuquen.gov.ar/rtn/television/playlist.m3u8
+#EXTINF:-1 tvg-id="RadioUP.ar" group-title="General",Radio UP
+https://iptv.ixfo.com.ar:30443/live/RadioUpTvStreaming/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioYguazuTV.ar" group-title="Entertainment",Radio Yguazu TV
 https://live.enhdtv.com:8081/radioiguazutv/index.m3u8
 #EXTINF:-1 tvg-id="Retroclub.ar" group-title="Music",Retroclub
@@ -323,8 +321,6 @@ https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8
 https://iptv.ixfo.com.ar:30443/live/TelePosadasTv/playlist.m3u8
 #EXTINF:-1 tvg-id="TIVTelevision.ar" group-title="Uncategorized",TIV Television
 https://videohd.live:19360/8008/8008.m3u8
-#EXTINF:-1 tvg-id="TN.ar" group-title="News",TN
-http://158.172.155.130:8000/play/a0dp/index.m3u8
 #EXTINF:-1 tvg-id="TNTSports.ar" group-title="Sports",TNT Sports
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/86.m3u8
 #EXTINF:-1 tvg-id="TVCanal72.ar" group-title="General",TV Canal 72
@@ -339,8 +335,6 @@ https://ca.centaurychile.com:2443/hls/mediospublicos.m3u8
 https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
 #EXTINF:-1 tvg-id="TyCSports.ar" group-title="Sports",TyC Sports
 https://live-04-11-tyc-app-web.vodgc.net/tyc24/index.m3u8
-#EXTINF:-1 tvg-id="TyCSportsUSA.ar" group-title="Sports",TyC Sports USA
-http://45.170.130.224:8000/play/a020/index.m3u8
 #EXTINF:-1 tvg-id="UnifeTV.ar" group-title="Religious",Unife TV
 https://cdn.mycloudstream.io/hls/live/broadcast/xundwjvp/index.m3u8
 #EXTINF:-1 tvg-id="Uniteve.ar" group-title="Uncategorized",Uniteve
