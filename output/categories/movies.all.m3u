@@ -46,8 +46,6 @@ https://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
 #EXTINF:-1 tvg-id="AlternaTV.ar" group-title="Music, Culture, Entertainment, Documentary, Movies, General",AlternaTV
 https://tv.alterna.ar/stream/hls/live.m3u8
 #EXTINF:-1 tvg-id="AMC.us" group-title="Movies",AMC
-http://23.239.31.26:8989/amc/index.m3u8
-#EXTINF:-1 tvg-id="AMC.us" group-title="Movies",AMC
 http://41.205.93.154/AMC/index.m3u8
 #EXTINF:-1 tvg-id="AMCEurope.uk" group-title="Movies",AMC Europe
 http://212.70.131.37:8000/play/a05k
@@ -141,8 +139,6 @@ http://138.121.15.230:9002/AXN/index.m3u8
 https://streaming.onnethn.com/AXN_HD/playlist.m3u8
 #EXTINF:-1 tvg-id="AXNLatinAmerica.us" group-title="Movies",AXN Latin America
 http://45.167.1.138:8000/play/a04s
-#EXTINF:-1 tvg-id="AXNLatinAmerica.us" group-title="Movies",AXN Latin America
-http://190.11.225.124:5000/live/axn_hd/playlist.m3u8
 #EXTINF:-1 tvg-id="AXNLatinAmerica.us" group-title="Movies",AXN Latin America
 http://15.204.246.24:8080/AXNHD/index.m3u8
 #EXTINF:-1 tvg-id="AXNLatinAmerica.us" group-title="Movies",AXN Latin America
@@ -368,8 +364,6 @@ http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
 #EXTINF:-1 tvg-id="CinemaxHits.us" group-title="Movies",Cinemax Hits
 http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
 #EXTINF:-1 tvg-id="CinemaxLatinAmerica.us" group-title="Movies",Cinemax Latin America
-http://38.65.175.84:8000/play/a093/index.m3u8
-#EXTINF:-1 tvg-id="CinemaxLatinAmerica.us" group-title="Movies",Cinemax Latin America
 https://streaming.onnethn.com/CINEMAX/playlist.m3u8
 #EXTINF:-1 tvg-id="CineNanar.fr" group-title="Movies",Cine Nanar
 https://zylo-cinenanar-rakuten.amagi.tv/playlist.m3u8
@@ -387,8 +381,6 @@ http://777905.live.tvstitch.com/playlist.m3u8?master=568&source=aHR0cDovLzE3Ni4x
 https://jmp2.uk/plu-5cf968040ab7d8f181e6a68b.m3u8
 #EXTINF:-1 tvg-id="CinePremium.us" group-title="Movies",Cine Premium
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/cinepremium.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="CinePremium.us" group-title="Movies",Cine Premium
-http://190.61.90.17:40000/play/a02i/index.m3u8
 #EXTINF:-1 tvg-id="CineRetrobyPlutoTV.de" group-title="Movies",Cine Retro by Pluto TV
 https://jmp2.uk/plu-5f8ed168f72fcd0007e56269.m3u8
 #EXTINF:-1 tvg-id="CineRomancebyPlutoTV.de" group-title="Movies",Cine Romance by Pluto TV
@@ -501,10 +493,6 @@ http://138.121.15.230:9002/DEPELICULA/index.m3u8
 https://autopilot.catcast.tv/content/38720/index.m3u8
 #EXTINF:-1 tvg-id="DHE.us" group-title="Movies",DHE
 http://15.204.246.24:8080/DHEHD/index.m3u8
-#EXTINF:-1 tvg-id="DHE.us" group-title="Movies",DHE
-http://38.252.238.18:8000/play/a01f/index.m3u8
-#EXTINF:-1 tvg-id="DHE.us" group-title="Movies",DHE
-http://190.11.225.124:5000/live/dhe_hd/playlist.m3u8
 #EXTINF:-1 tvg-id="DHE.us" group-title="Movies",DHE
 https://cablered.iptvperu.tv:1936/cablered/dhe_new/playlist.m3u8
 #EXTINF:-1 tvg-id="Diema.bg" group-title="Movies",Diema
@@ -1715,6 +1703,18 @@ https://fta.ektv.in/live/49/49_0.m3u8
 https://mumt03.tangotv.in/Dsly5z3HSHUBHCINEMA/index.m3u8
 #EXTINF:-1 tvg-id="SilkWayCinema.kz" group-title="Movies",Silk Way Cinema
 https://stream.qazcdn.net/ex6r514/silkwaycinema/index.m3u8
+#EXTINF:-1 tvg-id="SkyCinemaAction.it" group-title="Movies",Sky Cinema Action
+http://109.169.87.42:8080/stream/26/index.m3u8
+#EXTINF:-1 tvg-id="SkyCinemaCollection.it" group-title="Movies",Sky Cinema Collection
+http://109.169.87.42:8080/stream/18/index.m3u8
+#EXTINF:-1 tvg-id="SkyCinemaDue.it" group-title="Movies",Sky Cinema Due
+http://109.169.87.42:8080/stream/10/index.m3u8
+#EXTINF:-1 tvg-id="SkyCinemaFamily.it" group-title="Movies",Sky Cinema Family
+http://109.169.87.42:8080/stream/22/index.m3u8
+#EXTINF:-1 tvg-id="SkyCinemaSuspense.it" group-title="Movies",Sky Cinema Suspense
+http://109.169.87.42:8080/stream/30/index.m3u8
+#EXTINF:-1 tvg-id="SkyCinemaUno.it" group-title="Movies",Sky Cinema Uno
+http://109.169.87.42:8080/stream/2/index.m3u8
 #EXTINF:-1 tvg-id="SL1.ir" group-title="Movies",SL 1
 https://slonehls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="SL2.ir" group-title="Movies",SL 2
@@ -1732,17 +1732,11 @@ https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-id="SonyMax.in" group-title="Movies",Sony Max
 http://103.135.253.32:8080/Sony-Max-HD/index.m3u8
 #EXTINF:-1 tvg-id="SonyMovies.br" group-title="Movies",Sony Movies
-http://45.162.64.114/SONY_MOVIES/index.m3u8
-#EXTINF:-1 tvg-id="SonyMovies.br" group-title="Movies",Sony Movies
 http://45.177.114.115/SONY_MOVIES/index.m3u8
-#EXTINF:-1 tvg-id="SonyMovies.br" group-title="Movies",Sony Movies
-http://168.197.104.22/SONY_MOVIES/index.m3u8
 #EXTINF:-1 tvg-id="SonyMovies.br" group-title="Movies",Sony Movies
 http://170.83.16.50/SONY_MOVIES/index.m3u8
 #EXTINF:-1 tvg-id="SonyMovies.us" group-title="Movies",Sony Movies
 https://a-cdn.klowdtv.com/live1/smc_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="SonyMoviesLatinAmerica.us" group-title="Movies",Sony Movies Latin America
-http://38.252.238.18:8000/play/a01e/index.m3u8
 #EXTINF:-1 tvg-id="SonyMoviesLatinAmerica.us" group-title="Movies",Sony Movies Latin America
 http://15.204.246.24:8080/SonyMoviesHD/index.m3u8
 #EXTINF:-1 tvg-id="SonyMoviesLatinAmerica.us" group-title="Movies",Sony Movies Latin America
@@ -1923,8 +1917,6 @@ http://45.167.1.138:8000/play/a06m
 http://168.196.127.137:6001/play/a09b/index.m3u8
 #EXTINF:-1 tvg-id="UniversalComedy.us" group-title="Movies, Comedy, Series",Universal Comedy
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/universalcomedy/playlist.m3u8
-#EXTINF:-1 tvg-id="USANetwork.us" group-title="Movies, Series, Sports, Comedy",USA Network
-http://190.197.41.183/USA_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="USANetwork.us" group-title="Movies, Series, Sports, Comedy",USA Network
 http://200.32.231.178/USA_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="VelvetEuropeanMovies.ru" group-title="Movies, Family",Velvet. European Movies
