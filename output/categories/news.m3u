@@ -495,6 +495,8 @@ http://190.93.224.42/ATV-PLUS/index.m3u8
 https://awaazindia.livebox.co.in/AwaazIndaTVhls/Live.m3u8
 #EXTINF:-1 tvg-id="B1.ro" group-title="News",B1
 https://hls02ns.antenaplay.ro/hls/b1-tv-hd/index.m3u8
+#EXTINF:-1 tvg-id="BakuTV.az" group-title="News",Baku.TV
+https://rtmp.baku.tv/hls/bakutv.m3u8
 #EXTINF:-1 tvg-id="BalafonTV.cm" group-title="News",Balafon TV
 https://broadcasting-channels.com:9044/hls/test.m3u8
 #EXTINF:-1 tvg-id="BandNews.br" group-title="News",BandNews
@@ -787,8 +789,6 @@ http://74.91.26.218:82/live/cctv13hd.m3u8
 https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="CCTVPlus2.cn" group-title="News",CCTV+ 2
 https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="CEACOMTV.bo" group-title="News, Lifestyle, Music, General",CEACOM TV
-https://eu1.servers10.com:8081/ceacom/index.m3u8
 #EXTINF:-1 tvg-id="CGTN.cn" group-title="News",CGTN
 https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
 #EXTINF:-1 tvg-id="CGTN.cn" group-title="News",CGTN
@@ -997,6 +997,8 @@ https://mumbai-edge.smartplaytv.in/DDNews/index.m3u8
 https://streams.tangotv.in/DDNEWS/ORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="DeUltimoMinutoTV.do" group-title="News",De Ultimo Minuto TV
 https://soportedvb.click:3620/live/deultimominutomedialive.m3u8
+#EXTINF:-1 tvg-id="DidgahTV.us" group-title="News",Didgah TV
+https://media.streambrothers.com:1936/8276/8276/playlist.m3u8
 #EXTINF:-1 tvg-id="Digi24.ro" group-title="News",Digi 24
 https://edge-ar.rcs-rds.ro/digi24ar/index.m3u8
 #EXTINF:-1 tvg-id="DijlahTV.iq" group-title="News",Dijlah TV
@@ -1048,6 +1050,8 @@ https://fta.ektv.in/live/116/116_0.m3u8
 #EXTINF:-1 tvg-id="DW.de" group-title="News",DW
 https://mumt05.tangotv.in/87NeALx2DWTV/index.m3u8
 #EXTINF:-1 tvg-id="DW.de" group-title="News",DW
+https://tvsen6.aynaott.com/Qq3s5WR2/index.m3u8
+#EXTINF:-1 tvg-id="DW.de" group-title="News",DW
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8
 #EXTINF:-1 tvg-id="DW.de" group-title="News",DW
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=16660
@@ -1065,6 +1069,8 @@ https://cdn4.skygo.mn/live/disk1/Eagle/DASH-FTA/Eagle.mpd
 https://cdn4.skygo.mn/live/disk1/Eagle/HLSv3-FTA/Eagle.m3u8
 #EXTINF:-1 tvg-id="EcotelTV.ec" group-title="News",Ecotel TV
 https://ecoteltv.streamseguro.com:5443/LiveApp/streams/streaming.m3u8
+#EXTINF:-1 tvg-id="EgnatiaTV.gr" group-title="News",Egnatia TV
+https://video.streams.ovh:1936/egnatiatv/egnatiatv/index.m3u8
 #EXTINF:-1 tvg-id="EkamraBharatOdia.in" group-title="News",Ekamra Bharat Odia
 https://live.ekamraott.com/bharat/bharat/index.m3u8
 #EXTINF:-1 tvg-id="Ekoturk.tr" group-title="News",Ekoturk
@@ -1220,13 +1226,7 @@ https://radiovid.foxnews.com/hls/live/661547/RADIOVID/index.m3u8
 #EXTINF:-1 tvg-id="FoxSportsNews.au" group-title="Sports, News",Fox Sports News
 https://skynewsau-live-premium.akamaized.net/hls/live/2105307/foxsportsnews/live_1080p.m3u8
 #EXTINF:-1 tvg-id="France24.fr" group-title="News",France 24
-https://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_5000.m3u8
-#EXTINF:-1 tvg-id="France24.fr" group-title="News",France 24
-https://live.france24.com/hls/live/2037222/F24_AR_HI_HLS/master_5000.m3u8
-#EXTINF:-1 tvg-id="France24.fr" group-title="News",France 24
 https://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_2300.m3u8
-#EXTINF:-1 tvg-id="France24.fr" group-title="News",France 24
-https://live.france24.com/hls/live/2037222/F24_AR_HI_HLS/master_2300.m3u8
 #EXTINF:-1 tvg-id="France24.fr" group-title="News",France 24
 https://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_900.m3u8
 #EXTINF:-1 tvg-id="France24.fr" group-title="News",France 24
@@ -1237,10 +1237,6 @@ https://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_500.m3u8
 https://live.france24.com/hls/live/2037222/F24_AR_HI_HLS/master_500.m3u8
 #EXTINF:-1 tvg-id="France24.fr" group-title="News",France 24
 https://freem3u.xyz/api/live/play.m3u8?vid=96
-#EXTINF:-1 tvg-id="France24.fr" group-title="News",France 24
-https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_5000.m3u8
-#EXTINF:-1 tvg-id="France24.fr" group-title="News",France 24
-https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8
 #EXTINF:-1 tvg-id="France24.fr" group-title="News",France 24
 http://170.83.16.50/FRANCE_24/index.m3u8
 #EXTINF:-1 tvg-id="France24.fr" group-title="News",France 24
@@ -1268,10 +1264,6 @@ https://a-cdn.klowdtv.com/live2/france24_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="France24.fr" group-title="News",France 24
 https://freem3u.xyz/api/live/play.m3u8?vid=10007
 #EXTINF:-1 tvg-id="France24.fr" group-title="News",France 24
-https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_5000.m3u8
-#EXTINF:-1 tvg-id="France24.fr" group-title="News",France 24
-https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_5000.m3u8
-#EXTINF:-1 tvg-id="France24.fr" group-title="News",France 24
 https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_2300.m3u8
 #EXTINF:-1 tvg-id="France24.fr" group-title="News",France 24
 https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_2300.m3u8
@@ -1285,10 +1277,6 @@ https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_500.m3u8
 https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_500.m3u8
 #EXTINF:-1 tvg-id="France24.fr" group-title="News",France 24
 https://dash4.antik.sk/live/test_france24_france/playlist.m3u8
-#EXTINF:-1 tvg-id="France24.fr" group-title="News",France 24
-https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
-#EXTINF:-1 tvg-id="France24.fr" group-title="News",France 24
-https://live.france24.com/hls/live/2037220/F24_ES_HI_HLS/master_5000.m3u8
 #EXTINF:-1 tvg-id="France24.fr" group-title="News",France 24
 https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_2300.m3u8
 #EXTINF:-1 tvg-id="France24.fr" group-title="News",France 24
@@ -1355,6 +1343,8 @@ https://fta.ektv.in/live/89/89_0.m3u8
 https://d2lk5u59tns74c.cloudfront.net/out/v1/75f3183e143240a29fbddd502a6a3f8d/index.m3u8
 #EXTINF:-1 tvg-id="GovoritMoskva.ru" group-title="News",Govorit Moskva
 https://video.govoritmoskva.ru/rufm/index.m3u8
+#EXTINF:-1 tvg-id="GSTV.in" group-title="News",GS TV
+https://cdnplay.peanutsquare.com/560828843292539228453915.m3u8
 #EXTINF:-1 tvg-id="GSTV.in" group-title="News",GS TV
 https://mumt05.tangotv.in/87NeALx2GSTV/index.m3u8
 #EXTINF:-1 tvg-id="GTCNews.in" group-title="News",GTC News
@@ -1715,14 +1705,10 @@ https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea
 https://stream.berosat.live/hls/monde24h-tv-index/monde24h-tv-index.m3u8
 #EXTINF:-1 tvg-id="LencaTV.hn" group-title="News",Lenca TV
 https://lencatelevision.com/hls/stream.m3u8
-#EXTINF:-1 tvg-id="LifeTV.tr" group-title="News",Life TV
-https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/playlist.m3u8
 #EXTINF:-1 tvg-id="LindellTV.us" group-title="News",Lindell TV
 https://stream.vocl.com/hls/lindelltv/index.m3u8
 #EXTINF:-1 tvg-id="LingkarTV.id" group-title="News, Music, Religious",Lingkar TV
 https://lingkartv.my.id/hls/lingkartv.m3u8
-#EXTINF:-1 tvg-id="LinierosTV.do" group-title="News",Linieros TV
-https://soportedvb.click:3017/live/linierostvlive.m3u8
 #EXTINF:-1 tvg-id="LiraTV.it" group-title="News",Lira TV
 https://a928c0678d284da5b383f29ecc5dfeec.msvdn.net/live/S57315730/8kTBWibNteJA/playlist.m3u8
 #EXTINF:-1 tvg-id="LiveNOWfromFOX.us" group-title="News",LiveNOW from FOX
@@ -1909,6 +1895,8 @@ https://cdn.pishow.tv/ott/live/1121/master.m3u8
 https://d1msejlow1t3l4.cloudfront.net/fta/moontv/playlist.m3u8
 #EXTINF:-1 tvg-id="MoonTV.in" group-title="News",Moon TV
 https://samitaorigin.tangotv.in/ONTV/SAMITAORIGIN/index.m3u8
+#EXTINF:-1 tvg-id="MRTVNews.mm" group-title="News",MRTV News
+https://mrtvott.com/cache/MRTV-NEWS-HD/master.m3u8
 #EXTINF:-1 tvg-id="MSNOW.us" group-title="News",MS NOW
 https://tvsen6.aynaott.com/msnbc/index.m3u8
 #EXTINF:-1 tvg-id="MultivisionFederal.ar" group-title="News",Multivision Federal
@@ -2020,6 +2008,8 @@ https://fta.ektv.in/live/102/102_0.m3u8
 #EXTINF:-1 tvg-id="News1India.in" group-title="News",News 1 India
 https://mumt07.tangotv.in/zHjX9OFlNEWS1INDIA/index.m3u8
 #EXTINF:-1 tvg-id="News1India.in" group-title="News",News 1 India
+https://tvsen6.aynaott.com/TaVfw58T/index.m3u8
+#EXTINF:-1 tvg-id="News1India.in" group-title="News",News 1 India
 https://d1msejlow1t3l4.cloudfront.net/fta/news1india/playlist.m3u8
 #EXTINF:-1 tvg-id="News1st.in" group-title="News",News 1st
 https://d1msejlow1t3l4.cloudfront.net/fta/News1st/playlist.m3u8
@@ -2053,18 +2043,16 @@ https://amg01106-amg01106c3-amgplt0747.playout.now3.amagi.tv/amg01106c3/hls.m3u8
 https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12XH_A1/index_new.m3u8?omap=https
 #EXTINF:-1 tvg-id="News12Conneticut.us" group-title="News",News12 Conneticut
 https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12CH_FFLD_MILF_A1/index_new.m3u8?omap=https
-#EXTINF:-1 tvg-id="News12HudsonValley.us" group-title="News",News12 Hudson Valley
-https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12HH_A1/index_new.m3u8?omap=https
-#EXTINF:-1 tvg-id="News12LongIsland.us" group-title="News",News12 Long Island
-https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12LH_WEST_A1/index_new.m3u8?omap=https
 #EXTINF:-1 tvg-id="News12NewJersey.us" group-title="News",News12 New Jersey
 https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12JH_CENT_A1/index_new.m3u8?omap=https
 #EXTINF:-1 tvg-id="News12NewYork.us" group-title="News",News12 New York
 https://jmp2.uk/plu-5fff49cfb5cd4f0007c2b0dc.m3u8
-#EXTINF:-1 tvg-id="News12PlusConnecticut.us" group-title="News",News12+ Connecticut
-https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_CT_A1/index_new.m3u8
+#EXTINF:-1 tvg-id="News12PlusHudsonValley.us" group-title="News",News12+ Hudson Valley
+https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_WC_A1/index_new.m3u8
 #EXTINF:-1 tvg-id="News12PlusLongIsland.us" group-title="News",News12+ Long Island
 https://mdc4.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12LH_WEST_A1/index_new.m3u8
+#EXTINF:-1 tvg-id="News12Westchester.us" group-title="News",News12 Westchester
+https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12WH_A1/index_new.m3u8?omap=https
 #EXTINF:-1 tvg-id="News18AssamNorthEast.in" group-title="News",News18 Assam North-East
 https://n18syndication.akamaized.net/bpk-tv/News18_Assam_North_East_NW18_MOB/output01/master.m3u8
 #EXTINF:-1 tvg-id="News18Bangla.in" group-title="News",News18 Bangla
@@ -2325,6 +2313,8 @@ https://edge.essastream.com/noticias16/playlist.m3u8
 https://jmp2.uk/plu-67d9b0ebc290c9499046e88f.m3u8
 #EXTINF:-1 tvg-id="Noticiero90Minutos.co" group-title="News",Noticiero 90 Minutos
 https://play.cdn.enetres.net/621B146D29C541AFB1507809F038F471021/021/playlist.m3u8
+#EXTINF:-1 tvg-id="NovorossiyaTV.ru" group-title="News",Novorossiya TV
+http://31.131.139.253:9002/novoros/index.m3u8
 #EXTINF:-1 tvg-id="NowMediaTelevision.us" group-title="News, Lifestyle",NowMedia Television
 https://stream-204968.castr.net/64e0c91d08bff3041638aee3/live_a4243540d4b911f0b624bda5e9a32aa9/index.m3u8
 #EXTINF:-1 tvg-id="NowMediaTelevision.us" group-title="News, Lifestyle",NowMedia Television
@@ -2375,8 +2365,6 @@ https://oneamericanews-roku-us.amagi.tv/playlist.m3u8
 https://live77cdn2.antenaplay.ro/live_ObservatorNews/live_ObservatorNews.m3u8
 #EXTINF:-1 tvg-id="ObshchestvennoeNezavisimoeTelevidenie.ua" group-title="News",Obshchestvennoe Nezavisimoe Televidenie
 http://85.238.112.40:8810/hls_sec/239.33.75.33-.m3u8
-#EXTINF:-1 tvg-id="OlayTurkTV.tr" group-title="News",OlayTurk TV
-https://live.artidijitalmedya.com/artidijital_olayturk/olayturk/playlist.m3u8
 #EXTINF:-1 tvg-id="OmanTVMubashir.om" group-title="News",Oman TV Mubashir
 https://partwota.cdn.mgmlcdn.com/omlive/smil:omlive.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="OndaValenciaTV.es" group-title="Music, News",Onda Valencia TV
@@ -2391,6 +2379,8 @@ https://stream.ottlive.co.in/onkarnews/index.m3u8
 https://mumt07.tangotv.in/zHjX9OFlONLYBHARAT/index.m3u8
 #EXTINF:-1 tvg-id="OplotTV.ru" group-title="News",Oplot TV
 http://31.131.141.195:8000/play/a006/index.m3u8
+#EXTINF:-1 tvg-id="OplotTV.ru" group-title="News",Oplot TV
+http://31.131.139.253:9002/oplot_hd/index.m3u8
 #EXTINF:-1 tvg-id="OraNews.al" group-title="News",Ora News
 https://live1.mediadesk.al/oranews.m3u8
 #EXTINF:-1 tvg-id="OstWest24.de" group-title="Culture, News",Ost West 24
@@ -2493,8 +2483,6 @@ https://mumt07.tangotv.in/zHjX9OFlPRIMENEWS/index.m3u8
 https://d1msejlow1t3l4.cloudfront.net/fta/primenews/playlist.m3u8
 #EXTINF:-1 tvg-id="ProbashiTVNews.ca" group-title="News",Probashi TV News
 http://158.69.24.53:8080/probashi_tv/index.m3u8
-#EXTINF:-1 tvg-id="PrudentMedia.in" group-title="News",Prudent Media
-https://prudentmcdn.rixcast.com/prudentm.m3u8
 #EXTINF:-1 tvg-id="PSN.mx" group-title="Entertainment, News",PSN
 https://srspsn.live/live/livestream.m3u8
 #EXTINF:-1 tvg-id="PSNCanal452.mx" group-title="News",PSN Canal 45.2
@@ -2509,8 +2497,6 @@ https://streams.tangotv.in/PTCNEWS/ORIGIN/index.m3u8
 https://cdn.pishow.tv/ott/live/1502/master.m3u8
 #EXTINF:-1 tvg-id="PTV.ua" group-title="News",PTV
 https://cdn15.live-tv.cloud/ua_infinitas_tv/hrpl-abr/playlist.m3u8
-#EXTINF:-1 tvg-id="PublicFirst.in" group-title="News",Public First
-https://samitaorigin.tangotv.in/PUBLICFIRST/SAMITAORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="PublicTV.in" group-title="News",Public TV
 https://fta.ektv.in/live/241/master.m3u8
 #EXTINF:-1 tvg-id="PublicTV.in" group-title="News",Public TV
@@ -2543,12 +2529,12 @@ https://live.kwikmotion.com/qbusinesslive/qbusiness.smil/playlist.m3u8
 https://live-evg5.tv360.bitel.com.pe/bitel/qosqo/playlist.m3u8
 #EXTINF:-1 tvg-id="QosqoTimes.pe" group-title="News",Qosqo Times
 https://stmv2.srvif.com/qtelevision/qtelevision/playlist.m3u8
+#EXTINF:-1 tvg-id="QTV1.cn" group-title="News",QTV-1
+http://video10.qtv.com.cn/drm/qtv1at/manifest.m3u8
 #EXTINF:-1 tvg-id="QuanticaTV.ar" group-title="News",Quantica TV
 https://videostream.shockmedia.com.ar:19360/quanticatv/quanticatv.m3u8
 #EXTINF:-1 tvg-id="RaatdinBangla.in" group-title="News",Raatdin Bangla
 https://server.playontv.in/raatdinbangla/index.m3u8
-#EXTINF:-1 tvg-id="RadioAncon.pa" group-title="News",Radio Ancon
-https://www.streaming507.net:19360/anconvideo/anconvideo.m3u8
 #EXTINF:-1 tvg-id="RadioCapitalTiVu.it" group-title="Music, News",Radio Capital TiVu
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S35394734/Z6U2wGoDYANk/playlist.m3u8
 #EXTINF:-1 tvg-id="RaiNews24.it" group-title="News",Rai News 24
@@ -2705,8 +2691,6 @@ https://rt-india.rttv.com/dvr/rtindia/playlist.m3u8
 https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="RTPNoticias.pt" group-title="News",RTP Noticias
 https://streaming-live.rtp.pt/livetvhlsDVR/rtpndvr.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RTU.ec" group-title="News",RTU
-http://45.224.97.181:9999/RTU/index.m3u8
 #EXTINF:-1 tvg-id="RudawTV.iq" group-title="News",Rudaw TV
 https://hlspackager.akamaized.net/live/DB/RUDAW/HLS/RUDAW.m3u8
 #EXTINF:-1 tvg-id="RudawTV.iq" group-title="News",Rudaw TV
@@ -2773,10 +2757,6 @@ https://amg00732-salemnewsfast-amg00732c2-xumo-us-1316.playouts.now.amagi.tv/snc
 https://fta.ektv.in/live/589/master.m3u8
 #EXTINF:-1 tvg-id="SamacharPlus24x7.in" group-title="News",Samachar Plus 24x7
 https://mumt05.tangotv.in/87NeALx2VERTENTSAMACHARPLUS/index.m3u8
-#EXTINF:-1 tvg-id="SamayKolkata.in" group-title="News",Samay Kolkata
-https://server.livelegitpro.in/samaykolkata/samaykolkata/index.m3u8
-#EXTINF:-1 tvg-id="SamayKolkata.in" group-title="News",Samay Kolkata
-https://mumbai-edge.smartplaytv.in/SamayKolkata/index.m3u8
 #EXTINF:-1 tvg-id="SandeshNews.in" group-title="News",Sandesh News
 https://mumt01.tangotv.in/O5aw8Zn3SANDESHNEWS/index.m3u8
 #EXTINF:-1 tvg-id="SandeshNews.in" group-title="News",Sandesh News
@@ -3001,8 +2981,6 @@ https://cdn.pishow.tv/ott/live/266/master.m3u8
 https://fta.ektv.in/live/416/master.m3u8
 #EXTINF:-1 tvg-id="TRTWorld.tr" group-title="News",TRT World
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="TSi.hn" group-title="News",TSi
-https://mdstrm.com/live-stream-playlist/6287fdc9303e3008289ab711.m3u8
 #EXTINF:-1 tvg-id="TTN24.in" group-title="News",TTN24
 https://stream.joytvindia.com/stream/hls/ttn24/index.m3u8
 #EXTINF:-1 tvg-id="TTVNews.tw" group-title="News",TTV News
@@ -3105,8 +3083,6 @@ https://stream.tv30bharat.com/hls/shree/bhattji.m3u8
 https://server.livelegitpro.in/bnews24/bnews24/video.m3u8
 #EXTINF:-1 tvg-id="TV45.in" group-title="News",TV45
 https://stream.ottlive.co.in/tv45/index.m3u8
-#EXTINF:-1 tvg-id="TVAFolha.br" group-title="News",TV A Folha
-https://video01.logicahost.com.br/tvafolha/tvafolha/playlist.m3u8
 #EXTINF:-1 tvg-id="TVArta.xk" group-title="News",TV Arta
 https://gjirafa-video-live.gjirafa.net/gjvideo-live/mps-vgx-u9p-qv1/index.m3u8
 #EXTINF:-1 tvg-id="TVBrusque.br" group-title="News",TV Brusque
