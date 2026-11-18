@@ -23,6 +23,8 @@ https://stream.sen-gt.com/A2iMusic/myStream/playlist.m3u8
 https://stream.sen-gt.com/A2iReligion/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="AB1.fr" group-title="Entertainment",AB1
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/ab1/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="ACNTV.cm" group-title="News",ACN TV
+https://cdn.acnlive.net/LiveApp/streams/hold_the_line.m3u8
 #EXTINF:-1 tvg-id="Action.fr" group-title="Movies",Action
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/action/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="ACTV.be" group-title="General",ACTV
@@ -113,6 +115,8 @@ http://41.205.93.154/BOOMERANG/index.m3u8
 https://dlgt0tdl2hpq3.cloudfront.net/rtbf/clr-rtbf/e1ccc6aa/index.m3u8
 #EXTINF:-1 tvg-id="BrionnaisTV.fr" group-title="General",Brionnais TV
 https://stream2.mandarine.media/brionnaistv/brionnaistv/playlist.m3u8
+#EXTINF:-1 tvg-id="BTNTV.rw" group-title="General",BTN TV
+https://tv.btnrwanda.com:3973/live/btnv2live.m3u8
 #EXTINF:-1 tvg-id="BX1.be" group-title="Uncategorized",BX1
 https://dlgt0tdl2hpq3.cloudfront.net/rtbf/clr-rtbf/7ec67c8d/index.m3u8
 #EXTINF:-1 tvg-id="BX1.be" group-title="Uncategorized",BX1
@@ -153,8 +157,6 @@ https://d2ny9lo79ujali.cloudfront.net/CBC_News_International.m3u8
 https://amg00788-cbc-amg00788c4-xumo-us-3045.playouts.now.amagi.tv/master.m3u8
 #EXTINF:-1 tvg-id="ChampionTV.ci" group-title="Business",Champion TV
 https://stream.berosat.live/hls/champion-tv/champion-tv.m3u8
-#EXTINF:-1 tvg-id="ChandelTV.tg" group-title="Entertainment",Chandel TV
-https://kali.vdopanel.com:3660/live/vj6jlam1rlive.m3u8
 #EXTINF:-1 tvg-id="CharityTV.lb" group-title="Religious",Charity TV
 https://652930de05533.streamlock.net/live/ngrp:livestream_all/playlist.m3u8
 #EXTINF:-1 tvg-id="CharityTV.lb" group-title="Religious",Charity TV
@@ -207,8 +209,6 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/can
 https://dbmtv.vedge.infomaniak.com/livecast/dbmtv/playlist.m3u8
 #EXTINF:-1 tvg-id="DesheBidesheTV.ca" group-title="General",DesheBideshe TV
 https://dbcanada.sonarbanglatv.com/deshebideshe/dbtv/index.m3u8
-#EXTINF:-1 tvg-id="DeshiTV.ca" group-title="General",Deshi TV
-https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="Diaspora24.sn" group-title="Uncategorized",Diaspora 24
 https://vdo3.pro-fhi.net:3218/stream/play.m3u8
 #EXTINF:-1 tvg-id="DieNeueZeitTV.ch" group-title="Religious",Die Neue Zeit TV
@@ -349,6 +349,8 @@ https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/5449.m3u8
 https://evandis.streamakaci.tv/str_evandis_evandis/str_evandis_multi/playlist.m3u8
 #EXTINF:-1 tvg-id="EVITV.cd" group-title="Entertainment",EVI TV
 https://mistserver.evi-tv.com/hls/evi_tv_live/index.m3u8
+#EXTINF:-1 tvg-id="Evtele.cg" group-title="Culture",Ev-tele
+https://playtv4k.live/live/EVTELE/index.m3u8
 #EXTINF:-1 tvg-id="FashionTVParisLOriginal.fr" group-title="Lifestyle",FashionTV Paris L'Original
 https://edge-fast3.evrideo.tv/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/manifest.m3u8
 #EXTINF:-1 tvg-id="FashionTVSecrets.fr" group-title="Lifestyle",FashionTV Secrets
@@ -587,8 +589,6 @@ https://live.vrtcdn.be/groupb/live/9c429b62-e160-417a-b438-cdf985bcd352/live.ism
 https://d1wal6k3d7ssin.cloudfront.net/out/v1/ea91db0906c847a4931b46a9ec36e77b/index.m3u8
 #EXTINF:-1 tvg-id="KozoomTV.fr" group-title="Sports",Kozoom TV
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/fdd6f243-f971-4a1a-9510-97ac01d6b37f/manifest.m3u8
-#EXTINF:-1 tvg-id="LanaTV.lb" group-title="General",Lana TV
-https://cdn.streamlane.tv/hls/ltv/master.m3u8
 #EXTINF:-1 tvg-id="LaUne.be" group-title="Entertainment",La Une
 http://41.205.93.154/LA-UNE/index.m3u8
 #EXTINF:-1 tvg-id="LauraDaveMediaTV.cm" group-title="General",Laura Dave Media TV
@@ -605,8 +605,6 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/publicsenat/pu
 https://figarotv-live.freecaster.com/live/freecaster/figarotv.m3u8
 #EXTINF:-1 tvg-id="LeFigaroTVIledeFrance.fr" group-title="General",Le Figaro TV Ile-de-France
 https://static.lefigaro.fr/secom/tnt.m3u8
-#EXTINF:-1 tvg-id="LeMondeen24h.cd" group-title="News",Le Monde en 24h
-https://stream.berosat.live/hls/monde24h-tv-index/monde24h-tv-index.m3u8
 #EXTINF:-1 tvg-id="LeNouveauManagerTV.bj" group-title="Business",Le Nouveau Manager TV
 https://lnmlive.com/live/lnmtv.m3u8
 #EXTINF:-1 tvg-id="LEquipe.fr" group-title="Sports",L'Equipe
@@ -747,14 +745,6 @@ https://2-fss-1.streamhoster.com/pl_122/201748-1431018-1/playlist.m3u8
 https://strhlslb01.streamakaci.tv/str_ntv_ntv/str_ntv_ntv_multi/playlist.m3u8
 #EXTINF:-1 tvg-id="NTVPlus.ca" group-title="Uncategorized",NTV+
 https://2-fss-1.streamhoster.com/pl_122/201748-1431018-1/chunklist.m3u8
-#EXTINF:-1 tvg-id="NWEconomie.tg" group-title="Business",NW Economie
-https://hls.newworldtv.com/nw-economie/video/live.m3u8
-#EXTINF:-1 tvg-id="NWInfo2.tg" group-title="News",NW Info 2
-https://hls.newworldtv.com/nw-info-2/video/live.m3u8
-#EXTINF:-1 tvg-id="NWInfo.tg" group-title="News",NW Info
-https://hls.newworldtv.com/nw-info/video/live.m3u8
-#EXTINF:-1 tvg-id="NWMagazine.tg" group-title="Entertainment",NW Magazine
-https://hls.newworldtv.com/nw-magazine/video/live.m3u8
 #EXTINF:-1 tvg-id="OneTV.lb" group-title="Music",One TV
 https://hms.pfs.gdn/v1/broadcast/one/playlist.m3u8
 #EXTINF:-1 tvg-id="OntarioParliamentaryNetwork.ca" group-title="Legislative",Ontario Parliamentary Network
@@ -855,8 +845,6 @@ https://uni01rtmp.tulix.tv/4vehtv/4vehtv-firetv/playlist.m3u8
 https://5790d294af2dc.streamlock.net/8124/8124/chunklist.m3u8
 #EXTINF:-1 tvg-id="RadioTeleFullGospel.ht" group-title="Religious",Radio Tele Full Gospel
 https://f-tx-edge-87.christianworldmedia.com/EJCFG/mp4:EJCFG/playlist.m3u8
-#EXTINF:-1 tvg-id="RadioTeleGinen.ht" group-title="General",Radio Tele Ginen
-http://teleginen.srfms.com:1935/teleginen/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioTeleHit.ht" group-title="Music",Radio Tele Hit
 https://59d39900ebfb8.streamlock.net/RadioTelehit/RadioTelehit/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioTVBasseTerre.gp" group-title="General",Radio TV Basse-Terre
@@ -955,6 +943,8 @@ https://d1tvu4639eiqii.cloudfront.net/playlist.m3u8
 https://7aa9671895264ec9a384dfed1b992171.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-818-FR-SONYONEHITSCOMDIE-LG_FR/playlist.m3u8
 #EXTINF:-1 tvg-id="SonyOneHitsComedie.fr" group-title="Movies",Sony One Hits Comedie
 https://d3nvxupr08boay.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="SpeedlineTV.bj" group-title="General",Speedline TV
+https://cdn-us-east-prod-ingest-infra-dacast-com.akamaized.net/dbe59037-07a0-4f1c-82a2-7de94b4b62d2/index.m3u8
 #EXTINF:-1 tvg-id="SRFinfo.ch" group-title="Uncategorized",SRF info
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/srf_info/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="SterkTV.be" group-title="News",Sterk TV
@@ -1041,6 +1031,8 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/t18/t18-dm.m3u
 https://n-5-2.eu.cdn-redge.media/livehls/oeu/mt/live/t18/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="TAGTV.ca" group-title="Uncategorized",TAG TV
 http://cdn11.live247stream.com/tag/tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TahaTV.lb" group-title="Kids",Taha TV
+https://stream.starmenajo.com/hls/app/live/ts:fhd.m3u8
 #EXTINF:-1 tvg-id="TalTV.ne" group-title="Entertainment",Tal TV
 https://mediaserver1.castpin.com/hls/taltv/index.m3u8
 #EXTINF:-1 tvg-id="TamilVisionTV.ca" group-title="Uncategorized",TamilVision-TV
@@ -1241,6 +1233,8 @@ https://cdn.mycloudstream.io/hls/live/broadcast/nro19k2h/index.m3u8
 https://cdn.mycloudstream.io/hls/live/broadcast/xn44vdc5/index.m3u8
 #EXTINF:-1 tvg-id="TVCBenin.bj" group-title="General",TVC Benin
 https://live.tvcbenin.com/direct/729c37a1d3319ee21991227b1f84c687.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="TVFamille.mq" group-title="Family, Religious",TV Famille
+https://streamer1.streamhost.org/salive/GMItvfh/playlist.m3u8
 #EXTINF:-1 tvg-id="TVLux.be" group-title="Uncategorized",TV Lux
 https://dlgt0tdl2hpq3.cloudfront.net/rtbf/clr-rtbf/764748cd/index.m3u8
 #EXTINF:-1 tvg-id="TVM3.ch" group-title="Uncategorized",TVM 3
