@@ -1,4 +1,16 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="5Gold.il" group-title="Sports",5Gold
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/sport_5_gold/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="5Live.il" group-title="Sports",5Live
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/sport_5_live/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="5Plus.il" group-title="Sports",5Plus
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/sport_5_plus/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="5Sport4K.il" group-title="Sports",5Sport 4K
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/sport_5_4k_avc/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="5Sport.il" group-title="Sports",5Sport
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/sport_5/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="5Stars.il" group-title="Sports",5Stars
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/sport_5_starz/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="30AGolfKingdom.us" group-title="Sports",30A Golf Kingdom
 https://30a-tv.com/feeds/vidaa/golf.m3u8
 #EXTINF:-1 tvg-id="ACCDigitalNetwork.us" group-title="Sports",ACC Digital Network
@@ -132,6 +144,8 @@ https://hls.tvabierta.net/hls/036.m3u8
 #EXTINF:-1 tvg-id="ClaroSports.mx" group-title="Sports",Claro Sports
 http://45.171.64.30:6060/play/a00w/index.m3u8
 #EXTINF:-1 tvg-id="ClaroSports.mx" group-title="Sports",Claro Sports
+http://45.228.234.9:8000/play/a06i/index.m3u8
+#EXTINF:-1 tvg-id="ClaroSports.mx" group-title="Sports",Claro Sports
 https://jmp2.uk/plu-6320d2755e54db000783fd87.m3u8
 #EXTINF:-1 tvg-id="ColimdoTV.do" group-title="Sports",Colimdo TV
 https://cnn.livestreaminggroup.info:3132/live/colimdotvlive.m3u8
@@ -183,8 +197,6 @@ https://vtvgolive-ott3.vtvdigital.vn/live/dongnai2tv/chunklist_2.m3u8
 https://na.linear.zype.com/e0bd0e23-a958-4e43-8164-4f2fef8876a8/fd3614bd-90bf-4530-a277-65ae3a1720c8-zype/live.m3u8
 #EXTINF:-1 tvg-id="DraftKingsNetwork.us" group-title="Sports",DraftKings Network
 https://d2obyvq5go60aw.cloudfront.net/DraftKings_Network.m3u8
-#EXTINF:-1 tvg-id="DSports2.us" group-title="Sports",DSports 2
-http://45.134.141.161:2200/ARG/DTV_SP2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="DynamoKyivTV.ua" group-title="Sports",Dynamo Kyiv TV
 http://stream.mcquack.net/396/index.m3u8
 #EXTINF:-1 tvg-id="ElevenSports1.pl" group-title="Sports",Eleven Sports 1
@@ -216,17 +228,15 @@ http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
 #EXTINF:-1 tvg-id="ESPN.us" group-title="Sports",ESPN
 http://212.5.144.156:8080/espn/index.m3u8
 #EXTINF:-1 tvg-id="ESPNLatinAmerica.us" group-title="Sports",ESPN Latin America
-http://190.61.47.54:8000/play/a004/index.m3u8
-#EXTINF:-1 tvg-id="ESPNLatinAmerica.us" group-title="Sports",ESPN Latin America
 http://181.78.211.244:8005/play/a08q/index.m3u8
+#EXTINF:-1 tvg-id="ESPNLatinAmerica.us" group-title="Sports",ESPN Latin America
+http://190.61.47.54:8000/play/a004/index.m3u8
 #EXTINF:-1 tvg-id="ESPNLatinAmerica.us" group-title="Sports",ESPN Latin America
 http://168.228.44.241:9997/play/a06p/index.m3u8
 #EXTINF:-1 tvg-id="ESPNPremium.ar" group-title="Sports",ESPN Premium
 http://158.172.155.130:8000/play/a0ao/index.m3u8
 #EXTINF:-1 tvg-id="ESPNPremium.ar" group-title="Sports",ESPN Premium
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/116.m3u8
-#EXTINF:-1 tvg-id="ESPNPremium.ar" group-title="Sports",ESPN Premium
-http://45.134.141.161:2200/ARG/ESPN_Premium_Argentina_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ESPNU.us" group-title="Sports",ESPNU
 http://85.237.89.160:9590/usa-s/ESPN-U-HD/index.m3u8
 #EXTINF:-1 tvg-id="Esport3.es" group-title="Public, Sports",Esport3
@@ -246,9 +256,7 @@ https://r.eu.cdn-redge.media/livehls/oeu/mt/live/eurosport_1_it/live.livx/playli
 #EXTINF:-1 tvg-id="Eurosport1.fr" group-title="Sports",Eurosport 1
 https://s7.iptv-24.net/1439/playlist.m3u8
 #EXTINF:-1 tvg-id="Eurosport1.fr" group-title="Sports",Eurosport 1
-http://45.134.141.161:2200/ARG/Eurosport_1_HD/index.m3u8
-#EXTINF:-1 tvg-id="Eurosport1.fr" group-title="Sports",Eurosport 1
-http://85.117.37.43/eurosport1/index.m3u8
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/eurosport_1_en/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="Eurosport2.fr" group-title="Sports",Eurosport 2
 http://88.212.7.14/live/test_esp2_hevc_tizen/playlist.m3u8
 #EXTINF:-1 tvg-id="Eurosport2.fr" group-title="Sports",Eurosport 2
@@ -262,15 +270,11 @@ https://r.eu.cdn-redge.media/livehls/oeu/mt/live/eurosport_2_it/live.livx/playli
 #EXTINF:-1 tvg-id="Eurosport2.fr" group-title="Sports",Eurosport 2
 https://s7.iptv-24.net/1452/playlist.m3u8
 #EXTINF:-1 tvg-id="Eurosport2.fr" group-title="Sports",Eurosport 2
-http://45.134.141.161:2200/ARG/Eurosport_2_HD/index.m3u8
-#EXTINF:-1 tvg-id="Eurosport2.fr" group-title="Sports",Eurosport 2
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/eurosport_2_en/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="Eurosport4K.fr" group-title="Sports",Eurosport 4K
 https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/5449.m3u8
 #EXTINF:-1 tvg-id="Eurosport4KCzechia.cz" group-title="Sports",Eurosport 4K Czechia
 http://88.212.15.50/live/esp_4k_atk/playlist.m3u8
-#EXTINF:-1 tvg-id="Eurosport.fr" group-title="Sports",Eurosport
-http://103.253.74.210:7070/stream/122/index.m3u8
 #EXTINF:-1 tvg-id="EurovisionSport.uk" group-title="Sports",Eurovision Sport
 https://amg26268-amg26268c34-amgplt0018.playout.now3.amagi.tv/ts-us-e2-n1/playlist/amg26268-amg26268c34-amgplt0018/playlist.m3u8
 #EXTINF:-1 tvg-id="ExtremeSportsChannel.ru" group-title="Sports",Extreme Sports Channel
@@ -358,6 +362,8 @@ https://live-manifest.production-public.tubi.io/live/d906efca-1302-4e29-b0d9-9a1
 #EXTINF:-1 tvg-id="FoxSports1.us" group-title="Sports",Fox Sports 1
 http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
 #EXTINF:-1 tvg-id="FoxSports.ar" group-title="Sports",Fox Sports
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/1552.m3u8
+#EXTINF:-1 tvg-id="FoxSports.ar" group-title="Sports",Fox Sports
 http://138.59.227.20:8000/play/a085/index.m3u8
 #EXTINF:-1 tvg-id="FoxSports.ar" group-title="Sports",Fox Sports
 http://158.172.155.130:8000/play/a09x/index.m3u8
@@ -385,6 +391,10 @@ https://amg01074-fueltv-amg01074c1-stirr-us-4214.playouts.now.amagi.tv/playlist.
 https://amg01074-fueltv-amg01074c1-firetv-us-3150.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Futbol.tj" group-title="Sports",Futbol
 http://185.121.1.163:8083/FootballHD/index.m3u8
+#EXTINF:-1 tvg-id="FutbolTV.uz" group-title="Sports",Futbol TV
+http://stream3.cinerama.uz/1010/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="FUTV.cr" group-title="Sports",FUTV
+http://45.228.234.9:8000/play/a06o/index.m3u8
 #EXTINF:-1 tvg-id="GamePlus.ca" group-title="Sports",Game+
 https://a-cdn.klowdtv.com/live2/fntsy_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="GloryKickboxing.us" group-title="Sports",Glory Kickboxing
@@ -415,8 +425,6 @@ https://streams2.sofast.tv/vglive-sk-469239/index.m3u8
 https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web
 #EXTINF:-1 tvg-id="HTVSports.vn" group-title="Sports",HTV Sports
 https://vmttv.dpdns.org/tv360?id=htv-the-thao
-#EXTINF:-1 tvg-id="HTVSports.vn" group-title="Sports",HTV Sports
-https://dethich.pw/htvthethao/index.m3u8
 #EXTINF:-1 tvg-id="InterTV.it" group-title="Sports",Inter TV
 https://d3k8wzt41aflvx.cloudfront.net/INTERTV/Live.m3u8
 #EXTINF:-1 tvg-id="InTrouble.nl" group-title="Auto, Sports, Outdoor",InTrouble
@@ -490,8 +498,6 @@ http://31.148.5.241/kanal_3/index.m3u8
 #EXTINF:-1 tvg-id="MatchUltra.ru" group-title="Sports",Match! Ultra
 http://stream.mcquack.net/169/index.m3u8
 #EXTINF:-1 tvg-id="MatchUltra.ru" group-title="Sports",Match! Ultra
-http://45.132.87.69:8080/match/index.m3u8
-#EXTINF:-1 tvg-id="MatchUltra.ru" group-title="Sports",Match! Ultra
 http://tv.tuva.ru/machtv/index.m3u8
 #EXTINF:-1 tvg-id="MatchUltra.ru" group-title="Sports",Match! Ultra
 https://fs.uplink.kz/match/mono.m3u8?token=onlinetv
@@ -539,8 +545,6 @@ https://cdn.rabta.stream/M-Sports/tracks-v1a1/mono.m3u8
 https://cdn.rabta.stream/M-Sports/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="MUTV.uk" group-title="Sports",MUTV
 https://fastly.live.brightcove.com/6374054671112/eu-west-1/6058004203001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiYXplMnp5LmVncmVzcy55ODN1ZWIiLCJhY2NvdW50X2lkIjoiNjA1ODAwNDIwMzAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDU4MDA0MjAzMDAxIl0sImp0aSI6IjYzNzQwNTQ2NzExMTIifQ.3FmuTna3DAmY7xlhK5fk6LMrosrtrR5VsU2QOgYO5y4/playlist-hls.m3u8
-#EXTINF:-1 tvg-id="MUTV.uk" group-title="Sports",MUTV
-http://103.253.74.210:7070/stream/136/index.m3u8
 #EXTINF:-1 tvg-id="NauticalChannel.it" group-title="Sports",Nautical Channel
 https://cdn78-at.azotosolutions.com/cdnedge39/Canale2/master.m3u8
 #EXTINF:-1 tvg-id="NauticalChannel.it" group-title="Sports",Nautical Channel
@@ -753,8 +757,12 @@ http://85.117.61.84/setanta3/index.m3u8
 http://85.117.61.84/setanta2/index.m3u8
 #EXTINF:-1 tvg-id="SkyRacing1.au" group-title="Sports",Sky Racing 1
 https://636ffd31f0e12.streamlock.net/RacingStream1/RacingStream1/playlist.m3u8
+#EXTINF:-1 tvg-id="SkySports1.mx" group-title="Sports",Sky Sports 1
+http://45.228.234.9:8000/play/a06b/index.m3u8
 #EXTINF:-1 tvg-id="SlopesTV.us" group-title="Sports",Slopes TV
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2241
+#EXTINF:-1 tvg-id="SonySportsTen3Hindi.in" group-title="Sports",Sony Sports Ten 3 Hindi
+https://r2.amml.in/sony-ten-3-hd/live.m3u8
 #EXTINF:-1 tvg-id="Spiler1.hu" group-title="Sports",Spiler 1
 http://88.212.7.14/live/spiler1/index.m3u8
 #EXTINF:-1 tvg-id="Spiler2.hu" group-title="Sports",Spiler 2
@@ -907,6 +915,8 @@ http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/86.m3u8
 http://209.45.101.130:8040/play/a03s/index.m3u8
 #EXTINF:-1 tvg-id="TNTSports.cl" group-title="Sports",TNT Sports
 http://205.235.6.29:8000/play/a0xa/index.m3u8
+#EXTINF:-1 tvg-id="TourSpotTV.do" group-title="Sports",Tour Spot TV
+https://fox.hostlagarto.com:8081/toursporttv/playlist.m3u8
 #EXTINF:-1 tvg-id="TraceSportStars.fr" group-title="Sports",Trace Sport Stars
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TraceSportStars.fr" group-title="Sports",Trace Sport Stars
