@@ -1,10 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="DMSat.rs" group-title="Music",DM Sat
-https://shift03.isp.bg/DMSat/index.m3u8
 #EXTINF:-1 tvg-id="IDJTV.rs" group-title="Music",IDJTV
 https://best-str.umn.cdn.united.cloud/stream?channel=idjhd&p=In$trum300na765ta&player=m3u8&sp=idjtv&stream=hp1400&u=idjtv
 #EXTINF:-1 tvg-id="Kohavision.xk" group-title="News",Kohavision
 https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/lj9-pxm-o53-rp0/tracks-v4a1/mono.m3u8
+#EXTINF:-1 tvg-id="KurirTV.rs" group-title="News",Kurir TV
+https://static.am.mediaoutcast.com/storage/nQJnjJkO/nQJnjJkO/stream/O68x4o8g/720p/720p.m3u8
 #EXTINF:-1 tvg-id="MariaPlusVisionMedjugorje.ba" group-title="Religious",Maria+Vision Medjugorje
 https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Italiasette/playlist.m3u8
 #EXTINF:-1 tvg-id="NewsmaxBalkans.ba" group-title="News",Newsmax Balkans
@@ -13,6 +13,8 @@ https://newsmaxadria.mts-si.tv/newsmaxadria/index.m3u8
 https://best-str.umn.cdn.united.cloud/stream?channel=novashd&p=n0v43!23t001&player=m3u8&sp=novas&stream=hp7000&u=novas
 #EXTINF:-1 tvg-id="NovosadskaTV.rs" group-title="General",Novosadska TV
 https://live.novosadska.tv/hls/mystream.m3u8
+#EXTINF:-1 tvg-id="PannonTV.rs" group-title="General",Pannon TV
+https://stream.nmih.hu:4102/live.m3u8
 #EXTINF:-1 tvg-id="RadioHitFMTV.rs" group-title="Music",Radio Hit FM TV
 https://peer2.tdiradio.com/static/streaming-playlists/hls/bab99862-ec1c-474f-9a02-4f8c8677d565/0.m3u8
 #EXTINF:-1 tvg-id="RadioKarolinaTV.rs" group-title="Music",Radio Karolina TV
@@ -23,10 +25,18 @@ https://peer2.tdiradio.com/static/streaming-playlists/hls/7c3ea8d3-49dc-4e1b-8b1
 https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/rtk3/index.m3u8
 #EXTINF:-1 tvg-id="RTRSplus.ba" group-title="Uncategorized",RTRS plus
 https://pluslive.rtrs.tv/plus/plus/playlist.m3u8
+#EXTINF:-1 tvg-id="RTRSTV.ba" group-title="Uncategorized",RTRS TV
+https://uzivo.rtrs.tv/tv/live/index.m3u8
 #EXTINF:-1 tvg-id="RTS1.rs" group-title="General",RTS 1
 https://webtvstream.bhtelecom.ba/rts1.m3u8
 #EXTINF:-1 tvg-id="RTS2.rs" group-title="Culture",RTS 2
 https://webtvstream.bhtelecom.ba/rts2.m3u8
+#EXTINF:-1 tvg-id="RTSSvet.rs" group-title="General",RTS Svet
+https://webtvstream.bhtelecom.ba/rts_svet.m3u8
+#EXTINF:-1 tvg-id="RTV1.rs" group-title="General",RTV 1
+http://212.200.230.50:1935/RTV/rtv1/playlist.m3u8
+#EXTINF:-1 tvg-id="RTV2.rs" group-title="General",RTV 2
+http://212.200.230.50:1935/RTV/rtv2/playlist.m3u8
 #EXTINF:-1 tvg-id="RTV21.xk" group-title="Uncategorized",RTV21
 https://gjirafa-video-live.gjirafa.net/gjvideo-live/2cz-npl-jfn-9he/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-id="RTVHB.ba" group-title="General",RTV HB
@@ -47,10 +57,14 @@ https://peer2.tdiradio.com/static/streaming-playlists/hls/8f5d84ce-e8ac-4109-997
 https://balkanmedia.dynu.net/hls/tv5web.m3u8
 #EXTINF:-1 tvg-id="TVArta.xk" group-title="News",TV Arta
 https://gjirafa-video-live.gjirafa.net/gjvideo-live/mps-vgx-u9p-qv1/index.m3u8
+#EXTINF:-1 tvg-id="TVAS.rs" group-title="General",TV AS
+https://stream.toobimedia.org/public/assabac.m3u8
 #EXTINF:-1 tvg-id="TVCGMNE.me" group-title="General",TVCG MNE
 https://rtcg-live-open.morescreens.com/RTCG_1_004/playlist.m3u8
 #EXTINF:-1 tvg-id="TVDielli.xk" group-title="Uncategorized",TV Dielli
 http://stream.tvdielli.com:8081/dielli/index.m3u8
+#EXTINF:-1 tvg-id="TVDugaPlus.rs" group-title="Music",TV Duga+
+http://135.125.238.20:8080/memfs/6c06b323-a7db-443a-a75f-b745da6ca308.m3u8
 #EXTINF:-1 tvg-id="TVHram.rs" group-title="Religious",TV Hram
 https://vod1.laki.eu/live/hram/index.m3u8
 #EXTINF:-1 tvg-id="TVKragujevac.rs" group-title="General",TV Kragujevac
@@ -61,6 +75,8 @@ https://tv.rtv-niksic.me/hls/stream.m3u8
 https://stream2.nmih.hu:4102/live.m3u8
 #EXTINF:-1 tvg-id="TVPiKanal.rs" group-title="General",TV Pi Kanal
 https://stream.pikanal.rs/pikanal/pgm.m3u8
+#EXTINF:-1 tvg-id="TVPirot.rs" group-title="General",TV Pirot
+https://edge-rs-01.maksnet.tv/tvpirot/uzivo/playlist.m3u8
 #EXTINF:-1 tvg-id="TVSyri.xk" group-title="Uncategorized",TV Syri
 https://gjirafa-video-live.gjirafa.net/gjvideo-live/xej-xnb-ba0-kup/index.m3u8
 #EXTINF:-1 tvg-id="TVTeuta.me" group-title="General",TV Teuta
